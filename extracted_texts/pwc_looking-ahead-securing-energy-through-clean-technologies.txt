@@ -1,0 +1,1095 @@
+Title: pwc_looking-ahead-securing-energy-through-clean-technologies
+Date Published: 2013-10-25 10:10:17+05:30
+Source: pdfs/pwc_looking-ahead-securing-energy-through-clean-technologies.pdf
+
+--- CONTENT ---
+
+Looking ahead
+Securing energy through 
+clean technologies
+www.pwc.in
+CII Karnataka Conference on Power 
+24-25 October 2013
+
+2       PwC
+CII Karnataka conference on Power            3India’s strong economic growth in 
+the last decade has placed enormous demand on its energy resources. In spite 
+of having the fifth largest electricity 
+generation capacity in the world, the country faces a huge demand-supply mismatch. Though India’s per capita energy consumption has increased 
+at 5.23% annually during the period 
+2006-2013, the level of per capita consumption is significantly lower than the world average (2977 kWh in 
+2011) and the national level target of 
+1,000 kWh set by the government. The country is lagging far behind its BRICS (Brazil, Russia, India, China and South Africa) peers and for India to achieve its 
+targeted growth, electricity will play a 
+vital role.
+Source: World Bank open dataSetting the context
+India’s per capita consumption is over 200% short of the world average. This deficit needs to be considered when 
+it comes to deciding the future course 
+of action in terms of policymaking, investment in technology and any other support required for the power sector.
+Capacity addition in the country has not 
+been able to match the increasing power demand. During the 11
+th Five Year Plan, 
+nearly 55,000 megawatt (MW) of new generation capacity was created, which 
+is well below the initial plan target of 
+around 87,000 MW. Lower than required capacity addition, fuel shortages, poor monsoon, etc have resulted in a situation of power deficit in the country. 
+The total deficit faced by the regions in 
+northern,eastern, western, and north-eastern (NEWNE) grid was 6.1% in FY13 and has witnessed an improving 
+deficit situation. The southern region 
+has witnessed worsening power deficit over time and is the most affected region with 15.5% energy deficit in FY13. The Integrated Energy Policy 
+(IEP) forecasts a need for 425 giga-watt (GW) of installed capacity byFY 2022 to 
+meet India’s electricity requirements as compared to the current capacity of  227 GW. 
+Coming to the generation mix, India’s 
+power sector has been traditionally dependent on coal as its chief energy 
+source. Fifty-eight per cent of the 
+installed capacity in India is coal based and around Sixty seven percent of this added in the 11
+th Plan was coal 
+based. Today, India imports substantial quantities of gas, oil and coal in order 
+to meet its growing energy demand. The 
+increasing dependence on imported fuels may create a serious threat to the future fuel security of the country. It is a positive sign that the contribution of renewable 
+sources is showing considerable 
+improvement. Currently, they form 12.4% of the total installed capacity in 2013. The contribution of gas based 
+power generation has remained constant 
+and currently, they form 8.96% of the total installed capacity in 2013. 
+Source wise installed capacityPer Capita Electricity Consumption 
+Dependence on imported energy
+Source: CEA monthly reports
+4       PwCClean energy’s role in  
+bridging the gap 
+If the country has to add another 200 
+GW by 2022, it has no option but to explore and promote aggressively all 
+possible generation sources. Going 
+forward, it is expected that coal based power plants will continue to play a major role and will be a leading source of power generation. 
+However, in addition to investing in 
+base load power plants through coal, the 
+country needs to target capacity from 
+clean energy resources and benefit from the specific advantages they bring in. Apart from being environment friendly, 
+renewable energy sources can help the 
+country improve energy security, reduce burden on imports and therefore the economy, and provide decentralised solutions among other benefits. 
+Owing to increased imports of oil and 
+coal, the country has seen an increasing 
+current account deficit in the past few 
+years. High current account deficit is one of the key reasons for the depreciation of the Indian currency in the recent past. Reliance on renewable energy is 
+therefore not only important from the 
+perspective of energy security but also from the perspective of stabilising the economy by way of reducing fossil fuel imports.
+1  Strategic plan for new and renewable sector The country has immense renewable energy potential. The Ministry of New and Renewable Energy(MNRE)
+estimated the potential for renewable 
+energy generation capacity (excluding solar) to be around 90,000 MW out of which 48,500 MW is wind, 15,000 MW is small hydro power and 23,700 
+MW is bio-power
+1. However, the Centre 
+for Wind Energy Technology (C-WET) 
+in 2012, has reassessed India’s wind 
+power potential to 102 GW considering 
+higher hub height of 80 m. Various other studies have found potential in the range of 2,006 GW for 80-meter hub heights to 3,121 GW for 120-meter hub heights and 
+considering more land availability.
+Source: Energy Statistics 2013In order to address the shortage, the 
+Planning Commission has set a target of 88,425 MW to be achieved in the 12
+th 
+Plan period (2012-2017). The projected capacity addition includes hydro 
+capacity of 11,897 MW and nuclear 
+capacity addition of 5,300 MW. 
+As far as gas based energy is concerned, 
+the Ministry of Power(MoP)/ Central Electricity Authority(CEA) considering the uncertain availability of domestic gas, has issued an advisory to all 
+developers not to consider any new 
+gas based power plants till 2015-16. The existing gas based projects are struggling to operate at full capacity 
+owing to the unavailability of domestic 
+gas. For the time being, gas based projects have all been either put on hold or are not fully operational. This reflects in the lack of any significant capacity 
+addition from gas based plants.
+Average weekly INR USD bid rate Current account deficit in IndiaRenewable energy generation potential in GW
+Gas based power stations: PLF
+January 2008
+39.27
+January 201354.82
+June 2013
+60.62Source: CEA
+CII Karnataka conference on Power            5On the other hand, grid interactive 
+renewable capacity addition of about 30,000 MW is targeted for the 12
+th 
+Five Year Plan. It comprises of 15,000 MW from wind energy, 10,000 MW 
+from solar energy, 2,100 MW of small 
+hydro and the balance primarily from bio mass. Support in the form of fiscal incentives, tax holidays, depreciation allowances, and 100% FDI allowance are 
+provided by the state as well as central 
+governments to bring about the desired growth in renewable energy capacities. While policy initiatives are helping 
+renewables play a prominent role, the 
+market factors such as grid parity in tariffs and evolved off-take markets are also contributing to increased significance. 
+Renewable energy installed capacity 
+grew at a CAGR of around 23% over 
+the last five years (2007-12) with wind 
+energy leading in terms of capacity addition. Renewable energy has registered a growth of 49% since 2010. Solar energy has also geared up in the 
+last few years, registering an impressive 
+growth of an installed capacity of 1.8 GW as of July 2013 from 32 MW in  April 2010. 
+However, overall renewable energy 
+capacity addition in the last two years has been significantly slower than 
+expected. The capacity addition in FY13 
+fell short of the MNRE target by atleast 1000 MW. FY14 is also expected to fall short of the targets with only 835 MW 
+added till July 2013. 
+RE programme Target for FY14 Total deployment in 
+FY14 till July 2013Cumulative achieve-
+ment upto 31-07-2013
+Wind power 2500 608.20 19661.5
+Small hydro power 300 74.50 3706.75
+Biomass power 105 - 1264.8
+Bagasse cogen 300 - 2337.4
+Waste to power 20 - 96.08
+Solar power (SPV) 1100 152.56 1839
+Total 4325.00 835.26 28905.21
+Source: MNRELack of clarity on generation based 
+incentives (GBI) and withdrawal of accelerated depreciation (AD) benefits 
+for the wind sector are the key reasons 
+for lower than normal capacity addition. On the other hand, the capacity addition from solar power sources has been impressive in the last year.
+Industry believes that in order to 
+address the power-deficit situation in the 
+country going forward, the government 
+needs to encourage investment in clean technologies through continuous support in the form of fiscal incentives, 
+policy certainty and established 
+processes to increase ease of project execution. 
+
+6       PwCKarnataka, one of the fastest growing 
+states and a leading investment destination has a total installed power 
+generation capacity of 13.8 gigawatt 
+(GW) registering a compounded annual growth rate (CAGR) of 9.52% during 2008-2013. Coal based power generation contributes the maximum 
+with its share of around 44.5%. The 
+state with 3599 MW has the second largest hydel capacity in the country after Andhra Pradesh. The state doesn’t 
+have any gas based power generation.
+The share of renewable energy in the 
+overall capacity mix today in MW terms 
+in Karnataka stands at an impressive 25.8%. Karnataka is one of the top four states with installed renewable energy capacity of 3570 MW. Tamil Nadu leads 
+the list with a capacity of 7491.5 MW 
+followed by Maharashtra and Gujarat. 
+Source: CEA monthly reports
+The energy deficit in the state has increased from 2.6% in FY08 to around 13.9% in FY13 as the installed capacity 
+increased at a CAGR of 9.82% while the 
+demand increased at 12.58% during the same period. The state has an energy demand of 66,274 MU against energy demand met of 57,044 MU resulting in a 
+deficit of 9230 MU in FY13.  Karnataka 
+Energy security challenges
+The deficit without considering the 
+energy purchased from short-term sources is actually 30.58%. 
+The 18th Electric Power Survey (EPS) of 
+India conducted by the CEA has forecast 
+the energy requirement growing from 
+66274 MU in FY13 to 108012 MU in FY22 growing at a CAGR of 6.9%. Similarly, peak demand requirement is expected to grow at a CAGR of 7.65% in 
+Karnataka and a peak demand of 18,403 
+MW is forecast in 2022 against a peak demand of 10,124 MW in 2013.
+The Centre for the Study of Science, 
+Technology and Policy (CSTEP) on behalf of the Karnataka Electricity 
+Regulatory Commission (KERC) has 
+prepared a roadmap for the power sector in Karnataka. The supply capacity of the state has been projected by the CSTEP after considering the existing and 
+planned capacity addition in the state 
+and also based on the data provided by the Power Company of Karnataka Limited (PCKL) about the current status of projects as well as expected plant 
+commissioning dates. The installed 
+capacity is expected to reach 18,632 MW by 2017 and 28,083 MW by 2022 against current installed capacity of 13,818 MW. As per the CSTEP, significant energy and 
+peak deficit is expected to continue in 
+the next few years. 
+Source: CSTEP Report for KERCSource: CEA Monthly Reports
+The state experienced a peak deficit of 13.50% in FY13 and around 1363 MW of demand was unmet. The deficit the 
+state faced last year can be attributed 
+to fuel shortages, fuel quality issues, inadequate monsoon and less than required capacity addition.
+Dependence on monsoon
+Karnataka is dependent on hydel power to a significant extent i.e. around 30% of power generated in the state. While the 
+generation from hydro power is cheaper 
+and cleaner than other sources, the overdependence can impact the energy supplying capability in a bad monsoon year. Lower than expected monsoon in 
+2012 took a heavy toll on the state as 
+there was significant drop in the power generation in hydel plants. The deficit resulted in scheduled and unscheduled 
+power cuts. The monsoons in 2013 came 
+as a huge relief with the state receiving 8% higher than normal rainfall. Power generation from the hydel plants has doubled in July and August as compared 
+to the last year. Installed capacity of Karnataka
+Expected capacity addition in MW Energy and Peak Deficit in Karnataka
+CII Karnataka conference on Power            7Source: SRLDC monthly reports
+In spite of better monsoon and an 
+improvement in the fuel situation for thermal plants, the state suffered an 
+energy deficit of 3291 MU (12.7%) in 
+the period of Apr-August 2013 against a deficit of 3561 MU (13.1%) in the previous year. Similarly, the peak deficit observed during Apr-August 2013 is 
+1678 MW (16.9%) as against 1860 MW 
+(18.4%) in the previous year.
+Short-term power purchases
+Karnataka’s dependence on short-term power purchases as a way to address energy deficit has increased over the 
+years from 41 million units in 2008 to 
+11,047 million units in 2013. In spite of the increase in short-term power purchases, the state still had an energy deficit of 9320 million units in 2013. 
+One positive for Karnataka in this regard 
+is the drop in short-term power price over the years from the high 7 INR per kWh in 2008 to 4.3 INR per kWh in 
+2013. But this price is still 46% higher 
+than the average power purchase cost of the state utilities.
+According to the Bangalore Electricity 
+Supply Company Limited’s (BESCOM) website, the current arrangements i.e. from 1 August 2013 to 30 June 2015 for 
+short-term power were entered into at 
+tariffs ranging from 4.54 INR (including Point of Connection charges) to 5.2 INR per unit. While the trend here is that of a decreasing nature, short-term power 
+costs can only rise in the near future 
+given the fuel shortages experienced in the country. Hence, it is important for the state to look at a more long-term strategy to secure energy and improve 
+reliability than depend on short-term 
+sources.
+Power curtailment and its effect 
+on industries
+Consumers in Karnataka were affected 
+badly in 2012-2013 because of the power deficit. Consumers faced as much 
+as six hours of scheduled power-cuts 
+daily along with numerous unscheduled ones. Businesses which were already suffering from sluggish demand due to the economic slowdown were forced 
+to either cut down production or use 
+captive power generation or purchase expensive power from the exchange due to the power cuts. 
+The cost of power generation with diesel 
+or heavy furnace oil is around three to 
+four times more expensive than grid 
+power. This is in addition to the capital cost incurred in purchasing generation equipment and inverters. Industrial consumers today consider having power 
+backup as a necessity and are ready to 
+incur the capital and operating costs to ensure reliability. 
+Because of the power-deficit situation in 
+the southern region and insufficient grid connectivity with the northern grid, the spot prices in the power exchange for S1 
+region (Andhra Pradesh and Karnataka) 
+and S2 region (Tamil Nadu and Kerala) are significantly higher than the prices in the remaining parts of the country. Cost per unit and volume of short-term  
+energy purchasedPerformance of Karnataka hydel plants  in MUMonth Load shedding (MW) Energy curtailed (MU) Energy deficit Peak deficit
+January-13 2500 858 14.50% 13.70%
+February-13 2700 812.35 15.00% 12.20%
+March-13 2500 1097 17.80% 19.00%
+April-13 2800 1213.4 20.40% 18.40%
+May-13 1800 665 12.40% 16.40%
+June-13 1250 457.6 10.10% 12.20%
+July-13 1350 450.58 9.50% 12.10%
+August-13 1400 457.68 8.90% 5.80%
+ 
+Source: CEA monthly reports
+Source: KERC
+8       PwCBridging the gap
+Taking into consideration the projects 
+planned for execution in the future, the state is expected to add 5519 MW from 
+central generating stations and 5533 
+MW from Karnataka Power Corporation Limited (KPCL) sources and IPPs by FY22. In spite of the major initiatives taken by the KPCL to augment the 
+capacity with newer projects, Karnataka 
+is expected to face high deficits till 2018. 
+Karnataka as a state has no fossil 
+fuel resources. When it comes to conventional power plants, the state has to import fossil fuels (coal or gas) for 
+its power projects. Karnataka, with its 
+ecologically sensitive western coastline poses a challenge to setting up thermal power plants based on imported fuel. Transporting from the neighbouring 
+states will not only lead to increase in 
+power generation costs in the long run but will also involve logistics issues. 
+The state however is endowed with 
+immense natural resources which support renewable power generation. The state is estimated to have 13,593 
+MW wind power potential at 80m hub 
+height and receives an impressive global solar radiation in the range of 5.1 and 6.4 kWh perm2 during summer, 3.5 and 5.3 kWh perm2 during monsoon, and 
+3.8 and 5.9 kWh per m2 during winter. 
+Additionally, the state has immense biomass and small hydro resources. When compared to other states, 
+Karnataka also has significant arid land 
+which can be used to set up renewable energy projects.
+As per the industry, Karnataka is 
+strongly placed when compared to other states in terms of its ability to manage the intermittency problem caused by 
+infirm power sources. Solar power can 
+meet the daytime load and wind power can contribute during the night peak and off peak load. The state has an abundance of hydro power which can 
+kick in to allow smooth transition and 
+maintain grid stability.Apart from being environment-friendly, renewable based projects also have shorter project gestation periods compared to conventional energy 
+projects. The typical gestation period 
+of a conventional power plant is three to four years, whereas solar and wind projects need anywhere between –six to 12 months (assuming the necessary 
+clearances are in place). The state by 
+promoting wind and solar power plants can address the energy deficit problem in a faster and more efficient way.
+Most of the capacity addition planned 
+in the state and allocations from central 
+stations are based on coal. Finding 
+an alternative to manage peak load and energy requirements is a vital requirement for the state. As gas based generation is most flexible in terms of 
+frequent and faster starts and stops as 
+compared to coal based plants, which can address the significant peak deficits envisaged, and it is important to use this flexibility. GAIL’s 1,000 km pipeline 
+laid out to help industries on the 
+Belgaum-Dharwad-Tumkur-Bangalore belt can be leveraged to build gas based projects along the pipeline. PCKL has already planned three 700 MW projects 
+under Case 2 route along the pipeline. 
+The utilities in the state also use the pondage based hydro plants in order to manage energy requirements during 
+summer. The state should look to use 
+the uniqueness offered by each of these sources in an effective manner to meet the needs of the state. In an interaction with the regulator, it was suggested that 
+utilities should intelligently mix and 
+use the flexibility offered by gas and pondage based hydro plants along with the infirm power from wind and solar plants to bridge the demand-
+supply gap in the state. This supply side management coupled 
+with effective peak power pricing framework for power from gas plants will help the state save significant costs 
+at the same time helping it successfully 
+address its energy security challenges. 
+
+CII Karnataka conference on Power            9Karnataka is one of the wind-rich states 
+in India and has a potential of around 14 GW. Currently a capacity of 2214 MW 
+has been installed in the state.  There 
+has been a uniform capacity addition with around 225 MW per annum from 2005, whereas some other states have seen huge growth in installed capacity in 
+recent years.
+Abundance of resources
+ In a recent study conducted by the 
+C-STEP, identifies various wind rich areas after considering various 
+land categories, which can be used 
+constructively to enhance the state’s wind energy capacity. The districts of Bellary, Chitradurga, Chamrajnagar and parts of Kolar, Chikballapur, Hassan, 
+Haveri, Gadag, Koppal and Bijapur have 
+been identified as locations with the highest wind potential in Karnataka. The following pictures depict the wind 
+speed densities (WPD) as identified by 
+C-STEP.
+Promising investment destination  
+Wind power in Karnataka
+Source: Center for Study of Science, Technology and Policy (C-STEP)The various alternatives  have been constructed based on the utilisation the suitable waste land and scrub forests for 
+the development of wind power.
+Hub 
+height(M)Conservative 
+(MW)Moderate 
+(MW)Theoretical 
+maximum(MW)
+80m 20,400 44,780 4,51,300
+100m 30,800 68,000 7,16,200
+120m 35,600 79,000 8,49,000
+As concluded by CSTEP, if Karnataka 
+can leverage on the scrub forests and wastelands in addition to the existing 
+areas at higher hub heights and greater 
+capacity utilisation factor(CUF), the state has the potential to be the among the largest in terms of installed wind capacity.Pioneer state with attractive 
+policies but has witnessed slowdown 
+Karnataka introduced preferential tariff 
+framework in 2004, which was a key enabler for investments in wind power 
+projects in the state. The initial tariff set 
+at 3.40 INR per unit in January 2005. This was comparatively higher than the offerings by other wind rich states. Thus, the tariff was later revised to3.70 
+INR per unit for the control period 
+2009-14. However, with the wind tariffs remaining stagnant for such a long control period, the state was unable to 
+address the changing market dynamics. 
+The Karnataka Renewable Policy 2009-
+14 formulated under the supervision 
+of Karnataka Renewable Energy Development Limited(KREDL), targeted additional capacity of 2969 MW by 2014, of which only an approximate 
+1200 MW has been added till 2013. 
+This slow nature of capacity addition indicates that the policy framework and the tariffs have been unable to encourage investments in the sector for 
+the past five years.Karnataka wind capacity (in MW)
+Locations with WPD >200W/m2 
+at 80 m hub heightLocations with WPD >200W/m2 
+at 100 m hub heightLocations with WPD >200W/m2 
+at 120 m hub height
+10       PwCThe states of Rajasthan, Gujarat and 
+Maharashtra have offered preferential tariffs converting the respective markets 
+conducive to investments. Rajasthan 
+proposed wind tariff in the range of 5.46 INR to   5.73 INR per unit and Gujarat fixed the tariff rate at 4.61 INR per unit. These states lagged behind Karnataka in 
+terms of wind capacity addition in 2005 
+have fared better in the recent times.
+Tamil Nadu’s preferential tariff has been 
+on the lower side, but the state has seen growth due to capacity addition under group captive and third party sales. This 
+was attractive due to concessional open 
+access charges.
+Average capacity addition (MW) and 
+average FiT (INR/kWh) in the last eight years
+KERC has recently revised the 
+preferential tariff for wind projects to 4.20 INR per unit from 3.70 INR per unit. While an increase in tariffs is a 
+positive, the industry feels that the 
+increment is not in line with  market expectations. The tariff determined is fixed without any escalation for the duration of PPA.  Also the order does 
+not include any indexation mechanism 
+incorporating market dynamics during the control period. However with additional revenues from generation based incentives from the central 
+government, the wind sector can witness 
+an added push in the state.  KERC floated a discussion paper on wheeling and banking charges where the commission proposed to discontinue 
+the banking facility on an annual basis 
+and  introduce transmission or wheeling charges or both for all renewable energy(RE) generators seeking open 
+access on par with charges applicable to 
+non RE conventional power generating companies. Concessional benefits are affecting their finances adversely, as submitted by Electricity Supply 
+Company Limited (Escoms) to the 
+Commission. The KERC, after eliciting views from the stakeholders has  issued an order extending the applicability of the existing concessional wheeling 
+and banking charges to RE generators 
+until 31 March 2014.The KERC took the  decision due to lack of data supporting the argument that all  Escoms  of state are adversely affected. Average capacity addition (MW) and Average FiT (Rs/kWh)  in the last 8 years
+With minor changes in the policy framework and implementation of a more streamlined approach to allocation 
+and development, Karnataka may join 
+the top three states in terms of annual wind capacity additions.
+CII Karnataka conference on Power            11Karnataka is one of the top seven 
+renewable energy rich states in India. The coastal region of Karnataka 
+has been identified as supremely 
+conducive for solar power generation. The maximum amount of global solar radiation occurs  in districts such as Uttara Kannada, Dakshina Kannada, 
+etc. Karnataka receives global solar 
+radiation in the range of 5.1 to 6.4 kWh perm2 during summer, 3.5 to 5.3 kWh perm2 during monsoon and 3.8 to 5.9 
+kWh perm2 during winter.  The solar 
+potential in the state as per the KREDL projections is around 5000MW.
+However, the installed capacity for 
+generation by grid connected solar power is only 24 MW in the state. This amounts to just about 1.2% of the total 
+solar installed capacity in the country 
+which is of the order of 1968 MW at the end of August 2013. 
+Solar energy can play a significant role 
+in securing the energy future for the long term in Karnataka. Apart from being environment friendly it can be 
+generated in a decentralised and as an 
+off-grid solution. As per the KREDL, around 133 grid projects of total capacity of around 3.1MW are under different stages of construction and are 
+being set with the support of the Central 
+Financial Assistance. Also, the KREDL along with the Solar Energy Corporation of India (SECI) are implementing 1297 
+numbers of 0.5kW and 646 numbers of 
+1kW grid connected roof top systems in Karnataka. Waiting for an impetus  
+Solar power in Karnataka
+2   http://solargis.infoThere is also a significant potential for 
+kW scale grid connected projects where in the generation and consumption 
+can be managed by net metering. Any 
+additional generation can be exported to the grid. Large spaces available in urban areas such as roof tops can be used for solar energy generation. 
+Investors in solar energy at MW scale 
+and kW scale can avail the benefits of 
+accelerated depreciation to reduce the 
+costs and MNRE capital subsidy for small scale projects and can help retail consumers to install rooftops at lower 
+costs while enjoying the benefits of 
+reduced dependence on grid.Solar development in Karnataka 
+The state government introduced the Solar Power Policy 2011-16 which is expected to add projects under  
+the renewable purchase obligation 
+(RPO), captive generation, third party, average power purchase cost (APPC) + renewable energy certificates (REC) based projects and bundled power 
+generation. The state through KREDL 
+also supported various promotional projects such as grid connected solar thermal to facilitate innovation.
+As per the KREDL, applications for 
+1501MW have been filed for REC based 
+projects and 100MW filed under the 
+bundled scheme with National Thermal Power Corporation (NTPC). However, no allotments have been made by 
+KREDL yet, except for bids invited to 
+meet RPO.
+Target Capacity addition as per policy (MW)Installed solar power capacities (MW) in 
+different states as on 31 August 2013Global horizontal irradiation2 
+
+12       PwCSolar RPO for Karnataka
+The solar related activity in the state 
+till now focussed around meeting the solar component of the RPO which is 
+currently at 0.25% as prescribed by the 
+KERC. A total of 200MW is required by the state to meet expected solar RPO obligation till 2015-16. Accordingly the state has successfully carried out 
+bidding for setting up 200MW solar 
+power projects in a process stretching over two phases. During the first phase, a capacity of 80MW has been 
+successfully placed and in the second 
+130MW has been placed. The bidders were mandated to offer discount on the benchmark tariff issued by the KERC which were 14.5 INR per kWh 
+for Solar PV and 11.35 INR per kWh for 
+solar thermal. The first phase of 70MW finally allocated included 10MW of solar thermal capacity.
+The tariff rate of 5.51 INR per kWh of 
+L1 bidder is the lowest tariff witnessed among solar PV bids across the country.  
+The weighted average cost of electricity 
+from solar power for Karnataka for the entire 200MW is 7.54 INR per kWh. The state will be able to comfortably achieve and exceed its solar RPO of 0.25% post 
+the commissioning of the allocated 
+200MW.The industry is of the opinion that encouraging capacity additions with a primary objective of meeting solar RPOs limits the ability of the state to take 
+advantage of the existing potential. The 
+neighbouring states of Andhra Pradesh and Tamil Nadu have introduced ambitious policies and invited bids with a target of setting up upto 1GW 
+and 3GW of capacity respectively 
+(irrespective of RPO requirements). Based on the final price decided, around 135MW is expected to be signed in 
+Andhra Pradesh and close to 700MW to 
+be signed in Tamil Nadu.
+Karnataka can also look at increasing 
+the solar RPO component and aim at higher capacity to be added under the RPO category. The solar components of RPOs are finalised by most states 
+during 2010 and 2011, when the cost of 
+energy from solar was over 15 INR per unit. Given the significant drop in the cost of solar energy in the last few years, it makes a strong case for the states to 
+revise the existing targets to a higher 
+level for their solar RPO. Attractive preferential tariff for 
+the solar PV and solar thermal projects
+The KERC has recently (10 October 
+2013) introduced tariffs for solar PV, solar thermal and rooftop projects 
+that are quite attractive. It has rolled 
+out a tariff of 8.40 INR per unit for solar PV projects and 10.92 INR per unit for solar thermal power plants for projects entering into power purchase 
+agreements from 1 April 2013 to 31 
+March 2018.  The tariff is the same for projects being setup with and without availing accelerated depreciation 
+benefits.
+In a positive move, the KERC has also 
+waived wheeling, banking and cross 
+subsidy surcharges for the solar projects selling electricity through open access route within the state. This is applicable for both third party and group captive 
+mechanisms. Earlier, the KERC has 
+extended banking facilities to solar power projects from 25 March 2013.
+•	 The KERC has also addressed grid 
+connectivity issues in the order. It mandates the state transmission utility (STU) to arrange necessary 
+facilities to evacuate power from 
+the interconnection point. The developer will have to create the necessary evacuation system till the interconnection point. 
+Capacity allocated and  
+tariffs realisedTop 5 states  with highest solar RPO and capacity required: FY14
+CII Karnataka conference on Power            13Kilowatt scale roof-top, off-grid 
+systems and open access systems
+In the last few years, the cost of 
+generation from solar energy sources is seen to be dropping significantly to 
+about 8 to 9 INR per unit. The cost of 
+generation may reduce further going forward with the evolution of better efficiency products, larger systems and optimisation of BOS systems. The cost of 
+energy drawn from grid has increased 
+considerably in the same period to around 5.65 INR per unit for industrial, 7.25 INR per unit for commercial 
+consumers and 5.85 INR per unit for 
+domestic consumers. 
+As per the industry, it makes considerable 
+economic sense for the commercial and industrial consumer to hedge their electricity cost by investing in a captive 
+generation source or setup grid, off 
+grid roof top or ground mount systems. Similarly the domestic consumers can install solar roof-top systems and enjoy the benefit of being self sufficient and 
+even export energy to the grid.
+The KERC has announced tariff and net 
+metering policy for the rooftop and small 
+solar power plants. It has announced a tariff of 9.56 INR per unit for rooftop and small solar power plants, INR 7.20 per unit for project which avail 30% capital 
+subsidy provided by the MNRE.As per the order, for the solar rooftop 
+PV systems connected to the LT grid, net metering will be adopted and if energy generated exceeds the energy consumed during a particular billing period, the 
+ESCOMs shall pay the rooftop consumer 
+for the surplus energy injected into the grid at the tariff determined in the order (9.56 INR per unit). Further, if the energy consumed by the rooftop consumer 
+exceeds the energy generated during a 
+billing period, the rooftop consumer shall pay the ESCOM for energy consumed at the retail supply tariff applicable for 
+that category as per the prevailing tariff 
+orders. 
+Net metering policy is expected to play 
+a key role in encouraging investments in grid connected roof top or ground mounted systems. The policy if implemented with specific guidelines  
+will  incentivise the consumers to 
+establish the solar rooftop and small scale solar PV projects.
+For the open access systems, not much 
+capacity has emerged in the state till date. However, the recent tariff order waived off wheeling and banking charges 
+for open access sales. These incentives 
+will definitely help IPPs setup solar power projects for sale of power under third party or group captive mechanism and investment in the sector for availing 
+accelerated depreciation benefits. 
+The state has also planned setting up of a 
+solar park with a maximum capacity of 
+upto 500MW which will accommodate both solar PV and solar thermal capacities. The solar park can bring in scale benefits 
+in aspects related to evacuation, land 
+acquisition, water supply and getting required statutory approvals. It can accommodate projects which will sell power to utility at FIT or tariff realised under the 
+bidding route and projects which supply 
+power to third party or captive consumer through the open access. While the discussions regarding the proposed solar park are in progress for a year, the industry is awaiting updates on 
+the progress achieved till date and the 
+materialising of the solar park project. 
+Highlights of the industry favourable 
+policies in various states.
+Gujarat
+•	Target capacity addition of 500MW
+•	Wheeling charges -2% in kind
+•	Incentives: 
+ -Exempted from electricity duty
+ -Exemption from demand cut to an extent 
+of 50% of installed capacity
+•	Solar generation not subject to scheduling and forecasting
+Rajasthan
+•	Target capacity of 10 GW - 12 GW
+•	 Projects under varoius modes  - MNRE GBI 
+scheme, REC, bundling scheme, RPO sales, Roof top etc
+•	Pilot demonstration projects
+•	Solar parks of >1000MW waiver from scheduling and forecasting
+Andhra Pradesh
+•	Incentives valid for 7 years
+•	2% banking charges 
+•	Electricity duty exemption
+•	No CSS for third party OA transaction
+•	No transmission and wheeling charges
+•	Refund of VAT for equipments, registration 
+charges for land purchased for project
+Tamil Nadu
+•	3 GW capacity to be added 
+•	6% SPO on HT consumers
+•	Promotion of roof top solar projects with 
+GBI benefits and power credits for excess generation
+•	100% exemption from demand cut
+•	Electricity tax exemption for 5 years
+•	Promotion of Solar parks Energy charges (INR/kWh): Karnataka 
+14       PwCJNNSM Phase II
+The Union Cabinet has recently approved 
+Phase II of the Jawaharlal Nehru National Solar Mission (JNNSM) programme. 
+The SECI as a nodal agency is overseeing 
+the programme and has recently issued a request for proposals (RfP) to set up 750 MW of grid-connected PV projects under the viability gap funding scheme. 
+According to the RfP guidelines, projects 
+developed under the JNNSM Phase II, Batch 1 will receive a tariff of 5.45 INR per kWh for 25 years under the normal 
+mode and 4.905 INR per kWh if executed 
+under the accelerated depreciation mode. The tariffs are comparable to the short term power purchase rates of Karnataka.
+Investors planning to setup capacity 
+under the JNNSM will consider states 
+which are more supportive for project 
+execution. The state can attract capacity under the JNNSM if the government can offer support to the developers in key aspects like land acquisition or obtain 
+land under lease,  setting up solar parks 
+with the evacuation infrastructure,  waiver or discount of any charges imposed for a new project creation in the state. Single window clearance through 
+the KREDL can be facilitated to increase 
+the ease of execution.
+Batch-2 of the JNNSM Phase II is 
+expected to come under the bundled scheme wherein solar capacity will be bundled with thermal in order to bring 
+down the cost of purchase for a state. 
+Presently, application for 100MW of solar capacity is being implemented by the NTPC under the bundled scheme. The state can also consider similar model to 
+drive down the cost of purchase.
+
+CII Karnataka conference on Power            15Unlike power, which is a subject under 
+the concurrent list  oil and gas (O&G) is a central subject and comes under the 
+aegis of the Ministry of Petroleum and 
+Natural Gas (MoPNG). This limits the role that any state in India can play by influencing the commodity price and the commodity allocation. While oil has 
+historically been a prized commodity 
+for serving energy needs of the country. Especially given the dependence of the transport sector on oil, the rising prices 
+of oil over the last two decades has made 
+the world look at gas as an alternative. The natural gas use in India was 64 BCM in FY 2010-11 and 62 BCM in FY 2011-12. It needs to be noted that there is a 
+clear distinction between the potential 
+demand and actual consumption and the numbers vary widely.
+According to the International Energy 
+Agency (IEA), the gas demand in India is estimated to be 174.27 BCM by 2020 and 276.39 BCM by 2030. The key drivers  
+are the industrial and power generation 
+sectors. This translates into an annual increase of 4.7%. 
+Sector-wise domestic gas consumption in 
+FY 12Addressing peaking  
+power requirement 
+Gas Sector in Karnataka
+Demand for natural gas in the 
+power natural gas demand in India generation sector
+Demand for natural gas in power sector 
+is driven by three major factors:
+•	 Electricity demand: This is the 
+primary driver for use of natural gas for electricity generation. The 
+higher electricity demand in a state 
+will drive the need for enhancing gas-based capacity region. This in turn will lead to a demand for primary sources of energy such as 
+coal and natural gas.
+•	 Gas availability: Given the scarcity of natural gas, the areas where 
+it is available, either naturally or by being on a pipeline route or by virtue of being in the vicinity 
+of Liquefied Natural Gas (LNG) 
+terminal, there is a strong case for developing a gas-based power plant. 
+•	 Competitiveness of gas: Fired vs.  Coal-fired plants: The economics per unit of power generated is a key factor that contributes to choosing 
+one fuel over another. While the 
+price of coal is lower, the operating efficiency of a gas-fired power plant is higher than that of a coal-fired power plant. Additionally, gas is a 
+cleaner fuel when compared with 
+coal.
+Further, the demand of gas to fuel power generation capacity in India can be analysed under three categories:
+1. Demand emanating from the 
+existing capacity which is not operating at an optimum Plant Load Factor (PLF)
+2. Demand generated as a result of the new gas based capacity addition 
+proposed under the  Five Year Plans
+3. Demand resulting from the decentralised generation sector 
+which includes captive or peaking plants set up near cities with intensive industrial activity
+Needless to mention that the drivers for demand of gas as fuel to power sector in 
+Karnataka is no different. For Karnataka 
+as a state to register rapid industrial development, it is important to minimise the shortage of power for industrial activities. Gas can be the answer to 
+Karnataka’s power deficit, especially for 
+bridging the peaking demand-supply gap, given the ability of gas turbines to start generating power effectively and urgently. 
+Projected sector-wise natural gas demand in 
+India
+16       PwCSupply of natural gas in the 
+power generation sector
+The supply of natural gas for all the 
+associated sectors of the economy is serviced through two sources that are 
+domestic and imported gas. While 
+domestic gas usage is subject to the gas utilisation policy, the supply in imported gas is governed by market forces. As per the gas utilisation policy
+3, power 
+generation is the third in priority after urea-based fertilisers and LPG sectors. 
+For LNG, the buyers need to book 
+capacities in the terminal to secure gas. Presently, there is no preference to customers belonging to a specific sector for securing natural gas. 
+Owing to the decline in production 
+from India’s largest gas field, KG-D6, the 
+gas is primarily being allocated to urea 
+based fertiliser plants. This has resulted in either shutting down of power plants or  operations at the sub-optimal PLF. 
+This is more pronounced in southern 
+India including Karnataka where power generation capacities were added due to the availability of gas from the D6 block. 
+Given the decline in production, a series 
+of LNG projects have been planned by both the public and private sector 
+companies operating in the O&G 
+and infrastructure space. Most of the future LNG terminals are expected to come up on the west coast, owing to its proximity to the gas exporting 
+countries in the Middle-East, which in 
+turn will benefit Karnataka as a state from the gas availability perspective. Another mode of import of natural gas is Existing and proposed LNG terminals in India
+through cross-country pipelines. There have been major gas discoveries in the recent past in Central Asia and Eastern 
+Africa around the Caspian Sea Belt. The 
+first proposed cross-country pipeline, which is the Turkmenistan-Afghanistan-Pakistan-India pipeline (TAPI pipeline), is expected to service India’s natural gas 
+demand by 2017. The northern states are 
+set to benefit more from cross-country pipelines while southern states like Karnataka are set to benefit more from 
+LNG. The map and the table below show 
+the existing and proposed LNG projects in India. Gas for peaking power
+The electricity generated from power plants cannot be stored and has to be produced when  needed. This provides 
+an opportunity for gas based power 
+producers an opportunity to generate power and inject in the grid during the peak-load season. 
+The decentralised power generation 
+constituting smaller capacities coming 
+close to load centres will  mainly support 
+peaking needs in the long run. However, in the short run ( four  to five  years), we may even see the gas based projects running as base load plants. These  
+projects have their advantages as being  
+ideal for captive power needs (set close to consumption point) since it’s quick to set up, its fuel is easier to transport, it is 
+cleaner to operate, is highly efficient and 
+it can be ramped up or down effortlessly without loss of performance. 
+3 As per EGoM meeting held on 25 June 2008Project Location Developer Capacity   
+(mmtpa) LNG Suppliers  
+Mundra (Gujarat) GSPC 7.5 Talks in progress 
+Ennore (Tamil Nadu) IOCL 5 Talks in progress 
+Paradip (Orissa) IOCL 5 Not Decided 
+Chhara (Junagadh District) HPCL 5 Not Decided 
+Dighi Port Hiranandani Group 8 Not Decided 
+AP (FSRU) APGDC/ GDF Suez  2.5 Not Decided 
+Gagngavaram, AP PLL 5 NA 
+CII Karnataka conference on Power            17In addition to these inherent 
+advantages, such projects deliver co-generation benefits by recovery of 
+energy from waste heat in to heating, 
+chilling, etc. Such projects are called combined cooling heating and power projects (CCHP). With these additional benefits of waste heat recovery, the 
+payback can be drastically reduced. 
+Moreover, by setting up a project close to the consumption point, the consumer does not have to worry about 
+open access availability, transmission 
+system break-down, problems typically encountered while taking power from large IPPs over long distances. In fact, the current power policies promote co-
+generation. This advantage of the gas 
+based power generation has great scope in the coming years with the electricity demand growing and industry experiencing coal shortages. With more 
+coal mines located in the eastern region 
+and high transportation cost of coal to Karnataka, gas- fired generation may play a larger role that of base load as well as peak load generation. 
+The idling capacities or new capacities 
+in Karnataka can save the situation of 
+the state’s peaking power deficit, which 
+stood at 13.9% in FY 13, higher than the national average. The gas-based power plants in Karnataka stand to gain owing 
+to Karnataka being connected to three 
+sources of natural gas, viz. Dabhol LNG terminal and Kochi terminal on the west coast and the domestic gas coming from KG basin in the east coast. 
+Despite the location advantage,  the 
+challenges that are being faced by users 
+of natural gas exist. These include delay 
+in commercial operations of the Dabhol plant, steep decline in domestic gas production, weakening of the rupee against the dollar and general lack of the 
+existing pipeline infrastructure for gas 
+transportation.Unit tariff spread from various fuel sources
+Pricing signals
+As on date, the power exchanges acts as a means to meet short-term demand fluctuations. The tariffs have varied 
+between 7 INR per kWh in 2008 to 
+4.13 INR per kWh in 2013 at the power exchange.
+The state tariff is around  5.85 INR per 
+kWh for industrial consumers and 7.25 INR per kWh for commercial consumers.  In addition to high tariffs, DG sets are 
+used as back-up power source by these 
+consumers. This makes the effective tariff even higher, depending on the number of hours of power outage. 
+At this tariff, gas is an excellent 
+replacement fuel. The attractiveness of gas as a replacement fuel makes a case for gas based captive power plants, 
+which will offer economy, reliability and 
+quality of power supply and additional benefits of co-generation.
+Since gas based plants work as an apt 
+solution for peaking needs, it will also be worthwhile to compare the economics of such a plant with current sources of peaking power. With significant peak 
+deficits across all regions in India, 
+industrial consumers depend on diesel based generators to overcome grid power outage and run their operations.  Industrial consumers typically run on 
+DG sets for an average of two  tosix  
+hours daily. Even when the state distribution licensees purchase power from the trading market to meet peak deficits, the prices tend to reflect the cost of DG based power (approximately 
+16 INR per unit).
+Over the past five years a consistent 
+rise has been seen in volumes as well 
+as prices in trading market. In fact, some de-linking has been displayed in consumption and prices, indicating that consumers are ready to pay 
+significant reliability premium over 
+grid price to continue  business operations.  The netback price, that is, the imputed price which customers 
+are willing to pay for natural gas, at 
+current power trading price of  5.19 INR per kWh, works out to 9.47 USD per MMBTU. In this segment, gas seems to be comfortably placed to compete with 
+other sources of power.
+The challenge however lies in the price 
+differential of domestic natural gas and 
+RLNG.  While domestic natural gas from most of the sources is priced at 4.2 USD per MMBTU, Cabinet Committee on Economic Affairs (CCEA) has approved 
+a price of 8.4 USD per MMBTU for 
+domestic gas effective from April 2014. Further, the domestic price has been proposed to vary according to a formula as has been prescribed by the 
+Rangarajan Committee. This is expected 
+to bridge the gap between domestic natural gas price and LNG prices. 
+18       PwCSupply chain issues for natural 
+gas
+The transportation of natural gas 
+for power plants from the respective sources is primarily through natural gas 
+pipelines. The regulator for downstream 
+O&G  business, Petroleum and Natural Gas Regulatory Board (PNGRB) is responsible for authorising entities to lay, build, expand and operate natural 
+gas pipelines. Since its inception in 
+2008, PNGRB has authorised five natural gas pipelines. The users of natural gas need to enter into gas sales 
+and purchase agreements with the 
+operators of domestic gas fields and with the marketers of LNG for imported gas. In addition to this, they need to enter into gas transportation agreements 
+with owners of natural gas pipelines for 
+transportation of natural gas from the source to their facilities.
+Existing and proposed gas pipelines in 
+Karnataka
+Pipeline Operator Existing and Proposed
+East-West pipeline (EWPL)Reliance Gas Transportation Infrastructure Limited (RGTIL)Existing
+Dabhol Bangalore pipelineGAIL (India) LimitedExisting
+Kochi Bangalore pipelineGAIL (India) LimitedProposed
+In addition to this, MoPNG had 
+authorised Relog (a subsidiary of RGTIL) to construct the Chennai- 
+Bangalore- Mangalore pipeline prior 
+to the formation of PNGRB. However, owing to lack of work on the ground, the authorisation was cancelled.Gas prices in India
+Natural gas pipeline of India as issued by PNGRB
+The progress of the natural gas pipeline sector has been dismal to say the least. Also, the delays in commissioning of LNG projects and the steep decline in production of domestic gas have added to the woes of natural gas customers. There is a need to 
+hasten the process of awarding natural gas pipelines and to arrest the steep decline 
+in the production of natural gas. 
+Regime Region Gas Price $/mmbtu
+Gas pricing  
+in IndiaAPMNorth east 2.52
+Outside north east 4.20
+PSCNorth east 4.20
+KG basin 4.20
+Cauvery basin 4.75
+Western and northern Zone 5.25
+PMT 5.65
+R-LNGTerm R-LNG 7.53
+Spot R-LNG 8.53
+Prices mentioned are well head (ex - supply point) price and is exclusive of transmission cost, 
+marketing margin and taxes/duties.
+CII Karnataka conference on Power            19Pooled prices for natural gas
+An inter-ministerial committee was 
+constituted to create a policy for pooling of natural gas prices and provide a pool 
+operating guidelines. In the final report 
+issued by the committee in August 2011, it  did not recommend the pooling mechanism for natural gas at the overall level, nor did it recommend a price 
+pooling on a sectoral basis. 
+However, the committee opted for 
+preferential allotment on a scheme 
+of priority as a basis for allocating  domestically produced natural gas across users segments. The report then 
+accorded priority to specific customer 
+segments in the order as suggested by the government’s gas utilisation policy.
+It may be worth noting here that post 
+April 2014, the price for domestic natural gas will be determined based on the volume weighted average of the 
+benchmark price of trailing natural gas 
+prices at Henry Hub, National Balancing Point (NBP) and weighted average producers netback price for Japan. This has been done in the absence 
+of availability of a reference index in 
+India and owing to the lack of enabling infrastructure and the general lack of natural gas supply.
+It may be worth noting that the lack 
+of a robust pipeline network and the availability of natural gas, both 
+domestic and imported have led to non-
+implementation of gas in India. Also, the prices for negotiated spot and long-term contracts for LNG as compared with 
+domestic natural gas prices are highly 
+divergent. For Karnataka, the effective price of natural gas for end users will tend towards LNG prices, given that the state is expected to be serviced more 
+by LNG than by domestic gas. This is 
+owing to the proximity of the state to the existing and proposed LNG terminals and the lack of discovery of domestic gas in the vicinity of the state.Peaking power globally: 
+Illustrations
+Globally, there are various examples of 
+people using gas based peaking power to ensure uninterrupted supply of power to 
+industrial units. Some of the examples 
+are as follows:
+•	 Peaking power for the summer 
+months in Sabbah, East Malaysia: Malaysia has been  experiencing rapid development for the last few years which  has led to increasing 
+demand and consumption for 
+electricity. Sabah Electricity Sdn Bhd (SESB), the sole supplier of power to the large customer base in 
+Sabah, East Malaysia, was engaged 
+in various generation, transmission and distribution projects in response. However, they faced an impending power shortage crisis 
+as the new independent power 
+plant (IPP) projects could not be completed in time to meet the burgeoning demand. The problem at hand was addressed by using gas 
+based power generators in a quick 
+time.
+4
+•	 Two gas turbines at the EDF Luminus power plant located at Angleur in Liège, Belgium, each 
+capable of producing 64 MW of 
+power, can achieve fast start-up in just nine minutes. This is helping EDF Luminus deliver continuity of electricity supply to households 
+and businesses in Liège during 
+peak demand periods. In addition, gas turbines deliver significant emissions performance benefits, 
+helping EDF Luminus to ensure that 
+Liège has stable access to cleaner and more efficient electricity supply. The high electrical efficiency of the turbines allows plant to obtain primary energy savings, especially when used in cogeneration or combined cycle applications where 
+waste heat is also utilised.
+5
+•	 In India, the state of Gujarat is an 
+example of how the initiatives of the state government have helped 
+the state in having a well developed 
+gas sector. State owned companies like GSPC and GSPL were created to develop the midstream and downstream natural gas sectors. 
+The companies were given 
+autonomy to create infrastructure that would allow them to market natural gas. Gujarat also had the 
+advantage of having gas supplies 
+from on-land gas fields and LNG terminals. This allowed the natural gas sector to flourish in the state, including the increased availability 
+of natural gas for captive power 
+stations and gas based power plants, including for peaking power. The results are evident from Load Generation Balance Report 2013-14 
+by CEA which shows that the only 
+0.3% of Gujarat’s peaking power requirement was left unmet in FY 2012-13 as compared to a national average of 9% deficit
+6
+   
+4  http://blogs.terrapinn.com/total-electricity/2013/04/30/case-study-peaking-power-summer-
+months-sabbah-east-malaysia/
+5 http://www.rolls-royce.com/sustainability/casestudies/efficient_peaking_power_supply.jsp
+6 http://www.cea.nic.in/reports/yearly/lgbr_report.pdf
+20       PwCIn addition to the key factors such as 
+potential in the state and the tariffs, the industry believes that improvements can 
+take place on various fronts to enable 
+growth in clean energy in the country and in Karnataka.
+Land acquisitions
+Land acquisition is one of the key issues faced by the industry today. As per the industry, average time taken for 
+completing land acquisition is closer to 
+one  year in the state. 
+As a policy, currently companies 
+cannot acquire agricultural land. It has to be converted to non-agricultural (NA) land for it to be acquired. This process of identifying land, request for 
+conversion and acquisition is a time 
+consuming process. It is important for the government to empower KREDL and hold the agency responsible to 
+facilitate land acquisition or make 
+amendments to enable wind power developers to purchase agricultural land in a less cumbersome way. Also, there is no time-frame defined for converting 
+agricultural land to non-agricultural 
+use-alienation. Currently the process takes around eight to nine months. 
+In the Renewable Policy 2009-14 some 
+specific measures were specified for land acquisition, which if implemented will  promote both solar and wind 
+investments in the state. Key enablers for growth  
+of clean technologies and 
+the way forward
+Ease of execution
+In addition to the regulatory framework 
+another  facilitator of investments in the sector is the ease of execution. 
+The developers today have to undergo 
+complex and time-consuming processes to obtain the necessary approvals and clearances for development of renewable projects. 
+The state has allocated wind projects 
+with total capacity of 12 GW out which 
+only 2.2 GW has been commissioned, 
+6.6 GW is yet to be commissioned and the rest (3.5 GW) has either been rejected, surrendered, or cancelled. 
+The capacity yet to be commissioned is 
+either stuck due to land acquisition or clearances issues, or lack of intent from the developers. The feedback from the industry is that the allocation committee 
+meetings do not take place as often as 
+they should. As a result more than 2.5 GW capacity is waiting to be allocated. 
+Additionally the single window 
+clearance system promised by the policy is not being implemented in reality and developers continue to spend significant 
+amount of time in liasioning with 
+different offices to obtain the necessary approvals. 
+The stakeholders in the sector also 
+feel that the allocation process at the moment is too opaque and the government needs to bring in a more 
+transparent framework which helps 
+everyone involved understand the basis and methodology of allocations. In addition the framework should also 
+incorporate specific timelines and 
+milestones for the allotments made along with stringent cancellation and termination provisions to ensure the allotments turn into meaningful 
+
+CII Karnataka conference on Power            21capacity additions. Some of these 
+provisions are already provided for in the policy documents, what is needed is 
+willingness from the involved agencies 
+to enforce the policy provisions.
+KREDL declared the setting up of a 
+technical committee which is looking into the formulation of a separate wind energy policy besides updating the existing solar energy policy and that a 
+draft in this regard was being circulated 
+among experts and stakeholders to get their views.
+Evacuation infrastructure
+Obtaining evacuation approval today takes significant amount of time because Karnataka Power Transmission 
+Company Limited (KPTCL) doesn’t 
+have a separate department or a team for overseeing evacuation related work for non-conventional energy sources. The industry also feels that the current 
+system has a redundant process with 
+respect to obtaining the necessary approvals during various stages leading to delays in taking up projects. 
+Karnataka is expected to add substantial 
+amount of renewable energy during 
+the 12th Plan period. It is important 
+for KPTCL to take into account the renewable capacities being added during annual system planning and strengthen the network adequately. 
+KPTCL should take into account the 
+following while developing evacuation infrastructure for RE projects: 
+•	 RE potential is location specific: 
+The renewable energy potential is location specific and most of the good potential sites are located 
+either in remote areas or areas 
+with complex terrains. As per the industry, evacuation infrastructure at Devangere, Chitradurga and Gadag is fully utilised and cannot 
+evacuate any significant capacities 
+in the future. Bijapur and Raichur are also expected to face similar problems in the near future. Grid capacity augmentation in such key regions is a must to avoid bottling 
+up of generation potential. 
+•	 Intermittency: Solar and wind energy are intermittent in nature. 
+Integrating such RE sources effectively which produce peak energy during different times of the day, will reduce supply fluctuation 
+and leads to better utilisation of the 
+transmission system.  
+Regulatory support for clean 
+technologies
+Policy certainty with regards to 
+preferential tariffs, open access framework and encouraging policies 
+for RE technologies play a huge role 
+in encouraging lenders and equity investors to invest in projects. Ensuring the same will go a long way in capacity additions from clean technologies for 
+the state.
+The KERC has came out with significant 
+orders on the wind and solar tariff order 
+in recent times, and also extended the concessional wheeling and banking benefits currently available for the wind 
+sector till 31 March 2014. The tariffs 
+determined and incentives offered for solar look extremely positive and are expected to promote solar and wind power development in the state, more 
+clarity on certain aspects especially with 
+regard to solar such as those mentioned below will provide comfort to the industry:
+•	 The tariffs are baselines rates for 
+bidding or preferential tariffs for all developers to sell to the utility 
+•	 Capacity which the state would tie up under this tariff 
+•	 Validity of the incentives available for open access transactions 
+•	 Offtake obligation of utilities of the excess energy generated by solar 
+roof top PV systems
+
+22       PwCMore importantly introduction of net 
+metering connectivity with specific guidelines will go a long way in 
+encouraging kilo watt scale systems 
+in the state. Also, in the consultative paper, the KERC discussed option about providing certain tariff for off-grid solar power generators for avoided utilisation 
+of grid power. However this aspect is not 
+covered by the tariff order.
+Apart from concessional charges for 
+renewable generators, the state needs to  introduce time based and simple procedure for open access approval 
+mechanism. Currently, direct consumers 
+and renewable energy generators have to follow a rigorous open access approval mechanism to make this sales arrangement successful. Innovation in technology
+Innovation in technology is important for bringing further efficiency and effectiveness in the clean energy 
+technologies. Following are key views 
+from the industry:
+•	 Karnataka  with the presence of 
+some of the key domestic module manufacturers and solar EPC players, needs to support research and manufacturing in the state 
+by way of offering appropriate 
+incentives. This is in line with the state’s Semi Conductor Policy of 2010. 
+•	 The country needs to support and take up more demonstration 
+projects to try out new concepts in 
+clean energy generation. Concepts like grid scale storage systems, peaking power supply systems, hybrid mechanism, and smart 
+grid systems to address renewable 
+integration can be tested out.
+•	 While solar PV systems have been reinventing and improving over the period of time, not much of the installed capacity in solar thermal is added and the country lacks 
+capability in the design and project 
+execution. Continuous support from the government is required in promoting solar thermal technology to exploit the high irradiation level 
+the country receives.Effective use of gas based 
+generation
+Peak deficits can be tackled effectively 
+by using the gas based capacities in Karnataka to produce peaking power. 
+The LNG terminals in the vicinity of 
+Karnataka can be utilised to fuel these power plants. Also, the spread between future LNG price and cost of power from alternative fuels is bound to drive the 
+usage of gas based plants for peaking 
+power. The state needs to develop a gas market to effectively use gas based plants. Some steps which can help create 
+a natural gas market are as follows:
+Enhancement of gas transportation 
+infrastructure in the state: GAIL 
+Limited and Karnataka State Industrial and Infrastructure Development Corporation (KSIIDC) entered into a MoU in April 2009 to develop spur 
+lines along the main pipeline route 
+to provide gas connections to major cities and industrial areas. The MoU is aimed at providing natural gas infrastructure and city gas distribution 
+(CGD) in Karnataka. With the recent 
+commissioning of the Dabhol- Bangalore pipeline, Bangalore is now a part of the gas grid. These are encouraging developments however the state needs 
+to ensure that the last mile connectivity 
+is provided to larger gas-based power generators.
+Ensuring supply of natural gas to 
+power units: Given the multiple stakeholders involved in the gas 
+purchase process, viz. the E&P company, 
+LNG terminal, the gas marketer and the pipeline operator, small power producers may not have enough resources to secure gas in a timely 
+manner. The government, through the 
+state industrial body can help the small players by assisting them in procuring natural gas.
+CII Karnataka conference on Power            23Assistance with funding requirement: 
+The procurement of natural gas necessitates the consumers to place a 
+bank guarantee with the gas supplier, 
+which is usually a percentage of the estimated annual contracted supply value. It may be difficult for small players to provide such a guarantee in 
+a sustained manner. The government 
+could assist these companies by being a guarantor on behalf of a cluster of power developers.
+Pricing signals for peak usage: The 
+cost of generating electricity is higher 
+during the peak period than during the 
+off-peak hours. This higher generating cost arises from the higher fuel cost as well as the higher capacity cost per hour of the plants used to supply peak power. 
+Due to these peculiar characteristics 
+the state should look at providing differential tariffs for generation at peak and providing necessary incentives to encourage investors to set up LNG based 
+peaking power plants.Other specific policy enablers
+Special development zones: Karnataka 
+announced its intent to set up the renewable Special Economic Zones 
+(SEZ) and KREDL was to provide 
+10% of current and future SEZs for development of RE projects. These are referred to as renewable energy economic zones. Some sites have been 
+identified to be developed and specific 
+timelines for approvals and clearances have been specified. The current status with regard to the implementation 
+is unknown, however if the SEZs are 
+implemented it will provide a significant boost to the sector.
+Establishment of reliable ground 
+measurement data: Non-availability of reliable site potential data makes the accurate evaluation of the returns 
+from a project, technology selection and 
+financing very difficult. Going forward the state should plan along with central agencies for additional assessment stations for renewable technologies. 
+Financing of RE projects: In the RE 
+Policy 2009-14, a Green Energy Fund 
+for providing concessional loans to 
+renewable project was announced as a welcome step. The fund is accumulated by levying 0.05 INR/kWh on commercial and industrial customers and is expected 
+to generate capital of 55 crore INR 
+annually. This fund is expected to promote Public-private partnership mode, decentralised generation and 
+distribution RE projects for the benefit of 
+rural sector. If these funds are deployed effectively the state can witness an increase in investments.
+Reallocation of cancelled projects: 
+The state government should come up with a definitive road map and a 
+framework on reallocation of cancelled 
+projects. 
+
+24       PwCKey takeaways  
+
+CII Karnataka conference on Power            25•	 The state government’s 
+commitment and supportive policies and regulatory frameworks 
+are vital for capacity addition in the 
+wind and solar sector. 
+•	 The role of government as a facilitator by providing infrastructure for wind and solar energy projects like connectivity, electricity, water supply, land 
+approvals and clearances, etc. 
+•	 The understanding of new emerging business models for wind and solar 
+energy projects. •	 Several issues, challenges and risks are involved in financing wind and solar projects. 
+•	 The availability of various financing options from private equity 
+players, banks and other financial 
+institutions are essential for the success of Wind and solar projects. 
+•	 Key advancements are happening in future wind and solar technologies. How they can enhance efficiency from the projects.
+•	 Initiatives such as smart metering, net metering, smart grid, etc. can 
+help in efficient management of 
+wind and  solar projects. •	 Need for Forecasting and 
+scheduling of wind and solar energy 
+to enhance the grid efficiency and requirements to do so. 
+•	 Problems and risks being faced by developers while forecasting and scheduling.
+•	 Requirement for using gas based power as peaking power, issues faced by gas based power players 
+•	 Understanding gas supply chain issues and infrastructure 
+requirements
+•	 Gas pooled pricing policy effectiveness for reviving gas based 
+power plantsThe conference will showcase the changes needed at the policy and regulatory level to encourage investments in clean technologies in Karnataka. It will also serve as a platform to discus and identify new investment opportunities and secure future energy requirements of the state. Some key takeaways expected from the conference are listed below:
+26       PwCAbout CII 
+Contacts  
+ 
+Ramesh K  
+Director & Head, Karnataka State Office 
+Confederation of Indian Industry No 1086, 12th Main, HAL 2nd Stage Indiranagar, Bangalore - 560038 
+Tel - 080-4288 9595 / Fax - 080-2527 6709 
+E: ramesh.k@cii.in  
+ 
+Reshmi Mohandas Executive Confederation of Indian Industry 
+No 1086, 12th Main, HAL 2nd Stage 
+Indiranagar, Bangalore - 560038 Tel - 080-4288 9595 / Fax - 080-2527 6709 E: reshmi.mohandas@cii.in The Confederation of Indian Industry (CII) works to create and sustain an environment conducive to 
+the development of India, partnering industry, Government, and civil society, through advisory and consultative processes.
+CII is a non-government, not-for-profit, industry-led and industry-managed organization, playing a 
+proactive role in India’s development process. Founded over 118 years ago, India’s premier business association has over 7100 members, from the private as well as public sectors, including SMEs and MNCs, and an indirect membership of over 90,000 enterprises from around 257 national and regional sectoral industry bodies.
+CII charts change by working closely with Government on policy issues, interfacing with thought leaders, 
+and enhancing efficiency, competitiveness and business opportunities for industry through a range of specialized services and strategic global linkages. It also provides a platform for consensus-building and networking on key issues.
+Extending its agenda beyond business, CII assists industry to identify and execute corporate citizenship 
+programmes. Partnerships with civil society organizations carry forward corporate initiatives for integrated and inclusive development across diverse domains including affirmative action, healthcare, education, livelihood, diversity management, skill development, empowerment of women, and water, to name a few.
+The CII Theme for 2013-14 is Accelerating Economic Growth through Innovation, Transformation, 
+Inclusion and Governance. Towards this, CII advocacy will accord top priority to stepping up the growth trajectory of the nation, while retaining a strong focus on accountability, transparency and measurement in the corporate and social eco-system, building a knowledge economy, and broad-basing development to help deliver the fruits of progress to all.
+With 63 offices, including 10 Centres of Excellence, in India, and 7 overseas offices in Australia, China, 
+Egypt, France, Singapore, UK, and USA, as well as institutional partnerships with 224 counterpart organizations in 90 countries, CII serves as a reference point for Indian industry and the international business community.
+CII Karnataka conference on Power            27About PwC 
+Contacts  
+ 
+Kameswara Rao  
+Executive Director, Leader, Energy, Utilities and Mining 
+Phone: +91-40-6624 6688 email: kameswara.rao@in.pwc.com  
+Deepak Mahurkar 
+Director, Oil & Gas Phone: +91-11-330 6072 email: deeoak.mahurkar@in.pwc.com  
+Sunil Kumar 
+Associate Director, Energy and Utilities Phone: +91-40-6624 6203 email: sunil.kumar@in.pwc.com PwC helps organisations and individuals create the value they’re looking for. 
+We’re a network of firms in 157 countries with more than 184,000 people who are committed to delivering quality in Assurance, Tax and Advisory services. Tell us what matters to you and find out more by visiting us at www.pwc.com. 
+In India, PwC has offices in these cities: Ahmedabad, Bangalore, Chennai, Delhi 
+NCR, Hyderabad, Kolkata, Mumbai and Pune. For more information about PwC India’s service offerings, visit www.pwc.com/in 
+PwC refers to the PwC network and / or one or more of its member firms, each 
+of which is a separate legal entity. Please see www.pwc.com/structure for further details.
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+pwc.in
+Data Classification: DC0: For general use
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers 
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or 
+liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in 
+India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member 
+firm of which is a separate legal entity.
+NJ 103 - October 2013 CII-Karnataka.indd
+Designed by: PwC Brand and Communications, India

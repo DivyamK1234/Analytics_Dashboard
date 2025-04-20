@@ -1,0 +1,352 @@
+Title: pwc_pwc_5th_annual_digital_iq_survey
+Date Published: 2013-05-31 11:00:31+05:30
+Source: pdfs/pwc_pwc_5th_annual_digital_iq_survey.pdf
+
+--- CONTENT ---
+
+PwC’s 5th Annual
+Digital IQ Survey
+When the going gets tough, 
+the digital get going
+The India story
+May 2013
+PwC’s 5th Annual Digital IQ Survey - The India story     2  
+1. The GDP growth in India is estimated at 5% in the financial year ending March 2013 by the Government of India (Advanced estimates of national income, 2012-13)
+2. Swiss Re, sigma No 2/2012
+3. The new digital economy, How will it transform business – A research paper produced by Oxford Economics in collaboration with PwC, SAP, Citi, Cisco and AT&T
+4. Through the looking glass, Emerging trends, PwC India, January 2013  PwC’s 5th Annual Digital IQ survey findings: Strengthening your digital conversations  
+PwC’s 5th Annual Digital IQ survey findings: Strengthening your digital conversationsBusiness leaders in India are facing radical changes 
+in economic and market structures. While they were 
+adapting to the constant volatility in global economies, 
+our domestic growth settled into the lowest rate of the decade this year
+1. On the other hand, the number of 
+disruptions, both natural and manmade, has increased in the last four decades around the globe
+2 . 
+Notwithstanding the unprecedented changes, the need to navigate through pitfalls and disruptions, businesses are striving to achieve the core objectives of fostering 
+growth, meeting disparate consumer needs, reaching out 
+to markets, compete and succeed. In such times, speeding up the adoption of key technologies like social networks, 
+Digital IQ is a measure 
+of how well companies 
+understand the value  
+of technology and weave it into the fabric 
+of their organisation.
+mobile computing, analytics, cloud computing (SMAC) 
+and other emerging technologies will transform businesses 
+and accelerate wealth creation, especially in the emerging 
+markets economies3. For instance, leading firms have started 
+using digital ecosystems to take advantage of disruptions  
+and information to create significant economic and 
+competitive value4 . 
+The India cut of the PwC’s Annual Digital IQ survey is a reflection of this trend. It evaluates how enterprises are riding the digital wave to engage more effectively with 
+their crucial stakeholders, fine-tune their operational 
+effectiveness and strengthen risk management strategies. 
+PwC’s 5th Annual Digital IQ Survey - The India story     3  
+Demystifying SMAC
+Trends What does it do? Relationship with work  
+Cloud  The cloud increasingly contains 
+more of the information and applications that people use Where we do the work  
+Mobile  Mobile devices give people 
+access to the cloud, to other data 
+sources, and to each otherHow we get to work  
+Analytics   Analytics help them make actionable sense of all that data What we work on, the meaning of work 
+Social  Social media helps people reach out to colleagues and customer 
+and provides insights about  
+their preferencesWho we work with  
+Source: Through the looking glass, PwC India, Emerging trends,  January 2013How strong is the digital IQ of 
+Indian organisations?
+We presented respondents with different scenarios to gauge 
+if they’ve realised the importance of these technologies and 
+aligned them closely to their overall organisational growth 
+objectives. This is because companies can gain only through a systematic engagement with these technologies. We found 
+that business leaders are actively involved in spearheading 
+initiatives in technology, have a strong C-suite collaboration and consider themselves digitally astute.
+Digitally astute
+When asked about the level of their digital involvement, 85% of the Indian firms described their organisation 
+as ‘digitally astute’. This is more than their US and UK 
+counterparts at 54 and 69% respectively. Perhaps more interesting is the fact that all Indian firms with strong C-suite 
+collaboration described their organisation as digitally 
+astute. This indicates that C-suite alignment is an important characteristic for any company striving for a high digital IQ. 
+
+PwC’s 5th Annual Digital IQ Survey - The India story     4  Indian firms emerge as highly ‘digitally astute’
+To what extent would you describe your organisation as digitally astute?
+India85%
+66%
+Australia54%
+USA69%
+UK62%
+Russia
+75%
+China45%
+Japan
+IT and business as complementary factors 
+An effective technology strategy cannot be created in a vacuum. 
+It is vital for the CIO to collaborate with the C-suite while 
+chalking out a roadmap. The starting point of such an activity 
+is planning and Indian companies are increasingly working on these lines by having a multi-year roadmap for business 
+strategies along with a plan to link IT to overall business 
+practices. 
+Among the survey participants, 71% said they have a single, 
+multi-year roadmap as compared to 61% across the rest of the world. Additionally, IT leaders of 80% of the companies share the same detailed understanding of the corporate strategy as their 
+business leaders. Our survey also found that in one out of every 
+three Indian enterprises, the CIO has a strong relationship with other members across the C-suite: CEO, CFO, CMO, CRO, CSO, 
+CISO, and business unit leaders. These C-suite relationships are 
+an indication of the shift in perception of Indian companies with respect to IT; from support and cost centre to a business catalyst.Base: All respondents (1,108); India (60)
+Source: PwC’s 5th Global Digital IQ Survey -The India story
+
+PwC’s 5th Annual Digital IQ Survey - The India story     5  
+Rest of the World
+14%
+No
+25%
+Yes
+61%Don't knowDon't know
+5%
+No
+18%
+Yes
+77%IndiaPlanning is critical for collaboration
+Does a single, multi-year roadmap for the overall business strategy, exist within your organisation?
+Base: All respondents (1,108); India (60)
+Source: PwC’s 5th Global Digital IQ Survey -The India story
+Base: All respondents (1,108); India (60)
+Source: PwC’s 5th Global Digital IQ Survey -The India storyBusiness leaders drive IT efforts
+A strong 75% of the respondents agree that either their CEO 
+or senior-most business leader is an active champion of IT 
+usage. The leaders’ active involvement in including IT as 
+a part of strategic dialogue is likely to ensure that there is an organisation-wide understanding of the costs needed 
+to implement such strategies. And this understanding is 
+important in the accurate estimation of expenses and the consequent profit margins.They’re thinking and acting together
+Business and IT leaders 
+share the same detailed understanding of the corporate strategyCEO or senior-most business leader is an active champion in the use of information technology 
+to achieve our strategyChina
+UKUSAIndia
+80%
+45%57%
+40%80%75%
+42%
+31%
+We believe that technology plays a crucial role in 
+amplifying the performance of any business. A company 
+that continuously adopts technology, masters it and drives 
+business integration is likely to have a sustainable advantage over its peers in the market.
+5
+5. PwC’s 5th Annual Digital IQ survey findings: Strengthening your digital conversations
+PwC’s 5th Annual Digital IQ Survey - The India story     6  How are companies using these 
+technologies to advance their business objectives?
+The panellists in PwC India’s CFO Conclave last year, 
+discussed how the forces of SMAC (social, mobile, analytics 
+and cloud) will help organisations ride the digital wave, 
+manage their consumer chain and help unlock value for their stakeholders. Outperformers will have a distinct advantage 
+as they will be more adept at converting data into insights. 
+Equipped with these insights, they can develop products and services for specific customer segments and craft 
+personalised marketing messages.
+It is not surprising then to see that the respondents of the 
+Digital IQ survey are using these technologies to reach out to 
+some of their most significant stakeholders, customers and employees and are making significant investments to do so. 
+The advent of these technologies is also helping them fine 
+tune the operational effectiveness of companies. 
+Indian companies are investing well in emerging technologies
+Which of the technologies are you currently investing in?
+30%42%60%40%48%48%40%57%
+30%33%52%31%37%24%19%37%
+Social media for internal communicationsSocial media for external communications 
+with customers, suppliers Mobile technologies for employeesMobile technologies for customersData mining and analysisPublic cloud applicationsPublic cloud infrastructurePrivate cloud
+Rest of the world India
+Base: All respondents (1,108); India (60)
+Source: PwC’s 5th Global Digital IQ Survey -The India story
+New ways of reaching customers 
+Companies are competing to understand customer needs 
+and responses. Many have been dependent on traditional 
+tools like market research and competitive benchmarking. 
+However, these tools decipher mass, and not case-specific, consumer behaviour. And so, many companies are now 
+venturing to explore new marketing platforms. Social media
+Data now sits outside ERP systems and in multiple public 
+spaces. Mining social media sites, blogs, consumer reviews and other such data sources is a new tool to find out what 
+individual customers think and want. This is highlighted 
+by the fact that 42% of Indian organisations are presently investing in social media for external communications 
+with customers and suppliers. This is more than the global 
+average of 33%. They also expect the use of social media to increase substantially over the next 12 months. Facebook 
+(75%) seems to be the most preferred platform followed by 
+LinkedIn (43%) and Twitter (40%).
+Facebook is the most preferred medium in India
+Do you expect the usage of each social media in your organisation for 
+business purposes to increase, decrease or stay the same in the next  12 months? (respondents who answered ‘increase’)
+Base: All respondents (1,108); India (60)
+Source: PwC’s 5th Global Digital IQ Survey -The India story
+Big data and analytics
+Data collected from various such sources is generally 
+unstructured and is referred to as big data.  It is a characterisation of the never-ending accumulation of all 
+kinds of data, most of it unstructured. It describes data sets 
+that are growing exponentially and are too large, too raw, or too unstructured for analysis using relational data analysis
+6. 
+Indian organisations are realising the importance of big 
+data. Our survey results indicate that around every two out 
+of three respondents believe that harnessing big data will give their organisations a competitive edge. Once again, this 
+figure is more than the US (65%), the UK (56%) as well as the 
+global average (61%).75%
+43%40%
+20%36%
+31%28%
+10%
+Facebook LinkedIn Twitter XING
+India Rest of the world
+6.    Technology forecast: -Making sense of big data, 2010 Issue 3
+PwC’s 5th Annual Digital IQ Survey - The India story     7  
+This sea of unstructured information can provide us insights 
+into the pulse of consumer demand and trends, once it is 
+simplified through analytics into actionable strategies. 
+Analytics combined with a comprehensive social media strategy will become a critical competitive requirement 
+for companies to co-create new products with various 
+stakeholders, improve customer service and reduce cost. In our survey, 48% of the respondents are investing in 
+data mining and analysis technologies; more than their 
+counterparts in the US, the UK, China and Japan. 
+Big data, big benefits
+To what extent do you agree or disagree with the following statements – 
+Harnessing ‘Big data’ will give my organisation a competitive edge
+27%38%
+43%-5%
+-5%-6%
+-10%23%
+IndiaRest of 
+the world
+Disagree Strongly disagree Agree
+Agree strongly Don't know
+Base: All respondents (1,108); India (60)
+Source: PwC’s 5th Global Digital IQ Survey -The India story
+Mobile technologies
+Companies have also been increasing the use of mobile 
+technologies to understand and meet customer needs. While, our survey results indicated that 78% of Indian firms are 
+interacting with customers using mobile technology, the 
+response is only 47% for the US, 51% for the UK, 46% for Australia and 21% for Japan. What is interesting is that in 
+terms of investment, 40% of Indian firms are investing in 
+mobile technologies for customers.Reaching customers through mobile technology
+To what extent is your organisation interacting with customers using 
+mobile technology?
+0%7%10%5%43%35%
+5%7%17%20%38%13%
+Don't knowNot at all significantlyNot very significantlyNeither/norQuite significantlyVery significantly
+Rest of the World India
+Base: All respondents (1,108); India (60)
+Source: PwC’s 5th Global Digital IQ Survey -The India story
+Empowering employees
+The CEO of Apple, Tim Cook, has remarked that 94% of 
+Fortune 500 firms have either already given iPads to their 
+staff or are in the process of arranging iPads for them7 . 
+Though not all companies would like to believe in a similar practice, most of them would not mind if employees use 
+their own phones or mobile devices without posing a threat to the security and integrity of the workplace. Reinforcing 
+a similar argument, PwC, in one of its studies, states that 
+when employees with smartphones can download apps and do their jobs better than the tools provided by the office IT 
+department, it becomes important for companies to execute 
+mobile strategies keeping employees in mind
+8.  
+Employees of a company are the single-most important direct touch-points for consumers. They work towards organisational objectives by engaging with customers, 
+intensely and constantly and sometimes across varied 
+geographies. So, it was not surprising to see in our survey, that most companies have not only realised this aspect, but 
+are also equipping their employees with mobile technologies. 
+Naturally, 60% of the companies are planning to invest in mobile technologies for employees. Around 40% of the 
+companies are building required capabilities using the help 
+of third parties. However, 35% feel that their employees are already equipped with the required mobile technology to deliver products and services. 
+7.   Seizing the mobility moment – Part 2, PwC, September 2012
+8.   Ibid
+PwC’s 5th Annual Digital IQ Survey - The India story     8  Employees equipped with mobile technology
+How equipped are the employees in your organisation to deliver 
+products and services using mobile technology? 
+6%3%6%27%39%18%
+2%5%8%8%42%35%
+Don't knowWe have nothing at present 
+but have no needWe have nothing at present,
+but recognise a needWe have some things we need and 
+are building the rest ourselves We have some things we need and are 
+primarily using 3rd parties to build the rest We have everything we need 
+on a mobile platform
+India Rest of the World
+Base: All respondents (1,108); India (60)
+Source: PwC’s 5th Global Digital IQ Survey -The India story
+Improving operational efficiency
+SMAC and other emerging technologies create the 
+possibility of gains in operational efficiency. For instance, 
+cloud computing has the potential to accelerate business 
+innovation, improve business agility and reduce costs. Leading organisations are realising that cloud computing is 
+far more than a sophisticated   IT solution. It is in fact a better 
+business solution. 
+Indian organisations are investing in cloud computing 
+technologies more than their counterparts in the US, the 
+UK, China and Australia. While 57% of Indian organisations are investing in private cloud, 40% and 48% are investing 
+in public cloud infrastructure and public cloud applications 
+respectively. Private cloud can also be instrumental in ensuring data security, protecting consumer data and 
+intellectual property. 
+Employees equipped with mobile technology
+How equipped are the employees in your organisation to deliver 
+products and services using mobile technology? 
+Nurture and facilitate innovation
+Faster time to deliver (concept to market)
+Simplification in conducting business
+Increased velocity of processes
+Faster and informed decision making
+Adaptive to changing business environmentEmerging technology trends
+Cloud computingMobilitySocial media
+Big data analyticsLet’s begin our digital conversation
+The survey gives us an insight into the efforts of companies 
+that are trying to embed IT in all areas of their business. 
+Companies are engaging with technology in a systematic 
+way and are forming a comprehensive IT strategy through collaboration. However, while moving towards higher  
+digital IQ, companies are grappling with a number of 
+questions. Here are a few based on our conversations  with the executives.
+• How can IT better align with changing economic and 
+market structures, volatility in the global economies  and evolving business needs?
+• Are you aware of the ways to understand and adopt emerging technologies, which will make  
+you competitive?
+• Are you effectively equipped to gather, understand and act on data about customers and employees and protect 
+intellectual property at the same time?
+• What are the implications of moving to a cloud 
+computing service model from an accounting and  
+tax perspective?
+• Are you prepared with new data management and 
+storage technologies needed to reap the benefits of  
+big data?
+• Are you equipped to seize business value from SMAC, over and above its IT benefits?
+• Are you actively involved in developing your 
+organisation’s digital IQ? Do you champion the cause of 
+IT in your organisation?
+• How can you exploit strategic opportunities while 
+managing business risks?
+• Are IT investments being made with overarching business goals in mind, or are these decisions happening 
+in a silo? Is the IT strategy communicated effectively within the organisation?
+About PwC 
+PwC* helps organisations and individuals create the value they’re looking for.  We’re a network of firms in 158 countries 
+with more than 180,000 people who are committed to delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, Bangalore, Chennai, Delhi NCR, 
+Hyderabad, Kolkata, Mumbai and Pune.  For more information about PwC India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member firm is a separate legal entity. Please 
+see www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+To have a deeper conversation about how topics related to 
+digital IQ may affect your business, please contact:
+Debdas Sen
+Technology Consulting Leader 
++91 33 4404 6404
+debdas.sen@in.pwc.com
+Ritesh Pal
++91 33 4404 3204
+ritesh.pal@in.pwc.comTapobrata Das Roy
++91 22 6669 1418
+tapobrata.das.roy@in.pwc.comArnab BasuExecutive Director, Emerging Technologies+91 33 2341 4290
+arnab.basu@in.pwc.com
+Rajesh Rajan 
+Associate Director, Emerging Technologies 
++91 80 4079 4003
+rajesh.rajan@in.pwc.com
+Authors
+pwc.in
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers 
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication 
+represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before 
+taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in 
+India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+PD 509 - May 2013 PwC’s 5th Annual Digital IQ Survey.indd
+Designed by: PwC Brand and Communications, India

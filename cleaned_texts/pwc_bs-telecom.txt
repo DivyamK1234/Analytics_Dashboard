@@ -1,0 +1,19 @@
+Title: pwc_bs-telecom
+Date Published: 
+Source: pdfs/pwc_bs-telecom.pdf
+Word Count: 7
+Sentence Count: 1
+Average Sentence Length: 17.0
+
+--- TOP 20 WORDS ---
+error: 1
+extracting: 1
+content: 1
+time: 1
+data: 1
+match: 1
+format: 1
+
+--- CLEANED CONTENT ---
+
+Error extracting content: time data ': 2o25o12511o543' does not match format ':       '

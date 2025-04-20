@@ -1,0 +1,727 @@
+Title: pwc_forging-ties-securing-energy-supply-for-a-stronger-economy
+Date Published: 2013-08-30 11:25:33+05:30
+Source: pdfs/pwc_forging-ties-securing-energy-supply-for-a-stronger-economy.pdf
+
+--- CONTENT ---
+
+www.pwc.in
+A report with FICCI; 3 September 2013  
+Energy security in India p4/International collaboration for India’s energy security p12
+Forging ties 
+Securing energy supply 
+for a stronger 
+economy
+Foreword 
+Energy security forms the basis of formulating energy policy in every 
+country. For a developing nation like India, energy security, assumes critical importance, since the projected requirements have to be met in an environment where domestic energy supplies are limited and the energy needs are to be met through imports, amidst the persisting international uncertainties.
+In the pursuit of sustainable development, securing adequate energy 
+supply that is affordable and easily accessible, is a major concern both financially and strategically. To address these challenges, we need to enhance the domestic growth drivers, remove structural constraints and above all, make ourselves resilient to external factors like, volatile international crude oil prices, economic and geopolitical uncertainties in the resource-rich nations.
+We believe the government and the industry together can set a 
+stable and enduring framework to address the energy security concerns. We at FICCI, wish to play a catalysing role to address the hydrocarbon related concerns in a defined and a phased manner. FICCI through its sustained campaign on National Energy Security endeavours to sensitise all the stakeholders including policy makers, parliamentarians, industry, civil society, economists and media and suggest a dynamic policy framework for the future.
+In this regard, FICCI has been organising the National Conference on 
+Energy Security, annually. The 1st conference organised in December 2011, focused on defining the issue of energy security in the Indian context. The 2nd conference, hosted in December 2012, focussed on exploring ways to find energy solutions and to debate on the role of each stakeholder in evolving the national strategy and coordinated policy response. 
+The 3rd National Conference on Energy Security, being organised 
+by FICCI in association with the Ministry of External Affairs, Government of India, on September 03, 2013, is a step further to address the national concern of energy security. The conference aims to promote purposeful collaboration between the industry and the government and the role of diplomacy in securing India’s energy security.
+The knowledge paper ‘Forging ties: Securing energy supply for 
+a stronger economy’ jointly prepared by FICCI and PwC sets out the current energy scenario in the country, which is characterised by rising energy demand and the price being paid for dependence on imports. It also analyses the impediments to energy security, international cooperation and efficient use of available energy. 
+We hope that this paper will set the context for the deliberations 
+and facilitate us in implementing the action points identified during the conference. FICCI looks forward to a successful Conference and commits itself to follow up with action on the conclusions of the deliberations.
+Dr. A. Didar Singh Secretary General Federation of Indian Chambers of Commerce & Industry
+
+Preface 
+The National Conference on Energy Security organised by FICCI 
+in partnership with PwC provides a platform for all stakeholders to assemble and brainstorm on issues related to energy security while planning a roadmap for the future. The FICCI Hydrocarbon Committee has taken steps to have leaders in spheres of policy making vowing to lend ears to the stakeholder viewpoint and for consultation among implementers.
+PwC, as the Knowledge Partner, has assisted FICCI in putting 
+together this background paper titled ‘Forging ties: Securing energy supply for a stronger economy’. The paper sets out the current energy scenario in the country characterised by rising demand leading to high import dependency and its impact. It also sets out India’s position as an emerging economy with an insatiable appetite for energy sources.  It further discusses the international collaboration required for the country’s energy security. The resulting challenges in attaining complete energy security have also been analysed.   A context is set for deliberations during the conference and encourages conclusions on recommendations and actions forward.
+ PwC is privileged to be assisting FICCI in further summarising 
+proceedings, collating recommendations made during the conference and then supporting FICCI in advocating them.
+We sincerely thank FICCI for providing us this opportunity to be the 
+Knowledge Partner for this event.
+Like always, PwC will be glad to receive any feedback and 
+suggestions the readers have. 
+Deepak Mahurkar   
+Director, Leader, Oil and Gas Industry PricewaterhouseCoopers India Private Limited
+
+PwC4Energy security 
+in India
+Economic growth and prosperity of a country lies in its access to or availability of 
+energy. India, home to almost 18% of the world’s population, needs energy supplies to meet the Millenium Development Goals, and to sustain the growth of its economy. 
+Energy security is availability of energy when required, easy accessibility to energy 
+for the nation, with acceptable standards at affordable rates.
+The energy requirements for rapid growth will create a major challenge since these 
+requirements have to be met where domestic energy prices are controlled and world energy prices are high and likely to rise further. Since India’s domestic energy production is limited, dependence upon imports will increase. Import dependence in the case of petroleum has grown to be high and is projected to be more than 80% 
+in the 12
+th Plan (2012-17.) Even in the case of coal, import dependence is projected 
+to increase as the growth of thermal generation will require coal supplies, which 
+cannot be fully met by domestic mines.
+As regards world energy consumption in 2012, it has witnessed an increase of 2.1% 
+compared to 2.4% in 2011. The OECD countries were impacted by the economic 
+crisis and their energy consumption fell by 0.9%, in line with the 0.8% drop in the 
+European Union (EU) and 1.8% drop in North America. In China and India, energy consumption continued to grow steadily at 7.7% and 5.4%, respectively whereas energy demand in Japan fell by 0.6% as compared to the previous year. Africa and Latin America have also showed a positive trend with 5% and 2.4% growth, 
+respectively, in 2012.
+1
+In 2012, India was the fourth-largest energy consumer in the world, with 
+a consumption of 563 million tonnes of oil equivalent (MTOE) after China (2,735 MTOE), the US (2,209 MTOE) and the Russian Federation (694 MTOE). 
+Accordingly, the per capita consumption of energy is about 456 kilogramme oil 
+equivalent (KGOE) in India which is less than one third of the global average. This is very low as compared to the per capita energy consumption in some other countries, such as Japan (3,749 KGOE), South Korea (5,422 KGOE), China (2,025 KGOE) and the US (7,036 KGOE).
+2
+1 BP Statistical Review June 2013
+2 BP Statistical Review June 2013,  World Bank and PwC analysis
+
+Forging ties, Securing energy supply for a stronger economy5Energy demand scenario
+Overview of demand 
+The demand for primary energy 
+consumption of the world is expected to grow at a CAGR of 1.5% from 2010-2040 whereas during the same period, 
+India’s demand for primary energy will 
+grow at 2.7%; China at 2.6%; Brazil at 2.1%; Mexico, Chile at 2.5%.
+3 The 
+demand for primary energy in India will increase almost three times in 2035 to 
+1,516 MTOE from 563 MTOE in 2012. 
+India is also expected to almost double its share in the global primary energy consumption to almost 9% by 2035. 
+4
+In the near future, the transport sector will be the second largest consumer of energy in India. The share of this 
+sector will almost double from 10% in 
+2010 to 20% in 2040 in total energy consumption in the country. The energy consumption is set to grow highest in the commercial sector, at a CAGR of 5.5% 
+from 2010 to 2040.
+There are three major constituents of 
+the energy sector; oil, gas and coal. 
+Oil
+Even though several attempts have been 
+made to boost the domestic production of oil, imports constitute over 75% of 
+our total domestic oil consumption. The 
+domestic production is almost static over the years due to limited accretion of reserves, delays in commissioning of projects and declining production from 
+existing fields.
+As on 1 April 2012, India had total 
+reserves (proved and indicated) of 
+760 million metric tonnes of crude oil (MMT).
+5 The crude oil production will 
+remain almost stagnant in the 12th Plan. 
+In 2031-32, the consumption is expected to be in the range of 350 to 486 MMT 
+and the import dependency will be in 
+the range of 90 to 93%.
+3  International Energy Outlook, 2013 and PwC 
+analysis
+4  IEA World Energy Outlook 2012
+5  Ministry of Petroleum and Natural Gas End use energy consumption in India (MTOE)
+Source: International Energy Outlook, 2013
+India’s import dependence on crude oil 
+Source: Indian Petroleum and Natural Gas Statistics, MOPNG and PPAC
+Note: Imports include oil used for exported petroleum productsBrazil
+2012: 275, 2% 2020: 346, 3% 
+2035: 444, 3% 
+China
+2012: 2,735, 22%2020: 3,359, 23% 
+2035: 3,872, 23%Primary energy demand forecasts (MTOE, % share in the world)
+Source: BP Statistical Review 2013 and IEA World Energy Outlook 2012Brazil
+ChinaIndia
+2012: 563, 5% 2020: 974, 7% 
+2035: 1,516, 9% 
+World
+2012: 12,4772020: 14,922
+2035: 17,197India
+World
+PwC6
+Gas
+In India, both the production and 
+consumption of gas have increased over the years but production started 
+declining after 2010 mainly due to 
+lower output from the KG-D6 basin. The consumption of natural gas has increased over the years and is expected to be in demand in the future 
+as well due to its environmental and 
+economic benefits. India’s dependence on imported natural gas is expected to increase from 26% in 2012 to 54% in 
+2021-2022.
+6
+In India’s energy mix, natural gas 
+forms a minor part, constituting about 9% in 2012 and expected to increase multifold.
+7
+Coal
+The Indian economy is highly dependent on coal as a source of energy because it met 54% of its energy needs from 
+coal (2012). India ranks third in the 
+world in the consumption of coal and its demand is expected to grow further. The consumption has increased at a CAGR of 5.3% whereas production has increased 
+at a CAGR of 3.2% only from 2008-2012 
+leaving a gap for imports. Given the strong growth in thermal generation projected in the 12
+th Plan, the aggregate 
+demand for coal by the end of the 2017 is likely to be 407 MTOE depending 
+upon the pace of implementation of 
+power capacity. As against this, the domestic output is unlikely to exceed 317 MTOE, leaving a shortfall of over 90 MTOE.
+8
+6 BP Statistical Review 2013 and Demand Supply Projections for Gas during 12th and 13th Plans (Ministry of Petroleum and Natural Gas)
+7 BP Statistical Review 2013 and World Energy Outlook, 2012
+8 An Approach to the 12th Five Year PlanIndia’s import dependence on natural gas
+Source: BP Statistical Review 2013
+India’s import dependence on coal
+Source: BP Statistical Review 2013
+Forging ties, Securing energy supply for a stronger economy79 Directorate General of HydrocarbonsUnconventional hydrocarbons
+Exploration for conventional 
+hydrocarbons has been almost the sole focus of the oil and gas industry since it 
+began nearly 100 years ago. However, 
+most of the growth in the supply from today’s recoverable hydrocarbon resources is found in unconventional formations. Unconventional 
+hydrocarbons include gas hydrates, coal 
+bed methane, and shale oil and gas. 
+India, with the fifth largest proven coal 
+reserves and being the fifth largest coal producer in the world in 2012 as per the BP Statistical Review 2013, holds 
+significant prospects for commercial 
+recovery of coal bed methane (CBM). 
+Prognosticated CBM resource has been 
+estimated to be around 4.6 TCM.
+9 
+CBM exploration and exploitation has an important effect on reducing the greenhouse gas effect and in earning carbon credits in preventing the 
+direct emission of methane gas from 
+operating mines to the atmosphere further. Extraction of the CBM through the degassing of coal seams prior to coal mining is a cost-effective means 
+of boosting coal production and 
+maintaining safe methane levels in working mines. 
+With respect to oil shale, the current 
+position is that resources are not known with any measure of confidence. 
+Considerable amount of ground work 
+needs to be undertaken before the reserves can be established. As per the available data, six basins, Cambay (in Gujarat), Assam-Arakan (in the north-
+east India), Gondawana (in central 
+India), KG onshore (in Andhra Pradesh), Cauvery onshore and the Indo-Gangetic 
+basins hold shale gas potential.
+Some companies are interested in 
+exploring the Cambay basin in Gujarat, 
+the Assam-Arakan basin in north-east India, and the Gondwana basin in central India for shale gas resources, although there has been no commercial 
+production or publicly released reserve 
+figures. Joshi Technologies made the first shale oil discovery in Cambay Basin 
+in mid-2010. The government proposes 
+to unveil a shale gas and oil policy in the near future and to begin to sell shale gas development blocks. 
+A survey carried out by DGH 
+(Directorate General of Hydrocarbons) 
+in 1997 has indicated the presence of 
+several gas hydrate leads and prospects. 
+The total prognosticated gas resource from the gas hydrates in the country is placed at 1,894 TCM. But there are 
+challenges associated with the recovery 
+of methane from these gas hydrates.
+•	 Absence of representative 
+deepwater gas hydrates field anywhere in the world 
+•	 Gas production rate (gas in the production testing of Mallik well in Canada’s permafrost area has yielded very low production rate 
+and cannot sustain more than seven 
+days of production using thermal and depressurisation methods) 
+•	 Managing water production rate (high amount of water is expected to be produced along with the dissociation of hydrates) 
+•	 Sand control since the hydrate reservoirs exist at shallow depths 
+below the sea bed (200-400 mbsf) 
+and the sands here would not be consolidated due to absence of overburden pressure
+•	 Reservoir subsidence and other environmental hazards 
+Consumption of other fuels in India (MTOE)
+Source: BP Statistical Review 2013Renewable fuels 
+Conventional energy occupies a major 
+share of the energy mix in India. Other fuels such as nuclear energy, 
+hydroelectricity, other renewable 
+fuels like solar, wind and geothermal, biomass and others form only 8% of the total primary energy consumption in 2012. Hydroelectricity constituted 
+5% and other renewable energy 
+constituted 2% of the total primary energy consumption in India in 2012. Thus, non-conventional energy sources 
+have great potential to grow in India. 
+Out of all other energy sources, the consumption of hydroelectricity is  the highest.
+
+PwC8High trade deficit
+Widening of CAD
+Deterioration of India’s BOPs
+Drawdown of forex reservesPrice being paid for 
+dependence on imports
+Trade balance
+Refined products’ export as a 
+percentage of total exports of India has been increasing over the years. The 
+substantial crude oil import, however, 
+offset 56% of the foreign exchange earned through total exports in 2012-13. The oil trade deficit of India has risen over the years and it accounted for 
+almost 57% of the country’s total trade 
+deficit in 2012-13.
+India’s expenditure on oil imports as a 
+percentage of GDP has been increasing over the years. The average spending on oil imports has been higher for India 
+as compared to some of the major oil 
+importing countries in the world. The inelastic nature of oil imports implies that the higher the percentage of GDP spent on it, the higher the vulnerability 
+of the economy to external shocks. 
+Impact on economy
+Due to higher imports, the demand for 
+dollar increases more than its supply, causing the rupee to depreciate. 
+Depreciation of a currency is essentially 
+thought of as a self-correcting measure to boost exports and suppress imports causing the currency to strengthen again. However, in the case of India, 
+this does not happen. The import bill  
+increased by almost 9% as compared with the previous year due to a rise in global crude oil prices and the currency 
+depreciation in 2012-13. 
+Though non-oil import shows negative 
+growth, the high growth of oil import 
+causes the import bill to inflate by almost 4% in 2012-13 and the exports failed to pick up significantly. All these ultimately translated into a higher 
+current account deficit, which caused a 
+further decline in the value of the rupee.Oil and non-oil trade deficit (billion USD)
+Oil imports a percentage of GDP
+Impact of high oil imports on Indian economySource: Reserve Bank of India
+Source: World Energy Outlook, 2012
+Source: Reserve Bank of India and PwC analysisDepreciation of the Indian rupee Almost 4% of drawdown in 
+forex reserves from  
+April 2013 to July 2013 Impact on imports and exports
+InflationDeficit of 195.6 billion USD
+CAD is of 88.1 billion USD
+Capital inflows of 89.2 billion USD
+Forging ties, Securing energy supply for a stronger economy9The solution
+The Indian economy has entered into 
+a vicious circle that will break only if strong measures are taken for reducing 
+trade deficit including measures such 
+as   promoting capital inflows in the economy to bring about an improvement in the trade balance.
+Given the current trends in domestic 
+oil production, the import dependency on oil is bound to be around 90% of its 
+consumption in the next two decades. 
+This will require a higher percentage of GDP to be spent on oil imports, thereby further increasing India’s vulnerability to external shocks. Though the economy cannot be fully insulated 
+against external shocks, it can reduced 
+by reducing import dependency. Hence, it is necessary to explore the possibilities of enhancing the exploration and production of hydrocarbon resources by 
+promoting investment in the sector. Impediments to energy 
+security
+Domestic production
+In the foreseen future, 100% domestic 
+oil production required by India seems to be a distant possibility. However, 
+we have scope to increase production 
+and bridge the gap to a great extent. Almost 40% to 50% available oil has been already explored. Studies depict natural gas reserves in India remaining 
+largely unexplored.
+10 Similarly, for coal, 
+exploration efforts have been limited, 
+with activities starting in merely 100 of 
+the 208 sanctioned blocks.
+As the era of ‘easy oil’ draws to a close, 
+new finds will have to be made in 
+hitherto unexplored regions and areas that are difficult to reach.  Domestic oil and gas companies are challenged by capabilities in deep-water technologies, etc. This will necessitate joint ventures, 
+partnerships with global oil and gas 
+majors and service providers. Thus, our regulatory environment should be conducive enough to attract foreign investments. 
+Indian consumers are artificially 
+insulated from the vagaries of 
+international pricing by the government-
+controlled pricing regime. This leads to inefficient use of energy owing to the lack of appreciation of the real economic fuel value.  Unfortunately, the absence 
+of free markets acts as a disincentive 
+to investors, consequently leading to a weak supply. 
+The government has been unable to 
+attract investors in the exploration 
+and production (E&P) sector due to 
+uncertainties in pricing and allocation of hydrocarbon resources, complexity in granting of approvals and various clearances, interpretation of the terms of 
+production sharing contracts (PSCs) and 
+other such framework agreements. 
+To meet demand through domestic 
+efforts, it is of paramount importance that investment in upstream and downstream activities is pursued 
+vigorously. This will help ensure 
+insulation from energy shortages and hedging against international crude oil price volatility.
+10 DGH, Observer Research Foundation 2012Security of oil and coal imports
+Since most of the world’s hydrocarbon reserves are with the Middle Eastern countries, any internal or external 
+tension is bound to impact import of 
+these resources. The embargo on Iran has brought focus on the vulnerability of large consumers such as India (which imports more than half of its oil and gas 
+from the Middle East) to geo-political 
+tensions.
+India has to manage its sea lane security 
+through which much of its energy imports pass. Given India’s growing hydrocarbon imports (crude oil, LNG, 
+LPG, etc) as well as rise in refinery 
+exports (Gasoil, Euro V Gasoline, etc), the security of Indian seas becomes  significant  for ensuring access to foreign 
+oil and gas as well as the consuming 
+markets. Additionally, the importance of promoting domestic marine logistics (ports, jetties, tankers, etc) cannot be 
+ignored. For example, during the trade 
+embargo sanctions on Iran, the Indian government found itself in a challenging situation wherein the insurance cover to ships transporting crude oil from 
+Iran was stopped by the IG Clubs; a 13 
+member group which insures around 95% of the world’s tankers—placing a 1 billion USD limit on individual claims that involve pollution damage and 
+wreck removal. Further, the emergency 
+cover offered by the public company United India Insurance Co Ltd was not accepted. Such instances call for attention to not only strengthen the 
+existing facilities but also to prepare for 
+exigencies of this nature.
+With India sourcing its oil and gas 
+supplies from the Middle East, Africa, Latin America, South East Asia and Oceania, the safety and security of energy transportation routes has emerged as a second major challenge. 
+Piracy in the Gulf of Aden has become 
+a major global security issue. Nearly 25% of ship-attacks in this region are on oil tankers. The Indian Navy has been deployed to provide security to Indian 
+and foreign merchant fleets. So far it has 
+safely escorted around 2,000 ships.
+PwC10
+Equity oil and coal
+The Indian government does not 
+participate in acquiring equity assets abroad. Indian public sector units 
+(PSUs) and private sector companies 
+go abroad to acquire assets on their own strengths. The PSUs do receive support from the government, especially the Ministries of External Affairs 
+and Petroleum and Natural Gas, and 
+the Ministry of Coal for negotiating relevant assets.  Usually, this support is reactive, but helps in getting the 
+attention of respective countries and 
+their national oil companies. Whereas internationally, governments are known to provide funds, lines of credit, 
+encouraging setting-up of infrastructure 
+in the country with hydrocarbons, thus actively assisting in acquiring assets.  It thus does not remain a mere commercial 
+deal between oil companies and host 
+governments. It is treated as a national activity undertaken through their oil companies. During the project or operations phases, it is not uncommon 
+for such governments to support their 
+companies if political, social, regulatory or commercial instability related risks arise. Indian PSUs have in some cases suffered from loss of concessions, 
+undue taxation, lack of cooperation by local authorities, tardy responses by host governments on clearances and 
+permissions, and such other challenges with almost zero support from the Indian government. 
+India thus needs to acquire energy assets 
+abroad to enhance its energy security. As part of its energy security strategy, 
+India has entered into cooperative 
+relationships with several oil-producing countries in Africa and the Middle East. It has also allowed public sector companies such as Oil and Natural Gas 
+Corporation (ONGC) and Oil India 
+Limited (OIL) to secure ownership of oil and gas fields and companies overseas. 
+The government has encouraged 
+companies to acquire overseas upstream assets as a way to shield the domestic 
+energy sector from global price 
+volatility. Indian companies hold large stakes in Sudan’s GNOP block and Russia’s Sakhalin-1 project. Recently, Indian firms have also explored assets 
+in the Caspian Sea and Central Asia. For 
+example, ConocoPhillips announced that it was selling its stake in a north Caspian Sea production sharing agreement to ONGC in late 2012. Hess 
+Corp announced a similar deal with 
+ONGC for oil fields in Azerbaijan.
+11Diplomatic  relationships
+India needs to have its presence felt in the oil and gas producing countries. The government needs to attribute prime 
+importance for having its representatives 
+engage in a continuous dialogue with the oil-exporting countries. It needs to encourage a healthy amount of trade with these countries by offering our 
+robust products and services such as IT 
+software, garments, etc.
+World’s most energy efficient country in 
+2012: The United Kingdom (UK) 
+-  The ACEEE (American Council for an Energy-Efficient 
+Economy), International Energy Efficiency Scorecard
+The UK produces over 17,000 USD of GDP per tonne of oil equivalent consumed as primary energy.  It has invested significantly in improving energy efficiency 
+through government spending, and its commitment to 
+reducing energy consumption in buildings, industry and transportation sectors has been producing positive results. Each sector has several government programmes that help advance the general objectives of reducing 
+energy consumption and carbon dioxide emissions.
+Residential and commercial buildings have a mandatory 
+disclosure of building energy consumption and have 
+implemented mandatory energy performance certificates for all buildings on sale or lease. These certificates give grades to homes for their current and potential energy 
+efficiency. They provide recommendations for cost-
+effective action to improve building efficiency. The country has made great strides to improve energy 
+efficiency in the industrial sector. It has established a 
+mechanism to monitor, evaluate and report industrial consumption. The UK’s industrial sector consumes the second lowest amount of energy consumption relative to the industrial GDP.
+The country has a mandatory fuel economy standard 
+in place. As a result, its average on road passenger fuel 
+economy is high. In addition to fuel economy standard, 
+the government has put in place several policies that promote the purchase of fuel-efficient vehicles.
+The UK government has introduced a climate change 
+levy which is a tax on the use of energy (natural gas, coal, LPG and electricity) that applies to industry, 
+commerce, agriculture and the private sector. This is to 
+fund programmes that provide financial incentives for the adoption of energy efficiency and renewable energy. This study, confirms against perceptions, of UK emerging as one of the most energy-efficient nations. The UK 
+government’s efforts in this context need to be lauded.11 http://www.eia.gov/countries/cab.cfm?fips=IN
+Forging ties, Securing energy supply for a stronger economy11Efficient use of available 
+energy 
+Energy efficiency
+A country’s prosperity depends on its 
+energy consumption to a large extent.  Zero-energy-usage is not conservation, 
+efficient use of energy is.
+India ranks fourth in terms of energy 
+demand in the world. As it is highly 
+dependent on imported oil to meet its energy demand, it raises the question of energy security. Though India is taking steps towards achieving the goal of 
+energy security, we need to emphasise 
+energy efficiency.
+ Immense potential exists in energy 
+efficiency, particularly in the use of domestic equipments such as pumps, heating, ventilation, air-conditioning 
+and lighting areas.  Also, wise energy 
+usage can help cut down air and water pollutants, contributing to a sustainable environment. 
+It is of crucial importance for the 
+developing and the developed nations to realise that most energy resources are 
+exhaustible. Hence the only alternative 
+would be an additional emphasis on not just acquiring these resources but their efficient and optimal use and management starting at the most micro 
+level of a household.Optimising renewable energy  
+in India
+•	 Developing a solar cum biomass 
+based cooling system for village-level cold storage: A vapour 
+absorption machine will be 
+combined with a biomass gasifier system and a field of solar collectors, slated to preserve fruits and vegetables in cold storage. This 
+source of energy can also supply 
+electricity at the village level.  
+•	 As the demand for power grows exponentially and conventional fuel based power generating capacity grows arithmetically, SPV based power generation can be a source to meet the expected 
+shortfall. Especially in rural, far-
+flung areas where the likelihood of conventional electric lines is remote, SPV power generation is the best alternative.
+•	 Solar cookers can be used to cook food in rural and semi-urban area 
+yet solar cookers have not found  
+the acceptance and popularity hoped for. Promoting renewable energy
+Renewable sources of energy such as sunlight, wind, rain, tides and geo-thermal heat, are abundantly available 
+in India. As against fossil fuels, they  
+do not emit green-house gases. Switching over to renewable energy sources is one of the major ways of mitigating climate change. 
+The government has formulated various 
+policies to encourage businesses 
+and install more renewable energy 
+capacity. As a result of an encouraging investment climate, wind power has grown rapidly in the country. From about 41 MW in 1992, the total installed capacity has reached almost 18,000 
+MW this year. Biomass, another crucial 
+energy resource, too has witnessed substantial growth in the last few years. The government has now set a target of achieving solar energy installations 
+of 20,000 MW by the year 2020. 
+Renewable energy today constitutes a significant part of India’s energy mix and is set to grow further in the coming 
+years. One per cent of the total energy 
+mix was contributed by renewable energy sources in 2002. Various subsidies for the RE sector including accelerated depreciation benefits for 
+Indian wind energy sector; the share of 
+renewable energy in India’s energy mix has grown drastically. From 6% in 2007, it almost grew to twice that size in 2012. 
+Share of renewable energy in India’s energy profile
+Source: MNRE and CEAThermal2002: 71%2007: 65%
+2012: 65%Hydro
+2002: 25%2007: 26%
+2012: 20%Nuclear
+2002: 3%2007: 3%
+2012: 3%RES
+2002: 1%2007: 6%
+2012: 12%
+PwC12International 
+collaboration for 
+India’s energy 
+security 
+India has made path breaking agreements with countries such as Sudan, Russia, Mozambique, etc. 
+ONGC Videsh Ltd (OVL) has invested over 2.5 billion USD in the Greater Nile Petroleum Operating Company (GNPOC) in Sudan in 2003. Annually the OVL’s blocks provide approximately 2.4 million 
+tonnes of crude oil. OVL also acquired Sakhalin-1, a large oil and gas field in Russia in July, 2001. The 
+company holds 20% stake in Sakhalin-1 block, with an investment of 1.7 billion USD and Imperial Energy in 2009 at a total cost of 2.1 billion USD.
+ Indian public sector companies have been involved in many signature deals. A consortium of Indian 
+PSUs--ONGC Videsh, Oil India, and Indian Oil Corporation—has acquired two development blocks located in Carabobo area of Orinoco Heavy Oil Belt, Venezuela. 
+Indian private sector companies are also active in acquiring oil and assets abroad on solo and consortium 
+basis both. Videocon Hydrocarbon Holdings, a wholly owned subsidiary of Videocon Industries, and Bharat PetroResources Ltd, a unit of BPCL hold 10% each in Rovuma basin in Mozambique. OVL and 
+Oil India recently acquired stake in Mozambique gas field from Videocon Industries. OVL is also close to 
+acquire stake from Anadarko subject to other partner’s consent. OIL has properties in Libya, Gabon, Iran, Yemen, Nigeria, Egypt, and Venezuela. Reliance, through its Reliance Exploration and Production DMCC arm, has seven oil and gas (conventional) overseas blocks. It has assets in Yemen (two), Peru (two), 
+Australia (one) and Colombia (two), besides shale gas assets in the US. 
+India has collaborated well with oil-rich countries but has a long way to go still. China has successfully 
+acquired assets almost all over the world. In terms of seeking cooperation from energy-rich countries, 
+China, Malaysia and South Korea are much ahead of us. The deal success rate is considerably low in India compared to China. The Chinese government is involved in almost all deals facilitating it from all angles.
+India needs to have a sharper strategy to aid its companies in acquiring assets abroad. The Indian 
+government has to visualise an opportunity before other countries do. We have the potential of acquiring better prospects in the Middle Eastern countries due to physical proximity, Russia as our old ally, Brazil 
+(member of BRIC), Latin America, Argentina, etc. 
+The government needs to support both the public and private oil and gas companies while acquiring 
+assets abroad. It needs to guide them, make them think innovative; encourage them to go wherever 
+they see molecules and where production is economic. Indian oil companies (IOCs) have to connect with other national oil companies (NOCs) of the world. Finally, Indian oil companies need to have more autonomy.
+While we have several challenges in international collaboration, our relationships with countries such as 
+Mozambique, US, Australia, Myanmar, Iraq, etc are commendable. 
+Forging ties, Securing energy supply for a stronger economy13FDI in oil and gas
+FDI policies
+The existing FDI policies are liberal 
+for the oil and gas sector. Recently, the FDI policy for the sector was changed. 
+The FDI cap for the sector was left 
+unchanged at 49%; however foreign investment up to 49% will no longer require FIPB approval. Hundred per cent FDI is allowed in petroleum products, exploration, gas pipelines and marketing and retail through the automatic route.
+Current status of inward 
+investments
+From April 2000 to March 2013, the oil 
+and gas sector has received FDI of about 5.4 billion USD. This sector received 6% 
+of total FDI received in 2007-08, which 
+was encored in FY 2011-12.  The FDI in oil and gas and total FDI in all sectors were observed to be the highest in 2011-12. The refinery sector has attracted the 
+maximum FDI out of total oil and gas 
+investment in the country.
+The approval of 49% FDI via the 
+automatic route in PSU refineries is bound to have major positive implications including, surge in foreign 
+capital, access to an easy investment 
+route and technical advantage to the Indian PSUs. This allows them to collaborate with foreign entities with the latest technology and improve their 
+comparative advantage in the global 
+markets significantly.Views of international companies
+The oil and gas sector provides comparatively easy access to foreign players in India. In terms of major international oil companies’ 
+participation, British Petroleum (BP) 
+acquired 30% of RIL’s share in the KGD6 gas field for 7.2 billion USD in 2011. Royal Dutch Shell has been active in the LNG business in India, owning the 
+Hazira LNG terminal commissioned 
+in 2005 (Hazira, 2012). However, the overall interest of major IOCs in the Indian upstream oil and gas sector remains low due to persisting issues 
+remaining unresolved, including a 
+distorted pricing mechanism, under-utilisation of domestic resources, slow decision-making, over-governance, delayed judicial proceedings, policy 
+instability, etc.
+ Some recurring themes as stated by 
+international companies about doing 
+business in the Indian oil and gas sector include the following:Infrastructure related to marketing of petroleum products and natural gas, natural gas pipelines, 
+LNG regasification infrastructure, market study and formulationCurrent FDI policy in the petroleum sector,  subject to sectoral policies
+E and P Refining Infrastructure 
+FDI equity 100% • 49% for PSUs without divestment or 
+dilution of domestic equity in existing PSUs
+• 100% for private organisations 100%
+Route Automatic • Automatic route for PSU partnership (recently)
+• Automatic route for private firms Automatic
+FDI trends in Indian O&G sector
+Source: Ministry of Petroleum and Natural Gas•	 Although India does not have 
+substantial resources that are likely to attract global firms, international 
+oil and gas companies still remain 
+interested in investing in India. Such investments are known to face various hurdles for permissions.
+•	 The government approval takes a lot of time which affects the deals in this industry. It disturbs the foreign 
+players.  A strong case in point 
+would be the delay in government approvals for Vedanata Resources’ purchase of a controlling stake 
+in Cairn India Ltd from Scottish 
+explorer Cairn Energy Plc.
+•	 Territorial disputes between neighbouring countries affect the business of the companies. For e.g.  Santos International Operations Pvt Ltd had won two blocks in the 
+sixth round of NELP. These two 
+blocks, in the Bay of Bengal, cover an area of 16,500 sq km, and India and Bangladesh both have claimed territorial rights in the region. 
+The Foreign Ministry has taken 
+up the issue with the Bangladesh authorities, but not much has been achieved as yet.
+•	 The government does not compensate the companies for delays. Even if the Ministry 
+of Petroleum and Natural Gas 
+provides the permission but due to other ministries the projects get delayed. For e.g. Canadian 
+operator GeoGlobal has postponed 
+its investments till the next financial because  the Home and Civil Aviation Ministries had refused to 
+PwC14grant the company permission for 
+aerial surveys to help determine the geology of its two blocks in the 
+Naxal-prone region of Maharashtra. 
+BHP Billiton Petroleum had to stop exploration work at its 10 offshore blocks, off the west coast near Mumbai, after the Indian Navy 
+objected to the company carrying 
+out surveys in the navy’s practice areas. This is despite the Defence Ministry clearing these blocks for 
+survey and initiation of work.
+The Oil Ministry is aware of the problems the foreign explorers are 
+facing. The Ministry asked for an inter-ministerial group to be set up to clear the maze. 
+Security to oil imports
+Dependence on oil exporting 
+countries
+India imports almost 82% of its crude 
+oil requirement. Saudi Arabia is India’s largest supplier, providing about 19% 
+of oil imports. Approximately 64% of 
+India’s imported oil came from Middle East countries in 2012. The second biggest source of imports is Africa (17%), with the majority of that oil 
+coming from Nigeria.
+Importance of the Middle East and 
+South America
+Almost 70% of the world’s oil reserves 
+are available in the Middle East, South and Central America. Seventeen per 
+cent of the oil reserves in the world 
+are situated in Venezuela, placing it at the topmost position in terms of these reserves. 
+India imports almost 64% of its oil 
+requirement from Middle East. Due to US and EU sanctions over Iran, India 
+will have to link with other countries in 
+the Middle East for importing oil. Iraq has promised to supply more oil for its growing needs and Saudi Arabia has 
+maintained its continuous exports.India’s crude oil imports by source, 2012
+Source: US Energy Information Administration
+Due to political instability in the Middle 
+East and increasing domestic demand for energy, India is keen on decreasing 
+its dependency on OPEC to meet its 
+oil demand, and increasing its energy security. As a result the quantity of oil from Latin America has gone up very significantly. The result of this strategy 
+can be seen with Venezuela soon 
+emerging to be a significant supplier. ONGC Videsh, Indian Oil Corp, and Oil India have purchased stake in a 
+large Venezuelan oil field, Carabobo-1. 
+Reliance has developed a long-term partnership buying crude oil from Mexico, Venezuela, Ecuador, and Brazil. India also imports coal from Latin 
+America, despite its plentiful domestic 
+reserves. Proven oil reserves in the world (2012)
+Source: BP Statistical Review 2013
+Indian oil companies have important assets in Sudan, Nigeria, Libya and Egypt. Angola and Nigeria are major 
+suppliers of crude. In Sudan, they have 
+investments in a pipeline.  An important part of India’s strategy is to diversify its import basket.
+Forging ties, Securing energy supply for a stronger economy15Diplomatic relationships with oil 
+exporting countries
+India has strategised its diplomatic 
+relationship towards the oil exporting countries based on non-intervention. It 
+has used soft power or trade diplomacy 
+to expand ties with all such states - regardless of their domestic politics and their historical or sectarian rivalries with one another. It is eager to enhance 
+its ties with Saudi Arabia as it influences 
+the strategies of other oil exporting countries in the world. 
+India provided 100 million USD to 
+renovate Iran’s Chabahar port, which it uses to ship goods to Afghanistan. Indian elites and businesses are keen on pursuing opportunities in investment, 
+sale of consumer goods and tourism in 
+gulf countries. However, it is seen to be alert with respect to its dealing with Iran now. 
+India has a maritime security 
+arrangement in place with Oman and Qatar. In 2008, a landmark defence 
+pact was signed, under which India 
+committed its military assets to protect Qatar from external threats.  There has been progress in a proposed deep-sea 
+gas pipeline from Qatar, via Oman, to 
+India.
+In January 2006, Saudi Arabia and the 
+Indian government signed an agreement forging a strategic energy partnership that was termed the ‘Delhi Declaration’. It provides for a reliable, stable and 
+increased volume of crude oil supplies to 
+India through long-term contracts. 
+Initiatives by the Ministry of External Affairs, India
+A new division on ‘energy security’ was created within the Ministry of External Affairs (MEA) of the government of India in 2011 and was designated as ‘the nodal point for ‘energy security’ related matters involving coordination with 
+line ministries, the Planning Commission, Indian missions and posts abroad, 
+international organisations and foreign missions. The overarching theme in its mandate is of securing equity investment and bilateral energy deals in energy exporting countries in Africa, Latin America, Central Asia and South East Asia.
+The Ministry of External Affairs need to pay greater attention to deepening 
+political exchanges, as well as strengthening of economic and commercial linkages with energy surplus countries. A sustained diplomatic intervention 
+and follow-up with foreign governments with regard to efforts by our corporate 
+both in the public sector and private sector, to acquire energy assets overseas is required.
+The oil PSUs have sought the MEA’s help on specific projects and have given 
+suggestions, including setting up trade promotion activities in oil rich countries, to help companies bid more effectively for oil blocks. Among the suggestions 
+made to the MEA are to take a leaf from China’s policy of combining energy 
+investments with aid and export credits. China’s aggressive policy includes helping oil companies compete effectively by combining aid with energy investments in many African and Latin American countries. Though India does not have the resources that China can muster for such a strategy, it was felt that 
+there is a need to follow a more calibrated approach.
+Energy diplomacy must be conducted in synergy with the domestic efforts to 
+ensure energy security for the country.The government will need to 
+increasingly enter into alliances and partnerships with key nations in Asia, 
+Africa, Latin America, etc to diversify the 
+energy supply base and improve long-term supply security.
+Now, in the world, trade will not only 
+depend on the business profitability but relationships as well. India needs to have open relations with the energy 
+surplus countries in the world. It will 
+benefit by actively participating in the energy rich countries growth and development matters too.  India should 
+have certain trade agreements with 
+them ensuring the security of energy for it and exporting the goods required by them in return. The government needs to building strong economic partnership with hydrocarbon-rich countries. Oil and 
+gas today are not mere commodities to 
+be traded freely; they are often used by countries to meet their political objectives. 
+Diplomatic intervention becomes 
+essential because many of the oil and gas assets are with nationally owned 
+companies. The quest for overseas oil 
+assets is with the understanding that ultimately the world has to follow an interdependence model rather than 
+an independence model in the field of 
+energy.
+PwC16Dimensions of equity oil and 
+coal
+Financial viability: Not the only 
+parameter
+With such a huge energy deficit in the 
+country, India cannot afford to acquire assets abroad with the sole evaluation 
+parameter of financial viability. Indian 
+energy companies will need the government’s support while biding for energy assets abroad. The companies bid to meet the threshold returns which 
+seldom allow winning assets. In such 
+cases, the government has a scope to step in to sweeten the deal by giving it a social, infrastructural or economic 
+angle. It can provide the required social 
+support and infrastructure, etc in the country where the asset is based or funding support to our companies if they are short of financial viability. Indian 
+government can help the companies 
+in dealing with its counterpart in the other countries by putting diplomatic influence on the deal. 
+Energy surplus countries are 
+increasingly beginning to leverage their resources for promoting infrastructure 
+development in their countries and 
+it will  be important for not only focus on developing more intensive political contacts with those countries through high level exchanges but 
+also to encourage Indian companies 
+for securing  greater involvement in capacity-building and infrastructure development in those countries. 
+Capacity building has become a 
+necessary aspect of energy deals. Local state companies should be major stakeholders. Tapping into energy resources in countries that do not have 
+sound oil and gas infrastructure and 
+helping them establish their own energy industries will bring about a win-win situation where both are able to share the benefits. To facilitate this task, we 
+should be prepared to leverage more 
+effectively instruments such as the concessional lines of credit and technical assistance.
+Recognising the domination of international oil companies India should take initiatives where competition is 
+minimal even if that means a high risk. 
+The risk factor may be managed by soliciting strategic support from the government of the host countries. The government in turn should be insured 
+by financial assistance and investments. 
+Thus state-backed finance deals have been crucial. 
+Forging ties, Securing energy supply for a stronger economy17Where is the future of coal and oil?
+While the efforts of Indian energy 
+companies are laudable, there is still an extra mile to be covered by our firms 
+to be at par with global competition. 
+Domestic oil and gas PSUs will need to increase their operation scales, innovating along the way. They have to be more fleet-footed in making use of 
+global opportunities, both on the supply 
+and demand side. We can no longer be complacent and must learn to think strategically, to think ahead and to act 
+swiftly and decisively.
+The accelerated demand for energy 
+makes it imperative for India to garner 
+assured and continuous supply of energy at reasonable prices through internal efforts and acquiring international 
+acreages.Can PSUs and private companies 
+collaborate?
+Public-private partnership is the key 
+to energy security for most countries. The fiscal incentives provided by 
+the government clubbed with the 
+technological innovations of the private companies may result in effective public-private partnership. Trust is the cornerstone of any relationship 
+especially when the public and private 
+players, with seemingly conflicting interests, come together to explore the natural resources of the country.
+Both the public and private sector 
+should collaborate to secure oil equity overseas. The government on their part must facilitate and encourage such 
+partnerships and aggressively pursue 
+the strategy of acquiring overseas oil and gas assets. Ensuring India’s energy security requires active participation from Indian industry, both public and 
+private sector, with support from the 
+government to secure fuel supply at predictable and affordable prices.
+Public-private partnership and 
+domestic energy companies should be permitted to enter into joint ventures 
+to create the financial leverages 
+required to successfully bid for overseas investments.
+
+About FICCI 
+Established in 1927, FICCI is one of the largest and oldest apex business organisations 
+in India. FICCI’s history is closely interwoven with India’s struggle for independence, industrialisation and emergence as one of the most rapidly growing global economies. 
+FICCI has contributed to this historical process by encouraging debate, articulating the 
+private sector’s views and influencing policy. A not-for-profit organisation, FICCI is the voice of India’s business and industry. FICCI draws its membership from the corporate sector, both private and public, including MNCs; FICCI enjoys an indirect membership of 
+over 2,50,000 companies from various regional chambers of commerce. 
+FICCI provides a platform for sector specific consensus building and networking and is the first port of call for Indian industry and the international business community. Our Vision: To be the thought leader for industry, its voice for policy change and its guardian for effective implementation. 
+Our  Mission: To carry forward our initiatives in support of rapid, inclusive and 
+sustainable growth that encompasses health, education, livelihood, governance and skill development; and to enhance the efficiency and global competitiveness of the Indian industry and to expand business opportunities both in domestic and foreign markets 
+through a range of specialised services and global linkages.
+For more information, log onto www.ficci.com
+Contacts
+Vivek Pandit  
+Senior Director & Head – Energy  Federation of Indian Chambers of 
+Commerce and Industry 
+vivek.pandit@ficci.comGayatri Prabhakar (Ms.)  
+Deputy Director - Energy Federation of Indian Chambers of 
+Commerce and Industry 
+gayatri.prabhakar@ficci.com  
+Contacts
+Deepak Mahurkar
+Leader, Oil and Gas 
+PricewaterhouseCoopers India Pvt Ltddeepak.mahurkar@in.pwc.comNitu Singh
+Knowledge Manager, Oil and Gas PricewaterhouseCoopers India Pvt Ltdnitu.singh@in.pwc.comAbout PwC 
+PwC* helps organisations and individuals create the value they’re looking for.  We’re a network of firms in 158 countries with more than 180,000 people who are committed to delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, 
+Bangalore, Chennai, Delhi NCR, Hyderabad, Kolkata, Mumbai and Pune.  For more information about PwC India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member 
+firm is a separate legal entity. Please see www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+pwc.in
+Data Classification: DC0: For general use only
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers 
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or 
+liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in 
+India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member 
+firm of which is a separate legal entity.
+NJ 70 - August 2013 Forging ties.indd
+Designed by: PwC Brand and Communications, India

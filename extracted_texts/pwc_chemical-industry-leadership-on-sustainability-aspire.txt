@@ -1,0 +1,871 @@
+Title: pwc_chemical-industry-leadership-on-sustainability-aspire
+Date Published: 2013-03-04 19:08:17+05:30
+Source: pdfs/pwc_chemical-industry-leadership-on-sustainability-aspire.pdf
+
+--- CONTENT ---
+
+ASPIRE
+An agenda for the Indian chemical industry to 
+achieve leadership on sustainability
+www.pwc.in
+March 2013  
+Background Pg 2/External drivers Pg 4/CEOs on sustainability Pg 8/ 
+Industry response  Pg9/ASPIRE: An agenda to deepen sustainability Pg 14  
+/Concluding remarks Pg 18/Further resources Pg 19 
+2    PwC1Chapter
+Background
+The recognition of the need for ‘sustainable development’ 
+in the 1980s and 1990s provided the framework for 
+‘corporate sustainability’ as it is practiced today. What 
+does sustainable development entail? There are many definitions of sustainable development, but perhaps the 
+most articulate is the 1987 one provided by the World 
+Commission on Environment and Development’s (the Brundtland Commission) report, Our Common Future: 
+‘Development that meets the needs of the present 
+without compromising the ability of future 
+generations to meet their own needs’.  
+This concept requires us to think of the world as an 
+interconnected system – where decisions made have far-
+reaching repercussions, across geographies and across 
+timelines. Meeting the need for power generation in one country may result in acid rain in another. The need for 
+more and more crops to feed a growing world population 
+is requiring greater use of pesticides, water and eating into forested lands. 
+In a world whose population is already bursting at the 
+seams, and expected to reach nine billion by 2050, 
+sustainable development is not a chimera but a  potent 
+reality that has to be accounted for. Population growth, unbridled resource exploitation, climate change, 
+pollution and other factors have brought the world to 
+a development pathway that is not sustainable. With seemingly insatiable appetites for consumption, we 
+are now definitively living beyond our means. If we 
+fail to alter the status quo, things are only going to worsen. Consumption and production patterns have to evolve and lead this transformation. Therefore, businesses have to decisively engage themselves with sustainable 
+development – they lie at the heart of the current resource 
+use-production-consumption-disposal nexus.  Without their active participation, neither the questions, nor the answers 
+can be found.  
+Given the size, influence and impact of business, it is quite 
+clear that they have a significant role to play in meeting the 
+world’s sustainable development goals. The triple-bottom line concept, with the themes of  ‘people, planet and profit’ 
+was a milestone that led to clearer articulation of the 
+ecological and social impacts of business and how they need to reinvent their business models to ensure that they remain 
+profitable and contribute to sustainable development.   
+This evolution is perhaps best illustrated by the chemical 
+industry’s sustainability journey. Exposed to human-health 
+and safety risks, companies embraced ‘Responsible Care’
+i  
+in the early 1980s.  Through the Global Product Strategyii, 
+the industry has committed to the safe management of chemicals in their entire life cycle. Over the decades, 
+this agenda has evolved – from prevention to product stewardship and now innovation to find answers to pressing 
+world challenges. Availability of sustainable raw materials 
+is likely to be the next key lever in the journey.  While the chemical industry has traditionally remained at the forefront 
+of the business sustainability agenda,  it also implies that 
+the industry’s legacy makes stakeholders very conscious of the sustainability aspects associated with chemical 
+companies. Though society places immense value on the 
+utility of chemical products in day-to-day life, it has also become sensitive to the disturbing knowledge that chemical 
+  Chemical industry leadership on sustainability: ASPIRE     3  
+products can cost more than just the monetary price. 
+Accidents, industrial or otherwise, and the unknown 
+affects of several chemicals, have led to intensifying 
+public scrutiny. This underscores the need for the industry to maintain the tempo of its sustainability 
+efforts. It must be said that the industry has always 
+shown its intent to address the expectations and the burden of responsibility  
+placed on it. 
+In this context, this report examines the 
+sustainability practices at global and Indian chemical 
+companies. It then provides takeaways on what Indian chemical companies can do, to pick up speed 
+on their own sustainability journeys. It is based on 
+desk reviews of publically available data, published sustainability disclosures and PwC’s knowledge of 
+the chemical industry and sustainability issues. The 
+report is organised as follows:
+• Section one outlines the external environment 
+drivers in the chemical industry – globally  
+and in India.
+• Section two provides the perspectives of the  CEOs of chemical companies.
+• Section three provides the industry response  
+from global and Indian chemical companies. 
+• Section four provides recommendations for  
+the industry in India to accelerate the 
+mainstreaming of sustainability. 
+4    PwC2Chapter
+External drivers 
+The external drivers shaping the sustainability agenda for the 
+chemical industry are discussed in this section. These drivers 
+are categorised into regulation driven and stakeholder driven. 
+Regulations 
+Global developments
+Chemicals as an industry has been the subject of intense 
+regulation. The history of accidents, and the resultant damage 
+to human health, flora and fauna and the environment was 
+undoubtedly the trigger in the 1980s. The Bhopal gas tragedy remains a stark reminder for the sector. There are two key 
+areas concerning regulations – one relates to the management 
+of chemicals including disclosures and health impacts, and the second relates to prevention of chemical accidents and 
+chemical safety.
+When it comes to the management of chemicals, even today, 
+while progress is being made to develop better information 
+on the effects of chemicals, this data remains limited to 
+select chemicals. Several developed countries have already or are in the process of enacting regulations that require 
+more disclosure on chemicals, for example through data 
+submission under the European Union’s REACH programme, United States Toxic Substances Control Act (TSCA), Canada’s 
+Table 1: Frameworks and regulation in the chemical industryiii 
+Timelines Themes Sub-themes
+1970s Controlling chemical pollution Air quality, water protection, waste water controls
+1970s Remediating contaminated sites and managing waste chemicals Site remediation, management of chemical wastes, emergency response and spill management
+1970s Controlling dangerous chemicals Food and drug safety, pesticide management, workplace health and safety
+1980s Preventing chemical pollution and accidentsCleaner production systems, chemical accident prevention programmes, sustainable agriculture 
+1980s Managing chemical information Chemical testing programmes, hazard communication, product declaration, national chemical databases, global classification and labelling
+1990s Managing chemicals in products Eco-labelling and eco-design programmes, product-level safety norms in cosmetics, toys, etc, extended producer responsibility programmes, sustainable procurement programmes
+2000s Generating safer chemicals and encouraging resource efficiencyGreen and sustainable chemistry programmes, green engineering programmes, chemicals leasingChemicals Management Plan (CMP), Globally Harmonized 
+System of Classification and Labelling of Chemicals (GHS) 
+and the Japanese Chemical Substances Control Law. Many developing countries too have implemented laws to manage 
+chemicals, but the implementation is poorly resourced and 
+often fragmented and ineffective, lagging well behind the manufacture and usage of chemicals which is proliferating at 
+a rapid pace. 
+Another area of regulation is centred on the prevention and 
+management of chemical accidents. In the United States, 
+concern about chemical accidents after the Bhopal gas tragedy led to the passage of the 1986 Emergency Planning 
+and Community Right-to-Know Act. In Europe, the Seveso 
+accident in 1976 prompted the adoption of legislation. The resulting ‘Seveso’ directive now applies to around 10,000 
+industrial establishments where dangerous substances are 
+used or stored in large quantities, mainly in the chemicals, petrochemicals, storage, and metal refining sectors. The 
+usage of chemical weapons has emerged as another area 
+of regulation. The Chemical Weapons Convention aims to eliminate an entire category of weapons of mass destruction 
+by prohibiting the development, production, acquisition, 
+stockpiling, retention, transfer or use of chemical weapons by governments and state actors. The historical evolution of 
+regulation in the industry is summarised in table 1. 
+  Chemical industry leadership on sustainability: ASPIRE     5  Developments in India
+In India, the industry has been subject to a host of 
+regulations, particularly since the Bhopal gas tragedy. Besides 
+overarching regulation on environment protection and waste 
+management, specific regulation also applies to the chemicals sector – such as clearance requirements for new projects in 
+certain downstream chemical industries, irrespective of the 
+investment amount. With the launch of the Draft National Chemical Policy, multiple regulations may be consolidated – 
+drawing on the example of Reach. 
+The Draft National Chemical Policy, 2012 released by 
+the Ministry of Chemicals and Fertilizers, Department of 
+Chemicals and Petrochemicals, Government of India in 
+2012 is a landmark development for the industry.  The policy accords high importance to aspects of research and 
+development, safety, sustainability and green chemicals. Key aims of the Draft National Chemical 
+Policy, 2012
+• Facilitate investments. 
+• Creating demand potential
+• ‘Responsible Care’ certification 
+• Facilitate access to the latest technologies
+• Establish a Chemical Standard Development 
+Organisation
+• Set up a national chemical centre
+• Incentives for green products
+• Framework for chemical disaster management
+• Research and development, specifically low water intensive, environmentally compliant and safe  green processesThe policy articulates the need for a consolidation of multiple regulations and policies into a single holistic 
+framework. Sustainability is one of the mainstays of the 
+policy. It encourages companies to seek ‘Responsible Care’ certification. It envisages identification of focus areas and 
+then supporting educational and research institutes to 
+develop low water intensive, environmentally compliant and safe green processes. Incentives for green products and 
+processes are also discussed in the draft framework. Industry 
+specific guidelines for chemical disaster management are on the anvil, with coordination from the National Disaster 
+Management Authority. 
+The Five Year Plan document (2012-2017) for the chemical 
+industry also stresses on sustainability – particularly resource 
+and environment sustainability. Areas include water, environmental impact, raw materials, safety over lifecycle 
+and energy use. 
+At an overall level, the last 18 months have witnessed the 
+strengthening of regulatory push on ESG issues in India. The 
+launch of National Voluntary Guidelines for Responsible 
+Business, guidelines by Department of Public Enterprises on Sustainable Development; on Corporate Governance 
+of CPSEs; and on Research and Development for CPSEs 
+illustrates this. The SEBI’s directive in August 2012 requiring top 100 companies by market capitalisation to report on 
+‘business responsibility’ illustrates towards larger investor 
+and capital market interest in the sustainability performance of companies. Several petrochemical companies are 
+included in this. While majority of chemical companies in 
+India are currently not subject to this requirement, it may be worthwhile to embrace reporting before it becomes a 
+regulatory imposition. 
+The proposed Companies Bill, 2012 with section 135 on 
+corporate social responsibility (CSR), will also apply to 
+companies in the industry. Enhanced corporate governance, envisaged in the bill, will engender the need for companies to 
+institute more rigorous internal governance procedures. 
+6    PwCStakeholder expectations
+Stakeholders across different dimensions of society are 
+now more vocal than ever about their expectations from 
+companies, requiring companies to be more proactive in 
+addressing ESG concerns. These include communities, NGOs, customers, capital providers/lenders, communities impacted 
+by operations, vendors, employees, and governments. India 
+in recent years has witnessed land acquisition concerns which have impacted mining and auto companies, community 
+concerns on water withdrawal that have impacted beverage 
+companies, and human rights issues in the supply chain that have impacted manufacturing companies. 
+Investors
+Investors globally are demanding ESG standards for companies. For example, Ceres tracks shareholder 
+resolutions filed by its investor network participants on 
+sustainability-related issues. These resolutions are part  of broader investor efforts encouraging companies to  
+address the full range of ESG issues. The resolutions are  
+filed by some of the nation’s largest investors, many of  whom are members of Ceres’ Investor Network on Climate 
+Risk (INCR). In India, investors appear to be less concerned 
+about sustainability beyond safety, emissions/discharges  and community engagement.NGOs and civil society actors
+Civil society organisations have often been a potent force pushing for greater regulation of the industry and specific 
+sub-sectors. For example, SIN (Substitute It Now!) List is an 
+NGO driven project working towards elimination of toxics, developed by ChemSec. Greenpeace’s ‘ipoison’ and ‘iwaste’ 
+campaigns encourage prominent electronics’ manufacturers 
+to eliminate toxic chemicals from their products. Another Greenpeace campaign attempts to examine hazardous 
+chemicals used in the textile industry. 
+Customers
+Customers, particularly large multinational enterprises are 
+also asking supply chain partners to examine sustainability 
+performance. The chemical industry is a supplier to food 
+and beverage, agriculture, pharmaceuticals, electronics, automotives, industrial products, infrastructure, etc. Large 
+buyers and customers are implementing performance 
+standards for their value chains.  Unilever has collaborated with academia to explore sustainable chemicals for personal 
+and household products. An external expert team assesses 
+the risk of toxic effects occurring in the environment as a result of the use and disposal of ingredients used in Unilever’s 
+home and personal care products. The ‘zero discharge’ pledge 
+by 2020 has been made jointly by companies including 
+
+  Chemical industry leadership on sustainability: ASPIRE     7  Adidas, Nike and Puma. The companies have committed to 
+phase out the use of hazardous chemicals in their supply 
+chains. Beverage companies, traditional large consumers 
+of PET resins are now initiating the usage of bio-PET in packaging. These developments are expected to have knock-
+on effects in the chemical industry. 
+Communities
+Awareness has spurned communities in several pockets of 
+the world to hold companies accountable for their actions. In 
+India, where the country is still early on in its development 
+trajectory, community consent is even more sensitive. Since the 1990s, the country has witnessed community coming 
+together to protest projects that threatened their land, 
+livelihood or health. Often, the government has had to intervene – and subsequent regulatory response has included 
+the bill on displacement and rehabilitation that is expected to 
+be tabled in the Parliament soon. 
+As a result, community engagement at both the project and 
+operations stages is becoming an inescapable necessity for operations which are close to the homes and livelihoods of 
+people. It is increasingly apparent that communities will also 
+provide the ‘licence to operate’ . 
+Employees
+A 2012 studyiv  based on surveys of 746 employees from 20 
+different industries in three developed countries, the US, 
+UK and Germany, and in three emerging market countries, 
+China, India and Brazil has suggested that employees are willing to make less money in order to work for sustainable 
+companies. More than 15 percent of employees in the US, UK 
+and Germany have taken a pay cut to work for a sustainable company. Employees are placing greater importance on 
+behaviours related to eliminating negative effects of business 
+practices, including ensuring employee safety, reducing pollution and eliminating child labour.
+Industry peers
+The Global Chemical Industry Sustainability Summit (2012) held at Brussels also grappled with questions pertaining to 
+sustainability in the industry. Consumers were not willing 
+to pay a premium for greener products, and for want of a sustainable business model, there is limited transition 
+to greener products. At the same time, larger chemical-
+consuming sectors have shown commitment to move to ‘zero’ – zero waste, zero emission or zero hazardous chemicals. 
+Expectations are now being made of the chemical industry – 
+whether it would move to zero toxicity soon.
+8    PwC3Chapter
+CEOs on sustainability
+PwC conducts an annual global CEO survey, which 
+attempts to gain perception of what the leaders of the 
+world’s largest enterprises are currently dealing with. 
+The 16th Annual CEO Survey 2013 has the theme of ‘Dealing with Disruption, Adapting to Survive and Thrive’ 
+covering 1,330 CEOs across 68 countries
+v. The survey 
+suggests a prevailing mood of restrained optimism. It is easy to understand why they are so cautious. Far-
+reaching changes are happening – and are happening faster than before. Between 1970 and 2011, the number 
+of manmade disasters nearly tripled, while the number of 
+natural disasters surged sevenfold. In short, improbable risks aren’t so improbable now; they are becoming the 
+norm in a more uncertain world, and CEOs everywhere 
+are feeling the heat. From a sustainability perspective, building trustworthy relationships through dialogue with 
+stakeholders was an important finding. The majority 
+of CEOs are strengthening their engagement with the stakeholders they see as influential — social media is 
+becoming an increasingly important tool. With social 
+media giving a voice to diverse groups of stakeholders, CEOs are recognising the need to secure a stronger social 
+mandate by rebuilding public trust. From promoting 
+an ethical culture to increasing workforce diversity and reducing environmental impacts, they are pursuing a wide 
+array of initiatives to simultaneously support their growth 
+strategies, establish the right mandate and  boost resilience.
+ Considering the specific survey findings from the 
+chemicals industry, chemicals CEOs have the strongest 
+focus on innovation of any industry we surveyed. Three-
+fifths of them said R&D and innovation is one of their top three investment priorities over the next 12 months 
+– almost double the overall average, and significantly 
+more than other innovation-driven industries like  pharmaceuticals and life sciences and technology. More 
+than three-quarters of them also say that they will make 
+changes to increase R&D and innovation capacity. 
+A lot of what is driving innovation at chemicals companies 
+is linked to customer needs. Commitments from large powerful buyers of chemical products could instigate 
+a significant shift in prevailing market dynamics – and 
+provide a breeding ground for newer, sustainable, human-friendly chemical compositions.  Innovation is one way 
+that chemicals companies stay ahead of the competition. 
+Many chemicals CEOs are keeping a close watch on what industry peers are doing, with 61% saying that industry 
+competitors and peers have a significant influence on 
+business strategy – again, far more than the overall average of 45%. Some of the industry’s most powerful innovations 
+are helping other industries lower their carbon footprint. 
+But chemicals production itself is also energy intensive, uses primarily fossil fuels as a raw material, and requires 
+other natural resources like water too. Many chemicals 
+executives are keenly aware of the need to reduce the industry’s overall environmental footprint. Two-thirds 
+plan to increase their focus in the coming 12 months. And 
+looking forward over the next three years, 38% also say that they will make bigger investments in addressing the 
+risks of climate change and protecting biodiversity. 
+Nearly half of the CEOs plan to put more effort into 
+reducing their organisation’s environmental footprint 
+in the coming year. Meanwhile, 41% plan to focus more 
+heavily on non-financial reporting. Many CEOs are also aiming, more broadly, to improve national outcomes. Over 
+the next three years, 61% plan to invest more in creating 
+a skilled workforce and 45% in maintaining the health of the workforce.
+  Chemical industry leadership on sustainability: ASPIRE     9  4Chapter
+Industry response
+Global chemical companies
+If the collective world vision for a sustainable 21st century 
+is to be realised, the chemical industry would have to play 
+a key role in this transition. Chemicals are a necessity – yet, 
+there are known and unknown low to high impacts in terms of human health and environmental degradation associated 
+with their production, use, and disposal. Governments, 
+civil society actors and the general public are becoming increasingly vocal reiterating that both the environment 
+and human health are at risk – owing to the prevalent 
+management of chemicals and associated waste streams. The concerns become even more pronounced for developing 
+countries like India – where there is rapid growth in both the 
+quantity and range of new and existing chemicals. 
+Globally, chemical companies are showcasing their 
+sustainability intent. A desk review of the disclosures by 
+leading chemical companies points to sustainability risks  and opportunities being mainstreamed in business 
+operations. Companies included in the universe of this  
+review include DSM N.V. (Netherlands), Dow Chemical Co. (United States), Bayer AG (Germany), BASF SE (Germany), 
+Solvay Chemicals (Belgium), DuPont (United States) and 
+Akzo Nobel N.V. (Netherlands). Key findings from the analysis are summarised below. 
+Reporting and disclosures
+Among the global companies that we studied, all had published some disclosures and five chemical companies 
+(Akzo Nobel, BASF, Dow Chemical, Bayer and DSM) have 
+external assurance or verification over their sustainability reporting, with four of the five company reports receiving 
+assurance or verification. 
+Companies that seek to demonstrate greater transparency, 
+or attain leadership positioning, use a larger number of 
+international frameworks to report and communicate. These include responses to the Carbon Disclosure Project, Dow 
+Jones Sustainability Index, FTSE4Good Index, UN Global 
+Compact and Global Reporting Initiative guidelines. Material issues
+A ‘material issue’ is commonly understood in accounting parlance as a factor that can have a significant financial 
+impact on the company. Extrapolated to sustainability, 
+the concept underscores issues that may have significant 
+environmental, social, or even financial impacts. This is 
+based on both what the company perceives to be material, as well as its stakeholders. 
+Core thematic material issues for the industry revolve 
+around a preponderance of environment and safety parameters. Within this overarching premise, specific 
+issues pertain to resource challenges such as water, energy, 
+raw materials; and extend to addressing environmental challenges of climate change, air emissions and waste 
+management. Safety encompasses occupational safety, 
+product safety – from manufacture, to use and disposal.  This also comprises the wider dimensions of accident 
+prevention, ecosystem protection, spill management and 
+disaster response. 
+Product stewardship and innovation is a newer theme 
+observed amongst several companies. The nomenclature varies though – being referred to as ‘sustainable chemistry’, 
+
+10    PwC‘green chemistry’, ‘innovation’, etc. However, the outcomes 
+envisioned are similar – to use chemistry as a tool to find 
+breakthroughs to pressing world challenges – such as food, 
+energy, healthcare and environmental conservation. This is by way of interventions in agri-sciences, pharma-sciences, 
+better energy-performing chemicals, high-performing 
+environmental products, etc. 
+On the societal axis, community engagement and employee 
+well-being are dominant themes. Helping external stakeholders — customers, governments, suppliers and 
+industry — use chemicals effectively and safely features 
+prominently. Engaging communities and employees is part of broader corporate citizenship manifestos across the industry. 
+Strategic approach to sustainability
+Sustainability is recognised as both as a business driver and a business outcome – and not viewed in isolation. Systematic 
+risk and opportunity identification are an ongoing exercise. 
+For example, the Dow Chemicals mission statement is ‘Strive to eliminate all injuries, prevent adverse environmental and 
+health impacts, reduce waste and emissions, and promote 
+resource conservation at every stage of the life cycle of our products’. Bayer AG’s mission is ‘Science for a better life’.  In 
+addition to the corporate sustainability agenda, product level 
+sustainability constructs are being formulated. Sustainability messaging is evolving simultaneously on operational 
+footprints, and product footprints. Action points are being 
+developed around procurement of renewable raw materials, and higher environmental performance of products.
+Mostly, goals have been identified along seven key buckets 
+of air emissions, energy, GHG emissions, health and safety, water, waste/spills and innovation. Most of the companies 
+have goals spanning the entire range of themes. 
+• Air emissions reduction goals primarily centre around 
+VOC, with targets ranging as high as 70%.
+• Energy usage and greenhouse gas emissions goals are 
+generally in the form of intensity reduction commitments 
+and targets ranging between 7% and 25%.
+• Health and safety goals cover a diversity of metrics 
+beyond the standard lost time/recordable injury rates, 
+with commitments ranging from process safety incidents 
+to driver/vehicle accidents to occupational illnesses.
+• Innovation goals typically focus on increasing sales from 
+existing products that have become more sustainable or 
+from new products using sustainability as the innovator (based on ‘green chemistry’).This is particularly relevant in the current context. Large 
+buyers of chemicals are now consciously aiming to 
+incorporate product sustainability in their value chain, and the ripple effects on the companies will undoubtedly have 
+repercussions on the current state of play. For example, Akzo 
+Nobel mentions that one of its paint applications ‘Dulux Weathershield Sun Reflect’ reduces temperature of outer 
+walls, thus reducing the need for air-conditioning.  Given 
+that the market size of green chemistry is expected to reach 100 billion USD by 2020, the opportunity to capitalise 
+through product stewardship is already on the table. 
+Several companies have a strategy focussed on developing green products. Dow Chemicals has a KPI on increasing 
+the percentage of sales 10% for products that are highly 
+advantaged by sustainable chemistry.
+Companies are also developing tools that can quantify the 
+sustainable attributes of products. For example, BASF has developed an eco-efficiency analysis tool that compares 
+sustainability of products and processes. It evaluates raw 
+materials consumption, energy consumption, land use, air and water emissions and solid waste, toxicity potential, 
+and risk potential from misuse. On similar lines, it has also 
+developed a socio-eco efficiency analysis methodology  called ‘Seebalance’ and methodology for sustainability 
+metrics in agriculture called ‘Agbalance’. 
+Stakeholder engagement
+Companies are seen to be reporting about having  
+systematic stakeholder engagement processes instituted. 
+Intelligently identifying stakeholders who can drive, block 
+or shape the discourse around sustainability can prove to be the decisive factor that can render engagement exercises 
+meaningful or ineffective.  Another factor is the fashion 
+in which the actual dialogue is conducted – whether independent of the company, and in a neutral environment. 
+The actual methodology employed – such as one-to-one 
+meetings, workshops or email/telephonic discussions also exert a certain degree of influence on the effectiveness of  
+the process. 
+The benefits of structured engagement are manifold. It can 
+deepen the company’s insights into societal and customer 
+trends, drivers and needs. It can help in building consensus 
+for advocacy goals and topics. Generating trust and 
+endorsement for the company can be an upshot. Finally, and 
+perhaps most significantly, stakeholder engagement informs materiality, and can be a prescient precursor to risks and 
+opportunities not yet strategically assimilated. For example, 
+BASF has engaged with over 300 different stakeholders from around the world, and used their inputs to identify and 
+prioritise over 40 material sustainability issues. 
+  Chemical industry leadership on sustainability: ASPIRE     11  Chemical companies are seen to be speaking with a 
+diverse set of stakeholders including customers, suppliers, 
+employees, communities, government and regulators, 
+universities and academia, among others. However, what stands out is that companies are members or alliance 
+partners of industry forums and global protocols that focus 
+on sustainability. These include World Business Council for Sustainable Development, World Resources Institute, 
+UN Global Compact, Alliance to Save Energy, Sustainable 
+Packaging Coalition, Global Environment Management Initiative, UN World Food Programme, IUCN’s Leaders for 
+Nature, Product Carbon Footprint Project, UN CEO Water 
+Mandate, among several others. Such membership is likely to be a fertile ground for industry insights, and also offer 
+platforms for advocacy of industry-specific concerns. 
+Sustainability governance 
+Top-management and board-level commitment to 
+sustainability is seen across the universe.  Management 
+of sustainability is a responsibility of specially formulated 
+sustainability committees/councils  or by the existing EHS 
+committee also responding to voluntary responsible care 
+guidelines. These committees report either to the CEO or the board or a specific board nominee. BASF, for example, 
+talks of the council role in developing strategy, while the 
+steering committees under it manage global implementation, project teams of employees draw up concrete measures, and 
+the sustainability centre coordinates internal projects and 
+stakeholder dialogue. 
+Some of the companies have established advisory panels 
+comprising representatives from external opinion leaders 
+and community members. These ‘Community Advisory Panels’ act as internal watchdogs to ensure sustainability levers are incorporated in ongoing and future projects.  
+They are also a conduit to channel community feedback  
+and concerns to the board and top management. 
+In a nutshell, global chemical companies generally have 
+more available sustainability information, more detailed sustainability reports, and greater likelihood to establish 
+sustainability goals. This is likely due to other industry 
+drivers, such as the responsible care standard and a greater number of EHS regulations. Additionally, the leading 
+chemical companies are typically based in the United States 
+and Europe, where EHS and sustainability regulations and reporting practices have been long established as part of 
+business culture.
+Many companies set goals off a baseline year and set a 
+target to be achieved in the short to medium term. It is 
+typical for the baseline year to be the fixture in establishing 
+all the various types of goals against it and measuring all 
+the progress against this baseline year, used as a ‘snapshot’ for year-to-year comparison. Setting goals on an intensity 
+basis seems to be the common metric, as many companies 
+seek to achieve goals on the themes of ‘reduction’ while these organisations are still striving to achieve increases 
+in profitability, sales, market share, etc. Energy and 
+greenhouse gas intensity goals are very prevalent and have a blend of both operational and market drivers, as the other 
+five categories of goals are typically operational focused, 
+based on desired performance improvements against regulatory/industry drivers. (for air, health and safety, 
+water, and waste/spills goals), or market-focused, based 
+on a desire to achieve/maintain industry leadership (for innovation goals). The commitment to zero toxicity is now 
+the centre of attention. 
+
+12    PwCIndian chemical companies
+India’s chemical industry represents only around 3% of the 
+global chemicals. Indian companies, due to their limited 
+contribution to the global industry, have escaped the 
+unrelenting scrutiny that their larger global counterparts have been subjected to since the 1980s. However, emerging 
+trends in the global chemical industry reveal that it is 
+witnessing a gradual eastward shift – towards Asia. India, undoubtedly, will account for a substantial share of the 
+new market. In this upcoming scenario, Indian companies 
+would be compelled to act on a range of issues, previously neglected or hovering at the fringes of boardroom agendas. 
+These issues could range from better corporate governance, 
+intellectual property protection, aggressive R&D, up-skilling local talent and sustainable raw materials, among others. A 
+focus on sustainability would certainly be one of the many 
+expectations from Indian companies.
+Chemical companies in India have demonstrated 
+commitment to sustainability and initiated a range of 
+sustainability programmes, drawing on best practices adopted by global peers. However, unlike industries such as 
+cement, where sustainability as an agenda has evolved in a 
+broad-based manner among industry players, the chemical companies in India are as yet, at varying stages of the 
+sustainability journey. The efforts, while laudable, are apparently sporadic and spontaneous lacking the rigour of global companies’  pre-
+meditation of material risks and opportunities. Very few companies have mainstreamed sustainability in core business 
+and operations, whereas a few are devoting their energies to 
+focussing on individual sustainability issues such as safety, product stewardship and resource efficiency, among others. 
+A desk review of sustainability information in the public 
+domain by Indian chemical companies points to a few key 
+trends. The key observations are as follows:
+Reporting and disclosures
+A desk review of publicly available sustainability disclosures 
+indicate that very few Indian chemical companies have 
+cohesive and holistic sustainability reports based on 
+internationally recognised frameworks. A majority of the companies have a section on their websites primarily 
+reporting on community and environmental initiatives. In 
+such cases, the absence of defined objectives or an umbrella sustainability ambition renders it difficult to truly assess 
+the sustainability performance and progress over time.  At 
+the same time, the domestic arms of international chemical companies are seen to be reporting in alignment with their 
+parent companies’ protocols for disclosures.
+Material issues
+There are a few key themes that begin to emerge based on the 
+analysis of sustainability performance of the Indian chemical 
+companies. In several cases, improvements in  environmental 
+performance and resource efficiency are put at the centre of corporate sustainability or corporate citizenship 
+programmes. Safety, viewed in terms of product safety, 
+transport safety and safety of exposed employees is another common theme. A few companies are also engaging suppliers 
+to sensitise the latter to sustainability issues and concerns. 
+Majority of the companies have undertaken programmes focusing on community and socials aspects. These include 
+efforts to improve local infrastructure, economic and social 
+conditions, health camps, and raising awareness about health and disease-prevention. Systematic approach to stakeholder 
+engagement or identifying material issues is not adapted 
+across the industry. Only few companies have built strategies around material issues linked to business. Material issues are 
+largely restricted to resource and community, and a holistic 
+assessment of issues in the light of current socio-economic context and business environment is called for.  
+
+  Chemical industry leadership on sustainability: ASPIRE     13  Strategic approach to sustainability
+Currently, sustainability efforts are largely confined to 
+that of being a good corporate citizen  - through resource 
+management and community engagement. Some companies 
+though have been able to articulate their sustainability ambitions beyond this. For example, availability of skilled 
+talent, transportation safety of products, or chemicals as an 
+enabler to find solutions for problems of hunger or health are some issues that have been recognised by a few companies. 
+Some companies have also actively taken on targets under sustainability, and communicate their progress through 
+sustainability reports and communications. Availability of raw materials and feedstocks – in the light of fossil fuel 
+availability, and concerns about their impact on climate 
+change is another area. Sustainability is still not viewed as ‘beyond compliance’ or ‘beyond business as usual’. The figure below on “Sustainability evolution in the global chemical 
+sector” offers an interesting juxtaposition of where Indian 
+chemical companies are vis-a-vis their peers. 
+Stakeholder engagement
+Systematic approach to stakeholder engagement is not broad-based among the players. It is confined to specific stakeholder groups and is need-based, and reactive. Even the results of 
+these interactions are not available publically – or its linkages 
+shown with materiality or strategy.  
+A few Indian companies have become signatories to protocols 
+and frameworks including Responsible Care, Global Compact and others. Reporting guidelines such as the Global 
+Reporting Initiative provide broad basis for companies 
+to monitor and measure performance, and introspect on gaps, anticipated risks and mitigants. With the increased 
+scrutiny of the industry and strengthening of regulations on 
+the industry globally, the choice to adopt framework and incorporate associated covenants is expected to no longer 
+remain a choice, but become a hygiene factor. 
+Sustainability governance 
+Tangible governance structures and their disclosures are 
+not seen. Policy level interface with sustainability is also 
+limited in scope and application. While companies are seen 
+to have EHS and CSR representatives, their interaction among themselves and with the top management for the 
+setting of agendas is not prevalent. Committees and task-
+forces are formed for specific environmental or community projects, which needs to be integrated into a company-wide 
+framework on sustainability. Value 
+CreationValue 
+Erosion
+1980sRisk 
+managementManaging for 
+valueStrategic 
+advantage
+1990s 2000s 2010sMitigating the 
+environmental impact of operations and chemical accidents; 
+improvement of 
+workplace and product safety Product stewardship grows out of the need for greater  transparency on the composition of chemicals and impacts Product stewardship grows out of the need 
+for greater  transparency 
+on the composition of chemicals and impactsSustainable product sourcing, bio-sourcing, corporate governance, skilled workforce, supply chain and  emissions management
+Indian chemical 
+sector is hereSustainability evolution in the global chemical sector
+14    PwC5Chapter
+ASPIRE: An agenda to deepen 
+sustainability
+The sustainability premise of global chemical counterparts 
+was driven by a host of external drivers – both regulatory 
+and the expectations of various stakeholders. India today is 
+at the threshold of a similar paradigm shift. Auto companies have had to relocate operations due to community demands. 
+Beverage companies have had to demonstrate their genuine 
+efforts at replenishing water to counter community distrust. Investors have withdrawn from mining companies on account 
+of sustainability risks. The government has been active – 
+setting the stage for a range of voluntary and mandatory measures aimed at better corporate governance, and greater 
+focus on the triple bottom line. Civil society organisations are 
+likely to emerge as vociferous champions of causes, which may be at ends with current business practices.
+Having said that, these developments are not bereft 
+of opportunities for the Indian chemical industry. 
+Energy efficiency and renewable trading schemes being 
+implemented in India provide a valuable starting point for galvanising efforts. Chlor alkali sector is covered under the 
+‘Perform-Achieve-Trade’ scheme on energy efficiency. Larger 
+B2B customers are likely to become more vocal about their demands for incorporating sustainability considerations – 
+be it ecological, environmental or social. This is a definite 
+incentive for sustainable innovation. 
+The stage is therefore ripe for chemical companies to chart 
+their own pathway of sustainable development – and to do 
+so in a manner of its choice. Before regulations or external pressures necessitate imminent interventions, a voluntary, 
+thought-out, industry-wide commitment can prove to  
+be decisive. 
+Internationally, chemical companies have internalised the 
+idea that responsible business is no longer a ‘good to have or nice to have’ concept but is a matter of good business 
+practice. The proliferation of frameworks and protocols to 
+this effect further testifies to the urgency. So what should the Indian chemical industry do to proactively, and on its own terms, become globally relevant on the sustainability front? 
+ASPIRE provides such an agenda.
+A =  Adapt and adopt sustainability frameworks
+S =  Engage Stakeholders
+P =  Prioritize material issues
+I =  Integrate sustainability with core business
+RE =  REport, disclose, communicate
+Adapt and adopt frameworks
+Taking a cue from the practices of global chemical majors, 
+Indian chemical companies could consider adapting and 
+adopting internationally accepted sustainability frameworks 
+and protocols in the Indian context. These frameworks offer industry specific guidance and principles, as well as 
+a consolidated repository of best practices. As a platform 
+for listening to international peers, the protocols provide a channel for discussion and learning. Some of the frameworks 
+have covenants for complying with certain principles, which 
+would enable a company to establish in-house processes and policies around compliance of these principles. 
+A good starting point could be the alignment of the chemical 
+industry’s global Responsible Care programme with the 
+National Voluntary Guidelines (NVGs) notified by the 
+Ministry of Corporate Affairs. The industry as whole could initiate a industry-specific version of the NVGs, that offers 
+more priority to particular industry issues. This may be led 
+by the Indian Chemical Council in partnership with the Indian Institute of Corporate Affairs, the think-tank set up 
+by the Ministry of Corporate Affairs. These frameworks can 
+provide the guidelines that can enable companies to engage 
+  Chemical industry leadership on sustainability: ASPIRE     15  and deepen their sustainability commitments. The box below 
+page demonstrates the overlap between the NVGs  
+and Responsible Care. 
+Areas of overlap: Responsible care and 
+NVGs
+Resposible care
+• Continuously improve the EHS performance of 
+technologies, processes and products.
+• Resources efficiency and minimisation of waste.
+• Report on performance, achievements and shortcomings.
+• Listen, engage and work with stakeholders.
+• Cooperate with governments in the development and implementation of regulations and standards.
+• Responsible management of chemicals along the product chain.
+NVGs
+• Ethics, transparency, and accountability.....3
+• Product life cycle sustainability....1, 6
+• Employees’ wellbeing
+• Stakeholder engagement.....4
+• Human rights
+• Environment.....1,2
+• Policy advocacy.....5
+• Inclusive growth
+• Customer valueEngage stakeholders
+Stakeholder engagement – which is covered by Principle 4 of the NVGs – is the most critical activity that can throw up 
+enormous insights on what the external world is expecting of 
+you and your industry. Identify who are your most important stakeholders, and talk to them beyond routine transactional 
+matters. Record these discussions develop action points and 
+track them. If necessary, engage third parties to undertake the consults, to give the stakeholders complete comfort in 
+a neutral non-threatening environment. It may throw up 
+insights, unanticipated risks or untapped opportunities that internal company housekeeping might have missed. It would 
+also inform your materiality analysis. 
+The box below captures BASF’s approach on stakeholder 
+engagement.
+Establishing a company task force composed of in-house professionals and external academic and NGO expertise 
+to review performance evidence to identify patterns and 
+explore possible solutions might be one way to ensure accountability and transparency in achievements and 
+performance. Inviting community representatives and 
+opinion leaders to join the taskforce can also add immense benefits at project approval phase. Such ‘community 
+advisory panels’ have been instituted by several companies 
+such as BASF. 
+16    PwCPrioritise material issues
+A materiality analysis is an evaluation of sustainability 
+issues affecting or expected to affect the company and its 
+stakeholders. This informs overall company strategy and 
+sustainability disclosures. 
+Therefore, figuring out what is material to you and your 
+stakeholders should ideally be the starting point of a well-rooted, coherent sustainability strategy. Think of what your 
+peers are doing, and what could be anticipated regulation 
+based on global and domestic developments. Use this literature to initiate internal dialogue, brainstorm, and 
+together with the stakeholder feedback – to develop your 
+own materiality framework. 
+While developing the framework, make sure to think of 
+emerging issues beyond business as usual, which may 
+not currently occupy mainstream attention in India, but 
+could prove to be decisive. These could include product stewardship for the greater good, such as solving global 
+challenges of hunger, malnutrition and disease. Another 
+issue could be supply chain and how suppliers are managing 
+their own social or environmental sustainability. Or how 
+a chemical company can ensure safer transportation of its materials in a country like India, where reliable 
+transportation options are few. Another issue that is expected 
+to emerge for Indian companies is procurement of adequate and reliable quality feedstock.  
+Integrate sustainability
+Sustainability requires that companies, while striving for financial success, accept responsibility for their impact on 
+and relationships with a diverse group of stakeholders and 
+their expectations. It thereby enables the risk paradigm to be viewed more holistically than the traditional enterprise risk 
+management (ERM) framework which is well entrenched in 
+leading chemicals companies. Beyond economic, strategic and operational factors, it allows social and environmental 
+considerations to be factored in as emerging risks.  At the 
+same time, it provides forethought on opportunities that may be overlooked by other analytical and systems-driven approaches. Sustainability combined with traditional risk identification and analysis tools provides decision makers the 
+information that they need to make better, more informed 
+decisions on myriad risks, including environmental, social, economic, operational and strategic issues.
+This provides the business case to integrate sustainability 
+issues with core business processes of product development, 
+packaging, innovation and research and development. 
+Sustainability is not a stand-alone exercise unto itself but an umbrella strategic agenda that cannot be realised in 
+isolation of a company’s business and products.  Designating 
+functional heads as issue owners or agenda owners with specifically delineated KPIs can mainstream sustainability 
+thinking throughout. 
+For example, large global chemical companies look at their 
+businesses for fructifying their sustainability objectives. 
+‘Green chemistry’, ‘chemistry innovation’, ‘science for a 
+better life’ all point to utilising the core chemical business for environment and society positive solutions. 
+Once material issues have been identified, issue wise 
+ambition, goals, objectives and metrics may be developed. 
+Individual departments could be assigned specific KPIs , and 
+a scorecard aggregated at the company level. Tracked on a continuous basis, this would enable companies to improve 
+baseline sustainability performance, and assess reasons for 
+deviation from set targets. The box below captures a sample of Bayer’s targets and KPIs on sustainability.
+Bayer’s targets and KPIs on supply chain  performance include the following:
+• Inform all suppliers with purchase-order-relevant 
+volumes about the Bayer Supplier Code of Conduct
+• Assess the sustainability performance of suppliers that represent ≥ 75% of the total procurement volume and ≥ 75% of the procurement volume from risk areas
+• Annually audit the sustainability performance of at least 10% of the suppliers from risk areas or at least  15 suppliers
+  Chemical industry leadership on sustainability: ASPIRE     17  
+Some of this is already being mandated through NVG’s, 
+proposed Companies’ Bill and the SEBI circular. Hence, it 
+stands to reason that the chemical industry may decide to 
+embrace this in its entirety, and be the trendsetters for  other industries.
+Case study: DuPont development of 
+sustainability strategy
+Initial state
+• Corporate centre led.
+• Sustainable growth successes were infrequent  
+and serendipitous.
+• Sustainable growth, or product opportunities  
+from sustainability, was originally a corporate  
+centre function.
+• DuPont then focused on building business unit capacity 
+to analyse sustainability opportunities.
+Evolved state
+• Results driven by accountability at business unit level.
+• Sustainable growth metrics (sustainable value added /lb of product) created a focal point and  
+initial alignment.
+• Efforts intensified after inclusion of sustainability in 
+annual business unit evaluations.
+• Business units customised metrics to their particular segments and strategies. 
+18    PwC6Chapter
+Concluding remarks
+This report presents an overview of sustainability 
+performance and initiatives at a range of chemical  
+companies that recognise the need to rise to the current 
+challenges and opportunities. It explores the scope for the Indian chemical industry to mainstream sustainability and 
+capitalise on new opportunities and markets. But, just as 
+importantly, it considers the need for enhanced engagement between Indian companies and their global peers, where 
+knowledge transfer and joint and collaborative working 
+relationships could help move the industry towards the common goal of sustainable development. 
+The industry’s legacy has necessitated regulatory 
+intervention throughout the last three to four decades.  
+It has always been confronted by stakeholders to change  
+its reactive approach to sustainability. The industry itself  has always shown willingness to own up and course correct. 
+But the trust deficit is likely to continue. The abatement 
+of this deficit, and subsequently building trustworthy relationships is something that the industry would have 
+to continue to work hard at. Market disruptions would 
+undeniably fuel this — the industry’s largest customers are looking for help in changing the extant paradigms by  
+moving to greener chemicals.  The Indian chemical industry has a long journey ahead 
+of itself. Its economic resurgence is only just starting. 
+Decoupling this growth from a larger environmental 
+footprint consciously can embed sustainability structures, and contribute to a resilient future. Not least among these 
+is the process of innovating and showcasing technology and 
+solutions. In addition, individual sub-sectors can contribute based on their specialist knowledge of products. The 
+chemical industry is downstream to several other sectors 
+in India that are also at the cusp of growth — building infrastructure, pharmaceuticals and healthcare delivery, 
+agriculture sciences to name a few. The chemical industry 
+must recognise that it is the one of the pivotal actors that can deliver sustainable development outcomes for these 
+upstream industries – solutions to hunger through crop 
+science, or healthcare or building materials solutions for a climate positive infrastructure.
+The government is already trying to get companies  
+to start thinking of ESG issues, governance and  
+corporate citizenship through various measures —  
+voluntary and mandatory. It is perhaps now time that the industry also enhances its commitment to act on this agenda 
+– and act quickly. 
+  Chemical industry leadership on sustainability: ASPIRE     19  7Chapter
+Further resources
+Draft National Chemical Policy, 2012 http://chemicals.nic.in/DNCP_2012.pdf
+Indian chemical industry – XIIth five year plan (2012 -2017) http://planningcommission.nic.in/aboutus/committee/
+wrkgrp12/wg_chem0203.pdf
+Global Chemicals Outlook Synthesis Report, UNEP (2012) http://www.unep.org/pdf/GCO_Synthesis%20Report_
+CBDTIE_UNEP_September5_2012.pdf
+PwC’s 16th Global Annual CEO Survey (2013) http://www.pwc.com/gx/en/ceo-survey/index.jhtml
+Sustainability information for AkzoNobel N.V. www.akzonobel.com/sustainability/ 
+Sustainability information for BASF SE http://www.basf.com/group/sustainability_en/index 
+Sustainability information for Bayer AG http://www.bayer.com/en/sustainable-development-reports.aspx 
+Sustainability information for Dow Chemicals http://www.dow.com/sustainability/ 
+Sustainability information for DSM N.V. http://www.dsm.com/en_US/cworld/public/sustainability/pages/home.jsp 
+Sustainability information for DuPont http://www2.dupont.com/chemicals/en-us/ch/index.html 
+Sustainability information for Solvay group http://www.solvay.com/EN/Literature/SD_2008_2012_Report_EN.pdf 
+Sustainability information for Unilever http://www.unilever.com/sustainable-living/uslp/ 
+Indian Chemical Industry, A Sector Study, Occasional Paper No. 117 by Export-Import Bank of India (2007) http://smallb.in/sites/default/files/knowledge_base/reports/IndianChemicalIndustry.pdf
+Handbook on Indian Chemical Industry (2010) prepared by 
+FICCI, Tata Strategic Management Group and Roland Berger 
+Strategy Consultants http://www.rolandberger.com/media/pdf/Roland_Berger_
+India_Chem_20101109.pdf
+REACH http://ec.europa.eu/enterprise/sectors/chemicals/reach/index_en.htm
+CERES Investor Network on Climate Risk http://www.ceres.org/incr/engagement/industry-dialogues 
+Chemical Weapons Convention http://www.opcw.org/chemical-weapons-convention/
+Global Product Strategy  of International Council of 
+Chemical Associations (ICCA)http://www.icca-chem.org/Home/ICCA-initiatives/Global-product-strategy/
+Globally Harmonized System of Classification and Labelling of Chemicals (GHS)http://www.unece.org/trans/danger/publi/ghs/ghs_welcome_e.html
+http://chemicalroundtables.com/wordpress2/?tag=global-chemical-industry-sustainability-summit 
+https://cen.acs.org/articles/90/i39/Chemical-Makers-Grapple-Sustainability.html  
+http://www.guardian.co.uk/sustainable-business/sustainability-with-john-elkington/chemical-industry-embrace-
+sustainability-environment 
+20    PwCMethods and tools developed for chemical hazard assessment, identification of preferred chemicals and products  
+and chemical product prioritisation [Sourced and adapted and from Global Chemicals Outlook Synthesis Report,  
+UNEP (2012)]
+• Restricted substance lists (RSLs) by many corporations
+• Life Cycle Assessment formalised by ISO 14040
+• Sustainability Product Assessment Tool by Boots UK
+• Responsible Care/Global Product Stewardship by Canadian Chemical Producers Association
+• International Council of Chemical Associations (ICCA)’s Global initiative to drive continuous improvement in the 
+chemical industry in the areas of health, safety and the environment
+• Eco-Efficiency Analysis Tool by BASF
+• BASTA by Swedish building companies, NCC, Skanska, JM and Peab, in association with the Swedish Construction 
+Federation
+• Eco-Check by Bayer Technology Services
+• Environmental Product Declaration  by numerous corporations
+• Apparel Index by Sustainable Apparel Coalition
+• Trade Union Priority List by European Trade Union Confederation 
+• SIN List by ChemSec
+• Green Screen by Clean Production Action
+• P2OASys by Massachusetts Toxics Use ReductionInstitute
+• Ecolabels and Certifications by many organizations
+• Pharos by Healthy Building Network
+• Skin Deep cosmetics database by Environmental Working Group
+• CleanGredients by GreenBlue
+Endnote
+i  Responsible Care is the chemical industry’s global initiative that drives improvement in environmental, health and safety 
+performance and is being  implemented by manufacturing operations across 47 countries.
+ii The Global Product Strategy advocates a combination of regulations and voluntary programmes to harmonize the global level of 
+product safety assessment. Its flagship feature is the Chemicals Portal, which offers the general public and ICCA members direct and free access to product stewardship information.More details about the Global Product Strategy are available at http://www.
+icca-chem.org/Home/ICCA-initiatives/Global-product-strategy/
+iii Information from Global Chemicals Outlook: Towards Sound Chemicals Management. Chapter III: Instruments and  
+Approaches for the Sound Management of Chemicals. Ken Geiser and Sally Edwards, UNEP. 2012
+iv Adapted from research by Bain and Co available at http://www.bain.com/about/press/press-releases/employee- 
+sustainability-study-press-release.aspx 
+v PwC’s 16th Global Annual CEO Survey (2013) available at http://www.pwc.com/gx/en/ceo-survey/index.jhtml 
+  Chemical industry leadership on sustainability: ASPIRE     21  Notes
+22    PwCNotes
+PwC* helps organisations and individuals create the value they’re looking for.  We’re a network of firms in 158 countries with more 
+than 180,000 people who are committed to delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, Bangalore, Chennai, Delhi NCR, Hyderabad, 
+Kolkata, Mumbai and Pune.  For more information about PwC India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member firm is a separate legal entity. Please see 
+www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+       youtube.com/pwc
+For more information about PwC’s services for the chemical industry, please contact: 
+K Jayaraman 
+K.Jayaraman@in.pwc.com
+Prashant Vikram Singh 
+Prashant.Vikram.Singh@in.pwc.com 
+Shankar Venkateswaran 
+Shankar.Venkateswaran@in.pwc.com
+Sathish S 
+Sathish.S@in.pwc.com 
+http://www.pwc.in/en_IN/in/services/sustainability-services.jhtmlAbout PwC 
+This report has been produced by PricewaterhouseCoopers Private Limited
+The recommendations in this report have been developed by PwC, drawing on the desk review of publically available data and PwC internal analysis, insights 
+and knowledge. The companies which have been included in the report include a blend of chemical companies in India and across the globe. The range of global companies studied had an intentional bias towards companies that are likely to have better sustainability recognition, disclosures and performance. For India, publically available information of 15 chemical companies were considered, which excluded MNCs or foreign owned companies.  The objective is to 
+present a broad industry perspective, and not reflect the views of any particular organisation. This study has benefited from publically available data of several 
+international and Indian chemical companies. However, the views and recommendations expressed within it do not necessarily represent the policies or views of these organisations.
+pwc.in
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates 
+contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their 
+own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability 
+company in India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+PD XXX - March 2013 Chemical Industry Leadership on Sustainability: ASPIRE.indd
+Designed by: PwC Brand and Communications, India

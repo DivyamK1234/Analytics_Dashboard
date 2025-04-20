@@ -1,0 +1,740 @@
+Title: pwc_connected-life-210213
+Date Published: 2013-02-26 11:33:58+05:30
+Source: pdfs/pwc_connected-life-210213.pdf
+
+--- CONTENT ---
+
+Connected Life
+The impact of the Connected 
+Life over the next five years
+www.pwc.in
+Contents
+The impact of the Connected Life  04 | mHealth: Saving lives and money 05 | 
+mEducation: Equipping people for a better future  09 | mAutomotive: Making the roads 
+safer and the world a little less hungry  13 | Smart Cities: Tomorrow’s cities today  17
+This report was commissioned by the GSMA and put together with inputs from the GSMA Connected Living programmemEducation
+Web-based course material should 
+be decomposed into small pages that 
+can be easily read on small mobile 
+screens. When English vocabu -
+lary lessons were set up using the 
+email and SMS functions of mobile 
+phones, the students’ response was 
+overwhelmingly positive.
+Thornton & Houser
+mEducation
+The students of the future will demand the 
+learning support that is appropriate for their 
+situation or context. Nothing more. Nothing 
+less. And they want it at the moment the 
+need arises. Not sooner. Not later. Mobiles 
+will be a key technology to provide that 
+learning support.
+Dr Marcus Sprecht
+Professor at the Open Universiteit Nederland
+mHealth
+I think the mobile platform is incredibly 
+important for the work of NGOs and 
+development in general. It allows us to 
+expand the reach of the programmes 
+we have and create efficiencies within 
+them.
+Erica Kochi
+Unicef’s New York-based Innovation UnitmHealth
+The aim is to give the patient a tool to more 
+effectively manage their chronic condition, 
+so this will minimise the number of times 
+they visit their GP and the number of times 
+they become quite ill. The direct benefit 
+of this is reduced visits to healthcare 
+practitioners, reduced costs and fewer 
+expensive drugs.
+Dr. Victor Higgs
+MD, Applied NanodetectorsSmart Cities
+Smart meters will revolutionise our 
+relationship with energy, bringing 
+people closer to it and helping us 
+think about it in a more intelligent 
+way. This is vital to achieving a 
+100% renewable future.
+Andy Blackett,
+ Head of Metering, Good Energy, UK
+Connected life          3
+Mobile technology is redefining our lives and making it increasingly connected. From health and education to transportation 
+and smarter cities, the proliferation of mobile communication and a connected life is now well established and here to stay.
+In this report, we have attempted to give a snapshot of trends that are redefining our lives through mobile technology. The 
+instances cited here only scratch the surface of the impact that mobile devices will have on society over the next five years. Our 
+findings indicate an exciting future for both developed and developing markets. 
+For instance, in developed countries mobile interventions could help cut healthcare costs by 400 billion USD in 2017 , help 
+retain 1.8 million students in the education system, save one in nine lives lost in road accidents, and reduce CO2 emissions 
+by 27 million tonnes annually. Similarly in developing markets, mobile interventions could help save over a million lives in 
+Sub-Saharan Africa, provide education access to 180 million students, save 25 million tonnes of food and encourage over 20 
+million commuters to start using public transport.
+The GSMA and a number of stakeholders around the world provided valuable inputs to this report. A number of secondary 
+data sources were consulted to prepare this snapshot. Our aim is to help generate a dialogue on this important topic and its 
+exciting future. Policy makers within the government, civil society, corporations and individuals will no doubt, find areas 
+that they would like to explore further.
+In preparing this report, the immense benefits from Connected Life have inspired us and our team. We hope this report offers 
+a similar glimpse to the reader.
+Shashank Tripathi
+India Leader, Strategy and ResearchMohammad Chowdhury
+India Leader, TelecomSmart Cities
+Just as we predicted that Google 
+would want to colonise every part 
+of African life, the company has now 
+launched a prepaid debit card which 
+is Near Field Communications (NFC) 
+enabled used for purchase of bus fare 
+in Nairobi.
+TechMtaa.commAutomotive
+We are pleased to see that the implementation 
+of eCall is becoming a reality in Europe. The 
+closure of this eCall tour by a consortium of 
+industry partners is an important step towards 
+the EU’s objective to have eCall deployed in all 
+cars in Europe as soon as possible.
+Juhani Jääskeläinen
+European Commission
+mAutomotive
+Connected containers and trucks equipped 
+with M2M devices provide service providers 
+and customers reliable and timely information 
+such as the location, temperature, weight and 
+humidity of shipping vessels to ensure asset 
+integrity. When anything goes wrong, an alert 
+message will be sent, which helps increase 
+regulatory compliance and ensure the quality of 
+the items especially for perishable goods.
+Deutsche Telekom
+4 PwC
+Over just a few decades, mobile communication has become one of the largest and 
+most significant platforms, with six billion connections and transforming the way we 
+communicate and access information, entertainment and the internet.
+Now, a new wave of connectivity is on the horizon where everyone and everything 
+around us that might benefit from a wireless connection will, in fact, have one. We are 
+about to see connected cars, buildings, medical monitors, TVs, game consoles and a 
+whole range of connected consumer electronics and household appliances. Many of 
+these will be connected wirelessly and intelligently, communicating and interacting with 
+each other, thereby creating the connected life.
+Mobile networks play a pivotal role in the development of the connected life providing 
+a scalable, standardised global platform to support the growing demand for intelligent, 
+secure connectivity. New connected wireless devices are set to surpass the number 
+of mobile handsets over the coming decade and create significant new business 
+opportunities for mobile operators, vendors and industry partners. Machina research 
+estimates that by 2017, there will be over 10 billion cellular connections.
+Ericsson estimates that by 2017, 85 % of world’s population will have 3G coverage, and 
+that global data traffic will grow 12-fold by the end of 2018*. This future demand will 
+only be satisfied by the continued roll-out of standardised mobile networks including 
+the global GSM LTE Mobile Broadband standard. Without continued investment and 
+growth in mobile networks and the deployment of multiple connected devices, the socio-
+economic benefits of the connected life will not be fulfilled. 
+“Beyond connectivity, mobile operators will play a crucial role in working together with 
+a range of industry partners in health, automotive, education, smart cities and a range 
+of vertical industries to accelerate the launch of valuable connected services,” says Ana 
+Tavares Lattibeaudiere, Head of Connected Living, GSMA. Mobile operators have the 
+opportunity to generate value beyond basic connectivity through managed connectivity, 
+stewardship services and platform innovation.
+*Source: Ericsson Mobility Report, November 2012The impact of the Connected LifeChapter 1
+GSMA Connected Living programme
+Connected life          5
+Chapter 2mHealth could save over 1 million lives in Sub-Saharan Africa over the 
+next five years
+Simple mobile interventions for treatment compliance, medical stock 
+availability and healthcare worker adherence could potentially have a 
+significant impact on saving lives in Sub-Saharan Africa .
+The increased adoption of mHealth solutions could help 
+save lives across the entire healthcare delivery chain
+Many of these deadly conditions are relatively simple to treat, prevent or contain. SMS 
+reminders to check for stock levels at the health centres have shown promising results in 
+reducing stock-outs of key combination therapy medications for malaria, TB and HIV. For 
+HIV patients, simple weekly text reminders have consistently shown higher adherence 
+amongst the patients. TB is a largely curable disease but requires six months of diligent 
+adherence to the medication regime. mHealth could help control TB mortalities by ensuring 
+treatment compliance through simple SMS reminders. Delivering mobile-assisted awareness 
+to pregnant mothers and traditional birth attendants could reduce perinatal and maternal 
+mortality by 30%. Pilot programmes that track mobile-usage patterns have been very 
+successful in predicting disease outbreaks and in increasing malaria reporting adherence 
+from 22% to 93%. Healthcare workers’ adherence to treatment guidelines and reporting 
+procedures is another important area where mHealth is focussing on behavioural changes. 
+To ensure successful mHealth interventions, mobile penetration needs to increase so that 
+both the patients and the mHealth enablers are always connected.HIV/AIDS, tuberculosis, malaria and pregnancy-related 
+conditions account for 3 million deaths in Africa every 
+year
+In Sub-Saharan Africa, over 1.2 million new-borns and 265,000 mothers die every year. 
+One in nine children die before the age of five and over 90% of the world’s estimated 1.2 
+million malaria deaths occur here. Tuberculosis (TB) accounts for over 230,000 fatalities 
+and close to two-thirds of the world’s HIV infected are in this region. In South Africa, one in 
+five adults is HIV-positive and in 2010, about  280,000 South Africans died of HIV/AIDS. In 
+fact, it is estimated that over 40% of all deaths among South Africans are HIV/AIDS deaths 
+and that over the next five years, 14 million more lives will be lost due to these diseases. 
+The vast number of lives lost every year has driven the UN to declare that curbing these 
+conditions would represent 3 of the 8 Millennium Development Goals set in 2000.
+Simple mobile interventions have shown tremendous 
+potential in saving lives
+• Mobile Alliance for Maternal Action (MAMA), ensures that health workers and pregnant 
+workers share health information through free SMS and calls for information on 
+antenatal care, delivery services and child care.
+• SIMpill, a medication management system that detects non-compliance of medication 
+regimes, uses SMS reminders. Results showed 94% compliance for a TB trial and 92% 
+cure rate.
+• TxtAlert in South Africa supports HIV patients and their healthcare workers on Anti 
+Retroviral Therapy (ART) compliance. The success has been resounding with missed 
+appointment rates declining from 27% to 4%. 
+• Since 2011, HP in collaboration with Positive Innovation for the Next 
+Generation (PING), the Clinton Health Access Initiative (CHAI), and mobile network 
+provider MASCOM have successfully rolled out a mobile-enabled program that reduced 
+government response times to malaria outbreaks from four weeks to three minutes.
+mHealth: Saving lives and money
+6 PwC
+Where will the lives be saved over the next five years?
+Connected life          7
+OECD countries spend close to 6 trillion USD in 
+healthcare costs every year
+On an average, OECD countries spend over 3,200 USD per capita on healthcare, which 
+amounts to 9.6% of the combined OECD GDP. Healthcare spending has consistently 
+outpaced GDP growth rate in most of these nations and is expected to place considerable 
+pressure on public expenditure as the government contributes in excess of 70% of total 
+healthcare spend. Over 400,000 German senior citizens cannot afford retirement homes 
+and one in every 12 appointments are missed in the US. A 2012 survey conducted by 
+ComRes for the British Red Cross shows that personal care services for elderly Britons 
+have been cut or frozen by two-thirds of local councils since their last local elections. The 
+growing incidence of chronic lifestyle-related diseases are adding to this burden with 
+the need for complex, ongoing and expensive treatment. Standard & Poor’s has already 
+issued a warning in 2012, stating that the rising cost of healthcare is likely to damage the 
+creditworthiness of advanced G20 countries within the next decade.
+mHealth solutions could improve patient quality of life 
+and reduce treatment costs
+mHealth programmes are currently one of the most cost-effective ways of providing 
+remote  living assistance to aging and chronically ill patients. mHealth programmes 
+provide faster response times, integrated record access and considerable ease of use to 
+patients. Remote consultation and support is expected to address the growing chronic 
+disease management issue by reducing the need for hospitalisation. Proactive  mobile-
+based care for patients with sudden health incidents can reduce the number of primary 
+and emergency visits by 10%. Mobile technology can also be used for home monitoring,  
+thereby reducing the need for face-to-face consultations. This will not only help generate 
+elderly care savings of up to 25% but will also improve patient quality of life. Healthcare 
+providers can benefit via mobile access to electronic health records which can  reduce the 
+administrative burden of hospitals by 20 to 30%. Simple SMS reminders for scheduling 
+appointments can help address the problem of missed appointments. In order to achieve 
+cost savings of this magnitude, it is critical that healthcare institutions in OECD countries 
+not only adopt but also scale up the usage of mHealth services.mHealth could help cut healthcare costs in OECD countries by over 400 
+billion USD in 2017 
+Providing healthcare services by consulting, monitoring, and providing 
+access to patient records remotely through mobile technology will help 
+curtail rising healthcare costs significantly.
+8 PwC
+mHealth interventions are already being deployed in 
+pilots and have shown significant cost savings
+• Integrated care has been piloted in Valencia, Spain to deliver routine healthcare. 
+Initial findings suggest 24% differential in per capita patient cost management.
+• The Connected Cardiac Care programme is a home telemonitoring programme for 
+heart patients and has resulted in a 48% reduction in rehospitalisation over the five-
+year period.
+• Findings from the Eddy VNA study indicate that home telehealth interventions drop 
+hospitalisation by 55% and reduce emergency visits by 29%.
+• mHealth related trials in Nordic countries have shown 50 to 60% reduction in 
+hospital nights and rehospitalisation. 
+Connected life          9
+mEducation: Equipping people for a 
+better future In developing regions, mEducation could provide 180 million children 
+the opportunity to stay in school over the next five years
+mEducation could provide access to educational resources, tools and 
+materials anytime and anywhere by leveraging mobile devices to provide 
+access to education.
+Of the 610 million students enrolled in primary 
+education, only 10% are expected to ever enroll in 
+secondary education
+Literacy levels in most developing countries remain extremely low with 98% of the 
+world’s illiterate or semiliterate population residing in these regions. Of the 1 billion 
+students expected to enroll in primary education over the next five years, over 220 
+million students are expected to drop out during the primary stage  and an additional 
+290 million primary graduates are expected to drop out before entering the secondary 
+education system. Each year, only about 10 million students enter the secondary system 
+against the nearly 100 million who enroll in primary.
+mEducation is being used to increase affordable access to 
+education for students in developing markets
+Access to education remains a critical problem for reasons ranging from insufficient 
+school coverage and low household incomes to limitations in the quality of locally 
+available material and teachers. The widespread penetration of mobile networks offers a 
+powerful platform to improve access to relevant content. mEducation solutions already 
+allow thousands of students in China, Bangladesh, South Korea and Indonesia to access 
+course content through SMS and audio lessons. An mLearning student saves 86.7% of 
+the cost spent by students taking the same training in a traditional classroom. Much 
+of this is due to the elimination of the cost and inconvenience of travelling to attend 
+courses. Inexpensive personal learning devices like the 35 USD tablet launched in India 
+are further improving access to mEducation.Chapter 3
+10 PwC
+180 million potential dropouts would have access to 
+education via mlearning and up to 20 million could be 
+retained in the system
+The projected increase in mobile data penetration could provide education access to 
+almost 180 million dropouts over the next five years as most mobile service providers 
+now offer mEducation services.  We estimate that with increasing penetration and 
+awareness, around 6–8% of these students could be retained in the education system and 
+encouraged to join secondary education. This amounts to almost 9 million primary and 
+12 million secondary enrolments over the next five years in these regions.
+mEducation has had significant success despite being a 
+very new innovation in the market
+Multiple pilot programmes and studies have been conducted across the developing 
+markets to assess the impact of mEducation on access to education and student 
+performance improvement:
+• An mLearning service called MoMath, which was introduced in 2009, has delivered 
+a 14% improvement in math grades in South Africa.
+• Nokia has over 20 million subscribers and 1.5 million  active users for its Mobiledu 
+product in China.
+• Project ABC in Niger has shown substantial gains in numeracy exam scores along 
+with higher impact learning.
+• The WorldReader project in Ghana has provided students across multiple grades 
+with textbooks through mobiles.
+• BYOT e-learning in Nigeria has seen a 30% improvement in students’ academic 
+performance with 7% reduction in drop-out rates.Impact of mEducation every year
+610 million students are enrolled across primary education
+Only 470 million students remain77% +1-2%
+140 million drop out23%8 million can be retained in the 
+system at this point
+67 million graduate from last grade of primary every year
+Only 10 million students are enrolling in 
+1st grade of secondary15% +5-6%
+57 million drop out before enrolling in 
+secondary85%4 million can be retained in the 
+system at this point
+Interventions for improving customisation: engagement, performance and convenience
+Mobile phones as access tool SMS & audio lessons Low-priced e-textbooks
+Connected life          11
+Over 30 million students are expected to drop out of 
+school over the next five years
+Developed countries are currently facing a considerable number of educational 
+challenges. One in four Europeans under the age of 15 attains only the lowest level 
+of proficiency in reading. Across most developed countries, 20% of students do not 
+attain an upper secondary degree and nearly 50% of the school drop-outs are between 
+Grade 3 to Grade 6. This results in a substantial employment disadvantage for these 
+dropouts as they often lack the most basic job skills. For example, in the US, despite the 
+economic crisis in 2011, there were over 1 million unfilled job vacancies due to the lack 
+of skilled labour.
+Large-scale rollouts of mobile learning through 
+mEducation  initiatives  are already taking place in 
+developed countries 
+There is a lot of work being done towards improving student engagement and 
+customising education for each learner to improve retention. mEducation simplifies 
+access to content and experts, and also overcomes the traditional constraints of time 
+and location. Of the major mobile application (app), eBook and audiobook stores, at 
+least 15–17% of titles are mobile learning apps and there are now major digitisation 
+efforts taking place in the UK and US school systems. Korea and Denmark are moving 
+to provide mobile education access to all students by 2015, and Turkey is committed to 
+rolling out over 15 million tablets by 2016.
+Over 1.8 million students (8% of dropouts) could be 
+retained across Grades 1 to 10 over the next five years
+Over 25 million potential dropouts will have access to mEducation thanks to the 
+growing adoption of mobile data services in developed markets. Considering this 
+ubiquitous access and the success of a number of mobile learning programmes, we 
+anticipate that around 7–8% of these dropouts could be otherwise retained in the 
+system and encouraged to graduate from secondary education. This would amount 
+to around 1.8 million more skilled and ‘job-ready’ secondary graduates in developed 
+nations over the next five years.mEducation could help retain 1.8 million students in the education 
+system across developed nations by 2017 
+mEducation will enable educators to personalise education solutions for 
+individual learners to improve student engagement.
+12 PwC
+Interventions for improving customisation: engagement, performance and convenience
+Mobile phones, tablets 
+and laptops as access toolSoftware and interactive 
+mediaeBooks and audio lessons for 
+convenience
+mEducation has various effective performance 
+improvement and engagement tools
+Multiple studies have been conducted across the developed market to assess the impact of 
+mEducation on student performance and retention:
+• Apple’s ‘Special Education’ section in the iTunes App Store aims to reach out to over 5 
+million school children with cognitive or physical impairments in the US alone.
+• Pearson has partnered with various colleges across the US to provide access to courses 
+and learning materials.
+• At risk secondary students in the US state of Tennessee have succeeded in raising 
+graduation rate by 8%, through mEducation plans.
+• MoLeNet in the UK, suggest that national in-year retention rates will improve by 8% 
+using mEducation.
+• Project K-Nect in the US has increased student proficiency rates by 30% by mLearning.
+Connected life          13
+mAutomotive: Making the roads safer 
+and the world a little less hungryFleet telematics could prevent food wastage during transport and 
+hence feed a population the size of Kenya every year by 2017
+Fleet telematics is the combination of mobile technology and informatics 
+that enables monitoring and management of logistics services.
+Developing nations waste over 1.1 billion tonnes of food 
+every year
+In the developing world, over 18 million deaths occur every year due to malnourishment-
+related conditions. The primary reason for this food scarcity is not the lack of production 
+in these regions, but the wastage of food. Over 40% of the nearly 2.7 billion tonnes of 
+food produced in the developing world is wasted every year. Most of this wastage is 
+the result of poor infrastructure and food management. Transport and storage-related 
+wastage alone contributes to over 240 million tonnes in these regions. This is the 
+equivalent of the amount of food that can feed nearly 400 million people every year.
+mAutomotive services are already making an impact in 
+improving fleet performance in developing markets
+In markets such as Asia and Africa, fleet telematics is currently being employed in a 
+variety of applications to improve fleet management and goods tracking, especially in 
+food transport and cold transport supply chain. The development of fleet telematics is 
+dependent on the growth of the breadth and depth of global mobile networks, as well as 
+the implementation of complementary in-vehicle connected solutions.
+Current mainstream applications include the following:
+• Route and travel time optimisation
+• Idling and stoppage time reduction
+• Checking and managing storage temperature 
+• Monitoring vehicle attachments or vehicle doors 
+• Observing driver behaviour and performance
+mAutomotive solutions could prevent enough wastage to 
+feed over 40 million people a year
+We estimate that as the potential benefits of fleet telematics gain traction amongst the 
+fleet operators and owners, coupled with basic awareness programs, food wastage 
+during transport and storage can be reduced by 10–15%, the equivalent of 25 million 
+tonnes a year. This much food is sufficient to feed over 40 million people, a 2000-calorie 
+diet, every year. A truck using vehicle telematics is expected to save the equivalent of 1 
+tonne of food a month through increased efficiencies and performance improvements 
+that can be felt across the board.Chapter 4
+14 PwC
+The key to the impact of fleet telematics lies in wide-
+ranging performance benefits
+Acknowledging the benefits of fleet telematics, a wide range of companies from across 
+the world offer fleet telematics and related services to logistics operators and owners. 
+The developing markets’ demand is now being actively serviced through low-price 
+telematics solutions costing under 800 USD per vehicle. This service is proving to be 
+very attractive to major food cooperatives in India, who are now requesting that fleet 
+operators provide them with telematics-enabled tracking. Some well-documented 
+performance related improvements are as listed below:
+• Journey time reduction by 10–15%
+• Maintenance cost reduction by 10–15%
+• Fuel cost reduction by 10–15%
+• Average reduction in billing cycles by 1–2 weeks
+• Reduction in idling and stoppage time by 40–80%.Consumption Retail and 
+distributionHandling and 
+storage*Production Processing 
+and packag ing
+* 25 million tonnes of food could be saved every year which can feed:
+•	  the entire population of Kenya
+•	  two-thirds of the UK
+•	  all of Canada12% 16% 22% 23% 23%
+Connected life          15
+1 in 9 lives lost in road accidents could be saved by mobile-enabled in-car 
+emergency call services
+In-car emergency call services could broadcast life-saving information such as 
+the location of the accident to the nearest emergency-service provider.
+Over 85,000 people die every year from road accidents 
+across OECD regions
+Deaths from road accidents feature as one of the top causes for fatalities in OECD 
+countries. Road accident related deaths are primarily caused due to cardiac failure, 
+respiratory failure or massive bleeding conditions. Half of these victims die within the 
+first hour. In the moments following a major accident, every minute becomes critical 
+to saving the victims’ life and therefore the sooner that medically trained help arrives, 
+the higher the chances are for survival. This becomes particularly important in the 
+case of cardiac failures where every minute of delay reduces the chances of survival by 
+around 10%.
+mAutomotive services could reduce emergency response 
+time by 50% in rural areas and 40% in urban centres
+While emergency call services cannot reduce the number of road accidents, they help 
+to dramatically reduce the time required to get trained help to an accident scene. 
+Once activated after an accident, these applications establish a voice and/or data 
+connection directly with the nearest emergency service provider and provide details of 
+the accident, such as the time and location via  the use of GPS or triangulation based 
+on the nearest mobile towers. Most OECD-based studies indicate that emergency 
+response times could be reduced by 40–50% through emergency call services as they 
+eliminate the need for the victim or passers-by to actually make the call.
+Over 35,000 lives could be saved over the next five years 
+through emergency call services
+With the EU mandating such services, current adoption patterns in other OECD 
+regions and the growing industry awareness around the potential benefits of this 
+simple intervention, cars with these embedded services will make up a significant 
+portion of new car sales. Most major studies to date support the position that an 
+estimated 10% of accident-related fatalities could be reduced through e-call services 
+every year. This compelling evidence has prompted the European Commission to 
+consider legislation that would make it mandatory for all new cars to be fitted with 
+the emergency calling system by 2015. Even in North America, a similar service is now 
+available from General Motors via their OnStar services. 
+16 PwC
+Multiple global studies agree that emergency call services 
+could increase the number of lives saved by almost 10%
+Multiple studies sponsored by governments as well as large corporations confirm the 
+advantages of emergency call services in developed markets:  
+• According to the eSafety, and eMerge studies and TRACE studies there could be 
+5–12.5% reduction of fatalities due to road accidents through the use of such services.
+• The STORM study shows that the emergency calling service could reduce response 
+times from 21.2 minutes to 11.7 minutes in rural areas and from 13 minutes to 8 
+minutes in urban centres.Typical response time in urban centres
+Typical response time in rural areas
+Connected life          17
+Smart Cities: Tomorrow’s cities today Smart commute interventions could give back commuters a whole a 
+week’s worth of time every year
+Smart commute interventions such as mobile-based payments, live and 
+dynamic transit scheduling, and commute-time updates would encourage a 
+large number of people to use public transport.
+Mobile interventions could encourage over 20 million 
+people to adopt public transport over the next five years
+Consensus studies indicate that in heavily congested areas, a 1% reduction in vehicles 
+on the road typically reduces commute times by 2–3%. A well-networked transit 
+infrastructure involving the ability to track commuters, provide them with up-to-date 
+information to plan their commutes and eliminate friction generated through transaction 
+delays could encourage 25–30% of commuters to opt for public transit. We estimate 
+that such a large movement towards public transit could reduce commute times by as 
+much as 30–35%. While mobile penetration in these cities have typically reached near 
+saturation, the key to success lies in a concerted effort by the various stakeholders with 
+local authorities being the primary enabler.Typical commute times in the largest developing 
+market cities are in excess of 90 minutes a day
+The 15 largest emerging market cities are home to over 250 million people. In these 
+cities, over 160 million spend an average of 90 minutes a day commuting to work 
+and back. In 2011, IBM published the results of its annual global ‘commuter pain’ 
+survey, which indicated that traffic is one of the largest challenges being faced by 
+these cities. Of the 21 cities surveyed, the bottom eight were all from the developing 
+world. An overwhelming majority of respondents (in excess of 60%) stated that traffic 
+negatively impacted their stress levels, physical health and productivity. The total 
+time that is typically spent commuting in these cities adds up to more than three years 
+in one’s lifetime.
+Mobile-based commute interventions could increase 
+adoption of public transport
+Commute interventions using mobile technologies have the potential to improve 
+the quality of public transport in these cities. Dynamic scheduling of buses based on 
+commuter movement and density could drastically reduce the movement of empty 
+buses clogging up traffic during peak hours. Mobile payments could eliminate queue-
+waiting times, and provision of real-time updates and schedules could encourage 
+more commuters to use public transport. NFC technology could eliminate the need 
+for special equipment to accept payments from a wide range of options such as 
+phones or even smart cards.Chapter 5
+18 PwC
+Mobile technologies are expected to play an increasingly 
+important role in public transport adoption and traffic 
+management
+• A 2012 study by MIT, Central South University in China, the University of California 
+at Berkeley and the Austrian Institute of Technology using data from drivers’ 
+cell phones states that the strategic elimination of only 1% of drivers from select 
+neighborhoods during rush hour would reduce travel times within a city by as much 
+as 18%.
+• Only last month, China has pledged to boost urban transport and is encouraging 
+mobile payment systems to increase ridership in all its major cities.
+• Indian railways has launched a ticket-booking app for mobile phones and has 
+authorised the use of SMS as the ticket itself. There are several test projects to roll 
+similar technology out for metro and bus services.
+• Google has recently entered the Kenyan market with its NFC enabled ‘beba’ travel 
+card that could be swiped against smartphones.What is the value of the time saved commuting?
+Three years 
+of collegeMaster any skill 
+of your choice180  hours Every year Over a lifetime
+Over a hundred 
+football games
+A month’s 
+worth of work
+Connected life          19
+In major cities across the developed world, smart metering could 
+reduce carbon emissions offset by over 1.2 billion trees
+Smart meters record the consumption of electricity in regular intervals 
+and use mobile networks to transmit that information at least daily for 
+monitoring and billing purposes.
+It would take the equivalent of 16 billion trees to offset 
+the amount of carbon emissions from the top 50 OECD 
+cities
+Cities are centres of commerce, trade and industry around the world, resulting in large 
+population clusters. In fact over 80% of the population of the major OECD countries 
+reside in urban centers and while cities may be considered the ‘lands of opportunity’, 
+they are also the most taxing on the environment. Cities contribute to over 80% of direct 
+and indirect carbon emissions, with households alone contributing to around 25%. 
+Today, the 50 largest cities in the OECD region emit over 735 million tonnes of CO2 
+every year.
+Domestic smart meters have the potential to reduce the 
+carbon footprint of households
+Both people and the environment could benefit from smart meter technology. Unlike 
+more conventional home energy monitors, smart meters gather data for remote 
+reporting of energy, water or gas usage. They primarily differ from traditional meters in 
+their ability to enable two-way communications between a meter and its service provider. 
+Furthermore, the additional benefits of ‘remote cut-off’ and ‘start-up’ that could prevent 
+idle-time energy wastage, especially during cold months and ‘time of use’ pricing, makes 
+smart meters a good investment for people who do not consume much power during 
+peak hours. 
+In developed markets, over 100 million smart meters will 
+be installed in the next five years  
+Smart metering in the developed world is really beginning to take off. In the Australian 
+state of Victoria, smart meters are being rolled to over 2.6 million electricity customers 
+and in Canada, 7 million households already use smart meters. A similar increase could 
+be seen in the US, where smart meter adoption has gone from 6% to over 30%, in only 
+three years to a total of 27 million smart meters and an estimated additional 38 million 
+will be installed by 2015. In Europe, the UK plans to have smart meters in all homes by 
+2020 and a further 11 more European countries aim to be 100% smart meter compliant 
+by 2019. It is anticipated that by 2017, the adoption of smart meters in the top 50 OECD 
+cities, will help reduce household energy consumption by 3.5% or the equivalent of 27 
+million tonnes of CO2.
+20 PwC
+Smart meters can relieve stress on the grid and reduce 
+consumer electricity bills considerably
+Smart meters are now considered to be very useful utilities for reducing energy 
+consumption. Various studies have been conducted and they support the need for 
+smart meters:
+• The 2008 GridWise trial in the US concluded that smart meters could reduce 
+utility bills by 5–15%.
+• The Galvin Electricity Initiative, which has been monitoring smart meter-related 
+cost savings across the US, indicates that dynamic pricing in some instances 
+could be around 27–30% cheaper than retail pricing of energy.
+• A pilot program in the US state of Oklahoma, was recently funded by 
+the American Recovery and Reinvestment Act and a 15-year, 14.2 USD million 
+energy savings performance contract. 27  million 
+tonnes of CO2
+1.2  billion 
+trees5000-
+6000  sq km 
+of forests50-60  
+times Barcelona  ==
+==
+Connected life          21
+Methodology
+Initial shortlisting of region-specific interventions and their key areas 
+of impact
+This research report aims to capture the socioeconomic impact of a connected life for developed and 
+developing markets. As part of our research, we looked at the four services of the ‘Connected Living’ program: 
+mHealth, mEducation, mAutomotive and Smart Cities. 
+We shortlisted a series of potential region-specific interventions based on the following filters:
+• Address key burning needs that affect us on a large scale
+• Have a measurable impact by 2017
+• Have some degree of adoption in the existing market
+Based on our filtering criteria, we arrived at four interventions for developed markets and four more 
+interventions for developing markets.
+Capturing data and developing impact models
+We created a master pool of data to capture the relevant data points by country (or the region wherever 
+applicable) from standard global knowledge sources (e.g. WHO, UN and World Bank). We then identified 
+a series of case studies, research outcomes, and pilot programs that have been able to arrive at quantifiable 
+conclusions on the impact of each intervention. 
+Based on the impact evidence was organised to provide regional impact data sets and country clusters with 
+similar impact levels based on current conditions and mobile penetration levels. These clusters and the 
+impact of these interventions were consolidated to arrive at the first set of conclusions. These conclusions 
+were then tested by altering the various impact metrics to arrive at optimistic and pessimistic scenarios. 
+Another series of test conducted involved the introduction of error variables to determine the sensitivity of 
+these models. 
+Arriving at projections
+The models have been designed such that the impact of each intervention is estimated on existing projections 
+of impact areas. For instance, in case of our mHealth – developed markets analysis, we used the OECD Health 
+Indicator report as the basis for analysing our impact on projected spends . Based on this impact, we have 
+arrived at our conclusion for each of the eight topics of research.
+Approach
+Master data Need for mobile 
+interventionRegion analysis Impact evidence Scenario analysis Output
+Identifying relevant data 
+pointsData analysis to establish 
+realityClustering within developed 
+and developingFinalise case studies 
+and impacts deliveredParameters varied to 
+identify various scenariosExample:
+Public sources of 
+data like World Bank, 
+UNESCO, OECD 
+database etc. were used.Places where possible 
+mobile interventions can 
+create a positive impact 
+were identified.Study specific regions 
+in both  developed and 
+developing markets. 
+Consolidate multiple 
+regions if applicable.Identify relevant case 
+studies and pilot 
+programs utilising 
+mobile technologies 
+for each relevant topic. Develop impact 
+parameters based on 
+case studies and pilots. 
+Develop the impact 
+model and identify 
+impact of outcomes.One in nine lives lost 
+in road accidents 
+could be saved by 
+mobile-enabled in-car 
+emergency services.
+Methodology to identify socioeconomic impact for each connected life service covered
+22 PwC
+References
+mHealth
+OECD Report: Health at a Glance 2011, OECD Indicators (2011)
+BCG Telenor: The Socio Economic Impact of Mobile Health (Apr 2012)
+GSMA-McKinsey: mHealth: A new vision for healthcare 
+Connected Cardio Care: http://www.connected-health.org/programs/cardiac-care/center-for-connected-health-initiatives/
+connected-cardiac-care.aspx
+Robert E Litan: Vital signs via broadband: Remote health monitoring transmits savings, enhances lives (2008)
+IRD: mHealth to Improve TB Care (May 2012)
+GlaxoSmithKline: Mobile for Malaria 
+The Cochrane Collaboration: Mobile phone text messaging for promoting adherence to antiretroviral therapy in patients with HIV 
+infection (2012)
+Actevis Consulting Group: Scaling up Mobile health (Dec 2011)
+mAutomotive
+SMART Study: Impact assessment on the introduction of the eCall service in all new type-approved vehicles in Europe, including 
+liability/legal issues (2008)
+eIMPACT: Socio-economic impact assessment of stand-alone and co-operative intelligent vehicle safety systems (IVSS) in Europe 
+(2008)
+SEISS Study: Exploratory study on the potential socio-economic impact of the introduction of intelligent safety systems in road 
+vehicles
+Food and Agriculture Organization of the United Nations (UNFAO) (2006- 2011)
+UNFAO: Global food losses and food waste (2011): http://www.fao.org/docrep/014/mb060e/mb060e00.pdf
+World Bank: Missing food: The Case of Postharvest Grain Losses in Sub-Saharan Africa (2011) http://siteresources.worldbank.
+org/INTARD/Resources/MissingFoods10_web.pdf
+Vodafone: Connected Agriculture (2011) http://www.vodafone.com/content/dam/vodafone/about/sustainability/2011/pdf/
+connected_agriculture.pdf
+Souther Agricultural Growth Corridor of Tanzania (SAGCOT) - http://www.sagcot.com
+Packaging and Films Association - Frequently Asked Questions - http://www.pafa.org.uk/attachments/article/28/
+Sustainable%20Plastic%20packaging%20Leaflet%208pp.pdf
+http://www.Foodlogistics.com 
+mEducation
+UNESCO education indicators: (2006-12)
+Ambient Insight: The Worldwide Market for Mobile Learning Products and Services: 2010-2015 Forecast and Analysis
+McKinsey and GSMA: Transforming learning through mEducation (2010)
+IBM: Smarter Education – Building the foundations of economic success (2012)
+GSMA: Mobile education landscape report (2011)
+GSMA: mLearning: A platform for educational opportunities at the base of the pyramid (2010)
+UNESCO & Nokia: Turning on mobile learning > Illustrative initiatives and policy implications (2012)
+Smart Cities
+Pike Research: Smart meters in Europe (2012)
+Directive 2009/72/EC of the European Parliament and of the Council concerning common rules for the internal market in 
+electricity (2009 )
+IMS Research: The world market for smart meters (2010)
+Department of Energy and Climate Change: Smarter grids: The opportunity (2009)
+IBM Report: A vision for smarter cities (2009)
+CNET: “GridWise trial finds ‘smart grids’ cut electricity bills” (2008) http://news.cnet.com/8301-11128_3-9847236-54.html
+Seimens Green City Indes (2012) - http://www.siemens.com/entry/cc/en/greencityindex.htm
+New Cities Foundation: Connected commuting (2012)  http://www.newcitiesfoundation.org/wp-content/uploads/New-Cities-
+Foundation-Connected-Commuting-Full-Report.pdf
+United Nations Statistics Division: Demographic and Social Statistics 
+Schechtner, González, Wang, Bayen and Hunter, “Congestion can be alleviated throughout a metropolitan area by altering the 
+trips of drivers in specific neighborhood” (Scientific Reports December, 2012)
+Contacts
+Shashank Tripathi
+India Leader - Strategy and Research
+Phone:+91 98196 78900
+Email: shashank.tripathi@in.pwc.comMohammad Chowdhury
+India Leader - Telecom
+Phone:+91 9167665544
+Email: mohammad.chowdhury@in.pwc.com
+David Wijeratne
+Associate Director - Strategy and Research
+Phone:+91 9818966775
+Email: david.wijeratne@in.pwc.comMadhu Varshitt YS
+Principal Consultant - Strategy and Research
+Phone:+91 9769721412
+Email: madhu.varshitt.ys@in.pwc.com
+Mayank Sankar Nayak
+Consultant – Telecom
+Phone:+91 9867464488
+Email: mayank.s.nayak@in.pwc.comRuchika Agrawal
+Consultant – Strategy and Research
+Phone:+91 9167667550
+Email: ruchika.agrawal@in.pwc.comAbout PwC
+PwC* helps organisations and individuals create the value they’re looking for. We’re a network of firms in 158 countries 
+with more than 180,000 people who are committed to delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, Bangalore, Chennai, Delhi NCR, 
+Hyderabad, Kolkata, Mumbai and Pune.  For more information about PwC India’s service offerings, please visit www.
+pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member firm is a separate legal entity. 
+Please see www.pwc.com/structure for further details. 
+You can connect with us on: 
+    facebook.com/PwCIndia 
+    twitter.com/PwC_IN
+   linkedin.com/company/pwc-india
+         youtube.com/pwc
+pwc.in
+This publication has been prepared for general guidance on matters of interest only, and does not constitute professional advice. You should not act upon the 
+information contained in this publication without obtaining specific professional advice. No representation or warranty (express or implied) is given as to the accuracy 
+or completeness of the information contained in this publication, and, to the extent permitted by law, PwCPL, its members, employees and agents accept no liability, 
+and disclaim all responsibility, for the consequences of you or anyone else acting, or refraining to act, in reliance on the information contained in this publication or for 
+any decision based on it. Without prior permission of PwCPL, this publication may not be quoted in whole or in part or otherwise referred to in any documents.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability 
+company in India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+AK 459- February 2013 Connected life.indd
+Designed by: PwC Brand and Communications, India

@@ -1,0 +1,19 @@
+Title: pwc_bs-ai
+Date Published: 
+Source: pdfs/pwc_bs-ai.pdf
+Word Count: 7
+Sentence Count: 1
+Average Sentence Length: 17.0
+
+--- TOP 20 WORDS ---
+error: 1
+extracting: 1
+content: 1
+time: 1
+data: 1
+match: 1
+format: 1
+
+--- CLEANED CONTENT ---
+
+Error extracting content: time data ': 2o25o125111228' does not match format ':       '

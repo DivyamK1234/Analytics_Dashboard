@@ -1,0 +1,606 @@
+Title: India Pharma Inc.
+Date Published: 2013-10-22 11:00:53-05:00
+Source: pdfs/pwc_changing-landscape-of-the-indian-pharma-industry.pdf
+
+--- CONTENT ---
+
+India Pharma Inc. 
+Changing landscape of the 
+Indian pharma industry
+www.pwc.in
+Content  
+Executive summary p4/Indian pharmaceutical market highlights 2013  p6/
+Regulatory challenges  p8/Clinical research in India p10/Building a robust 
+internal compliance programme  p12/The technology curve: Revamping the 
+pharma industry  p14
+
+
+Foreword
+Welcome to the CII Pharma Summit 2013.
+The Indian pharma market is currently valued at 72069 crore INR1. The 
+market has experienced a slowdown this year with its growth going 
+down to 9.8% from 16.6% in 20122. This slowdown can be attributed to 
+the new drug pricing policy and the regulatory interventions over the last year. 
+The Indian pharmaceutical industry is witnessing regulatory challenges 
+like delays in clinical trial approvals, uncertainties over the FDI policy, the new pharmaceutical pricing policy, a uniform code for sales and marketing practices and compulsory licensing.
+In order to bounce back to a healthy growth rate in future, companies 
+will have to rethink the way they do their businesses today. The government will have to play a great role in establishing a strong regulatory set-up as well as a speedy redressal for related issues.
+Quality and regulatory concerns could also lead to greater US FDA 
+scrutiny in future. Companies will have to step up their quality and manufacturing compliances in line with the global guidelines.
+Companies will also have to think if their governance and compliance 
+framework is robust and is updated with the constantly changing regulatory requirements.
+They need to focus on using the new technologies to connect better 
+with their key stakeholders like patients, healthcare providers, regulators, governments, payers and the society at large.
+In this report, we look at the changing landscape of the industry, the 
+regulatory hurdles and the emerging technologies that need to  be considered in order to achieve a sustainable and compliant long-term growth.
+We hope this report presents an overview of industry issues and throws 
+light on the industry potential so that the concerned stakeholders can see it better.
+Sujay ShettyExecutive Director, India Pharmaceutical& Life Sciences Industry LeaderPwCDr Rajiv ModiChairman - CII Gujarat State Council andChairman - CII Pharma Summit 2013 and Chairman and Managing DirectorCadila Pharmaceuticals Ltd.
+4 PwCExecutive summary
+The Indian pharmaceutical market (IPM) is valued at  
+72069 crore INR in 20133 as against 65654 crore INR in 20124. It 
+has experienced a slowdown with its growth going down to 9.8% 
+from 16.6% in 20125. There has been a slowdown in the growth 
+of the top Indian as well as multinational companies (MNCs). However, the slowdown is more prominent in the MNCs than in the Indian companies. In 2012, the top five MNCs had grown at the rate of 16% which dropped down to 7% in 2013
+6.
+The contribution of chronic therapies to the IPM has gone up from 27% in 2010 to 30% in 2013
+7. Chronic therapies (cardio, 
+gastro, CNS and anti-diabetic) have outperformed the market for 
+the past four years and are growing at a rate of 14%8, faster than 
+the acute therapies (anti-infectives, respiratory, pain and gynaec) which grew at 9.6%
+9. This essentially translated in an overall 
+slowdown in 2013.
+The number of new products launched has gone down from 
+approximately 1900 in 2010 to approximately 1700 in 201210. 
+Of all the new launches as of April 2013, the maximum were anti-infectives (468), pain- analgesics (435) and gastro (389) therapies
+11.
+The implementation of the National Pharmaceutical Pricing Policy 2012 by the government of India has resulted in margins erosion from 20% and 10% to 16% and 8% for retailers and stockists respectively
+12. This decrease in the stockist margins led 
+to a significant uncertainty among many stockists regarding the feasibility of staying in business due to lower profitability post the margin reduction.
+In addition to the growth challenges, the pharmaceutical industry 
+is currently grappling with a number of issues like delays in clinical trial approvals, uncertainties over the FDI policy, the new pharmaceutical pricing policy, a uniform code for sales and marketing practices and compulsory licensing, all of which need a speedy resolution. The industry is also facing stricter regulations on manufacturing and quality practices in the domestic as well as the international markets. 
+India is perceived as an attractive destination for clinical trials. 
+Concerns have been expressed about the approval of drugs without clinical trials, unethical practices in clinical trials and payment of compensation to patients or kin in the event of adverse events in clinical trials. The government of India has responded to these concerns by bringing in additional oversight mechanisms for clinical trials and notifying new rules for clinical trials. Approvals for clinical trials in India however have slowed down considerably. In addition, concerns have also been expressed by various stakeholders involved in the clinical research in India on some aspects of these regulations. The Indian government has agreed to consider some of these concerns. The government has also stated that it will consult the states and all other stakeholders to create a legal and regulatory framework for clinical trials in India.
+Clinical trials are an inherent part of the drug development 
+process and cannot be dispensed with. The continuing search for new therapies and cost-effective alternatives to existing therapies will be realised in practice only after comprehensive clinical trials. The clinical research industry in India needs to work closely with the government to create a regulatory mechanism that allows scientifically sound and ethically correct trials to be conducted so that the benefits of clinical trials can be brought to patients in India.   
+
+India Pharma Inc.: Changing landscape of Indian pharma industry     5Another critical concern for the pharmaceutical and  
+life sciences companies is to create a compliance programme that encapsulates the local as well as the global regulations guiding operations and practices of the pharmaceutical and life sciences industry. Focussing on the Medical Council of India’s code (MCI), the draft Uniform Code for Pharmaceutical Marketing Practices (UCPMP) and the Organisation of Pharmaceutical Producers of India (OPPI) code, as applicable can help companies fix the loopholes in their current compliance programmes and make it more robust.
+Further, emerging technologies called SMAC: social networking, 
+mobile computing, analytics and cloud computing, are likely to play a crucial role in addressing these challenges, improving operational efficiencies and amplifying the performance of the pharmaceuticals companies.
+Though each of these technologies has a unique impact, they also 
+complement each other in order to drive business transformation. These technologies jointly foster innovation through new ways of product development, customer service and interaction and partnerships, thereby creating value and stimulating success.
+India has had an efficient pharmaceutical industry which has 
+been making affordable drugs not just for the Indian markets but has also been exporting them to the world but off late, been facing rising FDA scrutiny for quality. US FDA has increased its scrutiny on the quality coming from India located manufacturing plants. Indian companies will have to raise their compliance to US FDA regulations as they drive their major share of exports from the US market. Addressing the challenges in a holistic way will strengthen the sector which constitutes a major part of the Indian economy. Pharma companies will have to think through suitable strategies to mitigate the risk emanating from the above discussed challenges and to sustain growth in the next decade.
+SMAC technologies
+Social  
+networkingCloud  
+computingMobile  
+computingAnalytics
+6 PwCIndian pharmaceutical 
+market highlights 2013
+Market value and growth scenario 
+The IPM is valued at 72069 crore INR in 201313 as against  
+65654 crore INR in 201214 with an incremental value of  
+6416 crore INR, which is down from the 9363 crore INR for  2011-
+201215. The IPM has experienced a slowdown this year with its 
+growth at going down to 9.8%  from 16.6% in 201216. From 2010 
+to 2012, the IPM had a CAGR of approximately 15%17.
+The IPM growth rate has declined after November 2012 from an average of 16% to 8%
+18. This slowdown can be attributed to the 
+following:
+•	 The National Pharmaceutical Pricing Policy (NPPP) being 
+announced towards the end of 2012
+•	 Higher growths for the corresponding quarters and months 
+in the previous year
+•	 The NPPP implementation and the subsequent price 
+corrections leading to a low uptake among the stockists in Q2 
+of 2013
+Key therapy areas
+The top 10 therapy areas of the IPM contribute to approximately 90% of the IPM sales
+19. 
+Chronic therapies (cardio, gastro, CNS  and anti-diabetic) have been outperforming the market for the past four years and have 
+grown at a rate of 14%
+20, faster than acute therapies (anti-
+infectives, respiratory, pain and gynaec) which grew at 9.6%21. 
+This is what effectively resulted in an overall slowdown in 2013. 
+The contribution of chronic therapies to the IPM has gone up 
+from 27% in 2010 to 30% in 201322.
+Therapy2010  
+contribution %2013  contribution %2013  growth
+Acute 73% 70% 9.6%
+Chronic 27% 30% 14.0%Company performance
+The top 10 companies contributed to 41% of total IPM sales up 
+from 39% in 201023. These companies had a collective growth of 
+9% (lower than the IPM) 24. Companies that ranked from 11 to 
+20 contributed to 22% of IPM sales and had a cumulative growth of 12% (higher than the IPM)
+ 25. The remaining companies 
+contributed to 37% of the IPM sales with a growth rate of 9%26.
+Growth trends in Indian companies and MNCs 
+There has been a slowdown in the growth of the top Indian as well as multinational companies. However, the slowdown is more prominent in the MNCs than in the Indian companies. In 2012, 
+the top five MNCs had a growth rate of 16% which dropped down 
+to 7% in 2013
+27. Similarly, in 2012, the top five Indian companies 
+had a growth rate of 16% that dropped down to 12% in 201328.
+  Growth 
+2012Growth 2013Inc value 2012Inc value 2013MNC Top five 16% 7% 1649 880
+Top 10 16% 8% 1952 1097Indian Top five 16% 12% 1521 1361
+Top 10 18% 13% 2678 2374
+Brand performance
+The top 100 brands in the IPM cumulatively contributed to 
+approximately 18%29 of the total market value with a growth rate 
+of approximately 11%30.  This value has marginally gone up from 
+17% in 201031. Of the top 100 brands, 44 brands were more than 
+100 crore INR in value32. Indian companies and the MNCs had an 
+equal share in the top 100 with 50 products each33. 76 of the top 
+100 products were acute therapy products while 24 were chronic therapy products
+34. In terms of therapy, there were 21 anti-
+infective products, 12 gastro, 11 anti-diabetic, 10 respiratory and nine cardiac therapies
+35.
+New introductions
+Contribution of the new introductions (NIs) to the IPM has gone down from 6.3% in 2010 to 4.1% in 2013
+36. The number of new 
+products launched has gone down from approximately 1900 in 2010 to approximately 1700 in 2012
+37. Of all the new launches 
+as of MAT Apr 2013, the maximum were in anti-infectives (468), pain- analgesics (435) and gastro (389) therapies
+38. The average 
+value per NI was 0.89 crore INR for the overall market and was the highest for vaccines (4.32 crore INR)
+ 39.IPM Contribution 2013
+Top 10, growth rate-Next 10, growth rate-Others, growth rate-
+37%41%22%9%
+9%22%
+India Pharma Inc.: Changing landscape of Indian pharma industry     7Town-class penetration
+Increased access to healthcare, improved infrastructure and 
+greater penetration of pharma companies into extra urban regions has led to an enhanced contribution and a higher growth 
+from lower town classes in the IPM. Urban regions (metros and 
+Class I) contribute to approximately 60%
+40 of the IPM sales while 
+the extra-urban regions (Class II to VI towns and rural) contribute to approximately 40%
+41. Growth is driven mainly by the Class I 
+towns (10%) and rural areas (14.5%).42 
+Town-class contribution to IPM and growth
+Town-class % to IPM Growth
+Metros 30% 8%
+Class I towns 31% 10%
+Class II - VI towns 19% 10%
+Rural 20% 14%
+Other trends in 2012 – 2013
+Implementation of NPPP  by the government
+This resulted in the margins of all products that came under the 
+purview of the NPPP drop from 20% and 10% to 16% and 8% for the retailers and the stockists respectively
+43. 
+This decrease in stockist margins led to a significant uncertainty among many stockists regarding the feasibility of staying in business due to the lower profitability post the margin reduction.
+Increase in adoption to MCI guidelines
+More companies were seen adopting the MCI guidelines for the 
+promotion of products to doctors and changes being made to the sales and marketing strategies across the industry.
+Focus on improving sales force productivity
+Companies have focused on increasing the productivity of their 
+field forces with an aim of optimisation, re-deploying in high potential territories, implementing robust processes and using technology to monitor the performances on regular basis, thereby trying to bring in enhanced efficiency in the overall sales force. 
+Alliances and partnerships
+Another trend seen in the market was the partnerships between 
+the multinational and Indian companies with an aim of increasing the reach in terms of the number of customers and geographical coverage for patented molecules. These were seen in the form of 
+co-marketing, co-promotion, licensing and joint ventures.The Indian pharma industry is experiencing a slow growth 
+currently due to the new pricing policy and other regulatory challenges.  However, making a slight change in the way they 
+are doing business today can negate the impact in the long run. 
+Henceforth, both the Indian and foreign companies operating in India will have to device suitable strategies in order to be in the top 10 global markets by 2020.
+Some of these strategies can be 
+portfolio optimisation
+expansion into newer markets
+improving sales force productivity
+including newer technology 
+building a robust internal compliance programme
+
+8 PwCRegulatory challenges
+The Pharma regulatory environment across the world is getting 
+more stringent. In order to compete in the global market, the Indian pharma market needs a strong regulatory set-up. But, the 
+sector is currently grappling with a number of issues like delays 
+in clinical trial approvals, uncertainties over the FDI policy, the new pharmaceutical pricing policy, a uniform code for sales and marketing practices and compulsory licensing all of which need 
+immediate attention. 
+Clinical trials
+Safety and effectiveness of the medicines has to be established 
+before regulatory approval is granted for new drugs. Clinical trials are the gold standard processes which determine the safety 
+and effectiveness of these drugs. Clinical trials are also needed 
+for the Indian pharmaceutical industry to develop cost effective therapies for diseases like tuberculosis, diarrheal diseases, malaria, leishmaniasis, and meningitis which affect India and 
+the other developing countries and to capitalise on opportunities 
+provided by bio-similars. 
+India also has aspirations of becoming a knowledge hub for 
+Pharma. R&D in general and clinical trials in particular are an important aspect of this aspiration.
+India has been considered as an attractive destination for 
+conducting such clinical trials. This is mainly due to India’s genetic diversity; increasing and varied disease prevalence rates; availability of medical, pharmacy and science graduates, clinical 
+infrastructure and comparative cost advantage. 
+However, the regulatory delays in the clinical trials are adversely 
+affecting this possibility. 
+The delays and regulatory uncertainty have severely derailed 
+the innovation curve as well as the growth of the clinical trial 
+industry. Ineffective regulatory oversight, need for safeguards for 
+informed consent for vulnerable populations and compensation guidelines for patients for trial related deaths  have emerged as major concerns. In terms of the clinical trials, where India could 
+have been a leader, the country is losing out on opportunities 
+because of the mentioned limitations. 
+The FDI policy
+Hundred percent FDI through the automatic route was possible in the Pharma sector in India. Given the high current account deficit, India requires FDI. The FDI policy, however, gives 
+confusing signals. 100% FDI in greenfield investments is allowed 
+by the automatic route but after November 2011, the brownfield investments require the approval of the Foreign Investment Promotion Board (FIPB) which often comes with conditions
+44. 
+The time consumed in this process also acts a deterrent. 
+FIPB conditions include the need to maintain production levels 
+for the NLEM at the highest level for three years preceding the 
+FDI, the need to maintain R&D expenses at the highest level for three years preceding FDI, the need for information on the transfer of technology to the administrative ministries and FIPB 
+etc. The intention behind such restrictions may be good but it 
+discourages investment. We need a FDI policy which addresses these concerns while ensuring the affordability as well as the availability of drugs in India National Pharmaceutical Pricing Policy 
+(NPPP)
+Pharmaceutical price controls are seen all over the world. 
+Through NPPP 2012, the government has enhanced the scope of the Drugs Price Control Order (DPCO) to include all the drugs in the NLEM
+45. Combination drugs in which one of the drugs is 
+a part of the NLEM were also brought under the ambit of DPCO. The government also changed the formula to arrive at the ceiling 
+price from a cost based method to a market based method. 
+The Pharma companies are feeling the effects of the price controls 
+associated with NPPP which will have a negative impact on their topline in short term. However, with well thought out strategies, 
+a large part of this impact can be negated in the medium to long 
+term. While companies have accepted the reality of price controls, one issue which has adversely affected the industry is the timeline for the implementation of DPCO. The industry felt that the 
+government did not provide sufficient time for implementing the 
+new packaging and labeling with the revised prices. There was also lack of clarity about the location where such packaging and labelling activities could be performed. Some companies had to 
+go to court to get an extension and the ones who couldn’t do so 
+in time are still suffering. This confusion could have been easily avoided through consultation and by giving adequate time for the implementation of the revised prices.
+Uniform code on sales and marketing
+In an attempt to streamline the marketing efforts, the Department of Pharma (DoP) has issued guidelines on a uniform code on sales and marketing practices which are applicable to the 
+pharmaceutical companies. This is a laudable step aimed at 
+preventing corruption. The DoP guidelines however, are different from the MCI guidelines on the sales and marketing practices. Tax authorities use the Central Board of Direct Taxes (CBDT) 
+circular based on MCI guidelines to decide on permissible sales 
+and marketing expenses. Because of differing standards between the DoP and MCI guidelines, there is an increased need for clarity both from the point of view of the industry as well as the tax authorities. 
+India Pharma Inc.: Changing landscape of Indian pharma industry     9
+Compulsory licensing
+In countries like India, there should be a balance between 
+the need for affordability of drugs and intellectual property (IP) protection. The intention of the government to ensure 
+the availability of patented medicines at a reasonable price is 
+noble but there are other ways of achieving the same goal. The indiscriminate use of compulsory licensing will undermine both the Indian as well as foreign pharmaceutical companies. 
+The industry is also facing stricter regulations on manufacturing 
+and quality practices in the domestic as well as international markets. 
+Manufacturing quality
+India is the biggest supplier of medicines to the US and according to the industry sources, pharmaceutical exports from India to the 
+US rose nearly 32 % last year to 4.23 billion USD. With increase in 
+exports, Indian companies are drawing greater FDA scrutiny for quality and manufacturing compliances. 
+For India to continue exporting to the foreign markets companies
+will have to step up their quality and manufacturing compliance
+programmes which are in line with the US FDA regulations. Increasing confidence in the drugs manufactured in India is important. The regulators need to set the standards at par with 
+the global ones through appropriate legislation. They also have  
+to ensure that these standards are effectively enforced and complied with.
+India has an efficient pharmaceutical industry which has been 
+making affordable drugs not just for the Indian market but has 
+also been exporting them to the world. Addressing the above 
+challenges in a holistic manner will strengthen the sector which constitutes a major part of the Indian economy. Pharma companies will have to devise suitable strategies to mitigate 
+the risk emanating from the above discussed challenges for a 
+sustainable and compliant growth over the next decade.
+10 PwCClinical research  
+in India
+Randomised clinical trials are the gold standard process by which 
+the safety and efficacy of experimental drugs is evaluated. Data submitted by the pharma companies is analysed and evaluated by 
+regulators before drugs are approved for use. In addition, clinical 
+trials are also required for post market surveillance of drugs.
+India is perceived as an ideal destination for clinical trials. A large 
+scientific workforce well versed in the English language, a diverse 
+pool of patients in need of treatment and cost arbitrage were seen 
+as drivers for clinical research in India. In 2005, the government of India amended the Drugs and Cosmetics Act allowing clinical trials to be held simultaneously with other countries without a phase lag. The number of clinical trials in India rose to a high of 
+529 in 2010
+46
+The growth in the number of clinical trials however was not 
+accompanied by a similar growth in the regulatory oversight of trials. The main concerns regarding clinical trials in India are  
+as follows:
+Approval for drugs without trials
+The government of India’s Parliamentary Standing Committee on 
+Health in its 59th report submitted in May 2012 has observed that 38 drugs have been introduced in India without clinical trials
+47. 
+This committee has called for strengthening the regulatory mechanism for clinical trials. 
+Unethical practices  
+There have been reports about the use of vulnerable population groups in clinical trials. Lapses have been reported in the informed consent process. Concern has also been voiced about 
+under-reporting of adverse events and delays in reporting adverse 
+events in clinical trials. 
+Compensation for adverse events
+The government of India has reported that there have been 2868 deaths during clinical trials in the period 2005-2012
+48. It has 
+also reported that there were 89 deaths which were related to clinical trials out of which compensation had been paid in 82 
+cases
+49. Health activists and civil society groups have emphasised 
+the need for payment of an adequate compensation to patient 
+or kin because of injuries or death related to clinical trial. The 
+need for timely payment of agreed compensation has also been 
+highlighted by these groups. 
+Responding to these concerns, the government has introduced a 
+slew of measures:
+• Registration of all clinical trials in India has been made 
+mandatory. 
+• Twelve National Drug Advisory Committees comprising 
+eminent experts in different medical specialities were set up in 
+2012, to oversee approvals for clinical trials. 
+• In January 2013, after observations by the Supreme Court, Government of India introduced two additional committees: the Technical Committee under the leadership of the Director 
+General of Health Services and the Apex Committee under the 
+Secretary of Health and Family Welfare to supervise approvals for clinical trials in India.• The government has made registration of independent ethics committees mandatory. 
+• The Drugs and Cosmetics Act has been amended to define 
+adverse events related to clinical trials. 
+• Timelines have been defined for the reporting of adverse 
+events.
+• The government also introduced regulations for the computing and payment of compensation to patients or their 
+kin for adverse events.
+• It has also instructed the supervision of clinical trial sites 
+by regional offices of the Central Drugs Standards Control Organisation (CDSCO).
+The clinical research industry in India and the academic research community have welcomed the government’s initiatives to regulate clinical trials in India. They have however expressed concerns with some aspects of the regulations. 
+
+India Pharma Inc.: Changing landscape of Indian pharma industry     11Delays in approvals 
+The additional committees created by the government in 
+January 2013 add to the delays in approvals. This delay is forcing companies to rethink their plans for conducting clinical trials 
+in India. Some have indicated that they may be forced to move 
+clinical trials out of India. Research institutes such as National Institutes of Health (NIH) USA have also suspended 40 ongoing clinical trials in India.
+Compensation in the event of adverse events
+Section 122 DAB of the Drugs and Cosmetics Act as amended by the government of India in January 2013 states that “in the case of an injury occurring to a clinical trial participant, he 
+or she will be given free medical management for as long as 
+required”
+50. Medical management of patients should be required 
+only in the event of a clinical trial related injury. Promising medical management to all clinical trial participants may also 
+be construed as an inducement to patients and thus needs to be 
+reviewed.The definition of a clinical trial related event includes failure of investigational product to provide intended therapeutic effect
+51. 
+The very purpose of conducting clinical trials is to assess whether the investigational product will produce the intended benefit and 
+failure to produce the intended benefit cannot be construed as a 
+clinical trial related event.
+The definition of a clinical trial related event also includes use of 
+a placebo in a placebo controlled trial. Here again, mere inclusion 
+of a patient in the placebo arm cannot be a basis for payment of 
+compensation since such patients do receive the current standard of care
+The government of India in its affidavit before the Supreme Court 
+has said that it will look into some of these concerns
+52. It has also 
+appointed a committee under the chairmanship of Dr Ranjit Roy Chaudhury to formulate guidelines for conducting clinical trials 
+in India. This committee has submitted its report in August 2013 
+and this report is now under the consideration of the government. The government has also stated that it will consult the states and all other stakeholders to create a legal and regulatory framework 
+for clinical trials in India.
+Clinical trials are an inherent part of the drug development 
+process and cannot be dispensed with. The continuing search for new therapies and cost-effective alternatives to existing therapies will be realised in practice only after comprehensive clinical trials. 
+The clinical research industry in India needs to work closely with 
+the government to create a regulatory mechanism that allows scientifically sound and ethically correct trials to be conducted so that the benefits of clinical trials can be brought to patients in 
+India. 
+
+12 PwCBuilding a robust 
+internal compliance programme
+Scientific and technology innovations, a rising demand for 
+quality and lifesaving medicines, trade liberalisation and socio-demographic changes paint a success story for the 
+pharmaceutical and life sciences sector worldwide. These 
+factors open more avenues for innovation and profitability for the industry
+53. However, the future of the industry will be made 
+or marred not only by the obvious success factors but also by a critical consideration of compliance and governance matters. 
+Companies operating in India and outside have to be aware of 
+and comply with a nexus of local and global regulations guiding the operations and practices of the pharma and life sciences industry. 
+A World Bank research in 2007 indicated that lack of 
+transparency in decision-making coupled with lack of accountability of such decisions created several opportunities  for corrupt practices and led to governance breakdown
+54. 
+Marketing and promotional activities between the pharmaceutical industry and healthcare professionals are under 
+the strict scanner of global regulators. As such, compliance and 
+governance has taken centrestage in the boardroom of pharma and life sciences companies.
+Regulatory focus and challenges in India
+In various parts of the world, the relationship between the pharma industry and the medical profession has been a controversial one. In the current economic environment, where 
+both the top and bottom lines of pharma and life sciences 
+companies are under immense pressure, companies more often than not resort to aggressive sales strategies to woo medical professionals through gifts and hospitality.  
+High-profile corruption crackdown cases and proactive internal 
+investigations conducted by companies have brought to the fore certain significant ethical dilemmas for pharma and life sciences companies. Activities including but not limited to lavish gifts, sponsorship of holidays under the pretext of medical 
+conferences, free samples, etc. have raised concerns and 
+resulted in the introduction of various laws and guidelines that aim to govern the ethical conduct by medical professionals as well as pharma and life sciences companies in India.
+The main regulations relevant for medical professionals and pharma companies in India are as follows:
+• Prevention of Corruption Act, 1988 is a central statute 
+that applies to all of India and intends to curb bribery and 
+corruption in the context of civil servants of the central and state governments.
+• The Indian Medical Council (Professional Conduct, Etiquette 
+and Ethics) Regulations 2002, (MCI Code) issued under the 
+Medical Council of India Act, 1956 (including subsequent amendments) prescribes standards for the medical profession in India. Amendment notification dated 10 December 2009, specifically prohibits medical practitioners and their 
+professional associations from accepting any gift, travel 
+facility, hospitality, cash or monetary grant from pharma and life sciences companies. In addition, the Central Board of Direct Taxes (CDBT) issued a circular  in 2012 stating 
+that it would disallow expenses incurred by pharma and life 
+sciences sector businesses in providing freebies to medical professionals and treat the value of freebies enjoyed by the medical professionals and their professional associations as 
+their taxable income
+55.
+• The Draft Uniform Code for Pharmaceutical Marketing 
+Practices (Draft UCPMP) is currently pending finalisation by the Department of Pharmaceuticals under the Ministry 
+of Chemicals and Fertilisers. This voluntary code relates to 
+the promotion of pharma products and interactions between healthcare professionals and the pharma industry. The Department of Pharmaceuticals has indicated that while they 
+would like pharma companies to adopt this code voluntarily, 
+India Pharma Inc.: Changing landscape of Indian pharma industry     13
+they will consider enacting a law if voluntary adherence 
+is ineffective. In line with the MCI Code, the current Draft UCPMP also prohibits pharma companies from extending 
+freebies to healthcare professionals or their families.  
+• OPPI Code of Pharmaceutical Practices, 2012 was introduced 
+by the Organisation of Pharmaceutical Producers of India and is based on the code of the International Federation 
+of Pharmaceutical Manufacturers and Associations. It 
+was introduced for the member companies of the OPPI to govern ethical conduct and promotional activities. The OPPI Code, among other things, prohibits freebies to healthcare professionals. In addition, it provides guidance on (i) 
+appropriate venues for meetings and events i.e. conducive 
+to the scientific or educational objectives and the purpose of such events and meetings; (ii) engaging healthcare professionals in advisory capacities (for example consultants,  
+advisors, etc.); and (iii) prohibition of promotional aids  
+and brand reminders.
+Robust internal compliance programme
+In this environment, following are some critical questions  to consider: 
+• Is your governance and compliance framework robust and 
+updated with changing regulatory requirements?
+• Are all dealings with healthcare professionals as well as 
+government and regulatory agencies conducted in the most transparent and ethical manner?• Do you really know who your third-party and business agents are? What would happen if you associate yourself with a 
+third party whose ethical standards are not consistent with 
+your company values?
+• In the race to optimise profits, have you compromised any aspect of compliance or controls? 
+• Do you have adequate controls over your contract manufacturing facilities? 
+• Are you aware of the business practices adopted by your  CFA, stockist or distributor? Are they in line with your compliance standards?
+• Do you believe your company has adequate financial  controls to mitigate the risk of potentially inappropriate conduct by employees? 
+A critical consideration for pharma and life sciences companies 
+is to create a compliance programme that encapsulates local 
+and global regulations guiding the operations and practices of the industry. Focussing on the MCI Code, Draft UCPMP and OPPI Code to the extent applicable can help companies close 
+loopholes in their current compliance programme and make it 
+more robust.
+14 PwCThe technology 
+curve: Revamping the pharma industry
+Globally, businesses are facing radical changes within current 
+economic and market structures. Major scientific, technological and socioeconomic changes promise to revive the industry’s 
+fortunes in another decade. However, capitalising on these 
+trends will require crucial decisions. 
+Despite a high demand for pharma products, there exists 
+pressure to deliver effective treatment at lower costs. 
+Healthcare reform and regulatory requirements are changing 
+the realities of the marketplace. This is affecting the entire value chain from product development to healthcare delivery and payer reimbursement. The industry’s current business model based on the development and marketing of blockbuster drugs, 
+can no longer meet stakeholder expectations. In order to remain 
+competitive, pharma companies will have to innovate around their products as well as services in a cost-effective manner.
+Specifically, we see the convergence of four key technologies 
+to drive innovation; social networking, mobile computing, 
+analytics and cloud computing (SMAC). Though each of these technologies has its unique impact, they also complement each other in order to drive business transformation. Social media defines ‘who we work with’ and enables collaboration and 
+communication with employees as well as customers. Mobile 
+devices create a platform ‘where we work’ providing anytime, anywhere access to applications stored within the cloud and other data sources. Analytics identifies ‘what we work on’ and 
+helps us make actionable sense of data. Cloud enables ‘how 
+we do the work’ and contains information and applications. These technologies, jointly foster innovation through new ways of product development, customer service and interaction, partnerships, thereby creating value and stimulating success. 
+A look at the value chain of pharma companies provides a 
+glimpse in the applicability of SMAC. A typical pharma value chain consists of the following: 
+Pharma value chain
+Support activities: human resource management, financial management, procurement, IT, etc.
+India Pharma Inc.: Changing landscape of Indian pharma industry     15We believe that emerging technologies are likely to play a crucial 
+role in addressing these challenges, improving operational efficiencies and amplifying the performance of pharma and 
+life sciences companies. Organisations that continually adopt 
+technology, master it and drive business integration are likely to have a sustainable advantage over their peers in the market. In PwC’s 16th Annual Global CEO Survey, pharma and life sciences 
+CEOs have indicated improving operational effectiveness, 
+focussing on R&D and innovation and implementing new technology as top investment priorities over the next 12 months
+56. 
+The drug related R&D stage is highly complex, critical and resource-intensive. Investments have no guarantee of return 
+due to uncertainty of a drug being approved at the end of the 
+process. Drug research and clinical analysis during pre-clinical or clinical trials generate huge amount of data. For example, sequencing of a genome can generate petabytes of data, which 
+are too unstructured for analysis using traditional relational data 
+analysis tools and techniques. Storing this data in the traditional on-premise model can result in high initial costs, IT utilisation and procurement challenges. 
+Leading organisations are realising that cloud computing is 
+much more than a mere sophisticated IT solution. It is in fact, an 
+optimal business solution. Pharma companies can leverage cloud computing and big data analytics to save cost and reduce time to generate competitive advantage in the market.  High memory 
+compute capacity is available on-demand at prices as low as  
+1 USD per hour.  Cloud based elastic compute capacity and low-cost storage solutions combined with the processing power of big data analytics. Technologies such as Hadoop can result in significant cost advantages and improved operational efficiencies 
+during the R&D phase.  The whole process is likely to change 
+radically in  the future.
+An alternative measure of success is indicated by a company 
+focussing on its core activities. Companies are realising this and 
+hence there is a growing trend of increased reliance on third parties or joint working ie a shift towards a ‘networked pharma’ model to drive productivity and efficiencies. This poses an opportunity for pharma and life sciences companies to adopt the 
+software-as-a-service (SaaS) based model for functions areas 
+such as manufacturing, sales and marketing, finance, human resource, etc. SaaS based solutions for enterprise resource planning (ERP), customer relationship management (CRM), 
+laboratory information management, sales force automation, 
+human resource management (HRM), payroll and financial management, warehouse management, etc have the potential  to eliminate upfront investments (i.e. capital expenditures, capex) in fixed components such as IT infrastructure and  
+convert the entire IT cost into a variable cost or operational 
+expenditure (opex). Consumers today are more willing to provide inputs and  feedback for products and services. This presents an opportunity to cost-effectively crowdsource ideas and encourages evolution of 
+solutions. According to the PwC 16th Annual Global CEO Survey, 
+94% of pharma and life sciences CEOs said that customers and clients influence their business strategy and 77% of them are strengthening efforts to engage customers and clients. For some, 
+that means finding new ways to reach out to patients, such as 
+engaging them directly to better understand how their medicines work in real-life settings. Holistic social media strategies can accelerate innovation by tapping into the thought process of a much larger stakeholder group. Additionally, effective utilisation 
+of social media tools for internal collaboration can result in 
+effective communication and knowledge flow across  the organisation. 
+Proliferation of mobile devices (mobile phones, tablets and 
+myriad other devices that have built-in smart features to sense 
+and respond like sensors, biometric devices, etc) provides enterprises with a new platform to engage and interact with their customers as well as employees. These devices are not mere tools for accessing applications, but are drivers of innovation as 
+they can create an ecosystem that can transform the customer 
+and employee experience. Pharma companies can leverage these devices in order to differentiate and create a competitive advantage in a rapidly shifting market. Analytics combined with 
+a comprehensive social media and enterprise mobility strategy is 
+likely to emerge as a critical competitive requirement for pharma companies in order to innovate, improve customer service, enhance employee engagement and reduce costs.
+While it is pertinent that SMAC will drive operational efficiency, 
+reduced costs and foster innovation, even the best of technologies 
+cannot deliver success without a structured and well-defined strategy.
+Pharma companies will have to make the following key considerations before investing in SMAC:
+• Conduct a detailed assessment of its business and 
+technical landscape to identify opportunities for 
+SMAC adoption.
+• Formulate a business case for SMAC adoption by 
+clearly articulating business and commercial value 
+and defining success criteria.
+• Identify statutory and regulatory compliance requirements and required controls to address existing issues. 
+• Design the optimum solution, or evaluate multiple solutions or services available in the market to determine solutions or services best suited to specific requirements.
+• Conduct proof-of-concept and validate against defined success criteria before implementation. 
+16 PwC
+Conclusion 
+The economic environment in India is tougher now than 
+ever before. While pharma companies focus their attention on measures to combat the growth slowdown, they will 
+need to work with the government and other stakeholders 
+to discuss and resolve regulatory challenges. Resolving the impasse with clinical trials will help companies continue with R&D which is central to their growth strategies. 
+With numerous companies operating in multiple 
+jurisdictions, the pharma and life sciences industry is one of the most heavily regulated in the world. Not surprisingly, the burden of successfully managing complex rules and regulations is a major issue facing the C-suite 
+of pharma and life sciences companies worldwide. 
+Instituting compliance programmes catering to regulatory requirements is not enough in today’s volatile market where reputation is at stake. Companies need to take a 360-degree 
+approach for their compliance programmes encapsulating 
+not only compliance with regulatory requirements but also their internal code of conduct and ethics code. A compliant pharma or life sciences company with a strong tone at the top will gain better competitive advantage in this economic 
+environment in the long run.
+IT and emerging technologies such as SMAC present 
+opportunities for pharma companies to engage with external stakeholders such as patients, healthcare providers 
+and governments to develop products and services 
+designed to make the goal of health for all a reality.
+India Pharma Inc.: Changing landscape of Indian pharma industry     17
+References Acknowledgement
+1-43 AIOCD AWACS Market Intelligence Report 2013 (MAT 
+June 2013 Dataset) & PwC analysis
+44 Foreign Investment Promotion Board (www.fipbindia.com)
+45 National Pharmaceutical Pricing Authority (www.nppain-dia.nic.in)
+46 Ministry of Health and Family Welfare website (http://
+mohfw.nic.in/index1.php?linkid=338&level=1&lid=1640&l
+ang=1) downloaded on 21 October 2013
+47 Department-related parliamentary standing commit-tee on health and family welfare - Fifty-Ninth Report On The Functioning Of The Central Drugs Standard Control Organisation (CDSCO)
+48 Ministry of Health and Family Welfare website (http://mohfw.nic.in/index1.php?linkid=338&level=1&lid=1640&lang=1) downloaded on 21 October 2013
+49 Ministry of Health and Family Welfare website (http://mohfw.nic.in/index1.php?linkid=338&level=1&lid=1640&lang=1) downloaded on 21 October 2013
+50 Gazette Notification GSR 53E dated 30.1.2013 down-loaded from http://www.cdsco.nic.in/html/Notification.html on 21 October 2013
+51 Gazette Notification GSR 53E dated 30.1.2013 down-loaded from http://www.cdsco.nic.in/html/Notification.html on 21 October 2013
+52 Supreme Court Order dated 30 September 2013 on WP(C)No. 33/2012 with WP(C)No. 79/2012
+53 PwC, 2012, “From vision to decision, Pharma 2020, (http://www.pwc.com/pharma )
+54 World Bank, 2007, Campos J E, Bhargava V. Tackling a social pandemic. In: Campos J E, Pradhan S (eds), “The 50.Many Faces of Corruption: Tracking Vulnerabilities at the Sector Level. Washington DC
+55 Circular No.5/2012 dated 1-8-2012
+56 PwC 16th Annual Global CEO Survey (www.pwc.com)We thank the following PwC team members for their 
+valuable contributions to this report: 
+Krishnakumar Sankarnarayanan
+Nisha Vishwakarma
+Ritesh KhotRitesh PalSujay Shetty
+Sagar Pawar
+About CII 
+The Confederation of Indian Industry (CII) works to create and sustain an 
+environment conducive to the development of India, partnering industry, Government, and civil society, through advisory and consultative processes.
+CII is a non-government, not-for-profit, industry-led and industry-managed 
+organization, playing a proactive role in India’s development process. Founded over 118 years ago, India’s premier business association has over 7100 members, from the private as well as public sectors, including SMEs and MNCs, 
+and an indirect membership of over 90,000 enterprises from around 257 
+national and regional sectoral industry bodies.
+CII charts change by working closely with Government on policy issues, 
+interfacing with thought leaders, and enhancing efficiency, competitiveness and business opportunities for industry through a range of specialized services 
+and strategic global linkages. It also provides a platform for consensus-building 
+and networking on key issues.
+Extending its agenda beyond business, CII assists industry to identify and 
+execute corporate citizenship programmes. Partnerships with civil society 
+organizations carry forward corporate initiatives for integrated and inclusive 
+development across diverse domains including affirmative action, healthcare, education, livelihood, diversity management, skill development, empowerment of women, and water, to name a few.
+The CII Theme for 2013-14 is Accelerating Economic Growth through 
+Innovation, Transformation, Inclusion and Governance. Towards this, CII 
+advocacy will accord top priority to stepping up the growth trajectory of the nation, while retaining a strong focus on accountability, transparency and measurement in the corporate and social eco-system, building a knowledge 
+economy, and broad-basing development to help deliver the fruits of progress 
+to all.
+With 63 offices, including 10 Centres of Excellence, in India, and 7 overseas 
+offices in Australia, China, Egypt, France, Singapore, UK, and USA, as well as institutional partnerships with 224 counterpart organizations in 90 countries, 
+CII serves as a reference point for Indian industry and the international 
+business community.
+Contacts
+Confederation of Indian Industry
+Western Region105 Kakad Chambers, 132 Dr Annie Besant RoadWorli, Mumbai - 400018Maharashtra, IndiaPhone: +91 22 24931790Fax: +91 22 24939463 / 2494 5831Email: ciiwr@cii.inWebsite: www.cii.in
+About PwC 
+PwC helps organisations and individuals create the value they’re 
+looking for. We’re a network of firms in 157 countries with more than 184,000 people who are committed to delivering quality in 
+Assurance, Tax and Advisory services. Tell us what matters to you 
+and find out more by visiting us at www.pwc.com. 
+In India, PwC has offices in these cities: Ahmedabad, Bangalore, 
+Chennai, Delhi NCR, Hyderabad, Kolkata, Mumbai and Pune. For 
+more information about PwC India’s service offerings, visit www.
+pwc.com/in 
+PwC refers to the PwC network and / or one or more of its 
+member firms, each of which is a separate legal entity. Please see www.pwc.com/structure for further details.
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwcContacts
+Sujay Shetty
+Executive Director, India Pharmaceutical& Life Sciences Industry LeaderPwCEmail: sujay.shetty@in.pwc.comPhone: +91 22 6669 1305
+Nisha Vishwakarma
+Manager,  India Pharmaceuticals  & Life SciencesPwCEmail: nisha.vishwakarma@ in.pwc.comPhone: +91 22 6669 1100
+www.pwc.in
+Data Classification: DC0
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, 
+based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of 
+the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private 
+Limited (a limited liability company in India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+AK 99 - October 2013 India Pharma Inc.: Changing landscape of Indian pharma industry.indd
+Designed by: Brand and Communications, India

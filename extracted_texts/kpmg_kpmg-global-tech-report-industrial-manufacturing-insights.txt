@@ -1,0 +1,7 @@
+Title: kpmg_kpmg-global-tech-report-industrial-manufacturing-insights
+Date Published: 
+Source: pdfs/kpmg_kpmg-global-tech-report-industrial-manufacturing-insights.pdf
+
+--- CONTENT ---
+
+Error extracting content: PyCryptodome is required for AES algorithm

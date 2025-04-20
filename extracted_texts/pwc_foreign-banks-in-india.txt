@@ -1,0 +1,2728 @@
+Title: pwc_foreign-banks-in-india
+Date Published: 2013-12-17 10:29:30+05:30
+Source: pdfs/pwc_foreign-banks-in-india.pdf
+
+--- CONTENT ---
+
+Foreign 
+banks in 
+India
+At an 
+inflection
+www.pwc.in
+Contents  
+The story so far   p4/Results of the survey   p17/Appendices  p31
+When the history of our times is written, it is unlikely to be kind to banks. The global financial 
+crisis and the large-scale downward adjustments to the lifestyles of many in the West has 
+tarnished the image of banks and eroded the foundation on which these institutions were 
+built- public trust. 
+And yet, the banking system not only survives, it manages to pull itself together to fulfil the 
+enhanced expectations from ever more vigilant and demanding stakeholders. Some of the 
+largest banks in the world learn lessons in humility as capital and compliance standards seem 
+constantly inadequate to stand up to the aggressive benchmarks set by regulators to restore 
+confidence in their banks, and possibly themselves. 
+India, as one of the rising stars of the pre-crisis global economy has seen a stable rise in its 
+banking sector. It has been one slow and steady trend post the opening of the economy and 
+the first wave of banking reforms in the 1990s. Foreign banks were earlier high-end service 
+providers and employers of choice for the Indian elite. Yet, they have now transformed to 
+somewhat blend in with the local landscape, experimenting with products suited to the Indian 
+way of living and enterprise, doing what they do best; providing cross-border borrowings, 
+capital and access to global markets. Although the image of banks has not taken as severe a 
+beating as in the West, the sensitivity of regulators to systemic risk issues and the alignment of 
+regulatory regimes across the globe have resulted in challenges. 
+In the above context, we set out to meet foreign banks in India for their views on the market 
+environment, tax, legal and regulatory framework as well as use of technology and quality of 
+human capital.
+In our conversations, we felt a sense of relief at being in a well-regulated jurisdiction and also 
+a sense of being overwhelmed with too many changes; in regulations, in taxation and in the 
+changing competitive landscape. We sensed discomfort with commoditised business models 
+and the lack of ability to differentiate due to prescriptive guidelines. We felt restlessness at the 
+slow pace of growth forced by a strict branch licensing regime and inability to use inorganic 
+means of growth. Local managements of most foreign banks seem acutely aware of the 
+changing demands of the economy and the potential for growth in the SME or retail segments. 
+Yet, the balancing act between home countries’ risk management and local regulator’s push for 
+inclusion, with little flexibility on distribution models continues to be a deterrent. 
+We were fortunate to have a majority of foreign banks present in India participate in this 
+survey. The list of participants and the survey questionnaire are placed in Chapter III, 
+alongwith relevant data. This is a representative sample. The survey responses were collected 
+and compiled prior to the release of the final guidelines by RBI on local incorporation of 
+foreign banks. Although the guidelines are voluntary for most foreign banks operating in 
+India, we believe that the framework is likely to create an inflection point for foreign banks as 
+the dialogue between regulators and industry on the subject progresses and finer details of 
+implementation emerge.
+Although a dispassionate analysis of the India opportunity or the India threat will show a 
+long-term secular trend of growth ignoring short-term exuberance or pessimism, in reality, 
+the foreign bank branches in India compete with other geographies for resource, capital and 
+talent allocation. While the decision to stay or grow requires fervent championship within 
+organisations, there are many instances of banks withdrawing from India on the back of 
+minor or major shocks. In such cases, attempting to regain foothold and re-build credibility 
+with regulators or clientele is not easy. On the other side, policymakers expecting long-
+term commitment from global organisations have the responsibility to provide a somewhat 
+predictable growth path that can make long-term view on the India business possible. Indeed, 
+no one should have to be in India, they should want to be in India.
+We are grateful to our survey participants. We believe this is the right time to engage in this 
+dialogue. We also hope that the Indian economy and the foreign banks present in India will 
+continue to grow and create a higher degree of trust and value for each other.  
+We owe thanks to the team of young researchers working on this project. Their enthusiasm to 
+explore the subject and find themes, global practices and interesting facts was inspiring. We 
+do hope you will find the report useful.Foreword
+Manoj K Kashyap 
+Leader, Financial Services 
+Shinjini Kumar 
+Leader, Banking and Capital 
+Markets 
+
+
+4 PwCThe story so farChapter 1
+Introduction
+The story of foreign banks in India 
+goes back to the 19th century when the 
+colonial economy brought with it the need 
+for modern banking services, uniform 
+currency and remittances by British army 
+personnel and civil servants. The earliest 
+banking institutions, joint stock banks, 
+agency houses and the presidency banks, 
+established by the merchants during the 
+East India Company regime largely catered 
+to this growing need. While the agency 
+houses and joint stock banks largely failed 
+and disappeared, the three presidency 
+banks would later merge to form the 
+State Bank of India, India’s largest lender. 
+British owned and controlled, these early 
+banks may be considered India’s first 
+‘foreign banks’. It was decades after their 
+establishment that the first bank owned 
+and controlled by Indians, the Allahabad 
+Bank, would be established.
+The opening of the Suez Canal in 1869, 
+shift in the balance of global east-
+west trade flows through Indian ports, 
+introduction of the railroad and telegraph and other infrastructure improvements, all 
+contributed to growing interconnectivity 
+of the Orient with the Occident, as the 
+colonial powers of Europe spread across 
+Asia and Africa. This was followed by 
+a phase of numerous Indian or foreign 
+banks coming up to service different 
+segments of the economy; a landscape 
+described by Lord Curzon as “some old 
+fashioned sailing ship, divided by solid 
+wooden bulkheads into separate and 
+cumbersome compartments.”
+Milestone events for banking in India such 
+as the passing of the Reserve Bank of India 
+(RBI) Act, 1934, the creation of the central 
+bank in 1935, bank nationalisation in 1969 
+and 1980 did not impact foreign banks 
+much. They adapted well to the changing 
+economy and retained their niche as 
+service providers and employers of the 
+elite; bringing capital, innovation and best 
+practices from their home countries.
+The first phase of banking reforms, 
+triggered by recommendations of the 
+Narasimhan Committee in 1991 and the 
+licensing of the new private sector banks 
+through the next two decades inaugurated 
+an era of change. Meanwhile, the 
+opening-up of the economy to increased 
+participation by foreign players created 
+greater opportunities for foreign banks 
+to work with their multinational clients 
+in India. In the more recent past, foreign 
+banks have followed Indian corporate 
+entities in their outbound expansions.
+The survival of the banking system 
+in India through the financial crisis 
+has demonstrated its strengths and 
+most foreign banks present in India 
+believe that India is a market with 
+undeniable potential. However, like their 
+predecessors, they continue to look for the 
+best possible role they can play amidst the 
+challenging political economy, heightened 
+competition and changing financial 
+services regulations
+Foreign Banks in India: At an inflection     5Foreign banks in India today:  
+A snapshot
+As of March 2013, there are 43 foreign 
+banks from 26 countries operating 
+as branches and 46 banks from 22 
+countries operating as representative 
+offices. Although the discussion around 
+differential licensing is still nascent, there 
+is one foreign bank present as a credit card 
+issuer with limited banking licence. In 
+addition, a number of foreign banks have 
+also entered India via the NBFC route, 
+while a considerable number have set up 
+captive centres in the country. 
+Foreign banks present in India as 
+representative offices often have 
+correspondent banking relationships 
+with domestic banks and provide a 
+useful platform for foreign banks to 
+access opportunities for foreign currency 
+lending to Indian corporate and financial 
+institutions. 
+Foreign banks have less than 1% of the 
+total branch network but about 7% of the 
+total banking sector assets and a sizeable 
+11% of profits. With 334 branches in all, 
+the share of foreign bank branches is less 
+than 1%. (Exhibit 1 and 2)
+Exhibit 2: Foreign bank branches by population centre
+Source: Bank Branch Statistics, Database on the Indian Economy, RBIExhibit 1: Foreign banks’ share of banking assets and profits
+Foreign banks Public 
+sector banks Private 
+sector banks 
+Number of banks 43 26 20 
+Number of branches 327 75,779 16,001 
+Share of deposits 4% 77% 19% 
+Share of assets 6% 74% 20% 
+Share of off-balance sheet assets 63% 18% 19%
+Source: Database on the Indian Economy, a profile of banks 2012-13, RBIForeign banks in pre-
+independence India
+Foreign banks in India today, such as 
+Standard Chartered Bank and HSBC, 
+found their roots in financing the 
+growing trade between Asia and the 
+rest of the world. Traditional trade 
+items at the time were  cotton from 
+Mumbai, indigo and tea from Kolkata, 
+rice from Burma, sugar from Java, 
+tobacco from Sumatra, hemp from 
+Manila and silk from Yokohama, all 
+flowing to the west through Indian 
+ports, making India an important 
+destination for these banks.
+Standard Chartered Bank’s 
+antecedent, the Chartered Bank of 
+India opened an office in Calcutta in 
+1858, after receiving a Royal Charter 
+from Queen Victoria. The Hongkong 
+and Shanghai Banking Corporation 
+(HSBC), present in pre-independence 
+India through branches, took a 
+major inorganic step in 1959 when 
+it acquired the erstwhile Mercantile 
+Bank in India. The Comptoir 
+d’Escompte de Paris, which would 
+later become one of the entities to 
+form BNP Paribas, started operations 
+in Calcutta in 1860, and represented 
+the French as the second nationality to 
+have a major banking presence in the 
+country after the British. 
+Major American banking companies 
+were at the time restricted by law 
+from operating outside the US. The 
+relaxation of these laws paved the way 
+for the global expansion of American 
+banks in the early 20th century. 
+Citibank, or as it was known then, 
+The National City Bank of New York, 
+entered India in 1902, and JP Morgan, 
+which had ambitions of entering India 
+as early as 1902, did so in 1922 via 
+an ownership stake in the Calcutta 
+merchant banking firm Andrew Yule 
+and Co. Ltd. 
+Banks with one branch Banks with 2-19 branches Banks with more than 
+20 branches
+6 PwC“Opening up to foreign banks and 
+other financial firms and to foreign 
+direct investment in the financial 
+sector has many potential benefits. 
+These include the introduction 
+of financial innovations and 
+sophisticated financial instruments 
+by foreign financial firms, added 
+depth in domestic financial 
+markets due to foreign inflows, 
+and more efficiency in the domestic 
+banking sector through increased 
+competition.”
+- Raghuram Rajan Committee 
+Report on Financial Sector 
+Reforms, 2008For most foreign banks, their relationship 
+with Indian corporate clients is pivoted 
+around their ability to provide access 
+to global capital and debt markets. 
+Although data relating to individual 
+bank’s exposure to India through 
+onshore credit and offshore ECB and 
+trade finance is not available, taking the 
+total ECB data as a proxy for offshore 
+exposure, it is interesting to see the 
+consistent upward trendline for external 
+debt. Understandably, the onshore 
+exposure and its growth are related to the 
+performance of the economy and market 
+share of foreign banks. (Exhibit 3)
+Although foreign banks largely operate at 
+higher levels of efficiency and maintain 
+low net NPA ratios, due to exposure to 
+the same group of clients, the risks are 
+co-related. Interestingly, one of the biggest 
+challenges facing foreign banks is client 
+selection. Although the Indian economy 
+has grown at a healthy rate, there are 
+only a handful of Indian corporates 
+with credible governance processes 
+and global reputation required to pass 
+muster with the credit divisions of these 
+banks. Increasingly, such clients are also 
+being pursued by domestic banks with 
+larger single obligor limits and greater 
+autonomy to take decisions locally. This 
+automatically segments foreign banks 
+as ‘niche’ service providers which often 
+collides with the ‘universal banking’ policy 
+regime.Foreign banks: Evolution and 
+approaches to banking in India
+Due to the local branch regime and 
+the operating model of choice, foreign 
+banks have, for the large part, remained 
+niche players, focussing on trade 
+finance, external commercial borrowing, 
+wholesale lending, investment banking 
+and treasury activities. Some large foreign 
+banks have focussed on capturing the 
+retail market but have  remained confined 
+to the high end of private banking and 
+wealth management, while a few others 
+have created valuable niche offerings in 
+the areas of transaction banking, cash 
+management and remittance products. 
+With India emerging as a major 
+Information Technology (IT) service 
+provider in the 21st century, many 
+global  banks set up business processing 
+offices (BPO) in India; primarily to take 
+advantage of the low-cost technology 
+and availability of English-speaking 
+employees. Some foreign banks also 
+created centres of excellence that 
+provided services at the higher end of the 
+value chain. Although not in scope for 
+the present survey, these operations of 
+foreign banks have created attractive and 
+large-scale employment opportunities 
+for educated Indians and have been an 
+interesting part of India’s economic, social 
+and cultural landscape.
+With the growing importance of IT to 
+banks, foreign bank BPO centres in India have expanded the scope of their services, 
+providing data analytics, and data-backed 
+solutions, that contribute to the efficiency 
+and profitability of these banks globally. 
+Liberalisation of Foreign Direct Investment 
+(FDI) norms for financial services 
+provided further strategic entry routes for 
+foreign banks in the form of NBFCs that 
+could provide specialised non-banking 
+financial services such as stock broking, 
+merchant banking, leasing and finance 
+and others to specific segments of the 
+economy.  
+Foreign banking groups present in India as 
+branches also took this opportunity to set 
+up separate entities to provide specialised 
+services. This led to the formation of 
+financial conglomerates or large franchises 
+with multiple entities. In the absence 
+of flexibility on expanding the branch 
+network, the lending NBFCs also created 
+an opportunity for foreign banks targeting 
+retail clients to create the level of outreach 
+required for their operations. 
+However, the 2006 guidelines on Financial 
+Regulation of Systemically Important 
+NBFCs and Banks’ Relationship With 
+Them and subsequent regulations have 
+significantly limited this opportunity by 
+stipulating consolidated capital market 
+limits and otherwise frowning upon what 
+regulators consider to be ‘regulatory 
+arbitrage’ between a bank and an NBFC 
+engaged in an activity permitted in the 
+bank. 
+Exhibit 3: Both offshore and onshore books have grown, but at a different pace
+Assets of foreign banks in India External commercial borrowings
+Source: Database on the Indian Economy, RBI
+Foreign Banks in India: At an inflection     7Foreign banks: Bringing global 
+innovation standards to banking 
+practice in India
+In addition to setting up the first 
+formal banking institutions in India, 
+foreign banks have made considerable 
+contribution to the banking sector over the 
+years by bringing capital and global best 
+practices as well as grooming talent.   
+Foreign banks have been innovative in 
+identifying specific needs of the market, 
+creating products, and developing 
+organisational constructs. A good example 
+is the cash management offering in the 
+early 1990s, that targeted inefficiencies 
+in cash collection and check processing, 
+identified as a specific issue for the Indian 
+market. Built around this were products 
+such as Citicash and Citicheck.  More 
+importantly, the bank had a dedicated 
+division in the organisation to address 
+the needs of this market and after a 
+successful stint in India, the product 
+was successfully introduced in other 
+emerging markets. There are many such 
+examples, including securitisation, foreign 
+exchange derivatives, travellers’ cheques, 
+channel financing and credit scorecards. 
+Similarly, these banks often introduced 
+risk management practices from their 
+countries and were took steps to become 
+part of the local cultural and community 
+landscape through their initiatives 
+relating to corporate social responsibility, 
+sustainability, and contribution to 
+protection of heritage buildings, local arts 
+and crafts.
+Prior to 1990s, foreign banks easily 
+distinguished themselves vis-a-vis public 
+sector banks. They used technology 
+to their advantage to create and often 
+maintain lead in premium services such 
+as integrated cash management, private 
+banking, 24-hour phone banking, internet 
+banking, securitisation, forex and interest 
+rate derivatives trading, risk management 
+and Know Your Customer (KYC) software 
+solutions. The first Automated Teller 
+Machine (ATM) in the country, for 
+instance, was set up by HSBC in 1987. 
+This focus on innovation helped foreign 
+banks build profitable businesses with a 
+relatively high share of investment and fee 
+income. (Exhibit 4)In the early stages through expatriate 
+employees, and later integrating local 
+talent in a big way, foreign banks 
+trained and nurtured talent in India. In 
+the process, foreign bank executives in 
+India have also become a rich source of 
+talent for their global banking networks. 
+An established global network, ability 
+to specialise, gain access to latest 
+developments in banking technology 
+and services, and the opportunity to gain 
+international experiences were key factors 
+contributing to their  talent retention. 
+The banking landscape changed 
+dramatically post the entry of new 
+private sector banks. Not only did foreign 
+banks face competition from the new 
+private sector banks that were often 
+run by their own ex-employees with 
+the opportunity to take quick decisions 
+and upscale in a fostering environment 
+using local technology, but also from 
+some of the public sector banks that did 
+well on the back of what was then called 
+‘computerisation’ and a better way of 
+engaging with the customer.
+Exhibit 4: High contribution of investment and fee income to revenues compared to 
+domestic banks
+Advances Investments Fee-based
+Source: Database on the Indian Economy, RBI
+8 PwC“I would love to own a big bank in 
+India.” -  Jamie Dimon, CEO, JP 
+Morgan Chase
+– Economic Times, 20112005: First roadmap for foreign 
+banks in India
+One and half decades post liberalisation, 
+a robust regulatory framework governing 
+foreign bank presence in the country 
+became imperative. Twelve new private 
+sector banks had been given licences 
+under the guidelines issued in 1993 and 
+2001. Beginning with the voluntary 
+merger of Times Bank with HDFC, 
+consolidation of the newly licensed banks 
+had also started. ICICI and HDFC Bank 
+had established themselves as iconic 
+Indian brands with scale and distribution 
+power. Many public sector banks had been 
+listed and the adoption of technology 
+powered by Indian technology giants 
+had changed the face of Indian banking 
+considerably, putting them on a profitable 
+growth path for the near future.    
+On 28 February 2005, the RBI released 
+a roadmap for the presence of foreign 
+banks in India along with guidelines on 
+ownership and governance in private 
+sector banks. This was indeed a watershed 
+event as it provided the first ever 
+documented policy on foreign banks in the 
+country, and for the first time, spurred a 
+debate about the present and future role 
+of foreign banks in India.
+It was also no coincidence that the 
+guidelines on private sector bank 
+ownership and foreign bank roadmap 
+were released together. The press release 
+prefacing both documents makes an 
+interesting point about the ‘need for 
+enabling shareholding higher than 10% 
+to facilitate restructuring in the banking 
+system and consolidation.’ Ironically, 
+that debate remains as relevant today as 
+in 2005, despite an Act of Parliament in 
+December 2012 having paved the way for 
+enhanced voting rights upto 26%. 
+The new private sector banks also 
+spurred an opportunity for foreign 
+banks and investors to participate in the 
+Indian banking sector through equity 
+investments. For example, ING hiked its 
+stake in ING Vysya Bank to 44% in 2002, 
+up from 20%, HSBC acquired  14.71% 
+stake in UTI Bank (today known as 
+Axis Bank) in 2003, Temasek Holdings 
+acquired  5% stake in ICICI Bank in 2003 
+and later increased it to 9%, Rabobank 
+acquired 20% stake in Yes Bank in 2004 
+and HSBC acquired 4.74% stake in Yes 
+Bank in 2008.The discussion paper proposed a gradual 
+increase in the presence and activities of 
+foreign banks in two phases. The period 
+from 2005 to 2009 was to be utilised 
+to strengthen the domestic banking 
+sector. Special emphasis was laid on 
+enabling Indian banks to compete in the 
+international arena. Foreign banks were to 
+be encouraged to grow their presence in 
+the country post 2009. 
+The promised growth path and the 
+perception of India as an emerging 
+economic power attracted many banks to 
+set up presence in India in the period after 
+the roadmap.
+In many ways, developments during this 
+period and subsequent to it bear out the 
+not-so-popular belief that despite its 
+closed policies, India remained exposed to 
+global turmoil. While the strict regulatory 
+regime around derivatives and risk 
+transfer prevented a sub-prime type of 
+crisis, the boom in the pre-crisis period 
+was not very different from the good times 
+elsewhere.  
+Remarkably, while many foreign banks 
+have set up branches in India, few have 
+followed a consistent growth path over 
+the long-term. One case in point is Bank 
+of America, which sold a successful retail 
+business in India to ABN AMRO Bank 
+in 2001 as a part of its global strategy 
+(consequent upon merger of Bank of 
+America and  Nations Bank) to withdraw 
+from international retail operations. In 
+2001, RBS took over ABN AMRO Bank 
+and the business was rechristened in 
+India as RBS. More recently, this business 
+has been sold to Ratnakar Bank Limited 
+(RBL), a domestic bank. The management 
+of RBL Bank has many of the old Bank of 
+America senior personnel, thus marking  a full circle. This is a good example of 
+the changing dynamics of the market, 
+depending on local and international 
+conditions. 
+American Express Bank’s exit from all but 
+the card business, Barclays Bank’s  foray 
+in retail and subsequent exit from that 
+business and some of the other banks’ 
+experiments with SME lending and exit 
+have also attracted attention to the flux in 
+the non corporate banking space. While 
+the ability to enter and exit businesses 
+is an integral part of strategic business 
+decisions, in India, such decisions are 
+often difficult or time-consuming to 
+implement due to a lack of direct and 
+unambiguous regulatory guidance. 
+Recent news about the surrender of their 
+bank licences by Morgan Stanley and 
+UBS  have further added to the impression 
+that India presents unique challenges 
+to foreign banks. During the survey, 
+most banks referred to the difficulty 
+in fulfilling regulatory expectations 
+on branches in unbanked areas and 
+agricultural advances. Most banks were 
+also supportive of priority sector lending 
+in principle but felt that a flexible strategy 
+to support agricultural lending through 
+established institutions would be practical. 
+So would the inclusion of infrastructure 
+and export finance within priority areas. 
+Meanwhile, many banks that came to 
+India after 2005 awaited further clarity on 
+the roadmap, maintaining their presence 
+and evaluating opportunities. 
+After much anxiety resulting from 
+regulatory discussions around ring fencing 
+and local incorporation, the RBI released 
+a discussion paper on presence of foreign 
+banks in India in January 2011.
+
+Foreign Banks in India: At an inflection     9“Among some circles, a doubt is 
+sometimes expressed as to whether 
+the regulatory environment in 
+India is liberal in regard to the 
+functioning of the foreign banks 
+and whether the approach towards 
+foreign participation in the Indian 
+banking system is consistent 
+with the liberalised environment. 
+Undoubtedly, the facts indicate that 
+regulatory regime followed by the 
+RBI in respect of foreign banks is 
+non-discriminatory, and is, in fact, 
+very liberal by global standards.”
+ – V Leeladhar, former Deputy 
+Governor, Reserve Bank of India, 
+2007“In view of the current global 
+financial market turmoil, there 
+are uncertainties surrounding the 
+financial strength of banks around 
+the world. Further, the regulatory 
+and supervisory policies at the 
+national and international levels 
+are under review. In view of this, it 
+is considered advisable, for the time 
+being, to continue with the current 
+policy and procedures governing the 
+presence of foreign banks in India.”
+ – Dr D Subbarao, former 
+Governor, Reserve Bank of India, 
+Annual Policy Statement for the 
+Year 2009-10The financial crisis of 2008 and 
+impact on foreign banks
+In the aftermath of the financial crisis 
+of 2008, the attention of multinational 
+banks, particularly of those with a large 
+presence in the west, turned to their home 
+countries as they struggled with sudden 
+liquidity problems, many of them going 
+to the brink. The rapid collapse of few of 
+the most respectable global investment 
+banks and the domino effect on the global 
+financial system was dramatic enough 
+to cause tectonic shifts in the banking 
+landscape. 
+Although the crisis was truly global in 
+nature, its effects on different economies 
+were varied in impact as well as timing. 
+After the crisis, governments and 
+regulators launched a series of measures 
+to restore their financial systems. This 
+period also saw greater collaboration 
+among regulators on the global platform 
+and greater consensus on systemic risks, 
+financial stability and the challenges of too 
+big to fail financial institutions.Changes in global liquidity conditions 
+as governments embarked on stimulus 
+programmes created a fresh set of 
+challenges and opportunities. The survival 
+of the Indian economy in the immediate 
+aftermath of the crisis had interesting 
+consequences for this liquidity seeking 
+attractive returns. After 2009, India 
+actually granted licences to 13 new foreign 
+banks to commence business in India. 
+(Exhibit 5)
+Western banks, battered by the global 
+financial crisis and regulatory measures 
+such as increased capital requirements and 
+the pressure to de-leverage their balance 
+sheets had to re-evaluate their investments 
+across emerging markets. Some responded 
+by curtailing their operations, selling 
+off businesses and assets and trimming 
+their exposures to countries increasingly 
+perceived as non-core. Others withdrew 
+all together, leaving behind advisory and 
+capital markets activities that were not 
+capital-intensive.
+For most foreign banks, India accounts 
+for a minor part of their parents’ books. 
+Examining the India exposure of foreign 
+banks in the country, 31 foreign banks 
+had less than 1% of their global assets in 
+India whereas Barclays, HSBC, Standard 
+Chartered and Citibank have India 
+exposures between of 1 to 5 % of their 
+parent’s asset book (this is the in-country 
+share as offshore exposure data is not 
+available in public domain)*. This impacts 
+the ability of the champions of long-term 
+growth in India to build consensus within 
+the larger organisation, often losing 
+ground to the faster growing economies.
+In some ways, the reaction of the foreign 
+banks post-crisis bears out the worst fears 
+that regulators in emerging economies 
+have regarding the behaviour of foreign 
+financial institutions as fair-weather friends. Although the withdrawal of 
+foreign banks from India has not created 
+a dramatic impact unlike in the Asian 
+or Latin American crisis, the memory of 
+banks withdrawing from the economy 
+lingers with regulators and the public.  
+Consequently it is often not easy to re-
+enter the market.
+Of course, in the Indian context, due to 
+specific Foreign Exchange Management 
+Act (FEMA) and banking regulations 
+restrictions on capital repatriation and 
+liquidity management, the withdrawal 
+was not disruptive. Nevertheless, this 
+led to further tightening of liquidity 
+and capital guidelines and prompted 
+discussion around systemic risk 
+management and local incorporation of 
+foreign banks, eventually culminating 
+in the discussion paper on presence of 
+foreign banks in India in January 2011.
+*Estimates based on individual bank’s financial 
+statements, RBI data and PwC analysis
+Exhibit 5: Branch licences granted to new and existing foreign banks in India
+Branch licence granted New banks commencing operations
+Source: Database on Indian Economy, RBI, PwC 
+10 PwC“In India, the fallout from 
+recent financial stress has likely 
+contributed to greater vulnerability 
+of corporate and bank balance 
+sheets and a further downward 
+revision of growth forecasts, 
+which were already very low in the 
+historical context. 
+This reflects persistent supply 
+constraints and slow progress on 
+structural reforms. Despite weak 
+demand, however, food prices will 
+likely keep headline inflation close 
+to double digits”
+– IMF, Asia and Pacific region 
+Economic Outlook Update, 
+October 2013“Currencies and bonds in Brazil, 
+India, Indonesia, South Africa 
+and Turkey came under intense 
+weakening pressure since May 
+as their current account deficits 
+persist, inflation remains elevated, 
+and monetary policy room seems 
+limited in the face of decelerating 
+growth”
+-IMF, Global Financial Stability 
+Report, October 2013Does the 2011 discussion paper 
+signal a new era?
+The discussion paper began with an 
+obituary to the second phase outlined 
+in the 2005 roadmap. The onset of the 
+financial crisis had distorted the world 
+envisioned six years ago, into something 
+new and uncertain. The RBI’s conservative 
+stance and its successful defence of the 
+Indian banking system in the face of 
+the global meltdown created greater 
+confidence in the system. The global 
+financial crisis shattered the confidence 
+in the ability of developed markets to 
+regulate their global financial institutions. 
+This created the need for emerging 
+markets to protect their own markets 
+from systemic risk of failure of global 
+institutions. 
+The paper dwelt on the benefits of 
+ring-fencing of capital and liquidity 
+in times of crisis and acknowledged 
+that foreign banks would need some 
+incentives to incorporate locally. Greater 
+expectation of local risk management, 
+data aggregation and reporting under 
+the subsidiary mode and the enhanced 
+role of local and independent directors 
+in decision-making concerning the India 
+subsidiary were detailed. Interestingly, the 
+discussion paper did not propose the same 
+framework for priority sector lending 
+(PSL) for foreign bank subsidiaries, 
+acknowledging their role as primary 
+providers of export finance. It laid out 
+a simpler PSL requirement, including 
+mandatory financing to agriculture (10%) 
+and small enterprises (10%), but allowing 
+export to fulfil the remaining 20%.
+The feedback to the paper was largely 
+apprehensive in tone. What will the 
+comfort letter mean? How will lack of 
+parental rating impact? How will banks 
+access the hinterland or distribute assets 
+to agriculture sector or small enterprises? 
+Will subsidiaries be asked to divest 
+mandatorily? The answers were not 
+immediate as the economic conditions 
+began to change soon after.
+Hitting the headwinds after 
+2011-12
+If there were any doubts regarding 
+the continuation of the ‘coupling’ of 
+economies, they have been dissipated by 
+the events in the last couple of years. With 
+a lag, the Indian economy also started 
+showing the results of the slowdown and 
+macroeconomic indicators caught up with 
+some of the structural issues with the Exhibit 6: India- macroeconomic indicators in the post crisis era
+GDP growth CPI CAD
+Source: IMF, Database on the Indian Economy, RBIeconomy. This was somewhat expected 
+as the increased liquidity from the 
+developed economies initially buoyed up 
+the emerging markets and the subsequent 
+adjustments, coupled with slow recovery 
+in the western markets began to play their 
+course. (Exhibit 6)
+For India, all this also came in the 
+backdrop of an upcoming election, 
+fiscal imprudence as well as negativity 
+generated from widely reported 
+retrospective changes in tax laws, 
+rating downgrade fears and reports of 
+violence and poor social and physical 
+infrastructure.
+ Another relevant event between the discussion paper and the final guidelines 
+was the release of The Nair Committee 
+Report on PSL in 2012. Marking a 
+break in thinking, the committee 
+recommended that Wholly Owned 
+Subsidiary (WOS) of foreign banks be 
+brought on par with domestic banks. 
+Although recommendations of the Nair 
+Committee were only partially accepted, 
+foreign banks with more than 20 
+branches in India were brought on par 
+with domestic banks for PSL compliance 
+purpose. However, banks with less than 20 
+branches were allowed to continue with 
+fulfilling 32% requirement largely through 
+export finance.
+Foreign Banks in India: At an inflection     11Global rebalancing of capital
+Fast growth in global finance in the pre-
+crisis era led to the emergence of really 
+large banks, particularly in Europe. For 
+instance, in many European countries, the 
+asset size of the largest banks is greater 
+than the GDP of the country. (Exhibit 7)
+Hence, it is not surprising that the reform 
+in Europe is leading to the deleveraging of 
+these banks. Similarly, in the US, bailouts 
+and subsequent attention on banks has 
+limited the capacity of most banks for 
+aggressive international expansion. 
+While the European Union (EU) and the 
+European Central Bank (ECB) are still to 
+close the chapter on post reform banking 
+regulations, clearly the discomfort with 
+too-big-to-fail banks is here to stay.
+On the other hand, many Asian economies 
+and Australia were largely unaffected by 
+the crisis, many having surplus capital 
+that needs to find its way offshore. The oil-
+producing Middle- Eastern countries have 
+also weathered the storm well and have 
+provided capital to many of the banks. 
+Rebalancing of global capital, greater 
+trade interconnectivity of Asia, Africa, 
+Australia and the Middle East, migrating 
+populations and geopolitical realignment  
+are likely to lead to changes in the foreign 
+bank landscape in India, and the window 
+of opportunity to grow as a WOS may be 
+an important strategic imperative in that 
+context. 
+This trend is evident from  the fact that 
+of the 75 new bank branches granted to Scheme for subsidiarisation of 
+foreign banks in India: Is it the 
+end of the wait?
+Given the backdrop of the 2014 
+general elections and the uncertain 
+macroeconomic environment, the 
+timing for the release of the scheme for 
+subsidiarisation could have been better. 
+According to this document, foreign 
+banks present in India prior to 2010 
+will have the option to subsidiarise or 
+continue to operate as branch. Given the 
+macroeconomic and political condition as 
+well as uncertainties of global economic 
+recovery, this must be a welcome relief. 
+To banks that gave an undertaking to 
+convert into subsidiaries, the change in 
+the economic environment must appear 
+stark and the lack of flexibility, difficult. 
+Also, some of the parameters described for 
+mandatory conversion into subsidiary are 
+somewhat subjective and therefore clarity 
+will emerge with time. 
+Interestingly, Indian banking regulation 
+makes it mandatory for banks to transfer 
+parts of profits to reserves. Repatriation 
+of such profits to the head office requires 
+RBI approval. Both before and after the 
+financial crisis, regulations have been 
+issued under FEMA and the Banking 
+Regulation Act to restrict cross border 
+movement of liquidity. These measures 
+limit the likelihood of free capital 
+repatriation to parent by branches. In 
+countries with relative ease of capital 
+movement, this is one of the important 
+tenets driving the agenda on local 
+incorporation.
+The other genuine concern that regulators 
+have developed based on experience is 
+the dominance of the banking system by 
+foreign banking organisations; thereby 
+increasing vulnerability of the domestic 
+financial system. This is apparent from the 
+stated intent to curb growth beyond 15% 
+of assets and 20% of capital dominance. 
+However, the measures to curb further 
+growth (specific approval for new 
+capital infusion in WOS and limiting the 
+number of branches of new banks) do not 
+appear to incentivise the WOS mode as 
+constraints apply to WOS growth and new 
+banks, but not to existing banks operating 
+in branch mode. 
+And yet, the scheme creates an 
+opportunity for foreign banks to grow in 
+India in almost the same way as domestic 
+banks. This makes it worth examining 
+the possibilities and business impact 
+of local incorporation. In the following 
+sections, we examine some aspects of the 
+new framework that is likely to unfold as 
+the scheme is operationalised and clarity 
+emerges on some of the other regulations 
+in the pipeline. foreign banks since the financial crisis, 
+approximately 40% are new foreign bank 
+entrants. After the financial crisis, 13 new 
+foreign banks have been granted licenses 
+by the RBI, which include five Asian, four 
+Australian and two European banks. 
+Retail and inclusive banking vs 
+differentiated banking
+The discussion paper articulated the 
+preference for retail banks over ‘niche’ 
+banks. While in reality, only few foreign 
+banks offer full suite retail services, due 
+to the regulatory expectations, all foreign 
+banks operating in India need to offer 
+retail liability and basic banking products. 
+In most countries, regulation for retail 
+deposit accepting banks is more stringent 
+than regulation for banks that offer limited 
+facilities to non retail clients. In India, on 
+the other hand, incentive (in the form of 
+branch licences that are discretionary) is 
+tagged to retail banking. 
+In August 2013, the RBI released a 
+discussion paper on banking structure in 
+India, wherein, among other things, the 
+discussion on differentiated licensing has 
+been initiated. 
+This will be an important step in the right 
+direction to create the right structure for 
+aspiring retail banks that are likely to grow 
+as subsidiaries with large branch networks 
+as against banks whose business models 
+are suited to  niche activities with limited 
+growth ambitions and limited capacity to 
+create systemic risk.Exhibit 7: Banking assets vs GDP
+US Eurozone Switzerland
+GermanySource: The Banker, IMF, PwC analysisTotal assets of top 5 banks
+GDP
+France Spain GreeceJapan UK
+12 PwC
+Final guidelines
+Minimum capital requirement INR 5 billion
+Minimum CRAR 10%
+Priority sector lending targets 40% with five year transition period 
+Raising of funds in India Permitted to raise non-equity INR resources, may list in three years
+Use of parent credit rating not permitted (except for custodial services and international operations), ‘letter of 
+comfort’ required
+Branch licensing At par treatment with domestic banks with some ‘restricted’ sensitive areas
+Board of directors Minimum 50% Indian resident directors and minimum one third independent directors, minimum two-third 
+non-executive directors
+Unbanked and rural branches 25% branches in unbanked, rural areas
+Mergers and acquisitions Foreign banks WOS may be permitted 
+Taxation Specific provision created regarding applicability of section 50(B), transfer pricing, VAT,  service tax, 
+deductibility of expenses on conversion and state stamp duty acts
+Measure to control dominance Further growth may be restricted if foreign banks collectively achieve 20%of capital and reserves  (against 
+current 16%) of the banking system and foreign bank branches achieve 20% of total assets (on and off 
+balance sheet)  of the banking system.Summary of the RBI guidelines on WOS
+1. Banks commencing business before Aug 2010 – Conversion optional
+2. Banks commencing business after Aug 2010 –  Conversion mandatory on conditions being applicable
+3. Future entrants – Principles of single mode of presence and reciprocity to continue for both branch and WOS mode 
+of entry; in addition, if conditions are applicable, mandatory WOS 
+Conditions 
+• Bank home country gives preferential claim to domestic deposits in winding-up proceedings or has inadequate 
+disclosure requirements or has unsatisfactory supervisory arrangements
+• Bank has complex structures or is not widely held or is systemically important in the Indian banking sector
+• Bank becomes ‘systemically important’ in India i.e. its total assets* comprise 0.25% or greater of total assets*  of the 
+Indian banking sector 
+*On balance and credit equivalent of off balance sheet
+Foreign Banks in India: At an inflection     13Organic growth: The twin 
+challenges of near national 
+treatment and reciprocity
+Under the current branch licensing 
+regime, each branch location is approved 
+by the regulators. In the last few years, 
+foreign banks have found it difficult to 
+get additional branches in metropolitan 
+centres and have been able to find 
+business opportunities in smaller centres. 
+Yet, foreign bank branches remain 
+concentrated in the metropolitan centres 
+of Mumbai, Delhi, Kolkata, Chennai 
+and Bangalore. Only eight foreign bank 
+branches (out of 334) are located in 
+the rural areas, as against 250 in the 
+metropolitan areas. (Exhibit 8) 
+The new scheme opens the field for 
+foreign banks to access the automatic 
+approval to open branches (except in 
+specified sensitive areas). It also brings 
+with it the challenge of managing the 
+operating model of having 1:1 branch 
+ratio between urban and other centres and 
+having to branch out to unbanked areas 
+with less than 9,999 people (often with 
+little physical infrastructure).
+Some of the foreign banks operating in 
+India have the experience of banking 
+in rural, semi-urban or inaccessible 
+geographies in their own countries.  Some 
+have successfully leveraged mobile or 
+internet technology to completely cut out 
+brick-and-mortar branches and attendant 
+costs and constraints. 
+Under Indian banking regulations, while 
+distribution of assets is possible through 
+agents, distribution of liability products 
+requires creation of client touchpoint 
+through branch or Banking Correspondent 
+(BC), which must be within specified 
+radius of 30 kms of the branch. As the 
+competitiveness in the banking sector 
+grows, there is likely to be increasing 
+demand for liberalisation of norms in this 
+area. It is interesting to bear in mind that 
+in the long-term, the incentive in the form 
+of brick-and-mortar branches may not 
+remain an incentive.
+Also, it is unclear how reciprocity will 
+play out for foreign banks choosing to 
+incorporate as WOS if Indian banks 
+have not had the opportunity to grow in 
+their home territories. The likelihood of 
+bilateral agreements allowing preferential 
+treatment will change the nature of 
+foreign bank segment by allowing banks 
+from countries with bilateral agreements 
+to grow at a faster pace than that possible 
+for foreign banks in general.Inorganic growth: Better 
+visibility, but uncertain timeline
+Inorganic growth opportunities via 
+acquisitions will be important for foreign 
+banks going forward, because they may 
+find it difficult to build organically under 
+the new branch licensing formula and 
+also, because once consolidation in the 
+banking sector kicks in, being excluded 
+from inorganic opportunities could mean 
+further competitive disadvantage.  
+While the scheme does not provide full 
+clarity on the timeline within which 
+foreign banks may be allowed to acquire 
+a bank, it signals clearly that such 
+acquisition is possible in the near future. 
+Unfortunately, for those banks that 
+need to make a decision to incorporate 
+in the short run, this lack of clarity is 
+problematic.
+Another important issue relating to 
+inorganic growth is the misalignment 
+of shareholding with voting rights. The 
+Banking Regulation Amendment Law of 
+December 2012 allowed for the alignment 
+of shareholding with voting rights within 
+the limit of 26%. However, the RBI 
+circular on bank ownership continues to 
+be in force with restriction on voting rights 
+upto 10%. This makes acquiring control in 
+a bank difficult. This also may be a reason 
+for the unattractiveness of the option to 
+dilute or list locally.
+Incidentally, most banks that have gone 
+through mergers and acquisitions globally 
+have found it challenging to effect such 
+mergers in India for their operating 
+branches. Some banks have not been 
+allowed to use branding consistent with 
+new global branding, while others have 
+found it hard to exit portfolios or buy India 
+businesses of seller banks in the global 
+transaction.
+Banking and technology 
+In the midst of rising costs and increasing 
+regulatory and political pressure to 
+expand banking access to rural areas, 
+foreign banks are also experimenting 
+with partnerships and the use of different 
+forms of technology for providing banking Exhibit 8: Foreign bank branches by population centre
+Source: Bank Branch Statistics, Database on the Indian Economy, RBI
+services. Globally, banks have started to 
+move beyond the branch, and in some 
+cases, the ATM formats, and have begun to 
+deploy banking services via channels that 
+promote flexibility and mobility.  
+Technology as value driver
+On the distant horizon, disruptive 
+technology seems to emerge as a 
+challenger to the long-term sustainability 
+of banking as the world has known it 
+so far. Yet, in India, concerns around 
+operational and systemic risk from non-
+bank operators will continue to make 
+banks important partners to innovative 
+technology companies for mutual benefit. 
+The regulatory preference for banks 
+as better regulated and therefore safer 
+vehicles for financial services will continue 
+to work for banks for the foreseeable 
+future. 
+The current wave of technology 
+integration in banking services has also 
+been spurred by growing consumer 
+expectations and fast adoption by a 
+younger, more tech-savvy generation. 
+A survey by PwC titled ‘ The New Digital 
+Tipping Point’ , presents interesting trends 
+about growing consumer appetites for 
+banking through alternative channels 
+across developed and emerging 
+economies. For instance, on an average, a 
+little over 50% of the consumers in India 
+reported having used mobiles to purchase 
+financial products, while 70% used the 
+internet to do the same.  
+While non-touch consumer acquisition 
+continues to be constrained, many other 
+technological capabilities, often developed 
+for the uniquely Indian situation, are 
+likely to help banks deal with the issue 
+of growth. For example, banks and other 
+non-bank players have started deploying 
+white label ATMs and mobile Point 
+of Sale (PoS) systems such as micro-
+ATMs that can be operated by business 
+correspondents, and provide basic 
+banking services to the rural customers. 
+Similarly, e KYC and the gradual 
+convergence of KYC requirements across 
+financial services intermediaries may lead 
+to more sustainable customer acquisition 
+models.
+14 PwC
+“ As major foreign banks specialise 
+in the provision of a menu of 
+sophisticated financial products and 
+also facilitate in the flow of foreign 
+capital, their larger presence will 
+meet the requirements of a growing 
+and vibrant economy.”
+-Banking Structure in India: Way 
+Forward, Reserve Bank of India 
+Discussion Paper, 2013 The Bharat challenge or the 
+Bharat opportunity?
+India’s focus on financial inclusion and 
+the growth pattern of the Indian economy 
+makes it directionally clear that to grow 
+significantly in India, banks will need 
+to come up with a sound strategy for 
+expanding the reach of financial services. 
+Meanwhile, the differential licensing 
+regime may open the window for foreign 
+banks to bring their specialised service 
+offerings and focus on their core business 
+and clientele. This will, in many ways, 
+also align the banking structure better 
+with the nature of the Indian economy 
+that tends to have demand for high-end 
+global products as well as large, low-value, 
+high-volume business. The push for the 
+second wave of banking reforms will come 
+from the critical need for funding large 
+infrastructure projects on the one hand 
+(hence developing a bond trading market) 
+and providing simple access products to 
+households on the other.
+It will be interesting in that scenario to 
+witness the growth of competition from 
+domestic players in niche segments, 
+where business models so far have been 
+fairly standard and undifferentiated. 
+Foreign banks can play a significant 
+role in providing the capital, knowhow 
+and the energy required to kickstart a 
+differentiated banking sector with foreign 
+and domestic (and maybe joint venture) 
+entities that best matches the demand of 
+the diverse Indian economy. In the retail banking space, there is a 
+remarkable role reversal compared to the 
+early years of post liberalisation, when 
+private sector banks looked to foreign 
+banks for best practices and human 
+resources. Many of the new foreign banks 
+now look to the new private sector banks 
+for talent, particularly in the retail space 
+and business models in the small business 
+and agri lending space. 
+Increasingly, the financial inclusion 
+mandate will require creative thinking. 
+Portfolio purchases, securitisation, 
+customised risk models for the financially 
+excluded market, non-branch distribution 
+and origination formats will all require 
+collaboration with innovative technology 
+and payment solutions companies or 
+other banks and financial institutions such 
+as microfinance and non-bank finance 
+companies. 
+Amidst concerns of high inflation, lower 
+growth, high Current Account Deficit 
+(CAD) and threats of rating downgrade, it 
+is an uncomfortable time to take long-term 
+decisions on entity structure or growth. 
+Yet, the long-term outlook on India, 
+geo political realities and the likelihood 
+of banking reforms make it difficult to 
+stay away and wait. For foreign bankers 
+leading big or small banking businesses in 
+India, the heat in the global boardrooms 
+is increasing, especially amidst talks of 
+Chinese reforms, Indonesian growth or 
+cost competitiveness of Philippines for 
+BPO services.Increasing competition amidst shrinking 
+growth, small pool of credit-worthy and 
+well-governed clients, high incidence of 
+financial crimes, concerns around data 
+protection and malpractices, heightened 
+responsibility for Anti Money Laundering 
+(AML) compliance within a wider 
+economy with high levels of unaccounted 
+wealth and increasing cost of operations 
+will continue to keep foreign banks 
+operating in India on their toes.
+Yet, this is just another stage in the long 
+journey and partnership that these 
+institutions have with this country of 
+tremendous potential, diversity, colour 
+and charm. As the foreign banks and 
+the Indian economy adapt and change 
+and diversify, the bonds will only grow 
+stronger.
+Foreign Banks in India: At an inflection     15Indonesia
+Foreign banks share of banking sector assets – 32%
+Financial literacy and accessibility mandates for domestic 
+banks
+Differential licensing regime based on capital conditions
+Foreign ownership in domestic banks permitted up to 40%
+Brazil
+Foreign banks’ share of banking sector assets – 22%
+‘Ear marked credit’ akin to priority sector towards agriculture,  
+housing loans and microcredit  for domestic banks
+Differential licensing regime based on ownership and activity
+100%  foreign ownership permitted in domestic banks
+Turkey
+Foreign banks share of banking sector assets – 14%
+Financial literacy and access  programmes mandated for 
+domestic banks
+100% ownership permitted in domestic banks
+Differential licensing based on activity -  investment banking , 
+deposit banking,  Islamic banking
+“In July 2012 Bank Indonesia (BI) reduced the stake 
+that any single foreign shareholder can acquire in a 
+local bank from 99% to 40%, while dropping the cap 
+for domestic bank ownership to 30% and 20% for 
+local individuals” – Asia Money, 25 Sep 2013South Africa
+Foreign banks’ share of banking sector assets – 22%
+Differential licensing regime based on activity
+100% foreign ownership  permitted in domestic banks
+Inclusive banking requirements are made of domestic banks, 
+and foreign banks are largely confined to corporate and 
+wholesale lending
+“Foreign banks—including HSBC Holdings PLC, 
+Citigroup Inc., Standard Chartered PLC, and the Australia 
+& New Zealand Banking Group Ltd.— have flocked to 
+China to set up rural operations, aiming to capitalize on 
+Beijing’s drive to boost incomes in the countryside” – 
+Wall Street Journal, 8 Mar 2012China
+Foreign banks share of banking sector assets – 2%
+Reciprocal arrangements for foreign banks to develop 
+regional banks and participate in the equity of development 
+banks
+Foreign ownership allowed up to 20% in domestic banks, 
+without control
+“ ..yet more evidence of how hot (Turkey’s) banking assets 
+have become. Deals have multiplied over the past year.. 
+the country is one of the few in Europe that is growing. 
+Istanbul, Turkey’s commercial centre, is making a bid to 
+become a financial hub, with its own version of Canary 
+Wharf being built on the Asian side of the Bosphorus.” – 
+The Economist, 18 May 2013A brief look at foreign bank participation across select emerging markets
+16 PwCReferences
+A hundred small steps – report of the committee on financial sector reforms, 2008, Planning Commission, Government of India
+Annual Policy Statement for the Year 2009-10, RBI
+Are Competitive Banking Systems More Stable?, Klaus Schaeck, Martin Cihak and Simon Wolfe, 2009, Journal of Money, Credit 
+and Banking
+Asia and Pacific region economic outlook update, 2013, IMF
+Aspects of Banking Sector Reforms in India, Prabir C. Bhattacharya and M. N. Sivasubramanian, 2001, Economic and Political 
+Weekly
+Bank regulation and supervision survey, 2012, World Bank
+Discussion Paper- Presence of foreign banks in India, 2011, RBI
+Evolution of Banking in India, Report on Currency and Finance, 2008, RBI 
+Foreign Banks in Historical Perspective, A. Karunagaran, 2006, Economic and Political Weekly
+Foreign Banks in India – Establishment, Operations and Challenges: as Reflected from the Records of the Reserve Bank of India, 
+Ashok Kapoor, RBI Archives
+Global Financial Stability Report, 2013, IMF
+Is It Time to Open up to Foreign Banks?, T. T. Ram Mohan, 2008, Economic and Political Weekly
+Project Blue: Making sense of an uncertain future, 2012, PwC
+Report of the Nair Committee on Priority Sector Lending, 2012, RBI
+Review of a pamphlet entitled "Reasons for the establishment of a new bank in India", 1836, India merchant, Hume Tracts
+The New Digital Tipping Point 2011, PwC
+The rise, progress, and present condition of banking in India, 1863,  Cooke, Charles Northcote 
+Banking Regulation Act, 1949
+Banking Structure in India - The Way Forward, 2013, RBI
+Deployment of White Label ATMs (WLAs), 2012, RBI
+Financial Regulation of Systemically Important NBFCs and Banks’ Relationship with them, 2006, RBI
+Foreign bank branches in India as of September 30, 2013, RBI
+Master Circular on Branch Authorisation, 2013, RBI
+Reserve Bank of India Act, 1934
+Roadmap for presence of Foreign Banks in India and Ownership and Governance in Private Sector banks, 2005, RBI
+Scheme for Setting up of Wholly Owned Subsidiaries (WOS) by foreign banks in India, 2013, RBI
+The Banking Laws (Amendment) Act 2012, Gazette of India
+ “ABN Amro Bank takes over BankAm's retail business for $200 mn”, 1999, Indian Express 
+“Barclays eyes India for its back-office jobs”, 2013, BPM Watch
+“Deutsche Bank kicks off BPO operations”, 2003, Rediff Money
+“HSBC Sells Stakes in Two Indian Banks”, 2012, Wall Street Journal
+“HSBC sells UTI Bank's 7.19% stake for Rs 638 cr”, 2006, Business Standard
+“Nations Bank Drives $62 Billion Merger : A New BankAmerica:Biggest of U.S. Banks”, 1998, New York Times
+“Rabobank Sells Stake in Yes Bank”, 2012, Wall Street Journal
+“Standard Chartered Bank: Right on the money”, 2013, Business Today
+“Vikram Pandit is Citigroup CEO”, 2007, Rediff Money
+RBS deal to help Ratnakar Bank expand, improve brand visibility, 2013, Business Standard
+Royal Bank of Scotland wins biggest Financial Takeover, 2008, ABC News
+Rupee fall gives BPOs some relief from Philippines, 2013, Times of India
+Wall Street crisis: Investment banks succumb to collapse in confidence, 2008, The Guardian
+White label ATMs take banking to masses, 2013, Indian Express
+Citibank (http://www.online.citibank.co.in/press-room/citi-in-india.htm)
+Deutsche Bank (https://www.deutsche-bank.de/ir/en/content/ir_releases_2011_3624.htm)
+HDFC Bank (http://www.hdfcbank.com/aboutus/general/timesbank_amalgamation.htm)
+HSBC (http://www.hsbc.com/about-hsbc/history), 
+JP Morgan (https://www.jpmorgan.com/pages/jpmorgan/ap/in/home)  
+Standard Chartered Bank (http://www.standardchartered.com/en/resources/global-en/history-timeline/index.html)
+Foreign Banks in India: At an inflection     17
+How banks responded to  
+our survey  
+Methodology
+We interacted with and interviewed 32 foreign banks using a 
+comprehensive questionnaire. Thirty-three questions were divided 
+in the following five broad groups:
+• Market environment
+• Strategy and growth 
+• Technology
+• Risk, regulation and taxes 
+• Human capital 
+We received relevant responses from most of the banks that we 
+interviewed. However, at times, banks chose not to respond to some 
+questions or were unable to provide accurate data. This has been 
+noted where applicable. 
+Results have been compiled and analysed by PwC using the 
+weighted average method where applicable.   
+The survey results have been appropriately complemented with 
+views and insights shared by banks during our conversations. 
+Recent developments and our point of view on themes have also 
+been included under each section.  Chapter 2
+18 PwC
+Exhibit 9: Factors impacting the Indian banking industry
+Exhibit 10: Relative attractiveness of economies Section I: Market environment 
+Financial service institutions are 
+struggling to sustain their profitability and 
+build a viable business model in today’s 
+complex business environment. Banks in 
+particular are rethinking their strategies 
+and treading the path of innovation in 
+order to gain a competitive edge in an 
+industry marked by changing consumer 
+behaviour and increasing ‘activism’ by 
+regulatory and tax authorities. 
+Which are the major factors that will 
+have an impact on the Indian banking 
+industry and on the foreign banks? 
+It is no surprise that the survey results 
+indicate regulatory challenge as the 
+foremost concern for foreign banks 
+today, given the plethora of regulatory 
+changes in home and host countries. 
+This is followed closely by political and 
+social stability. There is a high level of 
+concern on increasing social inequality 
+and unrest, but the greater concern 
+comes from the apprehension of political 
+instability. Uncertainty resulting from a 
+potential lack of clear majority of any one 
+political party in the upcoming elections 
+underpins apprehension regarding the 
+direction of policies and governance in 
+the nation. Several respondents also 
+ranked competition among their top 
+three concerns impacting the banking 
+landscape. This assumes significance in 
+the backdrop of new bank licences to be 
+given to NBFCs and industrial houses 
+under the licensing policy announced in 
+early 2013.
+Has the perception of India as a growth 
+story changed over the last few years? 
+Most of the respondents ranked China 
+as the emerging investment destination, 
+followed by South East Asia, Middle East 
+and India. 
+Interestingly, as per ‘ Choosing China: 
+Improving the investment environment for 
+multinationals’,  a survey by PwC and the 
+China Development Research Foundation, 
+launched in Beijing, more than half (56%) 
+the CEOs surveyed chose China above 
+other major and emerging economies 
+including Brazil, Russia, India and the US. 
+Most respondents, while acknowledging 
+the importance of China also shared 
+apprehensions about the sustainability 
+of the China story and confidence in the 
+India story in the long term. However, due 
+to lack of short-term growth opportunity 
+in India, the results were weighted in 
+favour of other, faster growing economies.Source: PwC analysis
+Source: PwC analysis41%  of respondents rated regulatory change as
+the topmost concern for their bank.  
+33%  said that political stability was their prime  
+concern.
+88% of respondents ranked China as the most 
+preferred investment destination. 
+12%  of respondents ranking south-east Asia and 
+the Middle East as the most attractive. None of the 
+respondents felt that India was the most attractive 
+investment destination.    Demographic 
+change
+Increasing 
+globalisation
+Political and 
+social stability
+Regulatory 
+changes
+Information and 
+technologyCompetitionSocial and 
+behavioural 
+change
+Foreign Banks in India: At an inflection     19
+What does your bank find the most 
+difficult aspects of the Indian banking 
+industry?
+The sensitivity to the regulatory 
+environment and inability to differentiate 
+are related to each other, with high-
+ranking political uncertainty arising 
+from short-term worries related to the 
+forthcoming election and the uncertainty 
+of policy direction. As competition 
+intensifies, it becomes imperative for 
+financial services providers to differentiate 
+their offerings and garner a sticky client 
+base. Banks are caught in a pincer 
+situation here, on the one hand, the 
+number of corporates with internationally 
+accepted credit and governance standards 
+has not grown and on the other hand, 
+regulatory expectations of retail banking, 
+liability side restrictions and financial 
+inclusion has led to commoditisation of 
+offerings. 
+The above parameter evolved out of our 
+early conversations with banks. Some 
+banks strongly felt that the culture of 
+‘free service’ and the inability to price 
+was a constraint to growing retail 
+banking. Given the limitations on branch 
+expansion, some of the respondents felt 
+that innovation with different distribution 
+models using technology could be a 
+differentiator for foreign banks. Some 
+banks also felt that differential licensing, 
+when it happens, can help create the 
+differentiator. It was interesting to note 
+that building a loyal customer base ranked 
+low on the challenge barometer, which 
+indicates that in all likelihood, foreign 
+banks are confident of sustaining their 
+share of customers.  
+48% of respondents ranked 
+regulatory environment as 
+the most difficult aspect of the 
+banking industry.  
+19% said political 
+uncertainty was a key 
+challenge.In conversation 
+• Although it is true that India is a large growth 
+market, the macroeconomic,  regulatory and 
+policy environment make it difficult to harness 
+the potential of this market. 
+•  BRICs are slowly and steadily losing their 
+attractiveness, with new economies such as 
+Indonesia, Mexico, Turkey, Cambodia and 
+Vietnam becoming attractive. Foreign investors’ 
+faith in the certainty of political environment has 
+reduced.  
+• China appears to be the preferred destination at 
+this point of time.
+• India is an important market in the region that 
+cannot be ignored.Exhibit 11: Factors impacting the Indian banking industry
+Source: PwC analysis
+Regulatory 
+environment
+Political 
+uncertainity
+Risk 
+management
+Building a loyal 
+customer base
+Taxation and 
+accounting 
+frameworkCulture of 
+free serviceCompetition 
+from foreign and 
+domestic banks
+Organisation and 
+the inability to 
+differentiate
+20 PwCSection II: Strategy and growth 
+Some of the key factors that business 
+leaders need to keep in mind while 
+formulating their business strategies are 
+social and demographic trends, changes 
+in customer behaviour and preferences, 
+emerging technologies and their use, 
+changes on the regulatory front, etc. 
+Business models are undergoing a 
+continual revamp to accommodate 
+changes in the fast-paced environment 
+and business expansion plans are being 
+tailored to match the market scenario. 
+In the context of new domestic banks 
+on the horizon, it was not surprising 
+that 37% of the respondents expected 
+status quo and another 37% expected 
+decrease in market share. It is interesting 
+that most respondents brought up the 
+issue of realignment of the India strategy 
+to do more offshore funding in view 
+of the liberalised ECB norms and the 
+ease of operation in dealing with Indian 
+corporates from offshore. Respondents 
+who were positive about market share 
+increasing were a mere 26%. 
+Subsequent to our data analysis, the RBI 
+released the framework for setting up 
+wholly owned subsidiaries (WOS) by 
+foreign banks in India. However, while 
+the goalpost seems clear, the details still 
+need to be evaluated in order to assess the 
+impact these guidelines will have in the 
+short-term. 
+The recently released WOS 
+guidelines provide foreign 
+banks with the option to open 
+new branches, thus increasing 
+the depth of their business in 
+India, list on Indian exchanges 
+and enter into M&A with 
+private sector banks, subject 
+to the overall investment limit 
+of 74%. Although the banking industry is expected 
+to go through a phase of consolidation, 
+most respondents said that they would 
+strengthen their presence in the country 
+by way of organic growth focussing 
+on their topline growth and improve 
+profitability. Some respondents felt that it 
+was not an easy task to grow organically 
+in markets such as India and inorganic 
+strategy would be preferred. However, 
+there can be no compromise on control 
+in case of inorganic growth. Given 
+the current voting rights cap of 10%, 
+immediate interest in inorganic growth 
+was not as high as expected. Some of the 
+foreign bank participants were open to 
+both strategies-to grow organically as well 
+as through acquisitions.
+As per the new guidelines, 
+foreign banks that choose to 
+adopt the WOS model will 
+be permitted to enter into 
+mergers and acquisitions with 
+Indian banks, which may 
+present wider prospects for 
+inorganic growth. However, 
+this will be subject not only 
+to regulatory approval for 
+the transaction, but also to 
+an assessment of the overall 
+foreign bank participation 
+and its success in Indian 
+banking sector.Respondents strongly felt that there is 
+an absence of a level playing field for 
+foreign banks in India. While they showed 
+an understanding of the facilitative 
+environment in terms of access to 
+products or clients, the perception of non 
+level playing field was largely driven by 
+constraints on branch growth. Many of 
+the foreign banks that have entered the 
+country post-2009 feel that they can never 
+match up to the distribution strength of 
+Indian banks or for that matter foreign 
+banks that have grown over the years in 
+different regulatory regimes. 
+While the final guidelines on the 
+operations of foreign banks in India are 
+expected to bring them more or less on the 
+same footing as domestic banks, providing 
+them with near national treatment; 
+foreign banks may have other issues 
+relating to priority sector lending and 
+inclusion as detailed in Chapter I. 
+The WOS guidelines released 
+recently have come a step 
+closer to providing foreign 
+banks with a level playing 
+field to be at par with 
+domestic banks in terms of 
+branch network and access 
+to local markets. However, 
+the same comes with greater 
+commitment to financial 
+inclusion. Exhibit 12: Will the aggregate market 
+share of foreign banks in India (vs. local 
+banks) continue to increase, stay the 
+same or decrease? Exhibit 13: Given the opportunity, what 
+would be your bank’s primary method of 
+expansion in India?Exhibit 14: Do you think foreign banks in 
+India operate on a level playing field?
+No change
+Foreign Banks in India: At an inflection     21
+Exhibit 15: Perception of India strategy
+Exhibit 16: Major revenue growth areasHow does your head office perceive the 
+India strategy? 
+India emerged as a major destination for 
+the outsourcing of banking activities, 
+starting with the ubiquitous call centres 
+of the 1990s. It capitalised on its inherent 
+advantages of a large English-speaking 
+population, cost competitiveness vis-
+a-vis the West and its reputation as the 
+emerging technology giant. Over time, the 
+cost competitiveness has reduced due to 
+increasing power costs, escalating wages 
+and competition from other geographies 
+such as Philippines and China.  
+With better recognition of the quality 
+of talent available in India and the 
+emergence of new technologies such 
+as social, mobile, analytics and cloud 
+(SMAC), the outsourced activities moved 
+up the value chain. Doing proprietary 
+work in these areas rather than utilising 
+the third-party channel has proved to be 
+more effective and profitable for banks. 
+Also, over time, the business model of 
+banks has evolved from a service-delivery 
+model to undertaking core operations, 
+and routine and standardised work being 
+outsourced to IT firms, which also reflects 
+in the changing profile of captives.
+Although the captive strategy is an 
+important part of the India strategy for 
+most foreign banks, a strong vote towards 
+India being an important market for 
+their products and services also reflects 
+the recognition of the potential of this 
+economy to the long-term strategies of 
+banks.
+What were your major revenue growth 
+areas in the past 12 months? 
+The results were not surprising. The most 
+profitable areas of growth for foreign 
+banks in India have been earnings from 
+foreign exchange and corporate lending. 
+While deposits and investment products 
+were found to be an area of growth, 
+private banking emerged as the least area 
+of focus, reflecting the plain vanilla nature 
+of the wealth management market and 
+the AML and financial fraud challenges. 
+As expected, generating foreign currency 
+deposits from remittance corridors is an 
+important part of the deposit strategy.Source: PwC analysis
+Source: PwC analysisAround 70% of respondents perceived India to be 
+a huge market for their bank’s products and services. 
+Interestingly, perception of India as a low-cost tech -
+nology support for global operations ranked very low 
+for most respondents.  
+70% respondents agreed that foreign exchange and 
+corporate lending were major areas contributing to 
+growth of the foreign banks.  Contrary to the trend of shutting down captive centres 
+back in 2008 and 2009, most of the foreign banks are 
+now focussing on scaling up their operations by ex -
+panding their captive bases here in India. The captives 
+are slowly and steadily gaining critical importance in 
+doing quality work and proprietary assignments on 
+investment banking, consumer banking, risk manage -
+ment, anti money laundering, transaction services, etc. 
+Private bankingCash managementFixed income
+22 PwC
+Exhibit 17: Products gaining importance
+Exhibit 18: Products in the retail banking industrySource: PwC analysis
+Source: PwC analysis82% of respondents foresee that products such as 
+trade finance and ECB will strengthen in the market -
+place, followed by development in the debt capital 
+markets.  
+Foreign banks operating in India are perceived to 
+create synergies between wealth management and 
+investment banking. What wholesale products do you see 
+becoming increasingly important in the 
+Indian banking industry in the next 
+three years?
+Most respondents felt that trade finance 
+and ECB were going to be important over 
+the coming years, followed by debt capital 
+markets. The offshore book comprising 
+trade finance and ECB is in many ways 
+the most distinctive feature for foreign 
+banks and one that sets them apart from 
+domestic banks. For many small foreign 
+banks, the expansion of onshore business 
+is dependent on the quality and quantity 
+of leverage that the onshore branch 
+provides for this core client group. With 
+more globalisation and higher trade, this 
+is likely to continue. This expansion will 
+continue to help foreign banks in another 
+area of traditional strength, i.e. treasury 
+products.
+Almost all respondents felt that India’s 
+need for massive infrastructure and 
+the policy initiatives around creating 
+conducive financing products will lead 
+to the development of debt markets and 
+segments of banking such as structured 
+finance and project finance will grow 
+for banks in India. Urbanisation, greater 
+inclusion of non-urban centres in the 
+mainstream economy and a move towards 
+a ‘less-cash’ economy will all provide 
+a high degree of opportunities in cash 
+management, another area of strength for 
+many foreign banks.
+Which product areas do you see 
+becoming increasingly important in the 
+Indian retail banking industry in the 
+next three years?
+Changing societal norms, including 
+a move towards nuclear families and 
+the trend to buy homes on long tenure 
+mortgages, coupled with a young 
+population will make the home loan 
+market a consistent growth area for a 
+generation of bankers in India. More 
+young entrepreneurs and second- and 
+third-generation wealthy clients will 
+mean better opportunities for banks 
+targeting high-net-worth individuals 
+through innovative products such as art 
+that diversify their portfolio. Surprisingly, 
+most respondents felt that credit cards 
+were not a growth product, based on past 
+experience and the hugely ‘cash based’ 
+nature of the economy.
+In your pursuit of growth, which 
+customer segments will you expand over 
+the next three years?
+The client base of most foreign banks 
+is concentrated around leading 
+multinational corporations, large financial Exhibit 19: Expansion of customer segments
+Source: PwC analysisDebt capital marketsNPA and performing loan tradingTrade finance / ECBHNWI and 
+private banking
+Medium enterprises
+Local corporations
+Self employed professionals
+Salaried employees
+Ultra high networth individual
+Foreign Banks in India: At an inflection     23institutions and ultra high-net-worth 
+individuals. Therefore, it was hardly 
+surprising to find them voted as future 
+growth segments. It was reassuring to see 
+that local corporates came a close second 
+not only as an indicator of the clout of 
+local corporations, but also of a clear shift 
+in strategic thinking on behalf of foreign 
+banks operating in the country. 
+Few respondents felt that their banks 
+would continue to primarily target 
+customers from their home countries and 
+their constituents. Most revealed an open 
+mind to dealing with local corporations 
+and SMEs. However, most also expressed 
+concerns of credit risk while dealing with 
+micro and small enterprises, which is a 
+part of the future growth strategy under 
+priority sector norms.  
+Section III: Technology 
+In the initial phase of their growth, 
+foreign banks differentiated themselves 
+in the emerging markets on the basis of 
+better technology and processes, leading 
+to higher efficiency and the ability to 
+generate improved profitability. New 
+private sector banks have been quick to 
+catch up and often had the advantage 
+of leapfrogging with new, integrated 
+technology platforms. What made it 
+worse for many foreign banks was that 
+they were essentially set up as branches of 
+different verticals operating within their 
+global banks, with different technology 
+platforms with many manual workarounds 
+to generate local reporting and customer 
+data. The Automated Dataflow projects 
+being undertaken by banks as a result of 
+regulatory guidelines of 2011-12 and a 
+trend among recent entrants to set up local 
+platforms may change the way foreign 
+banks use technology once again.
+There is little doubt that technology 
+is going to be the gamechanger for 
+businesses today, more so for financial 
+institutions dealing with challenges 
+of enhanced regulatory reporting and 
+distribution and service to demanding 
+customers. The world has gone digital, 
+with the internet, mobile, social media, 
+analytics and cloud making their presence 
+felt in every aspect of business. As 
+technological development gains speed 
+and clout, the threat to organisations While global corporations will continue to be the 
+main customer segment, local corporations and local 
+SMEs are very much on the agenda for foreign banks 
+operating in India
+unwilling to embrace it becomes acute. 
+Going digital implies that financial 
+institutions can engage more closely with 
+the younger generation who are tech-
+savvy and look to the online channel for 
+resolving most of their queries. The online 
+channel also showcases customer or user 
+preferences which can be used by financial 
+institutions for business intelligence. The 
+rapid growth of mobiles, smartphones and 
+tablets offers an opportunity to empower 
+sales channels to reach markets with less 
+penetration. 
+Technology in India has been responsible 
+for overcoming physical and geographical 
+barriers, by automating processes, 
+enabling branchless banking and 
+facilitating real-time service delivery 
+across the financial services sector. The 
+boom in mobile technology is expected to 
+play an important role in taking banking to India’s un-banked population. Being 
+low cost and affordable, it continues to be 
+one of the critical pillars supporting the 
+overall structure of the financial services 
+sector. 
+Which of the following do you think will 
+lead to innovation in banking?
+Disruptive technologies in today’s times 
+have a huge role to play in accelerating the 
+growth of the banking sector.  
+The boom in social networking can be 
+leveraged to a great extent by banks to 
+increase their customer base and customer 
+engagement. Social collaboration 
+networks when used internally can 
+help build a dynamic and creative 
+work environment. They can enable 
+organisations to instantly perceive the 
+pulse on critical organisational issues and 
+enable virtual workplace solutions.
+Exhibit 20: Factors leading to innovative banking 
+Source: PwC analysis
+77% of respondents agreed that disruptive 
+technologies will be critical to drive innovation in the 
+banking domain.  
+63%  respondents felt that risk and regulatory 
+requirements will drive innovation in the industry.  
+Social, mobile, analytics and cloud (SMAC) is the new 
+buzzword across the banking landscape, professed to 
+be a huge catalyst for growth of the banking sector as 
+a whole.  
+
+24 PwC
+Which of the following areas is the most 
+critical for you, requiring technology 
+investment on a priority basis?
+Not surprisingly, a large majority (85%) 
+felt that risk and regulatory was one 
+area where they needed technology 
+investments on a priority basis. Such 
+investment is already happening in 
+response to the Automated Dataflow 
+requirements and is expected to lead to 
+consistency in regulatory reporting.
+Product innovation and enhancing 
+customer experience also featured high 
+on the technology agenda of banks. 
+This is hardly surprising as technology 
+has the capacity to deliver an enhanced 
+user experience, reducing the time for 
+service delivery, bringing in efficiency 
+in processes, and overall, providing 
+personalised attention to customers. 
+Customer relationship management 
+(CRM) helps draw increased revenues 
+from customers as it allows for the 
+utilisation of available customer 
+information to sell product suites across 
+segments. CRM applications also give 
+room to customer feedback which can 
+help in customer retention in the face of 
+increased competition. 
+Surprisingly, only 26% of the respondents 
+felt that technology can be a driver to 
+expand and increase reach. This could be a 
+reflection of the rigidities in the regulatory 
+architecture around digital growth 
+of banks in the absence of brick-and-
+mortar branches (limitation on business 
+correspondents geographical location, 
+etc.) Exhibit 21: Areas of investment in technology
+Exhibit 22: Do you have a digital strategy in place?Source: PwC analysis
+Subsequent to investing in risk and regulatory 
+requirements, 44% of respondents felt that 
+customer experience, service delivery and product 
+innovation were areas that investment should be 
+focussed on. 
+Around 58% of 
+respondents confirmed 
+that a digital strategy 
+had been put in place to 
+tackle the challenges of 
+the business environment, 
+while quite a large number, 
+around 42%, also said that 
+they had not thought about 
+a strategy as yet. This could 
+be a reflection of the fact 
+that most foreign banks 
+are not really present in the 
+retail segment and do not 
+have immediate plans to 
+enter it.Risk and regulatory
+Data governance
+Expansion and reach
+Product innovation
+Financial reportingCustomer experience 
+and service delivery
+Foreign Banks in India: At an inflection     25Exhibit 23: Does the implementation 
+of Basel III in India impact your bank’s 
+capital?Section IV: Risk, regulation and 
+taxes
+It has become vital for financial institutions 
+to look beyond pure compliance 
+concerns and understand how regulatory 
+developments will impact product 
+and business portfolios, how they will 
+determine the allowable cost structure and 
+ultimately the strategy of the organisation. 
+A strong regulatory framework involving 
+effective liquidity management, enhanced 
+risk coverage reducing leverage and the 
+ability to identify systemic risk has become 
+a necessary pillar of strategy for banks. 
+In India, regulatory focus has been 
+twofold, reducing systemic risk by aligning 
+regulatory agenda with the global reform 
+agenda and ensuring spread of banking in 
+this highly underpenetrated market. While 
+the global reform agenda converges with 
+most of the home countries’ requirements, 
+there are local variations to be factored 
+in. Also, non-convertibility of the rupee 
+and attendant requirement for banks to 
+invest in compliance infrastructure for 
+crossborder transactions add to costs. 
+As banks deal with the implications of 
+subsidiarisation guidelines, the need 
+to comprehend impact on intra-group 
+transactions, tax and transfer pricing 
+implications and local ownership of 
+decision-making and risk will place further 
+stress on the senior management of foreign 
+banks in India as well as in the head offices.Basel III guidelines are being adopted 
+by Indian banks in a phased manner, 
+ensuring that banks will be adequately 
+capitalised to manage all risks. These 
+guidelines seek to enhance the quality 
+of capital by increasing the requirement 
+for equity capital, ensuring that banks 
+are better equipped to deal with financial 
+downturns, should they arise. Foreign 
+banks typically operate at high levels 
+of capital adequacy and that should be 
+expected to limit the impact of Basel III 
+in India. However, the vote may reflect 
+anxiety on account of a lack of clarity on 
+some implementation aspects of NSFR 
+and LCR and the fact that many foreign 
+banks have high ratio of off-balance sheet 
+business.
+Please rank the following factors 
+according to the impact you think 
+they’ll have on the Indian banking 
+industry and on the foreign banks. 
+We asked respondents to categorise the 
+various types of risks into high, medium 
+or low.  Macro-economic risk and risk 
+arising out of changing policies was 
+ranked very high followed by regulatory 
+risk. The profitability factor came out 
+to be the next concern, which indicates 
+that foreign banks in India are concerned 
+about the sustainability of their business 
+model in the long run. The quality of risk 
+management and corporate governance 
+in the industry (largely at the client end) 
+appeared to be serious concerns as well.
+Exhibit 24: Ranking of risks in IndiaIn the absence of complete 
+convergence between global 
+and local requirements and 
+different standards for the 
+recognition of instruments 
+and counterparties, foreign 
+banks may face added 
+complexity on compliance 
+with capital requirements.
+26 PwCWhich regulatory requirements pose 
+difficulty or complexity in conducting 
+your business? 
+For most of the foreign banks, the new 
+mandate on priority sector lending and 
+financial inclusion guidelines seem to be 
+posing a challenge. Followed by this were 
+other concerns such as KYC, AML norms, 
+cross-border dealings, single or group 
+borrower limits, etc. 
+The RBI has recently revised the guidelines 
+with reference to priority sector lending 
+for foreign banks, bringing the mandate 
+to 40% for banks with more than 20 
+branches from an erstwhile 32%. This 
+needs to be executed over a period of 
+five years. The portfolio of priority sector 
+lending comprises agriculture, MSMEs, 
+education, housing, export credit and 
+others that require a different business and 
+distribution model. Almost all participants 
+felt the need to continue with export 
+finance as a priority sector. Many felt that 
+infrastructure development should be 
+given the same status. The Indian market witnessed the first 
+rupee denominated credit default swap 
+trade in December 2011. The initiation 
+of credit derivative represents a form of 
+market completion. By creating an off-
+balance sheet, forward and contingent 
+markets for credit risk, credit derivatives 
+perform a classic market completion 
+role. In essence, this means they make 
+provisions to achieve efficiency gains.
+Credit default swaps can be actively used 
+in the global market for better product 
+structuring, hedging trading instruments, 
+better asset management and the 
+management of regulatory and economic 
+capital. 
+Although 56% of the foreign banks we 
+spoke to seemed to believe that lack of 
+credit default swaps was not a handicap 
+to their business, they  also highlighted 
+challenges such as lack of knowledge 
+about the product, lack of pricing data, a 
+shallow corporate bond market, regulatory 
+constraints and lack of adequate systems 
+and infrastructure to facilitate trading. 
+Exhibit 27: In your opinion, will the proposed 
+guideline on subsidiarisation of foreign 
+banks provide a more level playing field? For foreign banks, most Indian clients 
+are rated as BB- or worse, in contrast to 
+which most Indian banks view the local 
+corporate entities as AAA+ rated entities. 
+The global risk treatment of Indian 
+entities inhibits the capital available to 
+fund lending activities in the country. 
+For most banks, initiating rural credit in 
+India is likely to be an unacceptable idea 
+to their credit managers at home since 
+this does not form part of their organic 
+international banking strategies.
+Most respondents think that the new 
+guidelines on the subsidiarisation of 
+foreign banks will lead to providing a 
+level playing field for banks, although 
+44% of respondents said that this kind 
+of ‘near national treatment’ of foreign 
+banks may not provide them with 
+opportunities similar to domestic banks. 
+Many respondents believed that while 
+they had a limited strategy at present, 
+their head offices would be willing to 
+look at an expansion plan in the future, 
+depending upon macroeconomic and 
+policy conditions.   
+Exhibit 25: Do you consider the lack of 
+credit default swaps to be a handicap? Exhibit 26: Is the Indian market ready to roll 
+out more sophisticated financial products?Respondents seem to be positive on the 
+outlook of the Indian market, with 57% 
+saying that the Indian market is ready for 
+more complex products. This could be 
+a function of the fact that foreign banks 
+largely deal with the top hundred Indian 
+corporates and multinational clients, 
+where the understanding of sophisticated 
+products may be high. A strong 43% 
+feel that India is still not ready to grasp 
+complex financial products, primarily 
+because of the low levels of financial 
+literacy and lack of training of distributors 
+of financial products giving rise to fears of 
+mis-selling, lack of training of distributors 
+of financial products, etc. 
+While the clientele of foreign 
+banks may have achieved 
+greater sophistication, the 
+Indian market is not perceived 
+to be ready for sophisticated 
+financial products.   
+Foreign Banks in India: At an inflection     27
+Exhibit 28: Most challenging regulatory requirements
+Exhibit 29: Please rank the following 
+based on their relevance to your decision 
+to incorporate locally, with one having the 
+most relevance to four having the leastThe main objective of the RBI in issuing 
+guidelines on the subsidiarisation of 
+foreign banks is to ring fence foreign 
+banks’ operations in India from any 
+adverse shocks at home. In the bargain, it 
+does somewhat level the playing field for 
+foreign banks and render near national 
+treatment to them. 
+Many of the foreign banks remain unclear 
+about how WOS is going to play out 
+for them, with priority sector lending 
+and rural braches posing a challenge. 
+Acquisition targets in India that are 
+primarily promoter driven and command 
+high valuation may also pose a challenge 
+for foreign banks aspiring to use this 
+opportunity. Lack of alignment of voting 
+rights with shareholding was a concern 
+expressed by many participants.        79%  of the respondents 
+said that the decision to 
+incorporate locally would be 
+primarily so that they can get 
+near national treatment at 
+par with local banks. 
+39%  said that this would 
+give them an opportunity to 
+participate in increased M&A 
+activities. Single/group borrower limits
+Income recognition, asset 
+classification and provisioning
+In the event of local subsidiarisation, 
+what would be the major challenges for 
+your bank? 
+Clearly, the inclusion code is yet to be 
+cracked by foreign banks. While the 
+largest of them have submitted plans to 
+the RBI for a five-year transition, market 
+conditions and lack of opportunities 
+to participate through partnerships 
+or other instruments are significant 
+handicaps. Rural branches, for many 
+banks are unacceptable cost centres as 
+branches not only need to fulfil local 
+regulatory requirements of connectivity 
+and brick and mortar presence, but also 
+home country branch specifications 
+that are driven by global standards. Yet, 
+many banks shared examples of their 
+efforts to create outreach in difficult 
+geographies in their home countries using 
+technology and partnerships. However, 
+most expressed concerns around human 
+safety, finding the right talent and lack 
+of power or connectivity; all increasing 
+operational costs. For banks with a 
+definite strategy to grow or banks with 
+more than 20 branches, agricultural 
+lending requirements make rural branches 
+an integral part of the strategy, but there 
+are no clear answers yet on how to best 
+balance the risks and rewards on such a 
+portfolio.Exhibit 30: Major challenge in the event of subsidiarisation
+Exhibit 31: Challenges in terms of regulatory environment
+Source: PwC analysis
+69%  of respondents said that lack of branches was 
+the topmost concern for them.
+42% saying that policy push for retail and universal 
+banking and legal recourse to recovery of debt posed 
+challenges.What are the challenges faced by 
+your bank in terms of the regulatory 
+environment?
+At present, foreign banks operate in India 
+as branches of the parent bank. Currently, 
+permission for opening of branches by 
+foreign banks in India is guided by India’s 
+commitment to the WTO to allow 12 new 
+branches in a year. 
+Foreign banks in India feel that the 
+restrictive branch licensing policy has been a handicap in implementing business 
+plans. The release of the scheme for 
+conversion to wholly owned subsidiaries 
+providing the route of WOS to banks 
+looking for branch growth may not 
+change this perception as most banks are 
+not ambitious about growing large retail 
+network for branches, but would like to 
+grow their branch networks to service 
+their niche client segment.
+Perception of risk and 
+regulation by foreign banks 
+in India
+• A differentiated licence regime 
+will be optimal for foreign banks 
+as many of them want to remain 
+with their limited model and are 
+not a source of risk as they have 
+no presence or plans to grow in 
+retail segment. 
+• The twin goals of depositor 
+protection and push towards 
+retail banking seem to be in 
+conflict as most niche banks 
+would be reconciled to give up 
+access to retail deposits if they 
+could operate in a niche segment. 
+• The recent risk based supervision 
+approach has been welcomed by 
+the industry, as it may imply the 
+end of annual on-site inspections 
+which are demanding and often 
+not commensurate with the 
+limited business model. 
+Foreign Banks in India: At an inflection     29Tax perspectives 
+A large number of respondents, roughly 
+48% find the tax environment to be 
+challenging as compared to other 
+economies, while 33% said that it was 
+extremely challenging to deal with 
+tax laws in India. Around 77% of the 
+respondents also felt that transfer pricing 
+authorities were very aggressive in their 
+approach. Exhibit 32: Compared to the other 
+emerging economies, tax environment in 
+India
+Exhibit 34: Are the assessments done 
+by transfer pricing authorities too 
+aggressive?Exhibit 35: Which of the following pose a 
+challenge to your bank?
+Exhibit 33: Do you consider tax dispute 
+resolution a mechanism to be efficient?The most challenging aspect from the tax 
+perspective is to deal with the withholding 
+tax on cross-border transactions and taxes 
+on head office payments. Moreover, most 
+foreign banks do not consider the tax 
+dispute mechanism to be efficient.
+Although the Reserve Bank of India issued 
+a recent circular to clarify the stance of 
+the government on tax treatment of local 
+subsidiaries and conversion of branch into 
+subsidiary, apprehension of future action 
+have not been put to rest. This is consistent 
+with the current situation where most 
+banks have ongoing tax litigation going 
+back to many years. 
+Subsidiarisation and different rules in 
+home and host countries also create 
+challenges around transfer pricing. For 
+example, the benefit that the WOS is likely 
+to derive from the parental guarantee 
+will need to be evaluated using transfer 
+pricing principles to determine arms’ 
+length charge for the guarantee. Other 
+transactions between the WOS and its 
+parent or affiliates will also need to satisfy 
+Indian transfer pricing regulations.
+Section V: Human capital 
+Human capital is recognised to be the 
+most important element in any service 
+organisation. 
+India is perceived to host a large talent 
+pool that is young and well educated and 
+compares favourably on cost parameters. 
+However, the growth in the banking 
+industry and the entry of new players has 
+also led to what is perceived to be a war 
+for talent. For many years, foreign banks 
+operating in India were employers of 
+choice for the elite and had first preference 
+at the best educational institutions. 
+However, gradually, with other sectors of 
+the economy doing well, that is gradually 
+changing. Many small foreign banks with 
+low brand recognition compete in the 
+same space as large global brands and 
+extremely visible Indian brands and find 
+it difficult to source quality talent at good 
+prices.
+30 PwCStarting on a positive note, most foreign 
+banks revealed that the level of staff 
+turnover in their banks was less than 10%. 
+A minuscule 4% said that staff turnover 
+exceeded 30%. Many foreign banks 
+operating in India are confident that they 
+will have the human capital to execute this 
+strategy. 
+Banks also have strong faith in the talent 
+pool available in India, considering it at 
+par with global standards. Most foreign 
+banks consider the talent pool in India to 
+be highly skilled and relatively cheaper 
+than most other emerging economies. 
+However, many banks also felt that there 
+was increasing pressure to pay more 
+for  quality of resources that was not 
+necessarily the best. The other good thing 
+Exhibit 41: Which staff functions have the highest hiring priority in 2013-14?Exhibit 38: Over the next three to five 
+years, will you have the people to deliver 
+your business strategy?Exhibit 40: In your opinion, is the quality of 
+talent in India equivalent to that in the rest 
+of the world?Exhibit 39: Would you say that talent 
+in India is more expensive than similar 
+emerging markets?
+Exhibit 37: To what degree have you 
+needed to adapt your home culture and 
+processes to provide the flexibility of 
+doing business in India?Exhibit 36: What was the level of staff 
+turnover in your bank in 2012-13?
+from the perspective of human capital is 
+that these foreign banks have not had to 
+make much of a change by way of culture, 
+considering Indians to be flexible and 
+adaptable. 
+Lastly, 67% of the respondents agreed 
+that most of the hiring would be in the 
+area of relationship managers in the 
+corporate domain. Risk management 
+also came up as a key area of investment 
+where specialised expertise is required by 
+banks. This was interestingly in contrast 
+with many other markets where hiring 
+strategies at present are more focussed 
+around compliance and AML functions. 
+Most banks also feel that there is a need 
+for succession planning and efficient 
+talent management. 
+Foreign Banks in India: At an inflection     31
+Appendices
+Survey respondents 
+Thirty two* foreign banks participated in the survey: 
+1. Abu Dhabi Commercial Bank
+2. Antwerp Diamond Bank N.V.
+3. ANZ Bank Ltd 
+4. Bank of America
+5. Bank of Bahrain & Kuwait BSC
+6. Bank of Ceylon
+7. Bank of Nova Scotia
+8. Bank of Tokyo Mistubishi UFJ
+9. Barclays Bank Plc.
+10. Bank Internasional Indonesia (Maybank)
+11. BNP Paribas
+12. Citibank N.A.
+13. Commonwealth Bank of Australia
+14. Credit Agricole Corporate & Investment Bank15. Credit Suisse A.G
+16. Development Bank of Singapore
+17. FirstRand Bank Ltd
+18. HSBC Ltd
+19. J.P. Morgan Chase Bank N.A.
+20. JSC VTB Bank
+21. Mizuho Corporate Bank
+22. National Australia Bank
+23. Rabobank International
+24. Royal bank of Scotland
+25. Sberbank
+26. Societe Generale
+27. Standard Chartered Bank
+28. Sumitomo Mitsui Banking Corporation 
+29. United Overseas Bank
+30. Westpac Banking CorporationChapter 3
+*Two banks that participated in the survey specifically requested that their names are not disclosed
+32 PwCList of banks as on 31 March 2013 Branches Capital and reserves Deposits Advances
+AB Bank Limited 1 751 1214 625
+Abu Dhabi Commercial Bank Ltd 2 3274 7043 5198
+American Express Banking Corp. 2 7604 6747 17103
+Antwerp  Diamond Bank Nv 1 2302 795 7603
+Australia And New Zealand Banking Group Limited 1 11324 25092 23767
+Bank Internasional Indonesia 1 2138 0 0
+Bank of America N.T. And S.A. 5 45160 73780 76230
+Bank of Bahrain and Kuwait B.S.C. 2 2886 6958 6926
+Bank of Ceylon 1 1757 1194 999
+Bank of Nova Scotia 5 17850 60556 77661
+Barclays Bank Plc 9 55410 50632 84723
+BNP Paribas 9 22819 55797 77373
+Chinatrust Commercial Bank 2 1603 1927 2765
+Citibank N.A 43 173794 665594 520355
+Commonwealth Bank Of Australia 1 1692 513 1652
+Credit Agricole Corporate and Investment Bank 5 17593 5963 24042
+Credit Suisse Ag 1 13066 4187 4550
+DBS Bank Ltd. 12 29303 154876 138581
+Deutsche Bank Ag 17 78913 207943 223741
+Firstrand Bank Ltd 1 3033 713 2594
+Hongkong and Shanghai Banking Corpn.Ltd. 50 151958 568660 357087
+HSBC Bank  Oman  S.A.O.G. 2 2229 1488 51
+Industrial And Commercial Bank of China 1 4818 1771 3372
+JPMorgan Chase Bank National Association 1 57535 103687 53445
+JSC VTB Bank 1 1114 99 885
+Krung Thai Bank Public Company Limited 1 491 1835 160
+Mashreq Bank Psc 1 1208 1194 547
+Mizuho Corporate Bank Ltd 2 35877 17434 55188
+National Australia Bank 1 1530 0 1636
+Rabobank International 1 6139 834 5899
+Sberbank 1 1443 47 370
+Shinhan Bank 3 5725 14404 12061
+Societe Generale 3 8571 13826 17569
+Sonali Bank 2 98 398 184
+Standard Chartered Bank 100 191531 620017 619543
+State Bank of Mauritius Ltd 3 6062 6009 8150
+Sumitomo Mitsui Banking Corporation 1 10834 15 0
+The Bank of Tokyo-Mitsubishi Ufj Ltd 4 34023 41464 68395
+The Royal Bank of Scotland N.V. 31 28319 127494 125339
+UBS Ag 1 20675 25575 9741
+United Overseas Bank Ltd 1 1559 62 358
+Westpac 1 8172 0 0
+Woori Bank 1 1636 2158 329
+Grand total 334 1073819 2879995 2636797
+Figures in INR million
+Foreign Banks in India: At an inflection     33Banks Background
+Arab Bangladesh Bank Limited AB Bank Limited is a Bangladesh-based private sector bank, having its overseas office in Mumbai. 
+Established on 31 December 1981 as the first private sector bank in Bangladesh, it started its operation 
+from 12 April 1982. The Mumbai branch of the AB Bank Limited is the sole overseas branch in India.
+Abu Dhabi Commercial Bank Ltd ADCB India began operations in 1980 with the objective of further developing Indo-UAE trade relations 
+and catering to the remittance and savings needs of  non-resident Indians working in the UAE and 
+other countries in the GCC region. ADCB has been in India serving these niche segments through two 
+branches in Mumbai and Bengaluru.
+American Express Banking Corp American Express Bank Ltd India operates as a subsidiary of American Express Bank Ltd which was 
+founded in 1921. Its two centres in India are located at Gurgaon and New Delhi. The Indian operations 
+of American Express revolve around the back office customer services operations, apart from the 
+credit card business for the domestic market. The American Express campus in Gurgaon is the largest 
+employee location by head count for the group and supports the business continuity objectives of the 
+American Express group. 
+Antwerp  Diamond Bank Nv ADB Mumbai is the maiden branch of Antwerp Diamond Bank NV in India, operating since June 2002, 
+and currently located  at Opera House in Mumbai. It gives support to the Indian diamond trade and 
+industry. It lends its banking services and grants commercial credits to diamond importers, wholesalers 
+and exporters, diamond cutting and polishing factories, jewellery manufacturers and exporters, 
+diamond and jewellery traders.
+Australia And New Zealand Banking 
+Group LimitedANZ commenced banking operations in India with the opening of its first branch in Mumbai in June 
+2011 after receipt of the banking licence from the Reserve Bank of India in October 2010. ANZ’s 
+operations in India are a part of ANZ’s global network, comprising of Australia and New Zealand 
+Banking Group Limited (ANZ) in Mumbai and ANZ Operations and Technology and ANZ Support 
+Services India  in Bangalore. The India branch supports corporate as well as  institutional clients in 
+India and provides greater access to the Indian markets for global network customers.  
+Bank Internasional Indonesia BII commenced operating its Mumbai branch in 2013. Headquartered in Indonesia, it is a subsidiary 
+of the Maybank Group, one of the largest banks in ASEAN by total assets and market capitalisation. It 
+provides trade, foreign exchange and related banking products and services to Indian companies with 
+business interests in the ASEAN region and vice versa. It also caters to Maybank Group’s customers 
+and their counterparties for their banking requirements in India.  
+Bank of America N.T. And S.A. The Bank of America commenced operations in India through its Mumbai branch in 1964. The bank 
+offers a range of financial products and solutions to Indian corporates, multinationals, multilateral 
+agencies and foreign government entities and financial institutions. It is headquartered in Mumbai, with 
+five branch offices across Mumbai, New Delhi, Kolkata, Chennai and Bengaluru. The global merger of 
+Merrill Lynch with a subsidiary of the Bank of America Corporation added a product suite of services 
+through DSP Merrill Lynch, an investment banking, securities and wealth management services’ firm.
+Bank of Bahrain And Kuwait B.S.C. The Bank of Bahrain and Kuwait (BBK) was incorporated in Bahrain in March 1971. BBK opened 
+branches in India in 1986 as a scheduled commercial bank. There are three branches in India, in 
+Mumbai, Hyderabad and Aluva in Kerala.
+Bank of Ceylon BOC  is owned by the government of Sri Lanka and has a network of 301 local and three overseas 
+branches. The bank started operations in Chennai in 1995.
+Bank of Nova Scotia Scotia Bank was established in Nova Scotia in 1832. Today, the bank and its affiliates offer a broad 
+range of products and services, including personal, commercial, corporate as well as  investment 
+banking services to 19 million customers across 55 countries. It has presence in India with branches in 
+Mumbai, New Delhi, Coimbatore, Bengaluru and Hyderabad.
+The Bank of Tokyo-Mitsubishi Ufj Ltd Bank of Tokyo Mitsubishi is one of the five primary operating companies of Mitsubishi UFJ Financial 
+Group (MUFG). MUFG’s services include commercial banking, trust banking, securities, credit cards, 
+consumer finance, asset management, leasing and several other fields of financial services. BTMU 
+began operations in Mumbai, the financial capital of India, in 1953 as a predecessor company to the 
+Bank of Tokyo from an iconic building in Fort, the business district. The bank has four branches in 
+India, at Mumbai, New Delhi, Chennai and Neemrana in Rajasthan, and is the largest Japanese bank in 
+India.
+Barclays Bank Plc Barclays, a British multinational banking and financial services company headquartered in London, has 
+had its presence in India for nearly three decades, with an investment banking division and personal 
+and corporate banking services in Mumbai, Pune, New Delhi, Hyderabad and Bengaluru. Globally, 
+Barclays has operations in retail, wholesale and investment banking, as well as wealth management, 
+mortgage lending and credit cards in over 50 countries and territories and has around 48 million 
+customers. 
+34 PwCBNP Paribas BNP Paribas set-up its operations in India 150 years ago in Kolkata. It was the first French bank and 
+the second foreign bank to have a set-up in the country. The bank has branches in eight major cities 
+of Mumbai, Delhi, Kolkata, Chennai, Hyderabad, Bengaluru, Ahmedabad and Pune. BNP Paribas India 
+Solutions Private Limited is a subsidiary of BNP Paribas SA, set up in 2005 to provide IT and back-
+office processing services, infocentre and data warehousing, with a major focus on capital markets 
+information technologies, for the BNP Paribas group. 
+Chinatrust Commercial Bank Established in 1996 in New Delhi, Chinatrust Commercial Bank (CTCB), a private sector bank of 
+Taiwan, has its presence in India as a scheduled bank. The bank has completed more than 16 years 
+of successful operations in India. Chinatrust established its first branch in New Delhi in April 1996 and 
+opened its second branch in Sriperumbudur (Chennai) in June 2012.  
+Citibank N.A Citibank began operations in India in 1902 in Kolkata. It offers consumers and institutions a broad 
+range of financial products and services, including consumer banking and credit, corporate and 
+investment banking, securities brokerage, transaction services and wealth management.
+The bank operates 42 full-service branches in 30 cities across the country providing services to more 
+than 40,000 small and mid-sized companies across India. 
+Commonwealth Bank of Australia The CBA started its operations in India in 2004 with a representative office in Bengaluru, offering trade 
+finance services to clients doing business with Australia. Subsequently, it launched its full-fledged 
+operations at its  Mumbai branch in 2010. The Mumbai branch provides a range of savings accounts, 
+loans, money transfers and international trade finance services for customers in India. It also offers a 
+range of NRI products for Indians living in Australia.
+Credit Agricole Corporate and 
+Investment BankCrédit Agricole CIB, a leading retail banking group of France, has been in India since 1981, and is 
+located in Bengaluru, Chennai, Delhi, Mumbai and Pune. From these five branches, it also deals with 
+the large markets in Ahmedabad, Kolkata, Hyderabad and Baroda. It offers a comprehensive range 
+of products and services, tailored to the needs of Indian companies, multinational companies and 
+financial institutions. It also offers  its customers a wide range of products as well as  services in terms 
+of cash management and working capital facilities. 
+Credit Suisse Ag Credit Suisse Group AG is a Switzerland-based multinational financial services holding company 
+headquartered in Zurich. After entering India in 2009, Credit Suisse provides a wide array of investment 
+banking as well as  securities services with offices in Mumbai and New Delhi. This includes a full range 
+of equity underwriting and financial advisory solutions to Indian corporates as well as to multinational 
+companies looking to build their presence in the Indian market.
+DBS Bank Ltd DBS was established in 1968 as the Development Bank of Singapore. Headquartered and listed in 
+Singapore, DBS has over four million customers, and also has a growing presence in the three key 
+Asian axes of growth, Greater China, Southeast Asia and South Asia. The bank initially entered India as 
+a representative office in 1994, and opened its maiden branch in 1995.
+Deutsche Bank Ag Deutsche Bank is a German bank headquartered in Frankfurt. It has around 78,000 employees 
+worldwide, across 70 countries. Deutsche Bank in India is a fully-integrated financial services provider 
+to Indian corporate, institutional and individual clients.  Deutsche Bank has been in India since 1980 
+and is one of the larger foreign banks present in the country.
+Firstrand Bank Ltd FirstRand Bank India is a branch of FirstRand Banking Group South Africa. FirstRand Bank is the first 
+bank from  Africa  to be granted a full-scale commercial banking licence in India. It  has commenced its 
+banking operations in India since April 2009 and currently has one branch in Mumbai. 
+Hongkong and Shanghai Banking 
+Corp LtdHSBC’s origins in India dates back to 1853, when the Mercantile Bank of India was established in 
+Mumbai. The parent company, HSBC Holdings plc is a British multinational banking and financial 
+services company headquartered in London. In India, it offers a comprehensive suite of world-class 
+products and services to its corporate and commercial banking clients as also to a fast growing 
+personal banking customer base.
+The bank also has over 50,000 active commercial banking customers in India, including proprietors, 
+partnerships, clubs and associations, incorporated businesses and publicly quoted companies.
+HSBC Bank Oman S.A.O.G. HSBC Bank Oman S.A.O.G  was the first 100% Omani-owned commercial bank in the Sultanate of 
+Oman and today it  has the largest network of branches in Oman, including 82 branches in the country 
+and four  overseas branches in Mumbai and Cochin(India)and Karachi and Lahore (Pakistan). 
+Industrial and Commercial Bank Of 
+ChinaThe Industrial and Commercial Bank of China opened its first branch in India in Mumbai. It officially 
+entered the Indian banking industry as the first representative of Chinese mainland banks and was 
+granted the final licence by the RBI on 16 May 2011. The branch engages in comprehensive banking 
+business, including corporate banking, retail banking, and investment banking.
+JPMorgan Chase Bank National 
+AssociationJPMorgan’s presence in India dates back to 1922. Mumbai is one of JPMorgan’s largest locations 
+outside the US and serves as a regional hub. India is an important focus for JPMorgan’s expansion in 
+the Asia-Pacific region. The lines of business include the investment bank, the global corporate bank, 
+private equity, asset management and treasury and securities service. JPMorgan has a large global 
+service centre in India that is rapidly expanding in scope and size.
+Foreign Banks in India: At an inflection     35JSC VTB Bank JSC VTB Bank, located in New Delhi is a Russian-owned international bank  present across  13 
+countries. It started its operations in India in the year 2008, with its maiden branch in New Delhi. 
+Offering assistance in fund-based and non-fund based advances, which include term loans for creation 
+of assets, export and import guarantee, documentary credits, packing credit, post-shipment loans, and 
+other corporate banking services. 
+Krung Thai Bank Public Company 
+LimitedFounded in 1966, Krung Thai Bank operates 511 domestic and 12 foreign branches and representative 
+offices worldwide in 2006. It’s largest shareholders are from the public sector with the Ministry of 
+Finance holding 30.80 percent and the Financial Institutions Development Fund 29.97 percent.
+Mashreq Bank Psc Mashreq Bank Psc provides banking and financial services in the UAE as well as  internationally. It is a 
+relatively new entrant in the Indian banking industry. It has its head office in Mumbai. The bank offers 
+fast and easy money transfers to India. 
+Mizuho Corporate Bank Ltd MHCB is an important arm of the Mizuho Financial Group. It is considered to be the second largest 
+financial services provider in Japan. MHCB is essentially a corporate and investment bank, formed 
+by merging the corporate and investment banking divisions of Fuji Bank and Dai-Ichi Kangyo Bank 
+with the Industrial Bank of Japan. Today, the capital strength of the Mizuho Corporate Bank stands at 
+1,404,065 million JPY . In India, it has opened its branches in the cities of Mumbai and New Delhi, with 
+the office in Mumbai being the head office. 
+National Australia Bank NAB  has been present in Asia since the late 1960s, commencing operations with a representative 
+office in Tokyo. Its Mumbai office was opened recently in 2012, to strengthen its business and 
+customer base in Asia. NAB operates through 1,750 branches and service centres and employs over 
+50,000 staff globally. Currently, NAB operates in India, Hong Kong, China, Singapore and Japan and 
+Indonesia. 
+Rabobank International Rabobank Group, a leading food and agribusiness bank, has been operating in India since 1998. 
+Presently, it operates as Rabobank International, with its first branch and corporate headquarters 
+located in Mumbai, Rabo India Finance, a non-banking finance company (NBFC) and Rabo India 
+Securities, the investment banking arm of the group and provides specialised products and services. 
+In addition, Rabobank is one of the sponsors of the India Agribusiness Fund, the 120 million USD food 
+and agriculture sector private equity fund in India. The fund is sponsored  with a 25% share of the 
+committed capital.
+The Royal Bank Of Scotland N.V. The RBS Group is a large international banking and financial services company, headquartered 
+in Edinburgh. RBS has been in India since 1921, bringing along with it  capabilities in debt capital 
+markets, international transaction services, foreign exchange and rates, as well as providing balance 
+sheet advisory and structuring. Currently, the retail and commercial banking operations in India is 
+undergoing a consolidation. The bank will consolidate its presence into eight business hubs namely 
+Bengaluru, Chennai, Delhi-NCR, Hyderabad, Kolkata, Mumbai, Pune, and Vadodara. It is expected that 
+this process will be completed by the end of 2013. 
+Sberbank Sberbank Rossii OAO is a Russia-based commercial bank. Sberbank started its India operations 
+in 2010. It provides a range of corporate as well as  retail banking services, such as payments and 
+transfers, currency exchange, credit cards, travel cheques, mutual funds, precious metal trading, 
+deposits, brokerage services and many others. 
+Shinhan Bank Shinhan Bank’s India operations were established in May, 1996 with the opening of its first branch 
+in Mumbai. It now has branches in New Delhi and Vellore.  Since establishing the first branch in 
+Mumbai, the bank has been posting profits in each year of its operations.  Apart from  traditional 
+banking products,  the bank   also offers through its  branches in India products such as  trade credit 
+arrangements, ECB arrangements, PCFC and export bill nego, no-frills account.
+Societe Generale Societe Generale has been present in India since 1978 with the establishment of a representative office 
+in Delhi.  In 1985, it opened its first full-fledged banking branch in Mumbai and a second branch in 
+Delhi in 1993. Societe Generale provides a wide range of banking facilities and services from customer 
+deposits and plain vanilla working capital loans, term loans; trade finance and corporate fx to more 
+sophisticated investment banking products like structured finance, derivatives etc.
+Sonali Bank Sonali Bank has opened two branches in India with a regional head office in Kolkata. It offers a wide 
+range of services such as personal banking, corporate banking, Hajj savings, rural credit, micro credit, 
+international banking, industrial financing, deposit and credit schemes, SME banking, project finance, 
+trade finance, loan syndication, foreign exchange dealing, NGO-linkage loan, investment, government 
+treasury function, money market operation, capital market operation and remittance.
+Standard Chartered Bank Standard Chartered Bank has been operating in India  since 1858. In India, the bank provides personal 
+banking, priority banking, NRI banking, business banking.  The bank operates through a number of 
+subsidiaries in India such as the  Standard Chartered Securities (India) Ltd, the vehicle for the equities 
+business, Standard Chartered Private Equity Advisory (India) Private Limited, Standard Chartered 
+Investments and Loans (India) Limited, Standard Chartered Finance limited and SCOPE International.
+36 PwCState Bank of Mauritius Ltd The State Bank of Mauritius has been present in India since 1994, with its first branch in Mumbai. The 
+bank also has branches in Chennai and Hyderabad. As a growing international bank in the wholesale 
+banking domain in India, SBM provides a wide range of corporate and commercial banking services. 
+These include corporate lending, treasury services, cash and trade transaction services to corporate, 
+financial institutions and small and mid-tier clients across industries and segments.
+Sumitomo Mitsui Banking Corporation Sumitomo Mitsui Banking Corporation received its licence to operate in India in May 2012. It has 
+significant exposure to India through foreign currency loan extended by it’s overseas offices and 
+has advised several infrastructure projects. It is a partner with the Delhi Mumbai Industrial Corridor 
+Development Corporation for advising and bringing financing solutions to DMIC.
+UBS Ag UBS AG is a Swiss global financial services company headquartered in Basel and Zurich in  
+Switzerland.The bank’s Mumbai Branch offers its clients products across financial markets, institutional 
+banking, corporate banking and individual banking. In 2013, the bank surrendered its banking license 
+in India.
+United Overseas Bank Ltd United Overseas Bank Limited, a major Asian bank headquartered in Singapore, established its maiden 
+branch in India in Mumbai and commenced business on 29 December 2009. Founded in 1935, UOB 
+provides a wide range of financial services, including  personal financial services, private banking, 
+commercial and corporate banking, investment banking, corporate finance, capital market activities, 
+treasury services, futures broking, asset management, venture capital management, insurance and 
+stock broking services.
+Westpac Westpac has been operating in India through its representative office since 2007 and was awarded a 
+foreign banking licence by the RBI in April 2012. Westpac opened its first branch in India in November 
+2012. The branch aims to support Australian customers and a growing number of Indian customers 
+with trade and investment links to Australia. Westpac offers wholesale and retail banking services in 
+India including trade finance, deposits, remittances, payments and receivables, savings and current 
+account, foreign exchange and treasury services predominantly in Indian rupees.
+Woori Bank The South Korea-based, Woori Bank, a part of the Woori Financial Group, launched its first branch 
+in India, at Chennai, in 2012 to provide assistance to Korean companies in the country in corporate 
+banking and to serve local clients. The Chennai branch is the head office of Woori Bank in India. 
+Foreign Banks in India: At an inflection     37Notes
+Acknowledgements
+Rajul Jain
+Senior Manager, Financial Services
+Trisha Chatterji
+Knowledge Manager, Financial Services
+Vivek Pillai
+Associate, Financial Services
+Meena Aier
+Senior Analyst, Financial Services 
+Rashee Iyer
+Senior Analyst, Financial Services
+Abhishek Kakar
+Brand and Communications
+
+About PwC
+For further assistance please contact
+Manoj K Kashyap 
+Leader, Financial Services 
+Direct: +91 (022) 6669 1888 
+Email: manoj.k.kashyap@in.pwc.com
+Shinjini Kumar
+Leader, Banking and capital markets 
+Direct: +91 22 6689 1133 
+Email: shinjini.kumar@in.pwc.comPwC helps organisations and individuals create the value they’re 
+looking for. We’re a network of firms in 157 countries with more 
+than 184,000 people who are committed to delivering quality in 
+Assurance, Tax and Advisory services. Tell us what matters to you 
+and find out more by visiting us at www.pwc.com. 
+In India, PwC has offices in these cities: Ahmedabad, Bangalore, 
+Chennai, Delhi NCR, Hyderabad, Kolkata, Mumbai and Pune. For 
+more information about PwC India’s service offerings, visit www.
+pwc.com/in 
+PwC refers to the PwC network and / or one or more of its 
+member firms, each of which is a separate legal entity. Please see 
+www.pwc.com/structure for further details.
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+www.pwc.in
+Data Classification: DC0
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or 
+estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are 
+advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents 
+of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained 
+within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited 
+liability company in India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers 
+International Limited (PwCIL), each member firm of which is a separate legal entity.
+AK 121 - November 2013 Foreign Banks in India: At an inflection.indd
+Designed by Brand and Communication, India

@@ -1,0 +1,751 @@
+Title: pwc_m2m-technologies
+Date Published: 2013-11-14 14:27:05+05:30
+Source: pdfs/pwc_m2m-technologies.pdf
+
+--- CONTENT ---
+
+M2M technologies
+www.pwc.in
+White paper on M2M technologies  
+Background p4/M2M in India p5/ Market potential p11/ Key issues for M2M in India p12/ 
+Conclusionp14/ Contactsp17
+
+Message
+The wireless subscriber base in India has reached 870 million, opening a new market for M2M 
+which is already growing at a fast pace worldwide. M2M technologies allow both wireless and 
+wired systems to communicate with other devices and systems of the same ability. Innovative 
+applications such as smart cars, connected homes, smart metering, remote management and 
+industrial data collection will be major revenue drivers of service providers worldwide in the 
+near future.
+We, in ASSOCHAM, are of the firm belief that M2M along with cloud computing and IPv6 will 
+usher in a major revolution in India. M2M can touch each and every citizen’s life in a profound 
+way–be it financial inclusion, security, tracking, health, etc. M2M will pave the way for smart 
+and efficient systems–electricity, water, smart cities, etc. The increased efficiencies in every 
+sphere of life will help increase national productivity which is the need of the hour for our 
+nation.
+ASSOCHAM will continue to engage in providing an effective forum to facilitate dialogue 
+between the Department of Telecom, the telecom industry and other stakeholders for ensuring a 
+suitable M2M policy framework.
+D. S. Rawat
+Secretary General
+ASSOCHAM
+
+4       PwC M2M technologies          5 
+ 1. Background 2. M2M in India
+What is M2M?
+The term M2M , also commonly known as ubiquitous or 
+pervasive computing refers to what is essentially a four-step 
+process: data is generated, data is transmitted, data is analysed, 
+and data acted upon.  Other names that define M2M or its 
+subsets include the ‘internet of things’, ‘connected devices’, 
+‘remote monitoring and diagnostics’, ‘smart computing’, ‘smart 
+metering’ and ‘extended internet’. 
+M2M (machine to machine) leverages innovations in micro 
+computing and wireless technology that allow embedded 
+devices to collect and distribute real-time data and has the 
+potential to connect millions of machines today, and even 
+more in the near future. In simple terms, M2M is defined as a 
+technology that enables electronic and mechanical devices to 
+communicate with each other seamlessly and perform actions 
+without human intervention.
+The M2M system
+The M2M system uses device (sensor, meter, etc.) to capture 
+‘event’ (temperature, inventory level, etc.), relayed through 
+a communication network (wireless, wired or hybrid) to an 
+application (software program) that translates the captured 
+event into meaningful information (E.g. items need to be 
+restocked) that can be actioned subsequently.
+M2M works on four basic principles:
+•	 Acquiring data through sensors, RFID and related devices
+•	 Transmitting the data through the network channel 
+•	 Making decisions via intelligent application solutions
+•	 Triggering an action, based on pre-determined rule-sets  
+and analysed data.The M2M ecosystem
+Telcos have taken the lead in building M2M networks that 
+deliver granular device data to centralised applications that turn 
+it into meaningful information. However, the M2M business is 
+in its nascent stage and business models are evolving, driven by 
+various value propositions for the players in the ecosystem. The 
+four key categories in the M2M ecosystem are as follows:
+•	 Hardware and semiconductor company : These provide 
+the end-point devices from where data is acquired (sensors, 
+GPS units, smart meters, RFID tags, video cameras, and 
+smartcards).
+•	 Communication service provider : These enable the 
+transmission of data between machines.
+•	 M2M service provider : These are vertical niche players 
+providing specific M2M application solutions for data 
+analysis for decision-making.
+•	 System integrator:  This is the technical domain expertise 
+to bind all systems together.
+The roles of these players may overlap in various business 
+models that will evolve depending on the positioning created by 
+each individual player and specific market opportunities.
+Application of M2M
+M2M provides benefits to individuals, companies, communities 
+and organisations in the public and private sectors across 
+industries. Some of them are:We believe M2M has significant potential in India.  To illustrate 
+some of them, we expand here on four areas, namely smart city, 
+smart grid, agriculture and healthcare. 
+Smart city
+Smart city  is inclusive of terms such as digital city  or 
+connected cities . Smart cities as an applied technology 
+term often refers to a collection of various M2M services for 
+electricity, water supply, waste management, traffic solutions 
+and are referred to as, city basics.
+It is estimated that every minute during the next 20 years, 30 
+Indians will leave rural India for urban areas. At this rate, India 
+could need about 500 new cities in the next two decades1. If 
+there were ever a time to focus on developing solutions for 
+sustainable cities, it is now. As population centres grow, they 
+are placing greater demands on city infrastructure and vital 
+services such as transportation, healthcare, education and 
+public safety.
+Replacing actual city infrastructure is often unrealistic in 
+terms of cost and time. However, existing infrastructure 
+can be infused with new intelligence. This means digitizing 
+and connecting systems, so they can sense, analyse and 
+integrate data, and respond intelligently to the needs of their 
+jurisdictions.
+How can a smarter city help?
+A smart city is an environment that involves many technologies 
+and multiple agents: from sensors scattered throughout the 
+whole city (to collect any kind of data; traffic, water, energy, 
+etc.) to the cellular devices owned by citizens. This data must  
+be managed by a platform.
+As per a recent PwC Connected Life report pre -
+pared for the GSMA, traffic telematics could 
+help Chinese commuters reclaim nearly two 
+hours each of their time every week2. 
+Estimates indicate that the economic benefits 
+of the resulting increase in productivity could 
+add more than 20 billion USD to the Chinese 
+GDP each year3.
+Source: PwC analysis
+6       PwC M2M technologies          7Smart mobility
+Issues How M2M could help
+Vehicular growth due to rapid urbanisation:
+•	 Road traffic conditions in India are getting worse. The 
+average number of vehicles has grown at the rate of 10% 
+annually, in the last five yrs 4.
+•	 Vehicle penetration in metros such as Mumbai is suffering 
+from about 590 vehicles per km of road 5.
+•	 Research on traffic shows that India loses around 60,000 
+crore INR (including fuel wastage) a year due to traffic 
+congestion in urban centres and highways6.Intelligent transportation system : Road network monitoring 
+to determine traffic density real time and recommend routes 
+to reduce travel time and congestion. It allows users to identify 
+the best route.
+Smart parking : Real-time information about parking spots 
+and notifications when restricted spots (loading bay, bus sta -
+tions, disabled parking bay, etc.) occupied. People can locate 
+free parking spots and their price through an intuitive graphi -
+cal interface.
+Fleet management : Solution that identifies the positions of all 
+service operator vehicles real time. It produces reports to plan, 
+save and improve.
+Energy and environment
+Issues How M2M could help
+•	 Commercial buildings are the third largest consumers of 
+energy in India after industry and agriculture. Buildings 
+annually contribute to more than 20% of the electricity 
+used in India7.
+•	 Indian cities alone generate more than 100 million tonnes 
+of solid waste a year. Indeed, forget the waste segregation 
+and recycling directive of the Supreme Court, the 
+Organisation for Economic Cooperation and Development 
+estimates that up to 40% of municipal waste in India 
+remains simply uncollected. 
+•	 Water scarcity is fast becoming urban India’s crisis, with 
+the government’s own data revealing that residents in  
+22 out of 32 major cities have to deal with daily shortages. 
+Delhi uses 36 million m3 of water per day. The New Delhi 
+Jal Board supplies just over 30 million cubic metres per 
+day, but only 17 million cubic metres actually reach 
+consumers due to infrastructure problems, such as leaking 
+pipes8.
+•	 India is the largest groundwater user in the world, where 
+an estimated 85% of drinking water is groundwater 
+dependent. Millions of women and children spend 
+several hours a day collecting water from distant sources 
+of varying quality. Further, dysfunctional water supply 
+systems have led to loss of investment caused by poor 
+maintenance, limited financing and overall failure to 
+address sustainability challenges in the field.Smart grid and smart meters:  Smart metering solutions in 
+electricity, water and gas usage optimise energy efficiency 
+through better insight on real-time consumption, losses and 
+fraud. In India, smart grids can help increase efficiency of 
+power grids where Transmission and Distribution losses are 
+almost 30% of the total installed capacity9.
+Smart buildings:  Solutions for centralised and remote 
+management of buildings in each building can help them 
+communicate with one another through a united command 
+centre and manage individual building functions to reduce 
+consumption of energy.
+Waste management : Waste management solution to 
+integrate data from containers (type, filling level, etc) and 
+traffic information in the optimal route detection of the waste 
+collection fleet. A GPS device is installed in almost the entire 
+fleet of cleaning and waste collection vehicles. This makes it 
+possible to optimise routes and save time and resources.
+Watering management : By controlling gardens’ soil humidity 
+with an M2M solution, irrigation can be planned according to 
+needs, thus saving costs.
+Low-cost M2M enabled water meters can enhance water pump 
+monitoring and contribute to understanding user behaviour. 
+Similarly, there could be a high demand for M2M solutions in 
+sanitation and irrigation.Case studies
+•	 Sarvajal10 (India) has developed business models on the 
+use of M2M for clean water services. It uses a combination 
+of GSM enabled remote monitoring systems and water 
+ATMs to provide clean water services in India. Soochak 
+controller enables remote monitoring and control of 
+filtration operations. Water ATMs are managed via GSM 
+and enable the use of stored value smart cards for water 
+purchase. Their franchise business model ensures water 
+production. Local distribution is managed centrally. As of 
+November 2012, Sarvajal had 155 franchisees, impacting 
+more than 85,000 lives.
+•	 HT Media11 distributes daily newspapers to distribution 
+centres across the country using contracted vehicles on pre-
+determined routes, thus ensuring timely, safe and accurate 
+delivery. M2M based services enable cost efficiencies for 
+fleet operations. They help real-time monitoring of trucks 
+and shipments. This helps streamline operations, minimise 
+downtime and optimise asset performance. As per the PwC Connected Life report, reducing 
+power theft and increasing usage efficiency via 
+smart meters can save enough electricity in 
+India to power more than ten million homes12.Smart grid
+Smart grid enables efficient functioning by improving reliability 
+and economics for production and distribution of electricity.
+Technology that allows for two-way communication between 
+the utility and its customers makes the grid smart. Smart grid 
+consists of elements working together with the electrical grid to 
+respond digitally to rapidly changing electric demand.
+Issues How M2M could help
+Demand and supply gap in the Indian power sector: With 
+total installed power generation capacity of about 223 GW (as 
+of April 2013), India is still struggling to meet increasing power 
+demand. According to the Central Electrical Authority (CEA), 
+the total generation shortfall during 2011-12 was 8.5% with 
+demand touching 937,199 million units and generation lagging 
+at 857,886 million units13. 
+Western India witnessed the highest shortfall at 11.4% during 
+2011-12. Southern India saw the largest demand-supply gap of 
+15.5% during April 201214.M2M can help reduce power theft and increase usage 
+efficiency via smart meters, thus saving enough electricity in 
+India to reduce the demand-supply gap.
+High transmission and distribution (T and D) loss: 
+According to the CEA, total T and D loss in India during 2010-
+11 was about 23.9% while aggregate technical and commercial 
+(AT and C) loss is about 16.1%15. This includes both theft and 
+technical losses. Further, for every 1 INR of power sold, the 
+utilities are able to collect back only 80 paisa.  The rest is either 
+not collected or is lost due to AT and C losses.
+T and D losses are the main cause of mounting financial 
+losses on state distribution utilities. According to a Planning 
+Commission report, the reported AT and C loss of 28,853 INR 
+crore for 20 states in the 10th Plan is underestimated as the 
+actual AT and C losses are estimated to exceed 40,000 INR 
+crore.16Smart grid represents an unprecedented opportunity to move 
+the energy industry into a new era of reliability, availability 
+and efficiency. Commercial losses become measurable, 
+traceable, and reducible when using more sensors and meters 
+in the power grid. Solutions such as capability of remote 
+disconnection on non-payment by consumers, automatic 
+alarms when the network is being encroached on or when 
+people engage in theft, will enable utilities to stop pilferage 
+and avoid unsafe situations and accidents. In addition, 
+optimal asset utilisation can be planned with online data of 
+overloading transformers and network, which can help reduce 
+and prevent failures.
+India’s power grid blackout17: On 31 July 2012, much of 
+India’s electricity supply network collapsed in the country 
+causing an estimated shortage of 32 GW, affecting more than 
+680 million people; double the population of the US. It caused 
+business losses estimated to run into the hundreds of millions 
+of dollars. 
+The power outage wreaked havoc on businesses and travellers. 
+About 200 trains stopped operating for several hours. Metro 
+rail services in the national capital of New Delhi and its 
+suburbs were halted. About 270 miners were stuck in two 
+underground coal mines in eastern India as elevators stopped 
+working .When a power outage occurs, smart grids will be able to 
+detect and isolate the outages, containing them before they 
+become large scale blackouts. This will also help ensure that 
+electricity recovery resumes quickly and strategically after an 
+emergency. For instance, prioritising of routing electricity to 
+emergency services.
+8       PwC M2M technologies          9The R-APDRP18 (Restructured Accelerated Power 
+Development and Reform Programme) was focused on 
+establishing baseline data, fix accountability, strengthen 
+and upgrade sub-transmission network and reduce AT and 
+C losses up to 15%. Projects under the scheme involved 
+base line establishment, IT applications for energy auditing, 
+strengthening of sub-transmission and distribution projects.
+•	 Automated meter reading (AMR):  AMR has become 
+a necessity for effective energy management, energy 
+accounting and to overcome the problems of manual 
+reading. 
+•	 Geographic information systems (GIS): This involves 
+conducting GPS survey of consumer households, connected 
+electrical feeders and distribution transformers. Consumers 
+are then indexed and given a unique electrical address 
+(CIN), making it possible to segregate them for energy 
+audit and accounting purposes. The geo-referenced data is 
+also mapped on satellite imagery of appropriate scale.
+Agriculture
+The agriculture sector plays a vital role in the development of 
+India with over 60% of the country’s population deriving their 
+subsistence from it. The total outlay of 4.01 billion USD has been 
+proposed for the Ministry of Agriculture in the Union Budget 
+2013-14, which is 22% more than the revised estimates of 2012-
+1321.
+Issues How M2M could help
+Low irrigable land: As per a World Bank report, only 35% 
+of the total agricultural land in India is irrigable . This in turn 
+means dependencies on water pumps for irrigation. However, 
+there is a significant demand and supply gap in the power sec -
+tor in India leading to long hours of unscheduled power cuts 
+and fluctuation.Remote-controlled water pump solutions: This can be used 
+for automating the process of watering the crops through Zig -
+Bee, Wi-Fi, Bluetooth and related solutions as per availability 
+of electricity.
+No channel for local weather information: Lack of  facility 
+for accurate and timely information on localised weather con -
+ditions continues to be a challenge for the farmers. Weather monitoring systems: This can be used for agri-based 
+industries where sensors wirelessly send data to a centralised 
+server and management or respective stakeholders can take 
+predictive measures for one’s business and needs.
+Lack of storage space for food items:  India has more than 
+20% of its population under poverty line, 54,000 crore INR 
+worth of grains and farm produce is wasted every year which 
+accounts for 13% of the GDP22. The reason behind such a huge 
+wastage is non-availability of proper storage shelters. 	M2M-based food supply chain management (FSCM) : These 
+systems can help curb this menace by collecting information 
+about food stock and raising an alarm when the expiry date is 
+nearing.Case studies
+•	 Nano-Ganesh, Water Pump Control23 is a cellular-
+based wireless remote control and alarm system for 
+water pumps designed considering unfavourable 
+irrigation conditions.  This counters routine problems 
+like fluctuation in power supply, difficult terrain, fear 
+of animals on way to pumps, hazardous locations 
+of pumps, open wiring, shock hazards, rains etc. 
+Also, in the rural water supply schemes, there is 
+inadequate coordination between tank levels and the 
+water source. All that Nano-Ganesh needs is a low 
+cost wireless connectivity with voice transmission 
+and Dual Tone Multi Frequency (DTMF) transmission 
+available in most handsets.  
+So far, 10,000 remote controllers are in use and 
+have improved the livelihoods of 40,000 people 
+with 1,000 rural technicians getting an additional 
+source of income; 180,000 m3 of water, 1080 M.W. of 
+electricity, 180 m3 of fuel and 18 m3 of soil was saved 
+in the year 2010 by installing 2,000 Nano-Ganesh 
+sets; 720,000 USD saved in labour costs in the year 
+201024.
+•	 Food Supply chain management (FSCM) using LTE 
+network cum wireless sensor network25 solution is 
+being developed by Nippon Electrical Company. 
+FSCM consist of all activities in movement of food 
+from producers to consumers like purchase, storage, 
+transportation, distribution and processing. This 
+helps in providing better management and tracking 
+of food items, distribution at reasonable prices in 
+controlled markets, better price controls in private 
+markets and ensuring food security through better 
+management for PDS and during disasters like 
+droughts, etc. Some of its uses are: 
+•	During transit, in case of theft Active Transport 
+Tracking Device (ATTD) device would raise 
+alarms to both the buyer and seller
+•	Check weight periodically and thereby control 
+leakage and pilferage
+•	Detect and raise alarm when the food item expires
+FSCM system with pesticides feature support sensor 
+network would also help in pesticides control when it 
+detects the weeds, fungus, bacteria and microorganism 
+growth.	Case studies
+•	 The UHBVN, Haryana19 pilot project covers 31,914 
+consumers and 531 distribution transformers, 
+for approximately 131.8 MU input energy 
+consumption. The proposed project area is covered 
+under the RAPDRP Scheme for IT implementation 
+and system strengthening. The functionality of peak 
+load management is proposed by implementing 
+automated metering infrastructure (AMI) for 
+residential consumers and industrial consumers.
+•	 The CESC, Mysore20 project involves 21,824 
+consumers (residential, commercial, industrial and 
+agricultural) and 512 irrigation pumps sets covering 
+over 14 feeders and 473 distribution transformers. 
+Together, they account for input energy of 151.89 
+MU. Peak load management (PLM) and outage 
+management (OM) are proposed by implementing 
+AMI and integration to distributed generation and 
+micro grid integration. Other possibilities include 
+functionalities such as agriculture demand side 
+management (DSM) with community portal, 
+consumer portal to support DSM and demand 
+response (DR), employee portal for knowledge-
+sharing and benefit realisation, KPI based MIS and 
+data analytics for decision suppor t.
+
+10       PwC M2M technologies          11Healthcare
+The Indian healthcare industry, which comprises hospitals, 
+medical infrastructure, medical devices, clinical trials, 
+outsourcing, telemedicine, health insurance and medical 
+equipment, is expected to reach an expenditure level of some 
+160 billion USD  by 2017.29
+Issues How M2M could help?
+Lack of basic medical Infrastructure in rural areas:  The 
+total hospital bed density in India had increased to 1.3 per 
+1,000 by 2010, but remains significantly lower than the WHO 
+guideline of 3.5 beds per 1,000.Underutilisation of existing 
+resources further compounds the problem of miserable infra -
+structure. The bed density in rural centres is even lower. 30Remote patient monitoring:  Patients are provided with 
+wireless devices enabling them to monitor their vitals and 
+conditions, for example blood pressure, diabetes, or cardiac 
+problems. Measurements can be taken by patients manually or 
+captured by sensors and sent automatically to doctors. It allows 
+constant monitoring of health, early spotting of warnings, and 
+rapid application of diagnosis. This can help increase reach of 
+medical attention to rural centres.
+Inadequate and underutilised health workforce: The total 
+number of allopathic doctors and nurses in the country is less 
+than WHO benchmark of 2.5 doctors per 1,000 populations, at 
+2.2 per 1,000 people. Further, the available health work force 
+is not utilised properly.Organisation of healthcare work : Cellular devices falling 
+into this group streamline work of healthcare professionals 
+while they are on the go or are working remotely. They allow 
+scanning of patient monitoring equipment, update medical 
+records and share information with medical staff.
+Poorly maintained medical equipments and drugs: Most 
+of the public health facilities have poorly maintained medical 
+equipments and  poor medicine management process.Medical asset tracking solutions: This helps in tracking the 
+location and condition of drugs and equipment for security 
+and maintenance needs. It improves productivity with visibility 
+of asset availability. As per the PwC Connected Life report:
+•	Increased adoption of mHealth solutions could 
+save over 1 million lives in Sub-Saharan Africa 
+over the next five years26
+•	mHealth solutions could help cut healthcare 
+costs in OECD countries by over 400 billion USD 
+in 201727
+The use of cellular technologies for remote 
+monitoring, disease management, and preventive 
+medicine for the elderly could reduce Japan’s 
+healthcare spend by 10 billion USD in 201728.M2M technology is widely considered as the ‘ next big thing’ , 
+as it is forecasted that in coming years the number of devices 
+with connectivity (or machine to machine connectivity) will 
+outnumber human centric connections. However, the actual 
+mainstream adoption has kicked in during the last few years. As 
+per multiple research studies, M2M, a nascent industry sector 
+until the last few years has embarked on its growth phase. 
+It is widely acknowledged by industry leaders that M2M has 
+huge growth potential. Although, there are many M2M service 
+offerings in India, the actual growth will start within next few 
+years. As per the Cyber Media research report (2012), India 
+M2M modules (device) market generated 2732 million USD 
+(134.9 crore INR) revenues in 2011 and is expected to generate 
+to 82.6 million USD (413.3 crore INR) by 2015, growing at a 
+CAGR of 32.3%33. 
+M2M service expansion
+Even though the growth potential for M2M is big, it is 
+essentially a long tail business. In addition, long tail 
+characteristics; the M2M average revenue per connection 
+(ARPC) is typically only a fraction of human average revenue 
+per user (ARPU), but the volumes are expected to compensate 
+for the same. On the technology side, the cost of sensors and 
+meters are expected to fall to levels that will spark widespread 
+use. Efforts are on by governments and industry groups to work 
+together to standardise networking interfaces and technologies 
+and help evolve to the point where data can flow freely among 
+sensors, computers, and actuators.
+Consequently, in the recent past, M2M services uptake 
+is picking up globally especially in sectors like security, 
+automotive, transport and logistics, utilities, retail and financial 
+services, etc. 
+Case study
+Screening for oral cancer, point-of-care support and 
+diagnostics (mHealth) involves screening high-risk 
+individuals for oral cancer using smartphones with 
+camera. The condition is either diagnosed by using pre-
+loaded software or by uploading data to the hospital’s 
+electronic medical records (EMR) system for specialist 
+feedback. Treatment is advised through interactive videos 
+on phone or referred to a specialist.The open source telemedicine platform allows medical 
+investigations to be encoded on to smartphones; it 
+enables ECG, ultrasound and X-ray and CT-scanners, and 
+also two-way sharing of medical data between a central 
+medical record database and the phone, linking specialists 
+with clinicians.313. Market potential
+
+12       PwC M2M technologies          134. Key issues for M2M in India
+Diverse technology standards
+M2M services is based on various access technology standards 
+due to the fact that each type of M2M services has different 
+requirement for mobility, power consumption, range, ease of 
+roll out etc. M2M services which do not require mobility and 
+are concentrated in limited geography are based on wireless 
+personal area networks (WPANs). This includes Bluetooth, 
+ZigBee, 6LowPlan, etc. and proprietary standards like Z-Wave 
+and ANT. On the other hand M2M services with requirement 
+of mobility and wider range are based on wireless technology 
+standards like 2G/3G, IMAX, Satellite, etc. 
+Lack of guidelines for technology standards and protocols limit 
+the benefits driven from uniformity and interoperability leading 
+to complicated product lifecycle. For example, usage of propriety 
+standard for smart grid potentially may lead to significant 
+investment in inefficient legacy network. 
+The critical link between the M2M network and the core 
+enterprise systems is the API, a standards based interface that 
+allows real time data exchange and its standardisation will 
+pave the way for real time interfaces that are lightweight, high 
+scale and continuously available. All these characteristics are 
+fundamental for M2M communication.
+Resale of telecommunication services by non telecom 
+operator (M2M service provider)
+There are various M2M services for which a third party M2M 
+service provider may need to procure SIM or bandwidth from a 
+telecommunications service provider. These third parties may 
+thus interface into the TSP’s network. For example, providing 
+smart grid managed services to a power distribution company 
+which includes bundled services consisting of connectivity for 
+the M2M devices. 
+As per current licensing norms this would contravene clause of 
+resale of the telecom services and needs to be reviewed in the 
+context of the emerging M2M opportunity.
+Scarcity of numbers
+M2M devices require a numbering scheme to function on 
+the network. These could be IP addresses or IMSI / MSISDN 
+equivalent. Although essentially a data based service, in many 
+cases voice and SMS services would also be used in M2M.
+MSISDNs and IMSIs are scarce resources that may diminish due 
+to large number of devices. Also, availability of IPv4 addresses is 
+limited and may not be sufficient for M2M. However, there has 
+been has been wider adoption of IPv6 address globally which 
+has significantly larger series of address available. 
+A standardised framework for addressing the M2M devices 
+is needed to address issues around scalability, security and 
+accountability.Identity management: Know your customer (KYC)
+Telecommunications operators are required to follow stringent 
+norms for subscriber identification. The existing KYC guidelines 
+are based on the principle of traceability of the end user (human 
+being). However, mostly for M2M services, the M2M device 
+may not be directly related to a particular user (human being). 
+For example, in fleet management services, although the device 
+is provided by the logistics service provider (procured from 
+telecommunications operator), the vehicle may also be owned 
+by the driver. Furthermore, the following cases can make KYC 
+even more complex:
+•	 M2M equipment may change ownership. For example, a 
+car fitted with M2M technology for security, tracking and 
+performance monitoring would change ownership as and 
+when the car ownership is changed.
+•	 There could be numerous M2M devices deployed by a single 
+user (at home and work). 
+Also, as per current licence conditions, operators are not allowed 
+to send SIM cards out of India without activation. However, 
+in cases where the SIM card is required to be embedded in the 
+product (consumer goods, vehicles, etc) during manufacture, 
+such KYC guidelines may be affected. 
+In this context, the KYC framework needs to be reviewed.
+Data privacy and security
+Considering the significant proliferation of M2M services in 
+health, transport, electronics, power and energy and essentially 
+every other sector, a large amount of information will be 
+generated, transmitted and collated. Data privacy and security 
+for both individuals and enterprises would be a major concern 
+and potentially an impediment for larger uptake, in the absence 
+of safeguards.
+With advent of cloud computing and innovative service models 
+such as infrastructure as service (IAAS) and platform as service 
+(PaaS), a plethora of M2M applications and databases will be 
+hosted on the cloud. For instance, one of the key issues to be 
+noted for hosting of application on cloud is the fact that as per 
+the existing telecom licensing guidelines, subscriber data cannot 
+be taken outside India. However, in cloud computing many 
+of the applications will be hosted on servers located outside 
+India posing both a regulatory compliance challenge and a data 
+security issue.
+Hence data privacy and security issues will need to be addressed 
+accordingly.Spectrum availability
+Currently M2M services make extensive use of licenced and 
+unlicenced spectrum bands. 
+•	 For unlicenced spectrum, there is a pertinent question 
+about adequacy of availability. This may happen if 
+increased number of M2M devices utilise unlicenced 
+spectrum, especially 2.4 GHz (globally harmonised) 
+through wireless personal area networks (ZigBee, wi-fi, 
+etc). Also the performance in these unlicenced bands 
+would deteriorate significantly due to overcrowding of 
+M2M devices. 
+•	 For licenced spectrum, 2G and 3G spectrum band are 
+preferred access medium for M2M devices. However, given 
+the inherent scarcity of these spectrum bands along with 
+longevity of M2M devices expected to last longer than the 
+access technology changes.
+Roaming
+Considering the significance of some of the  M2M services  
+(real-time health monitoring, security, etc), devices may be 
+required to choose an alternative back-up network during 
+downtime, persisting dark spot or while roaming. 
+Hence, there may be need for a separate roaming agreement 
+framework for M2M services which can be based on the special 
+numbering scheme identified them. Intra circle roaming is 
+another essential aspect.
+Legal liabilities
+M2M services in future may become very pervasive, which will 
+make certain M2M services such as healthcare monitoring, 
+intelligent driving system in automobiles, etc extremely critical 
+Such M2M services can be vulnerable to service failure which 
+may lead to the loss of life and money. Further, any breach of 
+data privacy could also result in a legal liability for the service 
+providers. 
+In such cases, it is important to develop a clear framework to 
+tackle liabilities.
+
+14       PwC M2M technologies          15
+Conclusion
+The big growth potential of M2M businesses is beyond doubt as indicated in the various 
+market researches. M2M has the potential to not only transform business for enterprises 
+by bringing in efficiencies but can also touch millions of life through benefits derived 
+through useful applications for medical diagnosis and treatment, cleaner water supply, 
+improved irrigation, energy conservation, etc. 
+Currently, M2M services have started growing in India and are driven mainly by 
+enterprises looking for benefits of M2M in addition to the various initiatives driven by 
+government. However, the actual growth will kick in following enabling regulations, 
+falling cost of the overall M2M services and devices and innovative services for masses. 
+The business models are currently driven by device centric M2M solution provided by 
+niche M2M service providers. However, with the evolving new value proposition for other 
+players like telecom operator and system integrator, new business models will evolve with 
+the varying roles for each of the players.
+Consensus and resolution on key issues related to technical standardisation and 
+regulations by the government and industry groups will go a long way in unleashing the 
+true potential of the M2M services.1. http://www.ibm.com/smarterplanet/in/en/sustainable_cities/ideas/
+2. PwC-GMSA report: Connected Life- The next five years in Asia, 2013
+3. PwC-GMSA report: Connected Life- The next five years in Asia, 2013
+4. http://www.nhai.org/roadnetwork.htm
+5. http://www.neoncarrot.co.uk/h%20aboutindia/india-%20statistics%201.html
+6. http://articles.timesofindia.indiatimes.com/2012-05-31/india/31920307_1_toll-plazas-road-space-stoppage
+7. http://www.pnnl.gov/main/publications/external/technical_reports/PNNL-19487.pdf
+8. Running on Empty, Global Envision, July 2007,http://www.globalenvision.org/library/1/1685
+9. http://www.enpreview.com/article.php?ItemId=228&CategoryId=18
+10. Sustainable Energy & Water Access through M2M Connectivity by Michael Nique and Firas Arab 
+11. Trimble transport & logistics http://210.210.24.107/TMT/case_studies.php 
+12. PwC-GMSA report: Connected Life- The next five years in Asia, 2013
+13. www.cea.nic.in/reports/yearly/lgbr_report.pdf
+14. http://economictimes.indiatimes.com/news/news-by-industry/energy/power/demand-supply-gap-between-power-
+generation-demand-touched-8-2-in-april-according-to-cea/articleshow/13395891.cms
+15. http://articles.economictimes.indiatimes.com/2013-09-13/news/42042045_1_power-plants-atc-losses-additional-power
+16. http://www.electricalmonitor.com/PrintArticle.aspx?aid=1552&sid=2
+17. “India’s Mass Power Failure Worst Ever in World History”Outlook. Press Trust of India.
+18. Ministry of Power http://www.powermin.nic.in/distribution/apdrp/projects/pdf/Re_Structured_APDRP_during_XI_Plan.
+pdf
+19. http://indiasmartgrid.org/en/Lists/Projects/DispForm.aspx?ID=4&ContentTypeId=0x0100A66C1B8C23DC784C9B0360
+5F187DD0C5
+20. http://indiasmartgrid.org/en/Lists/Projects/DispForm.aspx?ID=4&ContentTypeId=0x0100A66C1B8C23DC784C9B0360
+5F187DD0C5
+21. http://www.ibef.org/industry/agriculture-india.aspx
+22. www.sustainuance.com/think-before-you-throw/‎
+23. http://www.Nano-Ganesh.com
+24. http://defindia.net/files/2013/08/CaseStudy3-2C-NanoGanesh.pdf
+25. www.gisfi.org/wg_documents/GISFI_IoT_20110672.doc‎
+26. PwC-GSMA report: Connected Life - The impact of the Connected Life over the next five years, 2013
+27. PwC-GSMA report: Connected Life - The impact of the Connected Life over the next five years, 2013
+28. PwC-GMSA report: Connected Life- The next five years in Asia, 2013
+29. http://www.ibef.org/industry/healthcare-india.aspx
+30. National Rural Health Mission (NRHM) Data
+31. www.mhealthinfo.org 
+32. 1 USD = 50 (assumption taken for comparison purpose)
+33. http://cmrindia.com/india-wireless-machine-2-machine-modules-market-crosses-inr-130-crore-in-2011References
+About ASSOCHAM
+The knowledge architect of corporate India
+Evolution of value creator
+ASSOCHAM initiated its endeavour of value creation for Indian industry in 1920. Having in its fold more than 400 
+chambers and trade associations, and serving more than 4,50,000 members from all over India, it has witnessed 
+upswings as well as upheavals in the Indian economy, and has played a catalytic role in shaping the trade, commerce 
+and industrial environment of the country. 
+Today, ASSOCHAM has emerged as the fountainhead of knowledge for Indian industry, which is all set to redefine 
+the dynamics of growth and development in the technology driven cyber age of the knowledge based economy. 
+ASSOCHAM is seen as a forceful, proactive, forward-looking institution equipping itself to meet the aspirations of 
+corporate India in the new world of business. It is working towards creating an environment conducive for India 
+business to compete globally. 
+ASSOCHAM derives its strength from its promoter chambers and other industry and regional chambers and 
+associations spread all over the country.
+Vision
+Empower Indian enterprises by inculcating knowledge that will be the catalyst of growth in the barrierless 
+technology driven global market and help them upscale, align and emerge as formidable players in their respective 
+business segments.
+Mission
+As a representative organ of corporate India, ASSOCHAM articulates the genuine, legitimate needs and interests 
+of its members. Its mission is to impact the policy and legislative environment so as to foster balanced economic, 
+industrial and social development. We believe education, IT, BT, health, corporate social responsibility and 
+environment to be the critical success factors.
+Members: Our strength
+ASSOCHAM represents the interests of more than 4,50,000 direct and indirect members across the country. Through 
+its heterogeneous membership, ASSOCHAM combines the entrepreneurial spirit and business acumen of owners 
+with management skills and expertise of professionals to set itself apart as a chamber with a difference.
+Currently, ASSOCHAM has more than 100 national councils covering the entire gamut of economic activities
+in India. It has been especially acknowledged as a significant voice of Indian industry in the field of corporate
+social responsibility, environment and safety, HR and labour affairs, corporate governance, information technology, 
+biotechnology, telecom, banking and finance, company law, corporate finance, economic and international affairs, 
+mergers and acquisitions, tourism, civil aviation, infrastructure, energy and power, education, legal reforms, real 
+estate and rural development, competency building and skill development to mention a few.
+Insight into new business models
+ASSOCHAM has been a significant contributory factor in the emergence of new-age Indian corporates, characterised 
+by a new mindset and global ambition for dominating international business. The Chamber has addressed itself 
+to key areas such as India as an investment destination, achieving international competitiveness, promoting 
+international trade, corporate strategies for enhancing stakeholder value, government policies in sustaining India’s 
+development, infrastructure development for enhancing India’s competitiveness, building Indian MNCs and the role 
+of the financial sector as the catalyst for India’s transformation. ASSOCHAM derives its strengths from the following 
+promoter chambers: Bombay Chamber of Commerce and Industry, Mumbai; Cochin Chambers of Commerce and 
+Industry, Cochin; Indian Merchant’s Chamber, Mumbai; Madras Chamber of Commerce and Industry, Chennai;  
+PHD Chamber of Commerce and Industry, New Delhi and has over 4 lakh direct and indirect members. Together,  
+we can make a significant difference to the burden that our nation carries and bring in a bright, new tomorrow for 
+our nation.About PwC
+PwC* helps organisations and individuals create the value they’re looking for.  We’re a network of firms in 158 countries with 
+more than 180,000 people who are committed to delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, Bangalore, Chennai, Delhi NCR, 
+Hyderabad, Kolkata, Mumbai and Pune.  For more information about PwC India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member firm is a separate legal entity. Please 
+see www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+Contacts
+D. S. Rawat
+Secretary General
+email : d.s.rawat@assocham.com
+The Associated Chambers of Commerce & Industry of India
+ASSOCHAM Corporate Office:
+5, Sardar Patel Marg, Chanakyapuri, New Delhi-110 021
+Tel: 011-46550555 (Hunting Line)  Fax: 011-23017008, 23017009Ritesh Agrawal
+Senior Manager - Telecom
+Phone:+91 9886709583
+Email: ritesh.a@in.pwc.com
+Ashwani Kumar
+Manager - Telecom
+Phone:+91 9718111410
+Email: ashwani.kumar@in.pwc.com
+Mohammad Chowdhury
+India Leader - Telecom
+Phone:+91 9167665544
+Email: mohammad.chowdhury@in.pwc.com
+
+www.pwc.in
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or 
+estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are 
+advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this 
+publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained within it or 
+for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability 
+company in India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+NJ 117 - November 2013 M2M.indd
+Designed by: PwC Brand and Communications, India

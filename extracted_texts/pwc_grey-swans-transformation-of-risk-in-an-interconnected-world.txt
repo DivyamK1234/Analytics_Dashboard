@@ -1,0 +1,1236 @@
+Title: pwc_grey-swans-transformation-of-risk-in-an-interconnected-world
+Date Published: 2014-01-03 14:33:08+05:30
+Source: pdfs/pwc_grey-swans-transformation-of-risk-in-an-interconnected-world.pdf
+
+--- CONTENT ---
+
+Grey swans: Transformation of risk 
+in an interconnected world
+www.pwc.in
+Risk Management Survey 2013 - India at glance  
+Heart of the matter: The grey swan effect  p4/Are Indian organisations seeing the grey 
+swans?  p8/Current state of risk management  p10/How prepared are organisations for  
+the future?  p14/What this means to your business?  p17/ Appendix: About the Risk 
+Management Survey 2013  p20
+2 PwC
+Grey swans: Transformation of risk in an interconnected world    3Sivarama Krishnan  
+Executive Director  
+PwC IndiaSiddharth Vishwanath  
+Executive Director  
+PwC India
+The risk landscape for organisations the world over and in India is becoming complex. The risks of yesterday 
+are extant and new risks have emerged on the horizon. These include risks arising from increasing 
+interconnectedness of financial markets, supply chains, information pathways. The threats from disruptive 
+technologies, societal shifts and a complex regulatory environment are also adding to the risk landscape. ‘Expect 
+the unexpected’ has become the new mantra for organisations. As a result, ‘black swans’ signifying high impact 
+but rare risk events are today turning grey, that is, high impact events are less rare. Interconnectedness is also 
+leading to cascading effects as one risk event triggers  another with multiplied impact.
+So, are Indian organisations seeing the grey swans? We undertook a survey of more than 80 organisations on risk 
+management. It revealed that the organisation’s risk management agenda continues to be occupied with the ‘here 
+and now’ of risks. The top risks identified by risk professionals do not seem to include key sources of grey swans. 
+The focus on ‘here and now’ has also perhaps restricted organisations to see risk management as a key lever 
+for ‘value protection’ or ‘value enhancement’. As orgainisations have institutionalised basic risk infrastructure, 
+it appears that risk management is largely seen as a cost driven by regulations or good practice as against a 
+source of value. Though most respondents to our survey do see value in strengthening risk management and 
+also recognise the need to strengthen the risk management infrastructure, surprisingly a majority do not plan to 
+increase their investments for strengthening risk management capabilities.
+To navigate in the fast evolving risk landscape, organisations need to work on a two-pronged approach, focussed 
+on strengthening their current risk management programme and building risk resilience.  While a strong risk 
+management programme will help organisations deal with the short term ‘known known’ risk landscape, an 
+institutionalised process for building resilience would be key to manage the ‘known unknowns’. 
+In this report, we reflect upon the current state of risk management in India through our survey findings in 
+the context of the fast changing risk landscape that features many ‘grey swans’. We are delighted to share this 
+publication with you and hope you will find it insightful and enjoyable.Foreword
+4 PwC
+Heart of the matter: The grey 
+swan effect
+Risk landscape is evolving 
+fast with increasing 
+uncertainty
+In the recent past, large-scale calamities, 
+both natural and man-made,  that 
+were once thought unlikely, distant, or 
+isolated; climate change, food security, 
+energy supply volatility, overhaul of 
+technology, and a global liquidity crisis, 
+have manifested and changed the course 
+of business for many organisations. As 
+the world evolves continually, a host 
+of opportunities arise constantly. With 
+them, however, appear new ‘emerging’ 
+risks. The  macro-economic environment 
+remains challenging and global operating 
+models have added a mix of efficiency 
+and complexity to virtually every aspect 
+of business. Technology continues to 
+connect us faster and with more ease, 
+but maintaining volumes of data and 
+keeping levels of consistency is ever 
+harder. Regulatory requirements are 
+increasing, both in terms of the sheer 
+number of regulations and also in the 
+levels of specificity. Consumers are 
+better informed and more demanding. 
+And competitors, both new and old, are 
+looking for ways to expand their market 
+share at a time when growth remains 
+stagnant at best. All these factors have 
+influenced the risk landscape in the past. 
+However, in today’s dynamic business 
+environment, there seems to emerge 
+a regular pattern surrounding these. 
+Organisations are finding it increasingly 
+difficult to map the fast-paced risk 
+landscape.  Increasing 
+interconnectedness is leading 
+to cascading impacts 
+Interconnected financial markets
+Financial markets today have become 
+more integrated due to the complex 
+interplay of various factors such as 
+increasing global trade, the growth 
+of financial intermediaries across 
+geographies, linkages among market 
+participants and the changing preference 
+of savers and investors for financial 
+instruments. As a result, the impact of 
+events such as liquidity crunch, interest 
+rate fluctuations and volatile commodity 
+price risks have grown manifold due to 
+the cascading effect across geographies. 
+Financial markets in India are continually 
+integrating with the global financial 
+system. Until the early 1990s, India’s 
+financial sector was tightly controlled; 
+interest rates were administered, the flow 
+of funds was restricted, foreign exchange 
+was linked to the basket of currencies 
+and the secondary market was dominated 
+by government securities. Today, the 
+gross capital flows as a percentage of 
+GDP stands at around 60% while the net 
+capital flows are at about 4% of GDP1.
+The global financial crisis in 
+2007–08 acted as the trigger for 
+debt rolling in the Euro Zone and the 
+growth declined sharply.
+Starting from Greece and later 
+Ireland, Portugal, Spain and Italy, 
+these Euro Zone economies have 
+witnessed a downgrade of their 
+sovereign debt rating, fears of default 
+and a dramatic rise in borrowing 
+costs. These developments threaten 
+other Euro Zone economies and even 
+the future of the Euro. Given the 
+large economic weight of the Euro 
+Zone in the globe, the widespread 
+impact of the crisis across economies 
+poses a serious concern to 
+organisations across the globe.1. Source: ‘Certain Uncertainties, Uncertain 
+Certainties: India in an interconnected world’ 
+Harun R Khan, Deputy Governor, Reserve Bank  
+of India, 07 Oct 2013 
+Interconnected 
+financial markets
+Integrated supply 
+chains
+Connected information 
+sourcesDisruptive technologies
+Societal shifts
+Changing regulatory 
+environmentNew risk 
+universe
+Grey swans: Transformation of risk in an interconnected world    5Integrated supply chains
+As the world economy gets more 
+connected, organisations look beyond 
+their political boundaries to tap new 
+markets, leverage cost arbitrage and 
+leverage economies of scale to enhance 
+competitiveness. They have innovated 
+their business and operating models 
+to source goods, services, labour and 
+material from overseas and service 
+international markets. As a result, 
+organisations across the globe are 
+becoming more and more interconnected 
+– global supply chains are now a reality. 
+Consequently, any disruption in one part 
+of the world now is more likely to impact 
+the other regions than ever before.
+In September 1999, global 
+semiconductor prices nearly 
+doubled following an earthquake in 
+Taiwan, a key centre for supply of 
+semiconductors2. 
+Hurricane Katrina when it lashed 
+the US Gulf Coast in August 2005, 
+the devastation included the supply 
+chains of thousands of companies 
+that relied on petrochemical 
+products as the raw-material sources 
+were concentrated in that area.
+Indian auto parts manufacturers are 
+facing the heat of global automotive 
+sector slowdown. Export revenue 
+growth of Indian OEMs supplying 
+auto parts to Europe has dropped 
+from 25%  in 2011-12  to 6% in 
+2012-13 due to the slowdown of the 
+European auto market3. Brand and reputation risk from 
+misuse of social media
+In 2013, Burger King’s Twitter 
+account was hacked4. The company’s 
+picture was changed to a rival 
+company’s profile picture. The 
+hacked account even displayed an 
+announcement that the company 
+was sold to this rival.
+2. Source: SESHA: Semiconductor Environment 
+Safety & Health Association, Report on 
+‘Taiwan’s 921 quake and what it means to the 
+semiconductor industry’
+3. Source: Automotive Component 
+Manufacturers Association of India (ACMA) 
+Annual Report 2012-13, PwC AnalysisInformation interconnectedness
+The information that we are generating 
+is growing at a phenomenal rate both 
+in terms of value as well as volume. It is 
+now more easily available and quicker 
+than ever before. The internet, mobile, 
+various online applications and social 
+media channels such as Twitter, YouTube 
+and Facebook have accelerated the pace 
+at which information pertaining to 
+companies, products and services is  made 
+available in the public domain. While 
+the information and the platform are of 
+significant use to the organisation, the 
+associated risk of misuse and snowballing 
+of negative opinions cannot be ignored.
+As the cyber world proliferates and 
+organisations increasingly connect 
+virtually; methods of breaking into 
+systems have multiplied and have 
+become more sophisticated, significantly 
+increasing the number of cyber incidents 
+over the years.4. Source: ‘Burger King Twitter account 
+‘hacked’ with McDonald’s logo’, BBC News, 
+US. Feb 18, 2013
+In 2003, the blackout in North 
+East America left 50 million people 
+without electricity for about 48 
+hours . The sudden breakdown of 
+one power station caused a cascade 
+of switch-offs of other stations, in 
+order to avoid the overloading of 
+one station. With the breakdown of 
+these power stations, gas stations 
+could not pump fuel due to lack of 
+electricity. As gas pumps did not 
+function, there was an explosion at 
+one of the oil refineries, requiring the 
+surrounding population to evacuate. 
+6. Source: Electricity Consumers resource 
+Council, report on ‘The Economic 
+impacts of the August 2003 Blackout’ 
+<http://www.elcon.org/Documents/
+EconomicImpactsOfAugust2003Blackout.pdf> In India, the number of cyber crimes 
+reported is expected to increase to 
+2636 in 2013 as compared to 288 in 
+2008.
+Nearly 14,000 websites were hacked by 
+cyber criminals till October 2012, an 
+increase of nearly 57% from 20095.
+5. Source: National Crime Record bureau - 
+‘Crime in India’ report, 2012Interconnected risk events
+As the business environment is 
+turning more complex and dynamic, 
+the impact of risk is not limited to a 
+specific department, function, business 
+unit, organisation or territory. A risk 
+originating from one event results in the 
+self-amplification of the chain of events. 
+
+6 PwCSocietal shifts: India
+Changing customer profile 
+Larger and younger: At present, the 
+median age in India is 26 years; it is 
+projected to be 26.6 years in 2015, 
+28 years in 2020 and 29.7 years in 
+20257.
+Increasing urbanisation
+Presently, 30% of India’s 
+population lives in urban areas. 
+According to the United Nations’ 
+World Urbanisation Prospects 
+report, the urban population will 
+increase at a rate of 2.4% annually 
+from 2010 to 20258.
+Increasing discretionary 
+spending
+In India, spending on discretionary 
+goods has increased from 45.8% of 
+total expenditure in 2000 to 57 .9% 
+in 20109.
+Rise of nuclear families
+Three in five households in India 
+are now nuclear with 63% of 
+households being nuclear in urban 
+areas and 59% in the rural10. 
+7. Source: Population Division of the Department 
+of Economic and Social Affairs of the United 
+Nations Secretariat, World Population 
+Prospects: The 2012 Revision,2012, http://esa.
+un.org/unpd/wpp/index.htm
+8. Source: Population Division of the Department 
+of Economic and Social Affairs of the United 
+Nations Secretariat, World Population 
+Prospects: The 2012 Revision,2012, http://esa.
+un.org/unpd/wpp/index.htm 
+9. Source: Euromonitor International, Euromonitor 
+International from national statistics, 2011, 
+http://blog.euromonitor.com/2011/07/regional-
+focus-more-discretionary-spending-by-
+households-in-asia-pacific.html
+10.Source: Ministry of Health & Family Welfare, 
+Report on ‘National Family Health Survey’, 
+2005-06Complex regulatory 
+environment 
+As businesses today operate in 
+networks spanning multiple locations 
+and entities, regulatory compliance 
+requirements have become more 
+complex. The quantum increase in the 
+number of regulations an organisation 
+has to comply with is further adding 
+to this complexity and increasing the 
+cost of compliance. The number of 
+manufacturing related regulations in the 
+US, for instance, has gone up from 2187 
+in 2012 to 2302 today. This translates to 
+around 2.2 regulations per week11. Since 
+1998, there has been a 44% increase in 
+the number of regulations affecting the 
+manufacturing industry. Regulatory 
+costs have increased at an average of 
+7.6% per year12.
+It is imperative for organisations 
+doing business beyond their political 
+boundaries to meet regulatory 
+compliance requirements at all three 
+levels; local, national and international.
+11.Source: Manufacturers Alliance for Productivity 
+and Innovation (MAPI), report on ‘Macroeconomic 
+Impacts of Federal Regulation of the 
+Manufacturing Sector’
+12.‘Increasing Number of Regulations Challenge 
+Manufacturers’, industryweek, Oct 24, 2013 http://
+www.industryweek.com/regulations/increasing-
+number-regulations-challenge-manufacturersNew emerging risks
+Emerging disruptive technologies
+An article in Newsweek (1995) that 
+discredited the myth of the internet 
+stated “The truth is no online database 
+will replace your daily newspaper, 
+no CD-ROM can take the place of a 
+competent teacher and no computer 
+network will change the way the 
+government works.” Today, the internet 
+is addressing all these and more. 
+The rate at which new emerging 
+technologies are being adopted has 
+significantly accelerated.  A case in 
+point is the immediate espousal of social 
+media by people and organisations. The 
+inception of the concept coincided with 
+the dawn of the new millennium. What 
+started as an easy way to interact with 
+people with similar interests and keeping 
+in touch with friends, has now turned 
+into a powerful tool for organisations 
+which if misused, has the potential to 
+damage their reputation in real time.
+The use of technologies such as 
+pervasive computing, enterprise social 
+networking and cloud computing, is only 
+the tip of the iceberg with relation to the 
+emerging risks which can potentially 
+complicate the risk landscape. With 
+humans investing in legitimate efforts to 
+set up a colony in Mars, the canvas has 
+just got bigger.
+Emerging societal shifts 
+Our society has undergone radical shifts 
+in various spheres such as demographics, 
+urbanisation, family structures and 
+behavioural changes. These bring 
+along with them new ‘emerging’ risks. 
+The closure of the DVD retail chain 
+Blockbuster in the US is one such 
+example of behavioural change which 
+has resulted from the shift in customer 
+preference from DVDs to streaming 
+services such as Netflix.
+
+Grey swans: Transformation of risk in an interconnected world    7Between 1930 and 2000 eight major financial crisis 
+events have occurred. From 2001 till date, there 
+have been five incidents of financial collapse across 
+the world. 
+During 2001-13, five major events impacted the 
+energy price volatility as compared to four major 
+events from 1930 to 2000.
+In summary
+Given the changes that have surfaced in the rapidly evolving risk landscape due to increasing interconnectedness 
+(e.g. integrated financial markets, information interconnectedness, integrated supply chains),  new ‘emerging’ risks 
+(emanating from phenomena such as emerging disruptive technologies and societal shifts) and complex regulatory 
+environment, organisations not only have to manage known risks but also have to become better prepared to manage 
+grey swans (known unknowns). As a step in this direction, organisations today will have to look beyond their 
+traditional approaches of risk management and start building risk resilience into their systems in order to either 
+anticipate and respond to or absorb and rebound from the high impact grey swan events. Emerging grey swan effect
+In the past, we have seen risks which 
+had a large impact, were hard-to-predict 
+and were beyond the realm of normal 
+expectations; what the philosopher-
+epistemologist Nassim Nicholas Taleb 
+calls ‘black swans’ in reference to the fact 
+that Europeans once believed  all swans 
+to be white–until explorers in Australia 
+discovered black ones. However, some 
+of these large-impact and low-likelihood 
+events are now more frequent leading to 
+the phenomenon of grey swans.Subprime Mortgage 
+Crisis
+Global Recession
+Russian Financial 
+CrisisEuro Zone Crisis
+Libya Civil 
+War
+Great 
+DepressionSecondary Banking Crisis
+Stock Market Crash
+Yom Kippur War
+Syria Civil 
+WarChinese 
+Correction 
+Plunge
+Iraq 
+WarSept 11, 
+2001 
+Attack
+2001- 2013 1991- 2000 1981- 1990 1930- 1980Iranian 
+RevolutionBlack 
+Monday 
+Crash
+OPEC 
+Formation
+Asian Financial Crisis
+OPEC Quota IncreaseIran Iraq War
+Silver Thursday
+Occurs  
+Savings and 
+Loan CrisisGulf 
+WarBlack 
+Wednesday
+Credit Risk
+Market Risk
+Liquidity Risk
+High Fiscal Deficits
+Volatility in Energy PricesCollapse of 
+Long-Term 
+Capital 
+Management
+
+8 PwCAre Indian organisations 
+seeing the grey swans?
+We observe that globally organisations 
+are modifying their risk management 
+strategy from internal to external, 
+operational to strategic and bottom-up 
+to a top-down approach.  PwC’s 16th 
+Annual Global CEO Survey titled Dealing 
+with disruption – Adapting to survive 
+and thrive  provided insights on how senior leadership is actively working 
+on effectively tackling the grey swan 
+phenomenon. Our Risk Management 
+Survey India 2013 reveals that 
+organisations are yet to shift their focus 
+from ‘ here and now’ risks to ‘grey swan’ 
+type of risks.
+Divergence in CEO view and 
+risk professional view of  
+top risks
+The Global  CEO survey  reveals that 
+Indian CEOs rate the availability of skills, 
+inadequacy of basic infrastructure and 
+increasing tax burden as the top three risk 
+areas. Increasing protectionism by foreign 
+governments, bribery and corruption 
+and exchange rate volatility are also key 
+concern areas. The top three risks as polled by risk 
+professionals (Risk Management Survey 
+– India, 2013) are regulatory compliance, 
+data protection and competition. Forex 
+risk and availability of talent are the 
+two of the top six CEO key concerns that 
+appear on the radar of risk professionals 
+and by proxy perhaps the risk 
+management programme.
+So, is there a divergence 
+in what risk management 
+programmes deliver 
+versus what truly 
+concerns CEOs?Source: PwC Risk Management Survey – India, 2013Q. What are the top 10 risks for your organisation?
+43%46%46%49%49%49%51%57%63%71%
+Customer retention or  satisfactionCurrency riskBrand and reputationRegulatory changesBusiness process riskRecruiting and retentionMarket share and growthCompetitionData protection and privacyRegulatory and  statutory compliance 
+and reporting
+Organisations (%) that perceive the risk to be in top 10
+Grey swans: Transformation of risk in an interconnected world    9
+Are organisations occupied 
+with the ‘here and now’  of 
+risks
+The possible emergent areas for 
+grey swans in India include political 
+uncertainty, emerging disruptive 
+technology, natural disasters, etc.  
+Surprisingly, these figure on the 
+risk radar of a very small number of 
+respondents. Only 20% have identified 
+political uncertainty, 29% highlighted 
+emerging disruptive technology and none 
+have marked natural disasters as their 
+top risk priorities. Among the top 10 risks 
+identified by respondents, currency risk 
+is possibly the only risk that could be a 
+source of grey swans. Typically most of 
+the risks are the ‘here and now’ of risks.The leadership tasked 
+with undertaking the 
+risk management for the 
+organisation is occupied with 
+the high predictability areas
+Grey swans tend to appear across the 
+spectrum of an organisation’s ecosystem. 
+The more complex the ecosystem of an 
+organisation, more are the grey swans 
+that it accosts. Irrespective, it is observed 
+that grey swans tend to appear more 
+frequently and are likely to be in areas 
+where predictability is low or difficult. 
+Thus, leading organisations across the 
+globe expect their senior leadership to 
+concentrate on these areas where there 
+exist more ‘known unknowns’.  The 
+respondents to the survey did not report a 
+focus on these ‘known unknowns’.Key concerns of Indian CEOs 13Key concerns of risk practitioners 14 
+81%
+75%
+75%Availability of 
+key skills 
+Inadequacy of basic infrastructure
+Increasing tax 
+burden 77%
+74%
+74%Protectionist tendencies of national governments
+Bribery and
+corruption 
+Exchange rate volatility71%
+63%
+57%Regulatory and compliance reporting
+Data protection 
+and privacy
+Competition
+13 Source: PwC’s 16th Annual Global CEO Survey titled ‘Dealing with disruption – Adapting to survive and thrive’
+14 Source: PwC Risk Management Survey – India, 2013
+10 PwCCurrent state of risk 
+management  
+Most respondents do not have 
+a risk management policy 
+embedded in their business 
+and operations
+While most organisations have a risk 
+management policy in place, only 27% 
+of the respondents have embedded the 
+policy in their business and operations by 
+aligning it with their objectives, operating 
+procedures and performance measures. 
+Do organisations see true 
+value in risk management  
+in India or is it largely  
+driven by regulations?The Companies Act, 2013 and other 
+regulatory requirements such as Clause 49 
+of the listing agreement or other industry 
+specific regulations require organisations 
+to have a risk management programme. 
+Multinational companies operating in India 
+are also largely guided by their group risk 
+management policies. 
+As mentioned above, only 27% of the 
+respondents have the risk management 
+policy embedded in the business and 
+operations. 
+So, do most organisations 
+tend to see risk management 
+as a cost of compliance rather 
+than a real defence in terms 
+of ‘value protection’?Q: Do you have a formal risk management policy defined in your organisation? 
+Source: PwC Risk Management Survey – India, 2013
+62%38%
+Risk tolerance defined
+Risk tolerance is not defined25%29%46%
+Risk tolerance consistently 
+applied across the organisation Risk tolerance  defined at the 
+board level and communicated across the organisation but not consistently applied Risk tolerance  defined at the board 
+level but not communicated across the organisation Q: Do you have risk tolerances defined in your organisation?
+Source: PwC Risk Management Survey – India, 2013
+Grey swans: Transformation of risk in an interconnected world    11Risk tolerance is not 
+embedded in business
+As volatility and uncertainty in the 
+economy increases and exposes 
+organisations to risks, the latter have 
+also been compelled to think how much 
+they can endure in order to achieve their 
+objectives. In today’s changing business 
+environment, it is important to align 
+business strategy with the organisation’s 
+risk appetite. As an organisation decides 
+on its objectives and its approach to 
+achieving strategic goals, it should 
+consider the risks involved, and its 
+appetite for such risks. It is important 
+that the management and board take into 
+account the potential impact of changes 
+in the organisation’s strategy in light of its 
+risk appetite and tolerance levels.
+Our survey results revealed that almost 
+38% of the organisations surveyed have 
+not defined risk tolerances. A further 
+46% of the respondent organisations that 
+have defined risk tolerances, have not 
+communicated it across the organisation.
+Eighty four per cent  of the respondents 
+do not consistently consider risk tolerance 
+at all levels while taking important 
+business decisions. 
+So, do most organisations 
+have a challenge with 
+regards to risk-based 
+decision-making at all 
+levels that is consistent 
+to the overall risk appetite of the 
+organisation?Lehman had been exceeding 
+the firm-wide risk appetite on a 
+persistent basis and paid the price15. 
+Lehman took excessive risk exposures 
+in order to make a profit. In doing so,  
+it increased the amount it was 
+prepared to lose as a result of its 
+investments from 2.3 billion USD to 
+4 billion USD. This constituted a 74% 
+increase in its risk limits, enacted 
+during a declining market. As these 
+decisions were not aligned with the 
+bank’s overall risk appetite, it lead to  
+its failure.
+15.Source: Mark Denbeaux, Director, Seton Hall 
+Law Center for Policy & Research, ‘Lehman 
+Brothers: A License to Fail with other  
+People’s Money’
+Q: Does your organisation have a 
+formal chief risk officer (CRO) or a risk 
+management committee?
+40%Organisations have 
+an independent CRO 
+reporting to boardWhile majority of the 
+respondents  have risk 
+management committees, 
+only two-fifths have an 
+independent CRO reporting 
+to the board
+The Enron collapse established that the 
+pursuit of profit without commitment 
+to good-faith business principles and 
+responsible business behaviour comes 
+at a high cost to shareholders. The 
+global financial crisis in 2008 exposed 
+a number of governance-related 
+weaknesses and flawed institutional 
+structures that resulted in firms’ 
+failure to understand the risks they 
+were taking. Earlier, the boards were 
+relying merely on the risk reports from 
+the CEOs and CFOs to form their view 
+on the risk profile of the organisation 
+and did not pay sufficient attention to 
+risk management or set up effective 
+structures, such as a dedicated risk 
+committee, to facilitate meaningful 
+analysis of the firm’s risk exposures 
+and to constructively challenge the 
+management’s profit-seeking decisions. 
+However, boards have realised that 
+to achieve a fair understanding of 
+the risks, they need to interact with 
+the senior executives who are best-
+acquainted with the  risks and also have 
+an independent custodian or facilitator 
+of the risk agenda.
+In India, an increasing number 
+of organisations have started to 
+create a senior executive position 
+for facilitating the implementation 
+of risk management and a specific 
+subcommittee focussed on the risk 
+agenda. Sixty-seven per cent of the 
+respondent organisations have a risk 
+management committee in place. 
+However, only 40% of the respondent 
+organisations have an independent 
+chief risk officer (CRO) reporting to  
+the board.
+12 PwCResponsibilities for 
+managing risks have been 
+defined by most respondent 
+organisations but not linked 
+with performance
+Due to the increased focus on business 
+performance, organisations usually 
+define key performance indicators 
+(KPIs) to ensure that boards and the 
+top management can regularly review 
+the performance of their organisation 
+against defined business objectives. 
+Organisations with relatively mature 
+risk management practices also define 
+accountabilities and responsibilities to 
+manage risks associated with defined 
+business objectives. The conflict between 
+achievement of business objectives and 
+risk if managed effectively will encourage 
+smart risk-taking behaviour across the 
+organisation.
+Organisations need to encourage risk-
+based decision-making. If not linked with 
+performance, it will more often than not 
+lead to profit-seeking business decisions 
+that ignore risks. Our survey reveals that 
+only 53% of the respondent organisations 
+have accountability and responsibility 
+towards risk management defined below 
+the executive or audit committee level.  
+Further, only in 13% of the respondent 
+organisations is effective management 
+of risks linked to performance 
+measurement.Financial services and 
+telecom organisations: 
+Ahead of the curve
+While a large number of organisations 
+(62%) have defined processes for 
+regular monitoring of compliance as 
+part of their risk management (RM) 
+framework, financial services and 
+telecom firms perform better than their 
+peers. The survey reveals that 88% of the 
+respondents from financial services and 
+67% of respondent telecom organisations 
+have processes defined for continuous 
+monitoring of compliance as part of their 
+risk management framework.
+Q: Do you have a structured process in 
+place for the monitoring of compliance to 
+a risk management framework? 
+Source: PwC Risk Management Survey – India, 201322%
+16%62%
+No ongoing 
+monitoring  Ad hoc 
+monitoring  Regular 
+monitoring Source: PwC Risk Management Survey – India, 2013Q: For managing risks, are roles and 
+responsibilities formally defined in your 
+organisation?
+Grey swans: Transformation of risk in an interconnected world    13Lack of integrated risk 
+management tools for 
+managing risks effectively
+Risk management tools enable the 
+management of the risk universe 
+and the process to identify, measure, 
+evaluate and mitigate risks.  We 
+find that 47% of the respondent 
+organisations are still using basic 
+tools such as MS Excel and Access for 
+risk management while only 24% use 
+integrated risk management tools for 
+managing their risks. The survey also 
+reveals that usage of risk management 
+tools have gained prominence mostly in 
+financial services firms, where 75% of 
+the respondents have consistently used 
+these tools for managing and reporting 
+their risks.Organisations see positive 
+risk culture key to further 
+improve risk management 
+practices
+Some organisations are ill-prepared 
+to manage risks not because they have 
+not implemented risk management 
+practices but because the organisation 
+could not develop a strong risk 
+focussed culture. Such a culture would 
+mean that employees know what the 
+company stands for, the boundaries 
+within which they can operate, and 
+that they can discuss and debate openly 
+which risks are necessary to be borne 
+in order to achieve the company’s long-
+term strategic goals. Risk culture forms 
+one of the underlying foundations for 
+effectively managing risks across the 
+organisation. The survey shows that 
+27% of the respondent organisations 
+consider developing a positive risk 
+culture as key to improving risk 
+management within the organisation.
+Q: How is technology leveraged for managing 
+and reporting risks at your organisation today?
+Source: PwC Risk Management Survey – India, 201327%Developing positive 
+risk cultureQ: What can be done to further improve 
+existing risk management practices?
+Source: PwC Risk Management Survey – India, 2013
+14 PwCHow prepared are 
+organisations for the future?
+Organisations are struggling 
+to anticipate and assess 
+‘emerging’ risks
+The risk landscape has morphed into 
+something unrecognisable from what it 
+was a decade or two ago. With increasing 
+interconnectedness and concentration of 
+the global markets, new high-impact risks 
+have changed the global risk landscape 31%Difficulties in identifying and responding to 
+emerging risks early enoughKey problems faced by organisations today
+Organisations using qualitative and quantitative techniquesSource: PwC Risk Management Survey – India, 2013
+12%88%
+40%13%64%11%
+No assessment Organisations
+undertaking risk 
+assessmentRisk models and advanced 
+quantitative techniques
+Qualitative and basic 
+quantitative techniques
+Qualitative techniques
+Source: PwC Risk Management Survey – India, 2013significantly and organisations have 
+failed to anticipate and assess such 
+new ‘emerging’ high-impact risks. The 
+survey reveals that almost 31% of the 
+respondent organisations feel that 
+one of the key problems faced today is 
+to identify, assess and respond to the 
+emerging risks early enough ensuring  
+smooth functioning of business 
+operations with minimal disruptions.
+Few organisations use advanced risk management techniques
+Grey swans: Transformation of risk in an interconnected world    15
+In order to anticipate and assess 
+emerging risks, organisations need 
+to regularly perform a thorough scan 
+of characteristics and changes in the 
+environment in order to identify events 
+that may have impacted the organisation’s 
+shareholder value in the past or may 
+impact it in the future. Advance risk 
+models such as scenario planning and 
+horizontal scanning processes need to be 
+implemented in order to identify specific 
+issues of concern and potential future 
+issues by tapping information sources that 
+are most likely to record the emerging 
+stages of an issue’s development.  
+Stress-testing is another important 
+technique for scenario contingent 
+analysis of the risk of an organisation: 
+it can help such entities to put in place 
+capital contingency measures, develop 
+a firm’s risk appetite, drive strategic 
+business planning, set risk limits, 
+identify portfolios’ vulnerabilities and 
+opportunities in terms of risk-return 
+trade-offs and determine the optimal 
+timing of strategic decisions. The survey 
+reveals that of the organisations that 
+undertake risk assessment only 11% 
+of the respondent organisations use 
+advanced quantative techniques for  
+risk management.
+Scenario planning at Royal 
+Dutch Shell 16
+The British-Dutch global oil company 
+Royal Dutch Shell puts to practice  
+advanced techniques such as scenario 
+planning as portrayed by six vivid 
+tangible scenarios for economic 
+growth, oil supply and prices. The 
+scenario foresaw a disruption in 
+oil supply and production. Shell 
+undertook contingency planning, to 
+define what the company would do 
+if this scenario occurred. As a result, 
+when the Yom Kippur War broke out on 
+6 October 1973, oil prices quadrupled 
+and drivers queued up for gasoline 
+in America and in Europe, Shell was 
+better prepared than its competitors.69%  
+of the organisations 
+are planning to keep 
+the investments 
+towards risk 
+management the same 
+or marginally increase
+Source: PwC Risk Management Survey – India, 2013Key reasons for strengthening risk management in 
+your organisationHow do you anticipate the 
+level of investment in risk 
+management will change at 
+your organisation over the 
+next three years?Organisations not ready to pay for the value they see in 
+strengthening risk management  
+The rapidly evolving risk landscape 
+and highly uncertain macroeconomic 
+environment warrant organisations to 
+increase their focus on risk management. 
+Sixty per cent of the respondent 
+organisations see value in strengthening their risk management capabilities. 
+However, 69% of the organisations plan 
+to keep their investments at the same 
+level or only marginally increase them 
+over the next three years to unlock the 
+potential value of risk management.60%
+6
+16 PwCMost organisations  see scope 
+for further improvement in risk 
+management
+While 29% of the organisations feel 
+that structures, systems, controls and 
+infrastructure required to manage risks need 
+to be strengthened, 27% have cited the need 
+to develop a positive risk culture across the 
+organisation in order to translate their risk 
+management practices into action. Twenty-
+two per cent of the organisations consider 
+that the level or percentage of integration of 
+risk management with the business needs to 
+be improved in order to encourage risk-based 
+decision-making. Sixteen per cent of the 
+organisations seem to be satisfied with their 
+existing risk management capabilities and 
+see no significant changes in the near future.
+Organisations seem to recognise the value and the need to improve risk management 
+but are unwilling to investSource: PwC Risk Management Survey – India, 2013Q: What can be done to further improve existing risk management practices?
+6
+Grey swans: Transformation of risk in an interconnected world    17What this means to your 
+business
+In the present day, large impact and low 
+likelihood events have become more 
+frequent and require organisations 
+to think beyond business-as-usual. 
+Accordingly, entities and firms need 
+to develop a strong risk management 
+programme which serves as a key lever 
+for value protection rather than just being 
+driven by compliance requirements. 
+However, just a strong risk management 
+programme will not be sufficient for 
+organisations to anticipate and prepare 
+for grey swans as these programmes 
+typically focus on short-term known 
+risks. Organisations will also need to 
+institutionalise a process to build risk 
+resilience and thereby embrace medium 
+range scenario planning to identify, 
+analyse and plan for disruptive ‘grey 
+swans’. 
+Strengthening current risk 
+management capabilities  
+Closer alignment of business and 
+risk strategy for better risk reward 
+trade-off
+Organisations need to align strategy to 
+risk imperatives for improved business 
+decisions. The risk strategy needs to be 
+internally subjected to the organisation’s 
+predefined risk appetite and tolerances. 
+Thereon the risk strategy needs to  
+become integrated within  the decision-
+making framework. This will help 
+organisations undertake suitable trade-
+off decisions between risks and rewards.
+Imbuing risk awareness in the 
+mind-set, behaviour and overall 
+culture of the organisation
+A static risk culture focussed on 
+compliance to regulatory and internal 
+framework will not help organisations 
+effectively navigate the evolving 
+risk landscape. It is important for 
+organisations to focus on building a risk-
+aware culture.Stakeholders need to understand that 
+risks are not to be avoided, but to be 
+proactively identified, understood and 
+responded to in alignment with the 
+organisation’s business strategy. And 
+while doing so, aim to transform risks 
+into opportunities.
+Leveraging technology for effective 
+risk management 
+Risk management tools enable the 
+management of the risk universe and the 
+process to identify, measure, evaluate and 
+mitigate risks.  Organisations currently 
+using basic tools like spreadsheets for 
+risk management need to leverage 
+advanced tools for risk identification, 
+risk modelling, risk analytics and risk 
+management. There are a number of 
+sophisticated tools available for risk 
+management for industries and for 
+functions which can be customised 
+to meet the organisations’ specific 
+requirements. Expenditure on risk 
+management technology needs to be 
+seen as an investment where the payoff 
+outweighs the expenses. 
+Linking risk and performance for 
+smart risk-taking
+Aligning risks with performance metrics 
+enables organisations to improve the 
+quality of business decisions and business 
+outcomes. Organisations need to ensure 
+that risk related indicators are part of 
+the strategic plan or the organisational 
+scorecard and that relevant metrics 
+feed into each individual’s performance 
+scorecard or plan. This alignment is 
+crucial as this will also set the stage 
+for discussions on risk tolerances, risk 
+profiling, risk appetites, risk indicators, 
+etc. ensuring that in the process the 
+organisation’s risk culture  
+is strengthened.
+18 PwCBuilding risk resilience for 
+managing grey swans
+Thinking beyond business-as-usual 
+to manage new ‘emerging’ risks
+Organisations need to  adopt an 
+integrated approach that will  consider 
+cross-organisational implications 
+and impact due to risks. Accordingly, 
+organisations will need to go beyond 
+traditional risk management and 
+look at institutionalising processes to 
+address disruptive risks. Ensuring an 
+institutionally sound environment to 
+mitigate new risks or even looking to turn 
+impending risk into opportunity will keep 
+organisations ahead of the curve.
+Anticipate
+AbsorbRespond
+ReboundAdapt
+Turn crisis to opportunityCustomers Channels SuppliersExternal organisational elements
+People Process Technology
+Internal organisational elementsBuilding resilienceBuilding risk resilience to prepare 
+for grey swans
+Managing the ‘grey swan effect’ calls 
+for organisations to proactively engage 
+with multiple layers of business —
+management, customers, strategic 
+partners and regulators. Organisations 
+need to identify the sources of grey swans 
+through an early warning system and 
+establish a mechanism to evalute the 
+implications of these events and prepare 
+adequate responses to  the same to stem 
+the downside of the risk and leverage on 
+the upside opportunity.
+Based on the nature of grey swans, 
+organisations will need to put in place 
+either an ‘anticipate and respond’ or an 
+‘absorb and rebound’ framework. At times, grey swans provide early 
+warnings and accordingly, an ‘anticipate 
+and respond’ framework (such as in the 
+P&G case study) will help organisations 
+prepare an appropriate response — 
+perhaps even benefit from the event by 
+tapping the upside opportunity.
+In certain cases, grey swans strike 
+organisations without early warnings 
+either on account of their nature or 
+because the current risk indicators  are 
+not adequate or evolved enough to 
+identify them beforehand (such as in the 
+Ericsson-Nokia case study). In such cases 
+organisations need to have the capability 
+to absorb the shock and act in order to 
+rebound back to business-as-usual and if 
+possible create an opportunity out of  
+the crises. 
+
+Grey swans: Transformation of risk in an interconnected world    19Case study: P&G - Turning risk into opportunity 
+When Hurricane Katrina lashed the US Gulf Coast in August 2005, the devastation engulfed the supply chains of thousands 
+of companies that relied on petrochemical products with raw-material sources concentrated in that area. P&G’s supply chain 
+accounting for more than half its production in New Orleans was also affected by the calamity. 
+How being  risk resilient helped P&G
+Any hurricane entering the Gulf of Mexico automatically triggers a series of emergency measures in P&G, including the transfer 
+of inventory to distribution centres outside the New Orleans area, the sending of inventory backup tapes to headquarters in 
+Cincinnati, Ohio, and the advent of hurricane shutdown procedures.
+Risk turning into an opportunity
+P&G was the first business back in operation after the disaster with its volume share of the coffee market 6% higher than in the 
+pre-Katrina days. P&G’s plans and actions were sufficient to restore operations within a relatively short period of time.
+Case study: Ericsson and Nokia - a classic case of supply chain disruption  
+On 17 March 2000, lightning struck Philips’s radio frequency chip manufacturing plant in New Mexico.  Fire triggered an 
+extensive chain of downstream consequences for large electronic companies, Nokia and Ericsson. Philips was at that time a key 
+supplier of radio frequency chips for both Nokia and Ericsson.
+Ericsson: Suffered huge losses and withdrawal from the cellphone production market due to many months 
+of lost production 
+• Slow reactive response
+Nokia: Recovered from the disruption and benefitted from Ericsson’s inability to ship high-end models and 
+conquered market space 
+• Established a sense of urgency, in case the situation would worsen
+• Daily monitoring of the production status instead of the previous weekly check after the incident
+• Reconfigured its basic phone to accept slightly different chips from suppliers in Japan and the US
+• Tied up spare capacity at other Philips’ plants 
+
+20 PwCSurvey respondents: Profile
+• Sixty-three per cent respondents 
+are public companies while 37% are 
+private companies.
+• Eighty per cent of the respondents 
+are from organisations with annual 
+revenues greater than  1,000 crore 
+INR.
+• The respondents belong to diverse 
+industries.
+• Sixty per cent of the respondents are 
+present in more than 10 states in India.Appendix: About the Risk 
+Management Survey 2013
+The Risk Management Survey 2013 
+conducted by PwC India across a 
+section of leading organisations in the 
+country examines current state of risk 
+management practices and explores 
+the preparedness of such entities for 
+effectively managing their risks. 
+The key areas examined in this survey 
+included the following:
+• Current risk landscape
+• Alignment of risk and business strategy
+• Risk governance
+• Risk management process for 
+identification, assessment, mitigation 
+and monitoring of risks
+• Use of tools and technology for 
+managing risks
+• Risk culture
+The survey was conducted using a 
+structured questionnaire administered 
+online. Respondents were invited to 
+participate in this survey via emails. The 
+results discussed in this report are based 
+on responses from participants (risk 
+management practitioners) from leading 
+organisations across 13 industries. All 
+figures and graphics in this report are 
+sourced from survey results, unless 
+otherwise mentioned. We have received 
+over 80 responses to the survey.Respondents: Industry sector wise
+Automotive
+Retail and consumer
+Oil and gas
+Financial services
+Pharmaceutical
+Industrial manufacturing
+Respondents: Company turnover wise
+Turnover < 100 crore INR
+Turnover: 100 crore INR - 1000 crore INR
+Turnover > 1000 crore INRHealthcare
+Logistics
+Agriculture
+Technology
+Telecom
+Others
+Grey swans: Transformation of risk in an interconnected world    21
+Healthcare
+Logistics
+Agriculture
+Technology
+Telecom
+Others
+AcknowledgementsAbout the authors
+Sivarama Krishnan
+Sivarama Krishnan  is an Executive Director with the Risk Advisory Services 
+practice at PwC India. He has  more than 18 years of experience across risk 
+management, strategy formulations and process improvement. 
+Siddharth Vishwanath
+Siddharth Vishwanath is an Executive Director with the Risk Advisory 
+Services practice at PwC India.  He has over 14 years of experience across risk 
+management, strategy formulation, financial and operations advisory.
+Nicky Sharma
+Nicky Sharma is a Principal Consultant at PwC India with over 10 years of 
+experience in leading and executing various business strategy, operations and 
+risk consulting assignments. 
+Ankit Virmani
+Ankit Virmani is a Senior Consultant at PwC India with more than six years of 
+experience in risk management, process improvement and revenue assurance. 
+We would like to take this opportunity to thank all the team members for their contribution to this study report:
+Manu Dwivedi, Associate Director 
+Srikanth Parthasarathy, Senior Consultant
+Anju Ekka, Consultant
+AcknowledgementsAbout PwC
+PwC* helps organisations and individuals create the value they’re looking for.  We’re a network of firms in 158 countries 
+with more than 180,000 people who are committed to delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, Bangalore, Chennai, Delhi NCR, 
+Hyderabad, Kolkata, Mumbai and Pune.  For more information about PwC India’s service offerings, please visit  
+www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member firm is a separate legal entity.  
+Please see www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+Satyavati Berera 
++91 124 330 6011
+satyavati.berera@in.pwc.com
+Arup Sen
++91 22 6669 1078
+arup.sen@in.pwc.com
+Harpreet Singh
++91 124 330 6012
+harpreet.singh@in.pwc.com
+Parin Shah
++91 20 4100 4420
+parin.shah@in.pwc.comManpreet Singh Ahuja
++91 124 330 6021
+manpreet.singh.ahuja@in.pwc.com
+Neeraj Gupta
++91 124 330 6010
+p.neeraj.gupta@in.pwc.com
+Sanjay Dhawan
++91 80 4079 7003
+sanjay.dhawan@in.pwc.comSivarama Krishnan
++91 124 330 6018
+sivarama.krishnan@in.pwc.com
+Siddharth  Vishwanath
++91 22  6669 1559
+siddharth.vishwanath@in.pwc.com
+Tapan Ray    
++91 22 6669 1204
+tapan.ray@in.pwc.comContacts
+www.pwc.in
+Data Classification: DC0
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or 
+estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are 
+advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents 
+of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained 
+within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited 
+liability company in India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers 
+International Limited (PwCIL), each member firm of which is a separate legal entity.
+PD 129 - December 2013 Grey Swans.indd
+Designed by Brand and Communication, India

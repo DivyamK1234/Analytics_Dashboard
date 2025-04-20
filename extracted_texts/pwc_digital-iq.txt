@@ -1,0 +1,93 @@
+Title: pwc_digital-iq
+Date Published: 2013-07-12 16:04:05+05:30
+Source: pdfs/pwc_digital-iq.pdf
+
+--- CONTENT ---
+
+Cloud: The sky’s the limitDigital IQ - The India story snapshot
+www.pwc.in
+Volatile global economies and dismal domestic growth rate are forcing Indian 
+organisations to take a ‘do more with less’ approach. Leading companies are starting 
+to realise that cloud computing is far more than a better IT solution–it is in fact a 
+better business solution. Cloud computing has the potential to accelerate business 
+innovation and address the challenges facing today’s CIO. 
+Business leaders are exploring new business models around cloud to increase 
+productivity, create operational efficiencies, redefine ways of customer engagement 
+and fuel innovation. Cloud has the potential to transform IT departments through 
+infrastructure consolidation and optimisation, reduced costs and increased scalability. 
+The business agility attributed by cloud computing is creating competitive advantage 
+for companies in these unprecedented times of radical economic changes and market 
+dynamics. No wonder cloud is fast moving from hype to reality.
+However, along with the potential benefits, cloud computing also introduces new 
+risks mainly with regard to data security and privacy challenges, compliance and tax 
+implications. Hence, in order to reap the benefits of cloud investments, appropriate 
+due diligence and a structured approach is required while adopting cloud services. In 
+our experience, there is no one-size-fits-all solution anymore and in most cases, the 
+best solution is a combination of alternatives. 
+Cloud investments
+The investment in cloud infrastructure and applications is on a rise. However, in order 
+to reap significant business benefits, executives need to evaluate cloud through the 
+lens of business value.
+Following is a ground-up view from our recent 5th Annual Digital IQ – India report 
+regarding where Indian companies stand with their present cloud investments.
+Which of the technologies are you currently investing in?
+Which of the following technologies are you currently investing in?
+Public cloud applications Public cloud infrastructure Private cloud
+73% 34% 59%  29%  64%  53%  
+Strong  
+relationshipsOther  
+respondentsStrong  
+relationshipsOther  
+respondentsStrong  
+relationshipsOther  
+respondents
+Above percentages reflect those respondents from India investing in cloud technologiesAbove percentages reflect those respondents from India investing in cloud technologies
+This is a positive sign because a comprehensive cloud strategy cannot be developed in a silo. It is vital for the 
+CIO to collaborate with the C-suite and other IT leaders in order to formulate a cloud strategy. An effective 
+cloud adoption strategy needs to consider all aspects of cloud computing including business goals and drivers, 
+challenges and solutions that the cloud can deliver to address them–related risks, potential benefits and the 
+impact of each of the options.
+Future investment trends
+In comparison to the US, Indian respondents seem to favour private cloud over public cloud in terms of future 
+investment. This is mainly because of the concerns of Indian organisations related to data security and privacy. 
+Security lags technology adoption in the cloud environment–just 31% of Indian companies have a cloud 
+security strategy1. Over 75% of the respondents in India expect to see an increase in security spending over the 
+next 12 months compared to the global average of 45%.
+What are your investment plans for each of these technologies in 2013?  
+Response: Will invest more in 2013
+42%  
+Public cloud  
+applications31%  
+Public cloud 
+infrastructure53%  
+Public cloud
+Benefits of cloud adoption
+Private cloud is among the top technologies selected as most important to cost reduction, increasing 
+innovation and productivity. This further re-emphasises the focus of Indian companies on private cloud.
+What type of investments has enabled your organisation achieve the following:
+1  The State of Information Security Survey India 2013, PwCHowever, when asked about the future workforce, majority of the respondents indicated that public cloud is the 
+most important technology when it comes to maximising the productivity of today’s young adults. This is an 
+interesting trend indicating that public cloud adoption may have an edge over private cloud in the years ahead.
+In this Digital IQ snapshot, percentages in some cases are for directional purposes only as the number of respondents may be <30.
+To have a deeper 
+conversation about how 
+this subject may affect your 
+business, please contact:Arnab Basu
+Executive Director  
+Emerging Technologies
+arnab.basu@in.pwc.com 
++91 33 2341 4290Rajesh Rajan 
+Associate Director  
+Emerging Technologies 
+rajesh.rajan@in.pwc.com 
++91 80 4079 4003
+Authors Ritesh Pal
+ritesh.pal@in.pwc.com
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company  
+in India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+NJ 32 - July 2013 Digital IQ.indd
+Designed by: PwC Brand and Communications, IndiaReduce cost
+Increase innovation
+Increase productivity
+Above percentages reflect those respondents from India investing in cloud technologiesAbove percentages reflect those respondents from India investing in cloud technologies
+To read our Digital IQ report visit www.pwc.in/industries/technology.jhtml

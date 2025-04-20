@@ -1,0 +1,1615 @@
+Title: pwc_companies-act-2013-key-highlights-and-analysis
+Date Published: 2013-12-23 12:27:59+05:30
+Source: pdfs/pwc_companies-act-2013-key-highlights-and-analysis.pdf
+
+--- CONTENT ---
+
+Companies Act, 2013    1
+Companies Act, 2013
+Key highlights and analysis
+Significant changes and 
+implications 
+Contents 
+04 | Introduction
+06 | Key definitions and concepts
+10 | Setting up of a company
+16 | Management and administration
+18 | Directors
+24 | Accounts and audit
+30 | Dividend
+32 | Compromises, arrangements and amalgamations
+34 | Revival and rehabilitation of sick companies
+36 | Corporate social responsibility
+38 | Implications on private companies
+40 | Other areas
+44 | Sections notified till date and circulars or orders issued
+Foreword
+The long-awaited Companies Bill 2013 got its assent in the Lok Sabha 
+on 18 December 2012 and in the Rajya Sabha on 8 August 2013. After  
+having obtained the assent of the President of India on 29 August 
+2013, it has now become the much awaited Companies Act, 2013 
+(2013 Act). An attempt has been made to reduce the content of the 
+substantive portion of the related law in the Companies Act, 2013 as 
+compared to the Companies Act, 1956 (1956 Act). In the process, much 
+of the aforesaid content has been left, ‘to be prescribed’, in the Rules 
+(340+) which are yet to be finalised and notified. As of the date of this 
+publication, 99 sections have been notified and a few circulars have 
+been issued clarifying the applicability of these.
+We are pleased to bring you our new publication, Companies Act, 2013: 
+Key highlights and analysis. This publication brings out the significant 
+changes proposed by the 2013 Act as compared to the 1956 Act and 
+our initial analysis thereon. It is pertinent to note that for the complete 
+understanding of the implications of various sections of the 2013 Act, 
+the related Rules will need to be read with. These Rules have been 
+opened for public comments and consultation in tranches and are 
+expected to be notified thereafter by the end of this fiscal year.
+The 2013 Act introduces significant changes in the provisions related to 
+governance, e-management, compliance and enforcement, disclosure 
+norms, auditors and mergers and acquisitions. Also, new concepts such 
+as one-person company, small companies, dormant company, class 
+action suits, registered valuers and corporate social responsibility have 
+been included.
+We hope this publication clearly explains the significant changes and 
+their potential implications.
+PwC India
+30th November, 2013
+Introduction
+Companies  Act, 2013: A statistical snapshot 
+Number of schedules : 7
+Number of chapters: 29
+Number of sections: 4707
+Schedules 470
+Sections
+29
+Chapters 
+The 1956 Act has been in need of a substantial 
+revamp for quite some time now, to make  it 
+more contemporary and relevant to corporates, 
+regulators and other stakeholders in India.
+While several unsuccessful attempts have been 
+made in the past to revise the existing 1956 
+Act, there have been quite a few changes in the 
+administrative portion of the 1956 Act. The most 
+recent attempt to revise the 1956 Act was the 
+Companies Bill, 2009 which was introduced in the 
+Lok Sabha, one of the two Houses of Parliament 
+of India, on 3 August 2009. This Companies Bill, 
+2009 was referred to the Parliamentary Standing 
+Committee on Finance, which submitted its report 
+on 31 August 2010 and was withdrawn after 
+the introduction of the Companies Bill, 2011. 
+The Companies Bill, 2011 was also considered 
+by the Parliamentary Standing Committee on 
+Finance which submitted its report on 26 June 
+2012. Subsequently, the Bill was considered and approved by the Lok Sabha on 18 December 2012 
+as the Companies Bill, 2012 (the Bill). The Bill 
+was then considered and approved by the Rajya 
+Sabha too on 8 August 2013. It received the 
+President’s assent on 29 August 2013 and has now 
+become the Companies Act, 2013.
+The changes in the 2013 Act have far-reaching 
+implications that are set to significantly change 
+the manner in which corporates operate in India. 
+In this publication, we have encapsulated the 
+major changes as compared to the 1956 Act and 
+the potential implications of these changes. We 
+have also included, where relevant, the provisions 
+of the draft rules, which have been issued by 
+the Ministry of Corporate Affairs (the MCA) till 
+date for public comments. Such inclusions have 
+been highlighted with an asterix at the end of the 
+sentence (*). However, please note that these are 
+only draft rules and will undergo changes before 
+being notified.
+6 PwCKey definitions and  
+concepts
+1
+Companies Act, 2013    71. Companies
+1.1  One-person company:  The 2013 Act introduces a new type of entity to the existing list i.e. apart from forming a public or 
+private limited company, the 2013 Act enables the formation of a new entity a ‘one-person company’ (OPC). An OPC means a 
+company with only one person as its member  [section 3(1) of 2013 Act].
+1.2.  Private company: The 2013 Act introduces a change in the definition for a private company, inter-alia, the new requirement 
+increases the limit of the number of members from 50 to 200.  [section 2(68) of 2013 Act].
+1.3.  Small company:  A small company has been defined as a company, other than a public company.
+(i) Paid-up share capital of which does not exceed 50 lakh INR or such higher amount as may be prescribed which shall not be 
+more than five crore INR 
+(ii) Turnover of which as per its last profit-and-loss account does not exceed two crore INR or such higher amount as may be 
+prescribed which shall not be more than 20 crore INR:
+As set out in the 2013 Act, this section will not be applicable to the following:
+• A holding company or a subsidiary company
+• A company registered under section 8 
+• A company or body corporate governed by any special Act [section 2(85) of 2013 Act]
+1.4. Dormant company:  The 2013 Act states that a company can be classified as dormant when it is formed and registered under 
+this 2013 Act for a future project or to hold an asset or intellectual property and has no significant accounting transaction. Such 
+a company or an inactive one may apply  to the ROC in such manner as may be prescribed for obtaining the status of a dormant 
+company.[Section 455 of 2013 Act]
+2. Roles and responsibilities
+2.1 Officer: The definition of officer has been extended to include promoters and key managerial personnel [section 2(59) of 2013 
+Act].
+2.2 Key managerial personnel: The term ‘key managerial personnel’ has been defined in the 2013 Act and has been used in several 
+sections, thus expanding the scope of persons covered by such sections [section 2(51) of 2013 Act].
+2.3. Promoter: The term ‘promoter’ has been defined in the following ways:• A person who has been named as such in a prospectus 
+or is identified by the company in the annual return referred to in Section 92 of 2013 Act that deals with annual return; or
+•   who has control over the affairs of the company, directly or indirectly whether as a shareholder, director or otherwise; or
+•   in accordance with whose advice, directions or instructions the Board of Directors of the company is accustomed to act.
+The proviso to this section states that sub-section (c) would not apply to a person who is acting merely in a professional capacity. 
+[section 2(69) of 2013 Act]
+2.4: Independent Director: The term’ Independent Director’ has now been defined in the 2013 Act, along with several new 
+requirements relating to their appointment, role and responsibilities. Further some of these requirements are not in line with the 
+corresponding requirements under the equity listing agreement [section 2(47), 149(5) of 2013 Act].
+3. Investments
+3.1  Subsidiary: The definition of subsidiary as included in the 2013 Act states that certain class or classes of holding company (as 
+may be prescribed) shall not have layers of subsidiaries beyond such numbers as may be prescribed. With such a restrictive 
+section, it appears that a holding company will no longer be able to hold subsidiaries beyond a specified number[section 2(87) 
+of 2013 Act].
+4. Financial statements
+4.1. Financial year: It has been defined as the period ending on the 31st day of March every year, and where it has been 
+incorporated on or after the 1st day of January of a , the period ending on the 31st day of March of the following year, in 
+respect whereof financial statement of the company or body corporate is made up. [section 2(41) of 2013 Act]. While there 
+are certain exceptions included, this section mandates a uniform accounting year for all companies and may create significant 
+implementation issues. 
+4.2. Consolidated financial statements: The 2013 Act now mandates consolidated financial statements (CFS) for any company 
+having a subsidiary or an associate or a joint venture, to prepare and present consolidated financial statements in addition to 
+standalone financial statements.
+4.3. Conflicting definitions: There are several definitions in the 2013 Act divergent from those used in the notified accounting 
+standards, such as a joint venture  or an associate,, etc., which may lead to hardships in compliance.The 2013 Act has introduced several new concepts and has also tried to streamline many of the 
+requirements by introducing new definitions. This chapter covers some of these new concepts and 
+definitions in brief. A few of these significant aspects have been discussed in detail in  
+further chapters.
+8 PwC5. Audit and auditors
+5.1 Mandatory auditor rotation and joint auditors:  The 2013 Act now mandates the rotation of auditors after the specified time 
+period. The 2013 Act also includes an enabling provision for joint audits.
+5.2 Non-audit services: The 2013 Act now states that any services to be rendered by the auditor should be approved by the board of 
+directors or the audit committee. Additionally, the auditor is also restricted from providing certain specific services.
+5.3. Auditing standards:  The Standards on Auditing have been accorded legal sanctity in the 2013 Act and would be subject to 
+notification by the NFRA. Auditors are now mandatorily bound by the 2013 Act to ensure compliance with Standards  
+on Auditing. 
+5.4  Cognisance to Indian Accounting Standards (Ind AS):  The 2013 Act, in several sections, has given cognisance to the Indian 
+Accounting Standards, which are standards converged with International Financial Reporting Standards, in view of their 
+becoming applicable in future. For example, the definition of  a financial statement includes a ‘statement of changes in equity’ 
+which would be required under Ind AS. [Section 2(40) of 2013 Act]
+5.5. Secretarial audit for bigger companies:  In respect of listed companies and other class of companies as may be prescribed, 
+the 2013 Act provides for a mandatory requirement to have secretarial audit. The draft rules make it applicable to every public 
+company with paid-up share capital > Rs. 100 crores*. As specified in the 2013 Act, such companies would be required to annex 
+a secretarial audit report given by a Company Secretary in practice with its Board’s report. [Section 204 of 2013 Act]
+5.6. Secretarial Standards: The 2013 Act requires every company to observe secretarial standards specified by the Institute of 
+Company Secretaries of India with respect to general and board meetings [Section 118 (10) of 2013 Act], which were hitherto 
+not given cognizance under the 1956 Act.
+5.7. Internal Audit: The importance of internal audit has been well acknowledged in Companies (Auditor Report) Order, 2003 
+(the ‘Order’), pursuant to which auditor of a company is required to comment on the fact that the internal audit system of the 
+company is commensurate with the nature and size of the company’s operations. However, the Order did not mandate that an 
+internal audit should be conducted by the internal auditor of the company. The Order acknowledged that an internal audit can 
+be conducted by an individual who is not in appointment by the company.
+The 2013 Act now moves a step forward and mandates the appointment of an internal auditor who shall either be a chartered 
+accountant or a cost accountant, or such other professional as may be decided by the Board to conduct internal audit of the 
+functions and activities of the company.
+The class or classes of companies which shall be required to mandatorily appoint an internal auditor as per the draft rules are as 
+follows: *
+•   Every listed company
+•   Every public company having paid-up share capital of more than 10 crore INR
+•   Every other public company which has any outstanding loans or borrowings from banks or public financial institutions more 
+than 25 crore INR or which has accepted deposits of more than 25 crore INR at any point of time during the last financial 
+year
+5.8. Audit of items of cost: The central government may, by order, in respect of such class of companies engaged in the production 
+of such goods or providing such services as may be prescribed, direct that particulars relating to the utilisation of material 
+or labour or to other items of cost as may be prescribed shall also be included in the books of account kept by that class of 
+companies. By virtue of this section of the 2013 Act, the cost audit would be mandated for certain companies. [section 148 of 
+2013 Act]. It is pertinent to note that similar requirements have recently been notified by the central government.
+6. Regulators 
+6.1. National Company Law Tribunal (Tribunal or NCLT): In accordance with the Supreme Court’s (SC) judgement, on 11 May 
+2010, on the composition and constitution of the Tribunal, modifications relating to qualification and experience, etc. of the 
+members of the Tribunal has been made. Appeals from the Tribunal shall lie with the NCLT. Chapter XXVII of the 2013 Act 
+consisting of section 407 to 434 deals with NCLT and appellate Tribunal.
+6.2. National Financial Reporting Authority (NFRA):  The 2013 Act requires the constitution of NFRA, which has been bestowed 
+with significant powers not only in issuing the authoritative pronouncements, but also in regulating the audit profession.
+6.3. Serious Fraud Investigation Office (SFIO): The 2013 Act has bestowed legal status to SFIO.
+Companies Act, 2013    97. Mergers and acquisitions
+The 2013 Act has streamlined as well as introduced concepts such as reverse mergers (merger of foreign companies with 
+Indian companies) and squeeze-out provisions, which are significant. The 2013 Act has also introduced the requirement for 
+valuations in several cases, including mergers and acquisitions, by registered valuers.
+8. Corporate social responsibility
+The 2013 Act makes an effort to introduce the culture of corporate social responsibility (CSR) in Indian corporates by 
+requiring companies to formulate a corporate social responsibility policy and at least incur a given minimum expenditure on 
+social activities.
+9. Class action suits
+The 2013 Act introduces a new concept of class action suits which can be initiated by shareholders against the company  
+and auditors.
+10. Prohibition of association or partnership of persons exceeding certain number
+The 2013 Act puts a restriction on the number of partners that can be admitted to a partnership at 100. To be specific, the 
+2013 Act states that no association or partnership consisting of more than the given  number of persons as may be prescribed 
+shall be formed for the purpose of carrying on any business that has for its object the acquisition of gain by the association or 
+partnership or by the individual members thereof, unless it is registered as a company under this 1956 Act or is formed under 
+any other law for the time being in force:
+As an exception, the aforesaid restriction would not apply to the following:
+•	 A Hindu undivided family carrying on any business
+•	 An association or partnership, if it is formed by professionals who are governed by special acts like the Chartered 
+Accountants Act, etc.[section 464 of 2013 Act]
+11. Power to remove difficulties
+The central government will have the power to exempt or modify provisions of the 2013 Act for a class or classes of companies 
+in public interest. Relevant notification shall be required to be laid in draft form in Parliament for a period of 30 days. The 
+2013 Act further states no such order shall be made after the expiry of a period of five years from the date of commencement 
+of section 1 of the 2013 Act [section 470 of 2013 Act].
+12. Insider trading and prohibition on forward dealings
+The 2013 Act for the first time defines ‘insider trading and price-sensitive information and prohibits any person including the 
+director or key managerial person from entering into insider trading [section 195 of 2013 Act]. Further, the Act also prohibits 
+directors and key managerial personnel from forward dealings in the company or its holding, subsidiary or associate company 
+[section 194 of 2013 Act].
+10 PwCSetting up of a company
+2
+Companies Act, 2013    11Incorporation of a company
+1. One-person company
+The 2013 Act introduces a new type of entity to the existing list i.e. apart from forming a public or private limited company, the 
+2013 Act enables the formation of a new entity ‘one-person company’ (OPC). An OPC means a company with only one person as its 
+member [section 3(1) of 2013 Act].The draft rules state that only a natural person who is an Indian citizen and resident in India can 
+incorporate an OPC or be a nominee for the sole member of an OPC. *
+2. Memorandum of association
+Content: The 2013 Act specifies the mandatory content for the memorandum of association which is similar to the existing provisions 
+of the 1956 Act and refers inter-alia to the following:
+•	 Name of the company with last word as limited or private limited as the case may be
+•	 State in which registered office of the company will be situated 
+•	 Liability of the members of the company 
+However, as against the existing requirement of the 1956 Act, the 2013 Act does not require the objects clause in the memorandum to 
+be classified as the following:
+(i) The main object of the company
+(ii)  Objects incidental or ancillary to the attainment of the main object
+(iii)  Other objects of the company [section 4(1) of 2013 Act]
+The basic purpose in the 1956 Act for such a classification as set out in section 149 of the 1956 Act, is to restrict a company from 
+commencing any business to pursue ‘other objects of the company’ not incidental or ancillary to the main objects except on 
+satisfaction of certain requirements as prescribed in the 1956 Act like passing a special resolution, filing of declaration with the ROC 
+to the effect of resolution.
+Reservation of name: The 2013 Act incorporates the procedural aspects for applying for the availability of a name for a new company 
+or an existing company in sections 4(4) and 4(5) of 2013 Act.
+3. Articles of association
+The 2013 Act introduces the entrenchment provisions in respect of the articles of association of a company. An entrenchment 
+provision enables a company to follow a more restrictive procedure than passing a special resolution for altering a specific clause 
+of articles of association. A private company can include entrenchment provisions only if agreed by all its members or, in case of a 
+public company, if a special resolution is passed[section 5 of 2013 Act].
+4. Incorporation of company  
+The 2013 Act mandates inclusion of declaration to the effect that all provisions of the 1956 Act have been complied with, which is in 
+line with the existing requirement of 1956 Act. 
+Additionally, an affidavit from the subscribers to the memorandum and from the first directors has to be filed with the ROC, to the 
+effect that they are not convicted of any offence in connection with promoting, forming or managing a company or have not been 
+found guilty of any fraud or misfeasance, etc., under the 2013 Act during the last five years along with the complete details of name, 
+address of the company, particulars of every subscriber and the persons named as first directors.
+The 2013 Act further prescribes that if a person furnishes false information, he or she, along with the company will be subject to 
+penal provisions as applicable in respect of fraud i.e. section 447 of 2013 Act [section 7(4) of 2013 Act; Also refer the chapter on 
+other areas]
+5. Formation of a company with charitable objects
+An OPC with charitable objects may be incorporated in accordance with the provisions of the 2013 Act. New objects like  
+environment protection, education, research, social welfare etc., have been added to the existing object for which a charitable 
+company could be incorporated. 
+As against the existing provisions under which a company’s licence could be revoked, the 2013 Act provides that the licence can be 
+revoked not only where the company contravenes any of the requirements of the section but also where the affairs of the company 
+are conducted fraudulently or in a manner violative of the objects of the company or prejudicial to public interest. The 2013 Act thus 
+provides for more stringent provisions for companies incorporated with charitable objects[section 8 of 2013 Act].The 2013 Act introduces a new form of entity ‘one-person company’ and incorporates certain 
+new provisions in respect of memorandum and articles of association. For instance, the concept of 
+including entrenchment provisions in the articles of association has been introduced.
+12 PwC6. Commencement of business, etc
+The existing provisions of the 1956 Act as set out in section 149 which provide for requirement with respect to the commencement of 
+business for public companies that have a share capital would now be applicable to all companies. 
+The 2013 Act empowers the ROC to initiate action for removal of the name of a company in case the company’s directors have 
+not filed the declaration related to the payment of the value of shares agreed to be taken by the subscribers to the memorandum  
+and that the paid-up share capital of the company is not less than the prescribed limits as per the 2013 Act, within 180 days of its 
+incorporation and if the ROC has reasonable cause to believe that the company is not carrying on business or operations [section 11 
+of 2013 Act].
+7. Registered office of company
+Where a company has changed its name in the last two years, the company is required to paint, affix or print its former names along 
+with the new name of the company on business letters, bill heads, etc. However, the 2013 Act is silent on the time limit for which the 
+former name needs to be kept [section 12 of 2013 Act].
+8. Alteration of memorandum
+The 2013 Act imposes additional restriction on the alteration of the object clause of the memorandum for a company which had 
+raised money from the public for one or more objects mentioned in the prospectus and has any unutilised money. The 2013 Act 
+specifies that along with obtaining an approval by way of a special resolution, a company would be required to ensure following if it 
+intends to alter its object clause: 
+•	 Publishing the notice of the aforesaid resolution stating the justification of variation in two newspapers
+•	 Exit option can be given to dissenting shareholders by the promoters and shareholders having control in accordance with the 
+regulations to be specified by the Securities and Exchange Board of India (SEBI) [section 13 of 2013 Act].
+9. Subsidiary company not to hold shares in its holding company
+The existing provision of section 42 of the 1956 Act which prohibits a subsidiary company to hold shares in its holding company 
+continues to get acknowledged in the 2013 Act. Thus, the earlier concern that if a subsidiary is a body corporate, it may hold shares 
+in another body corporate which is the subsidiary’s holding company continues to apply[section 19 of 2013 Act].
+Prospectus and public offer
+The 2013 Act has introduced a new section [section 23] to explicitly provide the ways in which a public company or private company 
+may issue securities. This section explains that a public company may issue securities in any of the following manners:
+•	 To public through prospectus 
+•	 Through private placement
+•	 Through rights issue or a bonus issue.
+For private companies, this section provides that it may issue securities through private placement, by way of rights issue or  
+bonus issue.
+Section 23 also provides that compliance with provisions of part I of chapter III is required for the issue of securities to public through 
+prospectus. For private placement compliance, with the provisions of part II of chapter III are required.
+The 2013 Act also introduces certain changes with respect to prospectus and public offers aimed at enhancing disclosure 
+requirements as well as streamlining the process of issuance of securities. 
+1. Issue of prospectus
+Currently, the matters and reports to be included in the prospectus are specified in parts I and II of Schedule II of the 1956 Act. In 
+the 2013 Act, the information to be included in the prospectus is specified in section 26 of 2013 Act. The 2013 Act mandates certain 
+additional disclosures:
+•	 Any litigation or legal action pending or taken by a government department or a statutory body during the last five years 
+immediately preceding the year of the issue of prospectus against the promoter of the company
+Companies Act, 2013    13•	 Sources of promoter’s contribution  
+The 2013 Act has also relaxed the disclosure requirements in some areas. Examples of certain disclosures not included in the 2013 
+Act are as follows. Particulars regarding the company and other listed companies under the same management, which made any 
+capital issues during the last three years
+ - Export possibilities and export obligations
+ - Details regarding collaboration
+The 2013 Act states that the report by the auditors on the assets and liabilities of business shall not be earlier than 180 days before the 
+issue of the prospectus [section 26 (1) (b)(iii) of 2013 Act]. The 1956 Act currently requires that the report will not be earlier than 120 
+days before the issue of the prospectus.
+2. Variation in terms of contract or objects  
+The 2013 Act states that a special resolution is required to vary the terms of a contract referred to in the prospectus or objects for which 
+the prospectus was issued [section 27 (1) of 2013 Act]. The 1956 Act currently requires approval in a general meeting by way of an 
+ordinary resolution. The 2013 Act also requires that dissenting shareholders shall be given an exit offer by promoters or controlling 
+shareholders [section 27 (2) of 2013 Act].
+3. Offer of sale of shares by certain members of the company
+The 2013 Act includes a new section under which members of a company, in consultation with the board of directors, may offer a part 
+of their holding of shares to the public. The document by which the offer of sale to the public is made will be treated as the prospectus 
+issued by the company. The members shall reimburse the company all expenses incurred by it [section 28 of 2013 Act].
+4. Shelf prospectus
+The 2013 Act extends the facility of shelf prospectus by enabling SEBI to prescribe the classes of companies that may file a shelf 
+prospectus. The 1956 Act currently limits the facility of shelf prospectus to public financial institutions, public sector banks or 
+scheduled banks [section 31 (1) of 2013 Act].
+6. Global depository receipts (GDRs)
+The 2013 Act includes a new section to enable the issue of depository receipts in any foreign country subject to prescribed conditions 
+[section 41 of 2013 Act]. Currently, the provisions of section 81 of the 1956 Act relating to further issue of shares are being used in 
+conjunction with the requirements mandated by SEBI for the issuance of depository receipts. In several aspects across the 2013 Act, it 
+appears that the 2013 Act supplements the powers of SEBI by incorporating requirements already mandated by SEBI. 
+7. Private placement  
+The 2013 Act requires that certain specified conditions are complied with in order to make an offer or invitation of offer by way of 
+private placement or through the issue of a prospectus. 
+•	 The offer of securities or invitation to subscribe securities in a financial year shall be made to such number of persons not 
+exceeding 50 or such higher number as may be prescribed {excluding qualified institutional buyers, and employees of the company 
+being offered securities under a scheme of employees stock option in a financial year and on such conditions (including the form 
+and manner of private placement) as may be prescribed}. This provision of the 2013 Act is in line with the existing provision of the 
+1956 Act.
+•	 The allotments with respect to any earlier offer or invitation may have been completed.
+•	 All the money payable towards the subscription of securities shall be paid through cheque, demand draft or any other banking 
+channels but not by cash.
+•	 The offers shall be made only to such persons whose names are recorded by the company prior to the invitation to subscribe, and 
+that such persons shall receive the offer by name.
+•	 The company offering securities shall not release any advertisements or utilise any media, marketing or distribution channels or 
+agents to inform the public at large about such an offer [section 42 of 2013 Act].
+14 PwCShare capital and debentures
+The chapter on share capital and debentures introduces some key changes in the 2013 Act. To illustrate, the 2013 Act does not give 
+any cognisance to the existing requirement of section 90 of the 1956 Act that provided some saving grace to private companies. 
+Therefore, the applicability of following sections of the 2013 Act is no longer restricted to public companies and private companies 
+which are subsidiaries of a public company and are now applicable to private companies also.
+•	 Two kinds of shares capital
+•	 New issue of shares capital to be only of two kinds
+•	 Voting rights 
+1. Voting rights 
+The provisions of 2013 Act regarding voting rights are similar to the existing section 87 of the 1956 Act. The only change noted in the 
+2013 Act is the removal of distinction provided by the 1956 Act with respect to the entitlement to vote in case the company fails to 
+pay dividend to its cumulative and non-cumulative preference share holders [section 47 of 2013 Act]
+The provisions regarding private placement and additional disclosures in prospectus will also help to 
+strengthen the capital markets.
+The 2013 Act proposes to re-instate the existing concept of shares with differential voting rights. 
+Pursuant to this section the company may face hardship with regards to computation of proportionate 
+voting rights.
+2. Variation of shareholder’s rights 
+Similar to the other provisions of the 1956 Act, the 2013 Act acknowledges the requirements of section 106 of the 1956 Act with an 
+additional requirement in respect of those classes of share holders whose rights are affected pursuant to any variation. The proviso to 
+section 48(1) of 2013 Act states that if the variation by one class of shareholders affects the rights of any other class of shareholders, 
+the consent of three-fourths of such other class of shareholders shall also be obtained and the provisions of this section shall apply to 
+such variation. 
+3. Application of premiums received on issue of shares 
+The 2013 Act lays down a similar requirement in section 52 as that of the section 78 of the 1956 Act in respect of application of 
+premiums received on issue of shares; however, the section of 2013 Act has a non-obstante provision in respect of certain class of 
+companies which would be prescribed at a later date. The 2013 Act states that these classes of companies would not be able to apply 
+the securities premium towards the below specified purposes, unless the financial statements are in compliance with the accounting 
+standards issued under section 133 of 2013 Act: 
+•	 Paying up unissued equity shares of the company as fully paid bonus shares
+•	 Writing off the expenses of or the commission paid or discount allowed on any issue of equity shares of the company
+•	 Purchase of its own shares or other securities 
+The 2013 Act restricts the application of securities premium for a certain class of companies if they 
+fail to comply with the accounting standards. The 2013 Act continues to state that securities premium 
+amount can be utilised for purpose of writing off preliminary expenses. However, in view of the 
+requirements of accounting standard 26, intangible asset, the requirement of this sub-section appears to 
+be superfluous.
+4. Prohibition on issue of shares at a discount 
+Companies would no longer be permitted to issue shares at a discount. The only shares that could be issued at a discount are sweat 
+equity wherein shares are issued to employees in lieu of their services[section 53 and Section 54 of 2013 Act].
+Further, explanations I and II to the existing section 79A of the 1956 Act that prescribe the provisions in respect of sweat equity  
+have not been included in the 2013 Act. Explanation I defined company for the purpose of this section and explanation II defined 
+sweat equity.
+5. Issue and redemption of preference shares
+The existing requirement of sections 80 and 80A of the 1956 Act with  respect to the issue and redemption of preference shares 
+continues to be acknowledged by the 2013 Act. The 2013 Act reiterates the existing requirement that a company cannot issue 
+preference shares with a redemption date of beyond 20 years. However, it gives an exemption for cases where preference shares 
+Companies Act, 2013    15have been issued in respect of infrastructure projects. Infrastructure projects have been defined in Schedule VI of the 2013 Act and 
+these shares would be subject to redemption at such percentage as prescribed on an annual basis at the option of such preference 
+shareholders.
+Further, the 2013 Act adds another administrative requirement of obtaining special resolution with  respect to the  preference shares 
+which could not be redeemed by a company. The 2013 Act states that where a company is not in a position to redeem any preference 
+shares or to pay dividend, if any, on such shares in accordance with the terms of issue, it may, with the consent of the holders of 
+three-fourths in value of such preference shares and with the approval of the Tribunal issue further redeemable preference shares 
+equal to the amount due, including the dividend thereon, with  respect to the  unredeemed preference shares. On the issue of such 
+further redeemable preference shares, the unredeemed preference shares shall be deemed to have been redeemed.
+The 2013 Act does not envisage any penalty in respect of non-compliance with the provision of this section, as was prescribed in sub-
+section (6) and (3) of section 80 and 80A of the 1956 Act respectively [section 55 of 2013 Act].
+6. Refusal of registration and appeal against registration
+The provision relating to refusal of registration of transfer or transmission of securities by private and public companies has been 
+separately clarified in the 2013 Act. The private and public companies are required to send notice of refusal within 30 days of the 
+receipt of instrument of transfer, and aggrieved party may appeal to the Tribunal against the refusal within the specified number of 
+days [section 58(2) of 2013 Act].
+7. Further issue of share capital
+The existing requirement of section 81 of the 1956 Act in regard to further issue of capital would no longer be restricted to public 
+companies and would be applicable to private companies also, since sub-section 3 of section 81 of the 1956 Act has not been 
+acknowledged in the 2013 Act.
+Further, the 2013 Act provides that a rights issue can also be made to the employees of the company who are under a scheme of 
+employees’ stock option, subject to a special resolution and subject to conditions as prescribed. Further, the price of such shares 
+should be determined using the valuation report of a registered valuer, which would be subject to conditions as prescribed [section 
+62 of 2013 Act].
+8. Issue of bonus shares
+The existing 1956 Act does not have any specific provision dealing with issue of bonus shares although it has referred to the concept 
+of bonus shares at many places. The 2013 Act includes a new section that provides for issue of fully paid-up bonus shares out of its 
+free reserves or the securities premium account or the capital redemption reserve account, subject to the compliance with certain 
+conditions such as authorisation by the articles, approval in the general meeting and so on [section 63 of 2013 Act].
+9. Unlimited company to provide for reserve share capital on conversion into limited company
+This section corresponds to section 32 of the 1956 Act and seeks to provide that an unlimited company having a share capital may 
+be re-registered as a limited company by increasing the nominal amount of each share, subject to the condition that no part of the 
+increased capital shall be capable of being called up, except in the event and for the purposes of the company being wound up. The 
+2013 Act further provides that a specified portion of its uncalled share capital shall not be capable of being called up except in the 
+event and for the purposes of the company being wound up[section 65 of 2013 Act].
+10. Reduction of share capital
+The 2013 Act gives cognisance to one of the amendments made in the listing agreement by SEBI. A new clause 24(i) was inserted 
+to the listing agreement which provided that a scheme of amalgamation or merger or reconstruction, should comply with the 
+requirements of section 211(3C) of the 1956 Act. A similar requirement has been introduced in section 66 of 2013 Act, which states 
+that no an application for reduction of share capital shall be sanctioned by the Tribunal unless the accounting treatment, proposed  
+by the company for such a reduction is in conformity with the accounting standards specified in section 133 or any other provision  
+of the 2013 Act and a certificate to that effect by the company’s auditor has been filed with the Tribunal.
+Further, the 2013 Act clarifies that no such reduction shall be made if the company is in arrears in repayment of any deposits 
+accepted by it, either before or after the commencement of the 2013 Act, or the interest payable thereon. 
+11. Power of the company to purchase its own securities 
+The existing provision of section 77A of the 1956 Act has been acknowledged by the 2013 Act. The only difference is that the option 
+available to company for a buy-back from odd lots is no longer available [section 68].
+The 2013 Act provides flexibility in management and administration by recognising the electronic mode for notices and voting, 
+which is in line with the MCA’s efforts to give cognisance to use of electronic media as evident from a number of green initiatives’ 
+introduced recently, maintenance of registers and returns at a place other than the registered office.
+16 PwCManagement and
+administration
+3
+Companies Act, 2013    171. Annual return
+The 2013 Act states that requirement of certification by a company secretary in practice of annual return will be extended to 
+companies having paid up capital of five crore INR or more and turnover of 25 crore INR or more* (section 92(2) of 2013 Act and the 
+1956 Act requires certification only for listed companies). 
+The information that needs to be  included in the annual return has been increased. The additional information required, includes 
+particulars of holding, subsidiary and associate companies, remuneration of directors and key managerial personnel, penalty or 
+punishment imposed on the company, its directors or officers [section 92(1) of 2013 Act].
+2. Place of keeping registers and returns
+The 2013 Act allows registers of members, debenture-holders, any other security holders or copies of return, to be kept at any other 
+place in India in which more than one-tenth of members reside [section 94(1) of 2013 Act]. The flexibility in the 1956 Act is limited 
+to a place within the city, town or village in which the registered office is situated.
+3. General meetings  
+The 2013 Act states that the first annual general meeting should be held within nine months from the date of closing of the first 
+financial year of the company [section 96(1) of 2013 Act], whereas the 1956 Act requires the first annual general meeting to be held 
+within 18 months from the date of incorporation. 
+Currently, the 1956 Act does not define business hours, which the 2013 Act now defines as between 9 am and 6 pm. The 2013 Act 
+states that annual general meeting cannot be held on a national holiday whereas the annual general meeting cannot be held on a 
+public holiday as per the existing provisions of section 166(2) of the 1956 Act [section 96(2) of 2013 Act].
+In order to call an annual general meeting at shorter notice, the 2013 Act requires consent of 95% of the members as against the 
+current requirement in the 1956 Act which requires consent of all the members [section 101(1) of 2013 Act].
+The 2013 Act states that besides director and manager, the nature of concern or interest of every director, manager, any other key 
+managerial personnel and relatives of such director, manager or any other key managerial personnel in each item of special business 
+will also need to be mentioned in the notice of the meeting [section 102 (1) of 2013 Act]. Also, the threshold of disclosure of share 
+holding interest in the company to which the business relates of every promoter, director, manager and key managerial personnel has 
+been reduced from 20% to 2% [section 102 (2) of 2013 Act].
+The 2013 Act states that in case of a public company, the quorum will depend on number of members as on the date of meeting. The 
+required quorum is as follows:
+•	 Five  members if number of members is not more than one thousand
+•	 Fifteen members if number of members is more than one thousand but up to five thousand
+•	 Thirty members if number of members is more than five thousand [section 103 (1) of 2013 Act]
+A limit has been introduced on the number of members which a proxy can represent. The 2013 Act has introduced a dual limit in 
+terms of number of members, which is prescribed as 50 members and also sets a limit in terms of number of shares holding in the 
+aggregate not more than 10 % of the total share capital of the company carrying voting rights* [section 105 (1) of 2013 Act].
+Further, it is  relevant to note that private companies cannot impose restrictions on voting rights of members other than due to 
+unpaid calls or sums or lien [section 106 (1) of 2013 Act].
+Listed companies will be required to file with the ROC a report in the manner prescribed in the rules on each annual general meeting 
+including a  confirmation that the meeting was convened, held and conducted as per the provisions of the 2013 Act and the relevant 
+rules [section 121 of 2013 Act].
+4. Other matters
+Listed companies will be required to file a return with the ROC with respect to the  change in the number of shares held by promoters 
+and top ten shareholders within 15  days of such a change[section 93 of 2013 Act]. This requirement again demonstrates the effort 
+made towards synchronising the requirements under the 2013 Act and the requirements under SEBI. Additionally, on an annual 
+basis, companies are also currently required to make the disclosures with respect to top shareholders under the Revised Schedule VI 
+the 1956 Act.
+The 2013 Act requires every company to observe secretarial standards specified by the Institute of Company Secretaries of India with 
+respect to general and board meetings [section 118 (10) of 2013 Act], which were hitherto not given cognisance under the 1956 Act. 
+Additionally, it is also pertinent to note that these standards do not have a mandatory status for the practicing company secretaries.The 2013 Act also intends to improve corporate governance by requiring disclosure of nature of 
+concern or interest of every director, manager, any other key managerial personnel and relatives 
+of such a director, manager or any other key managerial personnel and reduction in threshold 
+of disclosure from 20% to 2%. The term ‘key managerial personnel’ has now been defined in the 
+2013 Act and means the chief executive officer, managing director, manager, company secretary, 
+whole-time director,  chief financial officer and any such other officer as may be prescribed.
+18 PwCDirectors
+4
+Companies Act, 2013    19General
+1. Woman director
+The category of companies which need to comply with the requirement of having at least of one woman director are as follows: * 
+[section 149(1) of 2013 Act] 
+(i) Every listed company, within one year from the commencement of second proviso to sub-section (1) of section 149
+(ii) Every other public company that has paid–up share capital of one hundred crore rupees  or more, or  a   turnover of three 
+hundred crore rupees or more within three years from the commencement of second proviso to sub-section (1) of section 149
+While this new requirement will go a long way in encouraging gender diversity, it has already created quite a stir in the manner in 
+which companies will ensure compliance. 
+2. Number of directorship
+The 2013 Act increases the limit for number of directorships that can be held by an individual from 12 to 15 [section 149(1) of 2013 
+Act].3. One director to be resident in India
+A new requirement with respect to directors is that at least one director to have stayed in India for at least 182 days in the previous 
+calendar year [section 149(3) of 2013 Act]. This requirement appears to be a departure from the focus given in the 2013 Act towards 
+use of electronic mode such as use of video conferences for meetings and electronic voting.  With the increasing use of electronic 
+media, the need, for a director to be resident in India for a minimum amount of time, becomes redundant.
+4. Independent directors
+One of the significant aspects of the 2013 Act is the effort made towards incorporating some of the salient requirements mandated by 
+the SEBI in clause 49 of the listing agreement in the 2013 Act itself. To this effect, the 2013 Act requires every listed public company 
+to have at least one-third of the total number of directors as independent directors. Further, the central government in the draft rules 
+has prescribed the minimum number of independent directors in case of the following classes of public companies* [section 149(4) 
+of 2013 Act]. 
+(i) Public companies having paid up share capital of 100 crore INR or more; or
+(ii) Public companies having turnover of 300  crore INR or  more
+(iii) Public companies which have, in aggregate, outstanding loans or borrowings or debentures or deposits, exceeding 200  crore 
+INR 
+The 2013 Act also states that  companies will have a period of one year to ensure compliance with the 2013 Act and the Rules that  
+are framed.
+4.1 Conflicting requirements
+While there have been attempts to harmonise the requirements of SEBI and the 2013 Act was made, there are several aspects relating 
+to independent directors where the requirements of the 2013 Act differ from that of clause 49 of the equity listing agreement. The 
+requirements of the 2013 Act and the manner in which they differ from those under  the clause 49 of the equity listing agreement 
+include the definition itself. The other main differences are as follows:
+•	 Clause 49 does not require the board to exercise its judgment and opine on whether the independent director is a person of 
+integrity or has relevant expertise or experience. This requirement poses difficultly in terms of the manner in which integrity of 
+an individual can be assessed by the board.
+•	 Clause 49 does not require examination of the independence of the relatives of independent directors. Extending the 
+disqualification of the independent directors to consider the pecuniary relationship of the relatives would pose unnecessary 
+hardship for the independent directors. 
+•	 The qualification of the independent director has been left to be specified later. 
+•	 The 2013 Act brings the constitution of the board in India at par with other international capital markets i.e., by mandating 
+at least one-third of the board to be independent directors in case of listed companies. Whereas, the SEBI requirements are 
+where the chairman of the board is a non-executive director, at least one-third of the board should comprise of independent 
+directors and where the non-executive chairman is a promoter of the company or is related to any promoter or person occupying 
+management positions at the board level or at one level below the board, at least one-half of the board of the company shall 
+consist of independent directors.
+Differing compliance requirements with  respect to the appointment of independent directors, 
+remuneration thereto, imposed by multiple regulators will lead to hardship as well increased cost of 
+compliance for companies. 
+20 PwCThe 2013 Act limits the tenure of office of an independent director to a maximum of two tenures of five consecutive years, with a 
+cooling-off period of three years between the two tenures. During the cooling-off period of three years, should not be appointed in or be 
+associated with the company in any other capacity, either directly or indirectly [proviso to section 149(11) of 2013 Act].
+It is also relevant to note that the MCA had released the corporate governance voluntary guidelines in 2009, which permitted three  
+tenures (with other conditions similar to those discussed above) for an independent director while as per the clause 49 of the equity 
+listing agreement, an independent director cannot serve for more than nine consecutive years.
+Stock options: As per the 2013 Act, an independent director will not be eligible to get stock options but may get payment of fees 
+and profit linked commission subject to limits specified or to be specified in the rules [section 149 (9) of 2013 Act]. This again, is in 
+contradiction with SEBI’s requirements, whereby for the purpose of granting stock options, the term employee includes independent 
+directors also.
+4.2 Databank of independent directors
+The 2013 Act makes the appointment process of the independent directors, independent of the company’s management by 
+constituting a panel or a data bank to be maintained by the MCA, out of which companies may choose their independent directors. 
+The proposal has its origins in the report of the 21st Standing Committee on finance, wherein it was acknowledged that preparation 
+of a databank of independent directors would vest with a regulatory body that may comprise of representatives of MCA, SEBI, 
+Reserve Bank of India, professional institutions, Chambers of Commerce and Industry etc [section 150 of 2013 Act].
+A drawback of constituting a panel of independent directors is that it may discourage people from registering with the panel and in 
+that sense limit the options available to a company for appointment of independent directors.  
+4.3 Code for independent director
+The 2013 Act includes Schedule IV ‘Code for Independent Directors’ (Code) which broadly prescribes the following for independent 
+directors:
+•	 Professional conduct
+•	 Role and functions
+•	 Duties
+•	 Manner of appointment
+•	 Reappointment
+•	 Resignation or removal
+•	 Holding separate meetings
+•	 Evaluation mechanism
+The code appears to be mandatory which would lead to some of the following concerns:
+•	 The code states that an independent director shall uphold ethical standards of integrity and probity, however what would 
+constitute ethical behaviour is not defined and is open to interpretation.
+•	 The code does not give any cognisance to the need for training for the independent directors.
+•	 The code refers to appointment of independent directors by the board after evaluating certain attributes. The concern that 
+remains unaddressed is the manner in which companies need to carry out an assessment of the attributes of an independent 
+director as specified under ‘manner of appointment’ in the code from the databank maintained by the MCA.
+4.4 Liability of independent directors
+The 2013 Act makes an attempt to distinguish between the liability of an independent director and non-executive director from 
+the rest of the board and has accordingly inserted a provision to provide immunity from any civil or criminal action against the  
+independent directors. The intention and effort to limit liability of independent directors is demonstrated from the section 149(12) of 
+the 2013 Act which inter-alia provides that liability for independent directors would be as under:
+“Only in respect of such acts of omission or commission by a company which had occurred with his knowledge, attributable through 
+board processes,  with his consent or connivance or where he had not acted diligently.”
+The section seeks to provide immunity from civil or criminal action against independent directors in certain cases. Further, in 
+accordance with the requirement of section 166 (2) of 2013 Act, whole of the board is required to act in good faith in order to 
+promote the objects of the company for the benefit of its members as a whole, and in the best interest of the company, its employees, 
+the shareholders, the community and for the protection of the environment. By virtue of this section the duty of independent 
+directors actually goes beyond its normal definition and is not restricted to executive directors only.
+It is amply clear that independent directors have little or no defence  and their obligations continues to remain a debatable topic since 
+they would still be treated equivalent to the  other directors by holding them responsible for decisions made through board processes.
+Companies Act, 2013    215. Appointment of an additional director
+It is pertinent to note that, in order to discourage inappropriate practices, the 2013 Act states that any person who fails to get elected 
+as a director in the general meeting can no longer be appointed as an additional director by the board of directors [section 161 of 
+2013 Act].
+6. Additional compliance requirements for private companies
+There are certain increased compliance requirements mandated for private companies which, till now, were mandated only for 
+public companies and private companies which are subsidiaries of public companies. These include the following:
+•	 Appointment of director to be voted individually 
+•	 Option to adopt principle of proportional representation for appointment of directors
+•	 Ineligibility on account of non-compliance with section 274(1)) (g) now extended  for appointment or reappointment as a 
+director in a private limited company also.
+Meetings of the board and its powers
+There have been significant inroads made by the MCA in the recent past with respect to giving cognisance to use of electronic media 
+in day-to-day operations of corporates. The 2013 Act takes this further by allowing use of electronic mode for sending notice of 
+meetings [section 173(3) of 2013 Act], passing of resolution by circulation [section 175 of 2013 Act] and other areas. Some of the 
+other significant changes in relation to the board and its functioning include:
+1. Audit committee
+The requirements relating to audit committees was first introduced by the Companies (Amendment) Act, 2000. Audit committees 
+are a measure of ensuring self discipline, constituted with the object to strengthen and oversee management in public companies 
+and to ensure that the board of directors discharge their functions effectively. The 2013 Act acknowledges the importance of an audit 
+committee and entrusts it with additional roles and responsibilities [section 177 of 2013 Act]. 
+However, the fact that the 2013 Act is not entirely in harmony with the requirements of clause 49 of the equity listing agreement, 
+cannot be ignored. While most of the requirements including establishment of a ‘vigil mechanism’ for directors and employees to 
+report genuine concerns, that are similar to the requirements of clause49 of the equity listing agreement have been incorporated in 
+the 2013 Act, the differences are as follows:
+•	 As per the 2013 Act, the audit committee should have majority of independent directors.
+•	 Chairman of the audit committee need not be an independent director.
+•	 A majority of the members of the audit committee should be financially literate, i,e. should have the ability to read and 
+understand the financial statements.
+•	 Every listed company and the following class (es) of companies as prescribed in the draft rules should establish a vigil 
+mechanism for directors and employees to report genuine concerns such as :*
+-  Companies which accept deposits from the public
+-  Companies which have borrowed money from banks and public financial institutions in excess of fifty crore rupees
+2. Nomination and remuneration committee and stakeholders relationship committee
+The 2013 Act includes this new section requiring constituting the nomination and remuneration committee by every listed company 
+and the following classes of companies as prescribed in the draft rules:*
+(A)  Every listed company
+(B)  Every other public company that has  a paid-up capital of 100 crore INR  or more  or which has, in aggregate, outstanding loans 
+or borrowings or debentures or deposits exceeding 200 crore INR.
+The Nomination and Remuneration Committee is required to formulate and recommend to the Board of Directors, the company’s 
+policies, relating to the remuneration for the directors, key managerial personnel and other employees, criteria for determining 
+qualifications, positive attributes and independence of a director [section 178(1) of 2013 Act].  
+Further, a board of a company that has  more than 1000 shareholders, debenture-holders, deposit-holders and any other security 
+holders at any time during a financial year is required to constitute a Stakeholders Relationship Committee [section 178(5) of 2013 
+Act].
+22 PwC3. Contributions to charitable funds and political parties
+As per the 2013 Act the power of making contribution to ‘bona fide’ charitable and other funds is proposed to be available to the board subject 
+to certain limits [section 181 of 2013 Act].As per the existing requirement of section 293 of the 1956 Act, such power could only be exercised 
+in the general meeting in case of public companies and subsidiaries of public companies as per the 1956 Act.
+Further, the limits of contribution to political parties is proposed to be increased to 7.5% of the average net profits during the three 
+immediately preceding financial years  [section 182 of 2013 Act] from the existing limit of 5% under the 1956 Act.
+4. Disclosure of interest by director
+The 2013 Act prescribes similar requirements with  respect to the  disclosure of interest by the director as contained in the existing section 
+299 of the 1956 Act. The only change that could be identified is where a contract or arrangement entered into by the company without 
+disclosure of interest by director or with participation by a director who is concerned or interested in any way, directly or indirectly, in the 
+contract or arrangement, shall be voidable at the option of the company [section 184 of 2013 Act].
+5. Loans and investments by a company
+The 2013 Act states that companies can make investments only through two layers of investment companies subject to exceptions which 
+includes company incorporated outside India [section 186 of 2013 Act]. There are no such restrictions which are currently imposed under 
+the 1956 Act.
+Further, the exemption available from the provisions of section 372A of the 1956 Act to private companies as well as loans or investment 
+given or made by a holding company to its subsidiary company are no longer available under the 2013 Act.
+6. Related party transactions
+Most of the provisions under Section 188 of 2013 Act are quite similar to the requirements under sections 297 and 314 of the 1956 Act. Some 
+of key changes envisaged in the 2013 Act include the following:
+•	 Need for central government approval has been done away with.
+•	 The 2013 Act has widened the ambit of transactions such as leasing of property of any kind, appointment of any agent for purchase and 
+sale of goods, material, services or property.
+•	 Cash at prevailing market price has now been substituted with ‘arm’s length transaction’ which has been defined in the section.
+•	 Transactions entered into with related parties now to be included in the board’s report along with justification for entering into such 
+contracts and  arrangements.
+•	 Penalty for contravention of the provisions of section 297 was covered in general provisions in the 1956 Act. However, this is now 
+covered specifically in the section itself which now extends to imprisonment.
+•	 Central government may prescribe additional conditions.
+Appointment and remuneration of managerial personnel 
+The 2013 Act brings significant changes to the existing requirement of the 1956 Act with  respect to appointment and remuneration of 
+managerial personnel. One of the major changes that could be identified is in respect of the applicability of these provisions. The provisions 
+for appointment of managing director, whole time director or manager are no longer restricted to the public companies and the private 
+companies which are subsidiaries of public companies and now applicable to all companies. The overall ceiling in respect of payment of 
+managerial remuneration by a public company remains at 11% of the profit for the financial year computed in the manner laid down in the 
+2013 Act.
+1. Appointment of managing director, whole time director or manager [section 196 of 2013 Act].
+•	 The re-appointment of a managerial person cannot be made earlier than one year before the expiry of the term instead of two years as 
+per the  existing provision of section 317 of the 1956 Act, however, the term for which managerial personnel can be appointed remains as 
+five years.
+•	 The eligibility criteria for the age limit has been revised to 21 years as against the existing requirement of 25 years. Further, the 2013 
+Act lifts the upper bar for age limit and thus an individual above the age of 70 years can be appointed as key managerial personnel by 
+passing a special resolution.
+•	 Provisions in respect of appointment of the managerial personnel has been specified in section 196 and Schedule V to the 2013 Act. 
+Companies Act, 2013    232. Overall maximum managerial remuneration and managerial remuneration in case of absence or 
+inadequacy of profits [section 197 of 2013 Act].
+•	 As against the existing requirement of section 198 of the 1956 Act, which specifically provides that the provisions of managerial 
+remuneration would be applicable to both public companies and private companies which are subsidiaries of public companies; the 
+2013 Act states that such provisions would be applicable only to public limited companies.
+•	 Listed companies have been mandated to disclose in their board report, the ratio of remuneration of each director to median employee’s 
+remuneration and such other details which are quite extensive as proposed in the draft rules*. 
+•	 The existing 1956 Act under section 309 provides that a managing director or a whole time director of a subsidiary company who is in 
+receipt of commission from the holding company cannot receive any commission or remuneration from the subsidiary company. The 
+said restriction has been removed by the 2013 Act, however, such receipt has to be disclosed in the Board’s report [section 197(14) of 
+2013 Act].
+•	 The provisions of existing Schedule XIII of the 1956 Act have been incorporated in Schedule V of the 2013 Act and the requirements 
+have been structured around the same rules, with revised remuneration limits and certain additional requirements, for example, the 
+managerial personnel should not have been convicted of an offence under the Prevention of Money Laundering Act, 2002.
+•	 The 2013 Act has liberalised the administrative procedures by relaxing the requirement of obtaining the central government approval 
+provided the company complies with certain requirements including seeking approval by way of special resolution for payment of 
+managerial remuneration. Similar relaxation norms as envisaged in the 2013 Act had been incorporated in Schedule XIII of the 1956 Act 
+by virtue of the recent circulars issued by MCA. 
+•	 Definition of remuneration has undergone few changes in the 2013 Act. The 2013 Act in section 2(78), defines remuneration as any 
+money or its equivalent given or passed to any person for services rendered by him and includes perquisites as defined under the income-
+tax Act, 1961. The remuneration thus defined includes reimbursement of any direct taxes to managerial personnel. The 1956 Act defined 
+remuneration under section 198 by way of an explanation and provided for the certain specific inclusions that would be construed as 
+remuneration. Section 200 of the 1956 Act specifically prohibited tax free payments. The 2013 Act has indirectly incorporated the same 
+requirement by clarifying that the term remuneration includes any reimbursement of direct taxes. 
+•	 The 2013 Act clarifies that premium paid by a company for any insurance taken by a company on behalf of its managing director, whole 
+time director, manager, chief executive officer, chief financial officer or company secretary for indemnifying any of them against any 
+liability in respect of any negligence, default, misfeasance, breach of duty or breach of trust for which they may be guilty in relation to 
+the company would not be treated as part of remuneration except for the cases where person is proved to be guilty. The provisions cited 
+above are similar to that of the existing provisions of section 201 of the 1956 Act.
+3. Calculation of profits [section 198 of 2013 Act]
+The 2013 Act sets out in detail about the allowances and deductions that a company should include while computing the profits for the 
+purpose of determining the managerial remuneration. To illustrate, the 2013 Act states that while computing its profits, credit should not 
+be given for any change in the carrying amount of an asset or of a liability recognised in equity reserves including surplus in profit and loss 
+account on measurement of the asset or the liability at fair value.
+4. Recovery of remuneration in certain cases [section 199 of 2013 Act]
+The 2013 Act contains stringent provisions in case the company is required to restate its financial statements pursuant to fraud or non-
+compliance with any requirement under the 2013 Act and the Rules made there under. As against the existing requirement of section 309 of 
+the 1956 Act which only refers to the fact that excess remuneration paid to managerial personnel cannot be waived except with the previous 
+approval of the central government, the 2013 Act moves a step forward and enables the company to recover the excess remuneration paid 
+(including stock options) from any past or present managing director or whole time director or manager or chief executive officer who, 
+during the period for which the financial statements have been restated, has acted in such capacity.
+4. Appointment of key managerial personnel [section 203]
+The 2013 Act provides for mandatory appointment of following whole time key managerial personnel for every listed company and every 
+other company having a paid-up share capital of five crore INR or more*:
+(i)  Managing director, or chief executive officer or manager and in their absence, a whole-time director
+(ii) Company secretary
+(iii)  Chief financial officer
+Further, the 2013 Act also states that an individual cannot be appointed or reappointed as the chairperson of the company, as well as the 
+managing director or chief executive officer of the company at the same time except where the articles of such a company provide otherwise 
+or the company does not carry multiple businesses.
+24 PwCAccounts and audit
+5
+Companies Act, 2013    25Accounts
+The 2013 Act has introduced certain significant amendments in this chapter. It has also introduced several additional requirements 
+such as preparation of consolidated financial statements, additional reporting requirements for the directors in their report such as the  
+development and implementation of the risk management policy, disclosures in respect of voting rights not exercised directly by the 
+employees in respect of shares to which the scheme relates, etc., in comparison with the requirements of the 1956 Act. 
+1. Books of accounts
+Every company, similar to the requirement of the existing 1956 Act, is required to maintain books of accounts at its registered office. 
+[section 128(1) of the 2013 Act].  ‘Books of accounts’ are required to show (a) all money received and spent and details thereof, (b) 
+sales and purchases of goods, (c) assets and liabilities and (d) items of cost as may be prescribed. The books of accounts of a company 
+essentially provide the complete financial information of a company. 
+Further, with respect to branches, while the existing 1956 Act provides that where company has a branch office(s) proper summarized 
+returns, made up to date at interval of not more than three months was supposed to be sent by branch to the company at its registered 
+office or another place etc.,  such a requirement has now been done away with and only returns are to be periodically sent by the 
+branch to the registered office [section 128(2) of 2013 Act].
+Also, in keeping with the times, books of accounts and relevant papers can now be maintained in electronic mode [section 128(1) of 
+2013 Act].
+2. Cognisance of accounting standards
+In several instances across the 2013 Act, there are provisions which are also covered within  the accounting standards currently notified 
+under section 211(3C) of the 1956 Act and the Companies (accounting standards) Rules, 2006 there under. 
+There are certain differences in the manner in which a few terms have been defined under the 1956 Act. While the differences in some 
+of these terms may not have any adverse impact, in certain cases, these differences may create implementation issues. Differences in 
+definitions exist in the following cases:
+•	 Associate company
+•	 Control
+•	 Subsidiary company
+•	 Related party
+Associate company:  The definition of an associate company poses certain challenges since:
+•	 It includes joint ventures
+•	 Significant influence is defined to mean ‘control … of business decisions under an agreement’ 
+•	 It differs from the definition of an associate as per the Accounting Standard 23: Accounting for Investments in Associates in 
+Consolidated Financial Statements
+•	 The status of an associate and a joint venture cannot be equated since, the degree of control that a company can exercise in such 
+entities, varies significantly. While ‘joint control’ is the driving factor in case of joint ventures, a company can at the most only 
+‘participate’ in the operating or financing decisions in case of an associate company. 
+•	 With regard to the explanation to the section in the 2013 Act, which defines the term ‘significant influence, it is to be noted that if 
+a company has ‘control’ [control has been defined in section 2(27) of the 2013 Act] with respect to business decisions of another 
+company, such other company will  in fact be tantamount to a subsidiary and not an associate company. Hence, the use of the 
+term ‘control’ within  the definition of significant influence leads to a conflict between the two definitions (associate company and 
+subsidiary company). 
+We believe  that the terms which have been defined in the accounting standards, which also form a part of 
+the Companies Act, 1956, must  not been defined again in the case of an associate, control and subsidiary 
+company, in order to eliminate contradictions and ambiguity in compliance requirements. The concept of 
+definitions of the accounting standards having primary significance has  already been given cognizance in 
+the Revised Schedule VI to the Companies 1956 Act,1956, as well.
+Further, the definitions of the terms ‘associate’ and ‘significant influence’ are also not consistent with the definitions provided within  
+the Accounting Standard 18: Related Party Transactions, and Accounting Standard 23: Accounting for Investments in Associates in 
+Consolidated Financial Statements (AS 23). 
+26 PwCSubsidiaries: The term ‘control’, which is relevant with respect to identifying subsidiaries, has been defined in section 2(27) of the 
+2013 Act. While this definition mandates consideration of ‘share holding’ as one of the factors, the corresponding definition in AS 
+21: Consolidated Financial Statements (AS 21), refers to ‘voting power’. This issue is an existing one since a similar difference exists 
+between the definition of ‘subsidiary’, where the term ‘control’ is relevant under the existing 1956 Act [section 4(1) of the 1956 Act]. 
+Accordingly, while for consideration of an entity as a subsidiary for the purpose of consolidated financial statements (CFS), reference is 
+made to AS 21, for the purpose of any compliance with the 1956 Act, reference is made to section 4(1) of 1956 Act. 
+Now that the requirement of preparing consolidated financial statements has been included within  the 2013 Act itself, a conflict arises 
+as to whether the definition as per the 2013 Act should be considered for identifying a subsidiary or the definition as per the AS 21. In 
+any case, the company will be non-compliant with the requirement of either the 2013 Act or the AS. 
+With regard to related party, while there is a substantial difference between the definition under the 2013 Act and AS 18, the difference 
+does not impact the financial statements, since the disclosures in the financial statements will be continued to be made as per AS 18. 
+3. Consolidated financial statements
+The 2013 Act now mandates CFS for any company having a subsidiary,  associate  or a  joint venture [section 129(3)]. The manner of 
+consolidation is required to be in line with the requirements of AS 21 as per the draft rules.* Further, the 2013 Act requires adoption 
+and audit of CFS in the same manner as standalone financial statements of the holding company [section 129(4)].
+ Apart from CFS, the 2013 Act also requires a separate statement, containing the salient features of financial statements of its subsidiary 
+(ies) in a form as prescribed in the draft rules* [First proviso to section 129 (3)]. Further, section 137(1), also requires an entity to file 
+accounts of subsidiaries outside of India, along with the financial statements (including CFS). 
+While section 129 of the 2013 Act, requires all companies to file a statement containing salient features of the subsidiaries financial 
+statements, in addition to the CFS, section 137 of the 2013 Act further requires entities with foreign subsidiaries to submit  individual 
+financial statements of such foreign subsidiaries along with its own standalone and consolidated financial statements. There seems to 
+be significant amount of overlap and additional burden on companies with respect to these compliances. 
+To illustrate this point, in order to comply with these requirements, a company which has a global presence, with subsidiaries both 
+within as well as  outside India will need to comply to the following:
+•	 Prepare its standalone financial statements [section 129(1) of the 2013 Act]
+•	 Prepare a CFS, including all subsidiaries, associates and joint ventures (whether in India or outside) [section 129(3) of the 2013 
+Act]
+•	 Prepare a summary statement for all its subsidiaries, associates and joint ventures of the salient features of their respective 
+financial statements [Proviso to section 129(3) of the 2013 Act]
+•	 Submit the standalone financial statements of subsidiary(ies) outside India to the Registrar of Companies (RoC) [section 137(1) of 
+the 2013 Act].
+This situation clearly indicates the extent of duplication and additional costs which will be incurred by entities in order to provide the 
+same information in multiple forms or  formats. 
+Differing compliance requirements imposed by multiple regulators will lead to hardship as well increased 
+cost of compliance for companies. 
+Also, the requirement for unlisted entities to prepare a CFS, would substantially increase the cost of 
+compliance. Further, it does not serve a similar purpose as in the case of a listed entity. 
+Since there is already a requirement to attach a statement containing salient features of the financial 
+statements of the subsidiary, associate and joint venture,  preparation of a CFS will would lead to 
+duplication of preparing and presenting the same information in different forms.
+4. Re-opening of accounts and voluntary revision of financial statements or the board’s report
+A company would be able to re-open its books of accounts and recast its financial statements after making an application in this 
+regard to  the central government, the income tax authorities, the SEBI,  or any other statutory regulatory body or authority or any 
+other person concerned, and an order is made by a court of competent jurisdiction or the Tribunal under  the following circumstances 
+(section 130 of  the 2013 Act):
+•	  Relevant earlier accounts were prepared in a fraudulent manner
+Companies Act, 2013    27•	 The affairs of the company were mismanaged during the relevant period, casting a doubt on the reliability of the financial 
+statements 
+Further, a company would be able to undertake voluntary revision of financial statements or Board’s report if it appears to the 
+director of a company that the financial statement of the company or the board report does not comply with the provisions of section 
+129(financial statement) and section 134 of the 2013 Act (financial statements and board reports) in respect of any of three preceding 
+financial years, after obtaining approval from the Tribunal. The Tribunal shall give notice to the central government and the income tax 
+authorities and shall take into consideration the representations, if any, made by the government or the authorities before passing any 
+such order.
+To prevent misuse of these specific provisions, the section contains a proviso which states that such a revised financial statement or 
+report shall not be prepared or filed more than once within  a financial year and the detailed reasons for revision of such financial 
+statement or report shall also be disclosed in the board’s report in the relevant financial year in which such a revision is being made 
+(section 131 of 2013 Act).
+The provisions envisaged by the 2013 Act in respect of re-opening and voluntary  revision of the financial 
+statements and board report is yet to be acknowledged by SEBI in the equity listing agreement and thus, 
+pending similar amendment in the equity listing agreement,  listed companies may face unnecessary 
+hardships.
+5. Financial year
+The 2013 Act has introduced a significant difference in the definition of the term, ‘financial year’, which has been defined in section 
+2(41) of the 2013 Act to mean April to March. 
+There are several reasons for a company to use a year-end which is different from April to March. These include companies which are 
+subsidiaries of foreign companies which follow a different year-end or entities which have significant subsidiaries outside India which 
+need to follow a different year-end, etc. Accordingly, it would not be appropriate to mandate a single year-end for all companies. Since 
+the 2013 Act does not mandate any specific rules or requirements on the basis of a specific year, as in the case of tax laws, the reason for 
+requiring a uniform year-end under the 2013 Act, seems to be unclear. 
+Further,  recent notifications  or circulars of the Ministry seem to indicate relaxation in the norms for requiring approvals from the 
+Tribunal  or the   central government, etc for matters which are administrative or procedural in nature. Accordingly, the option 
+available with  companies to seek an exemption from the Tribunal  will  create additional administrative and procedural roadblocks, 
+with no benefits to the companies. Rather, they will need to expend additional costs as well as  time either by way of seeking an 
+exemption or preparing multiple sets of financial statements.
+Audit and auditors
+The 2013 Act features extensive changes within  the area of audit and auditors with a view to enhance audit effectiveness and 
+accountability of the auditors. These changes undoubtedly, have a considerable impact on the audit profession. However, it needs to 
+be noted that these changes will also have a considerable impact on the company in terms of  time, efforts and expectations involved. 
+Apart from introducing new concepts such as rotation of audit firms and class action suits, the 2013 Act also increases the auditor’s 
+liability substantially in comparison with the 1956 Act. 
+1. Appointment of auditors
+Unlike the appointment  process at each annual general meeting under the 1956 Act, the auditor will now be appointed for a period of 
+five years, with a requirement to ratify such an appointment at each annual general meeting [section 139(1) of 2013 Act].
+Further, the 2013 Act provides that in respect of appointment of a firm as the  auditor of a company, the firm shall include a limited 
+liability partnership incorporated under the Limited Liability Partnership Act, 2008 [Explanation to section 139(4) of 2013 Act].
+Also, the 2013 Act specifies that where a firm, including a limited liability partnership is appointed as an auditor of a company, only 
+those  partners who are chartered accountants shall be authorised to act and sign on behalf of the firm [section 141 of 2013 Act].
+Section 141 of the 2013 Act further prescribes an additional list of disqualifications, and extends the disqualification to also include 
+relatives. The Section of  the 2013 Act states that a person who, or his relative or partner is holding any security of or interest in the 
+company or its subsidiary, or of its holding or associate company or a subsidiary of such holding company of face value exceeding one 
+thousand rupees or such sum as may be prescribed; is indebted to the company, or its subsidiary, or its holding or associate company 
+or a subsidiary of such holding company, in excess of Rs.1,00,000* ; or has given a guarantee or provided any security in connection 
+with the indebtedness of any third person to the company, or its subsidiary, or its holding or associate company or a subsidiary of such 
+holding company, for Rs.1,00,000*, will not be eligible to be appointed as an auditor. Additionally, a person or a firm who, whether 
+directly or indirectly, has business relationship with the company, or its subsidiary, or its holding or associate company or subsidiary 
+28 PwCof such holding company or associate company of such nature as may be prescribed, will be disqualified from being appointed as an 
+auditor.
+It would be relevant to note that the draft rules include 15 relationships in the list of relatives including step son/daughter and step 
+brother/sister.
+The ineligibility also extends to  person or a partner of a firm who holds appointment as an auditor in  more than twenty companies as 
+well as a person who is in full time employment elsewhere. [section 141 (3)(g) of the 2013 Act].
+The definition of a relative does not give cognisance to the Code of Ethics prescribed by the Institute of Chartered Accountants( ICAI) 
+and thus, there  are likely to be interpretational issues. Also, the 2013 Act does not specify as to what would constitute as indirect 
+interest and thus in absence of guidance it would be difficult to assess the extent of implication on the audit profession.
+2. Mandatory firm rotation
+The 2013 Act has introduced the concept of rotation of auditors as well as  audit firms. It states that in case of listed companies 
+(and other class(es) of companies as may be prescribed) it would be mandatory to rotate auditors  every five  years in case of the 
+appointment of an individual as an auditor and every 10 years in case of the appointment of an audit firm with a uniform cooling 
+off period of five  years in both  the cases. Further, firms with common partners in the outgoing audit firm will also be ineligible for  
+appointment as auditor during the cooling off period. The 2013 Act has allowed a transition period of three  years for complying 
+with the requirements of the rotation of auditors [section 139(2) of the 2013 Act]. Further, the 2013 Act also grants an option to  
+shareholders to further require rotation of the audit partner and staff at such intervals as they may choose [section 139(3) of  the 2013 
+Act].
+Currently, while the 1956 Act does not have any requirements relating to the auditor or audit firm rotation, the Code of Ethics issued by 
+the ICAI has a requirement to rotate audit partners, in case of listed companies, after every seven  years with a cooling-off period of two  
+years.
+3. Non-audit services to audit clients
+The 2013 Act states that any service to be rendered by the auditor needs to be approved by the board of directors or the  audit 
+committee. Additionally, the auditor is restricted from providing specific services, which include the following:
+•	 Accounting and book keeping services
+•	 Internal audit
+•	 Design and implementation of any financial information system
+•	 Actuarial services
+•	 Investment advisory services
+•	 Investment banking services
+•	 Rendering of outsourced financial services
+•	 Management services, and any other service which may be prescribed (no other service has been prescribed*)
+Further, the 2013 Act provides that such services cannot be rendered by the audit firm either directly or indirectly through itself or any 
+of its partners, its parent or subsidiary or through any other entity whatsoever, in which the firm or any other  partner  from  the firm 
+has significant influence or control or whose name or trademark or brand is being  used by the firm or any of its partners [section 144 of 
+the 2013 Act]. The 1956 Act currently does not specify any requirements relating to non-audit services.
+These restrictions are aimed at achieving auditor independence. Auditor independence is fundamental to public confidence on the 
+reliability of the auditors’ reports. This concept adds credibility to the  published financial information and value to investors, creditors, 
+companies, employees as well as  other stakeholders. Independence is the audit profession’s primary means of demonstrating to 
+the public as well as the  regulators that auditors and audit firms are performing in line with established principles of integrity and 
+objectivity. To comply with these independence norms,  the 2013 Act provides for a transitional period of one year, that is,  an auditor 
+or an audit firm who or which has been performing any non-audit services on or before the commencement of the  1956 Act shall 
+comply with these provisions before closure of the first financial year after the date of commencement.
+Companies Act, 2013    294. Joint audits
+The 2013 Act provides that  members of the company may require the audit process to be  conducted by more than one auditor [section 
+139(3) of the 2013 Act]. 
+5. Auditors liability
+The scope and extent of the auditor’s liability, has been substantially enhanced under the 2013 Act. Now, the auditor is not only 
+exposed to various new forms of liabilities, however,  these liabilities  prescribed in the existing 1956 Act have been made more 
+stringent. The auditor is now subject to oversight by multiple regulators apart from the ICAI such as  The National Financial Reporting 
+Authority (NFRA, and the body replacing the NACAS) is now authorised to investigate matters involving professional or other 
+misconduct of the auditors. The penalty provisions and other repercussions that an auditor may now be subject to as per the 2013 Act 
+includes monetary penalties, imprisonment, debaring of the auditor and the firm, and in case of frauds, can even be subject to class 
+action suits. 
+6. Additional responsibilities of the auditor
+The 2013 Act requires certain new aspects which need to be covered in an auditors’ report. These include the following:
+•	The observations or comments of the auditors on financial transactions or matters which have any adverse effect on the functioning 
+of the company [section 143(3)(f) of the 2013 Act]
+•	Any qualification, reservation or adverse remark relating to the maintenance of accounts and other matters connected therewith 
+[section 143(3)(h) of  the 2013 Act]
+•	Whether the company has adequate internal financial controls system in place and the operating effectiveness of such controls 
+[section 143(3)(i) of the 2013 Act]
+There are other reporting requirements specified in the draft rules which include reporting on pending litigations, etc which are 
+already covered either by the accounting standards or guidance from the ICAI, and  thus result in duplication*.
+The 2013 Act requires an auditor to report to the central government within 30 days in a format prescribed within  the draft rules, if he 
+or she  has any reasons to believe that any offence involving fraud is being committed or has been committed against the company by its 
+officers or employees * [section 143(12) of the 2013 Act]. Further, where any auditor does not comply with the above requirements, he 
+or she shall be punishable with a fine which shall not be less than 1 lakh INR, but which may extend to 25 lakh  INR [section 143(15) of 
+the 2013 Act]. The above requirements are in addition to the existing requirements under the 1956 Act.
+30 PwCDividend
+6
+Companies Act, 2013    311. Declaration of dividend
+•	 The existing requirement of the 1956 Act with regard to the transfer of a specified percentage of profits not exceeding 10%  to 
+reserve [that is,  Companies (Transfer of Profits to Reserve) Rules, 1975] has not been acknowledged in the 2013 Act and thus 
+companies are free to transfer any or no amount of profits to reserves [section 123 (1) of the 2013 Act].
+•	 Similar to the existing provisions of the 1956 Act, the 2013 Act also provides that no dividend shall be declared or paid in case of 
+inadequate profits by a company subject to the Rules yet to be notified.  The company also cannot declare or pay dividend from its 
+reserves other than free reserves [section 123(1) of the 2013 Act].  This could mean that the  requirements provided in Companies 
+(Declaration of Dividend out of Reserves) Rules, 1975 have been retained.
+•	 As per the existing provisions of the 1956 Act, dividend includes interim dividend and all provisions of the 1956 Act which applies 
+to the final dividend equally apply to interim dividend. The 2013 Act, however, imposes a further restriction on the declaration 
+of interim dividend. The 2013 Act specifically provides that in case a company has incurred loss during the current financial year, 
+up to the end of the quarter immediately preceding the date of declaration of the interim dividend, then the interim dividend 
+cannot be declared at a rate higher than the average dividends declared by the company during the immediately preceding three  
+financial years [section 123(3) of the 2013 Act].
+•	 The 2013 Act states that if a company fails to comply with the provisions of acceptance of deposits and repayment of deposits 
+accepted prior to the commencement of this 1956 Act, it  will  not be able to declare any dividend on equity shares, as against the 
+non-compliance of section 80A of the 1956 Act regarding redemption of irredeemable preference shares, etc [section 123(6) of the 
+2013 Act].
+•	 The provisions of the existing Schedule XIV of the 1956 Act has been acknowledged under Schedule II of the 2013 Act.  Important 
+highlights from the Schedule II are as follows:
+-- The useful life or residual value of an asset have been specified in Part C of the Schedule.  Companies  will be  required to give 
+disclosure for cases where the useful life or residual value is different from the useful life or residual value as specified in Part 
+C of the Schedule. 
+-- It  is clarified in the 2013 Act that the requirements of Part C  will  not be applicable for  companies in respect of which the 
+useful life or residual value is notified by a regulatory authority. 
+•	 The 2013 Act does not give cognisance to the existing requirements of section 208 of the 1956 Act that deals with the power of a 
+company to pay interest out of capital in certain cases.
+2. Transfer of shares to the investor education and protection fund (IEPF)
+As against the existing requirement of section 205C of the 1956 Act, the 2013 Act proposes  that all shares in respect of which unpaid 
+or unclaimed dividend has been transferred to the IEPF shall also be transferred by the company in name of the fund along with a 
+statement with certain specified details [section 124 of the 2013 Act].
+In addition to above, following amounts also need to be transferred by the company to the IEPF [section 125 (2) of  the 2013 Act]: 
+•	 Gain through the seizure and disposal of  securities in possession of a person who fictitiously acquires or subscribes for a 
+company’s securities
+•	 Sale proceeds of fractional shares arising out of issuance of bonus shares, merger and amalgamation for seven  or more years
+•	 Redemption amount of preference shares remaining unpaid or unclaimed for seven  or more years
+Additionally, the 2013 Act specifies the following modes of utilisation of amounts available in the IEPF:
+•	 The refund of unclaimed dividends, matured deposits, matured debentures, application money due for refund and interest 
+thereon
+•	 Distribution of any disgorged amount among investors who have suffered losses due to wrong actions by any person in accordance 
+with the order of the Court that had decided for such disgorgement. In order to prevent misuse of  underlying securities,  investors 
+can claim them back from the IEPF through the provisions in the rules.
+•	 Reimbursement of legal expenses incurred in pursuing class action suits under sections 37 (misleading prospectus) and 245 of  
+the 2013 Act (management or conduct of  affairs of the company being overseen  in a manner prejudicial to the interests of the 
+company or its members or depositors) by members, debenture holders or depositors as sanctioned by the Tribunal
+•	 Any other purpose incidental thereto, in accordance with such rules as prescribedThe 2013 Act proposes to introduce  significant changes to the existing provisions of the 1956 Act 
+in respect of declaration of dividend. The changes are likely to affect the existing practices followed 
+by companies with regard to the declaration of dividend.
+The existing provisions of the 1956 Act in relation to the  transfer of a specified percentage of 
+profit to reserve is no longer applicable and thus,   companies  will  be free to transfer any or no 
+amount to its reserves. 
+Schedule II of the 2013 Act, relating to depreciation defines the useful life of assets as against the 
+depreciation rates specified in the 1956 Act.
+32 PwCCompromises,  
+arrangements and  
+amalgamations 
+7
+Companies Act, 2013    33The 2013 Act features some new provisions in the area of mergers and acquisitions, apart from 
+making certain changes from the existing provisions. While the changes are aimed at simplifying 
+and rationalising the procedures involved, the new provisions are also aimed at ensuring higher 
+accountability for the company and majority shareholders and increasing flexibility for corporates.
+The changes proposed would require companies to consider the scale and extent of compliance 
+requirements while formulating their restructuring plans once the 2013 Act is enacted.  These changes 
+are quite constructive and could go a long way in streamlining the manner in which mergers and other 
+corporate scheme of arrangements are structured and implemented in India.  
+1. Streamlining requirements
+The section dealing with compromises and arrangements,  deals comprehensively with all forms of compromises as well as  arrangements, and 
+extends to the reduction of share capital, buy-back, takeovers and corporate debt restructuring as well. Another positive inclusion within  this 
+section is that  objection to any compromise or arrangement can now be made only by persons holding not less than 10% of share holding or 
+having an outstanding debt amounting to not less than 5% of the total outstanding debt as per the latest audited financial statements. [section 
+230 of the 2013 Act]  Further, currently, under the 1956 Act, an order does not have any effect until the same is filed with the ROC. However, such 
+requirement has been done away with under the 2013 Act. The 2013 Act merely requires filing of the order with the ROC.
+2. Mergers or division of companies
+There are certain additional documents mandated to be circulated for the meeting to be held of creditors or a  class of members (section 232 of  
+the 2013 Act). These include the following:
+•	 Draft of the proposed terms of the scheme  drawn-up and adopted by the directors of the merging company 
+•	 Confirmation that a copy of the draft scheme has been filed with the ROC
+•	 Report adopted by the directors of the merging companies explaining the effect of the compromise
+•	 Report of the expert with regard to valuation
+•	 Supplementary accounting statement if the last annual accounts of any of the merging company relate to a financial year ending more than 
+six months before the first meeting of the company summoned for the purpose of approving the scheme
+3. Certifying the accounting treatment
+Currently, under the 1956 Act, , there is no mandate requiring companies to ensure compliance with accounting standards or generally accepted 
+accounting principles while proposing the accounting treatment in a scheme.  However, listed companies are required to ensure such compliance 
+as the Equity Listing Agreement mandates such companies to obtain an auditor’s certificate regarding appropriateness of the accounting 
+treatment proposed in the scheme of arrangement. The 2013 Act requires all companies undertaking any compromise or arrangement to obtain  
+an auditor’s certificate (section 230 and 232 of the 2013 Act). This requirement will help in streamlining the varied practices as well as ensuring 
+appropriate accounting treatment. However, another aspect that is yet to be addressed is that the applicable notified accounting standards in 
+India, currently, address only amalgamations and not any other form of restructuring arrangements.
+4. Simplifying procedures
+The current procedural requirements in case of a merger and acquisition in any form are quite cumbersome and complex. There are no 
+exemptions even in the case of mergers between a company and its wholly owned subsidiaries. The 2013 Act now introduces simplification of 
+procedures in two areas, firstly, for holding wholly owned subsidiaries and secondly, for arrangements between small companies (section 233 of 
+the 2013 Act).  Small companies is a new category of companies, introduced within  the 2013 Act, with defined capital and turnover thresholds, 
+which has been given certain benefits, including simplified procedures. 
+One of the significant restrictions proposed in case of these situations is the restriction on the transferee company to hold any shares either in its 
+own name or in the name of a trust, subsidiary or associate, since all shares will need to be cancelled or extinguished on merger or amalgamation. 
+This requirement will stem the practice followed by several companies which have in the past followed this route. Further, in certain cases, it has 
+also rationalised the requirements, for example in the case of the reduction of the share capital, which is part of compromise or arrangement, the 
+company will need to comply with the provisions of this section only, as against the existing requirement under the 1956 Act, where the company 
+is required to comply with the provision of section 108 in case of reduction of share capital as well those relating compromise.
+5. Cross-border mergers 
+The 1956 Act, allows the merger of a foreign company with an Indian company, but does not allow the reverse situation of merger of an Indian 
+company with a foreign company. The 2013 Act now allows this flexibility, with a rider that any such mergers can be effected only with respect 
+to companies incorporated within  specific countries, the names of which will be notified by the central government. With prior approval of the 
+central government, companies are now allowed to pay the consideration for such mergers either in cash or in depository receipts or partly in 
+cash and partly in depository receipts as agreed upon in the scheme of arrangement. (section 234 of the 2013 Act).  These new provisions can   
+be greatly beneficial to Indian companies which have a global presence by providing them structuring options which do not exist currently.
+6. Squeeze out provisions
+The 2013 Act has introduced new provisions for enabling the acquirer of a company (holding 90% or more shares) by way of amalgamation, 
+share exchange, etc to acquire shares from the minority holders subject to compliance with certain conditions. This has also introduced the 
+requirement for ‘registered valuers’, since the price to be offered by  majority shareholder needs to be determined on the basis of valuation by  
+a registered valuer (section 236 of the 2013 Act).
+34 PwCRevival and  
+rehabilitation of sick  
+companies
+8
+Companies Act, 2013    35The coverage of Sick Industrial Companies Act, 1985 (SICA) is limited to only industrial companies, while the 2013 Act covers the 
+revival and rehabilitation of all companies, irrespective of their sector. 
+The determination of whether a company is sick, would no longer be based on a situation where accumulated losses exceed the net 
+worth. Rather it would be determined on the basis whether the company is able to pay its debts. In other words, the determining factor 
+of a sick company has now been shifted to the secured creditors  or  banks and financial institutions with regard to the assessment of a 
+company as a sick company.
+The 2013 Act does not recognise the role of all  stakeholders in the revival and rehabilitation of a sick company, and provisions 
+predominantly revolve around secured creditors. The  fact that the 2013 Act recognises the presence of unsecured creditors, is felt only 
+at the time of the approval of the scheme of revival and rehabilitation. In accordance with the requirement of section 253 of the 2013 
+Act, a company is assessed to be  sick on a demand by the secured creditors of a company representing  50%  or more of its outstanding 
+amount of debt under  the following circumstances:
+•	 The company has failed to pay the debt within a period of 30  days of the service of the notice of demand  
+•	 The company has failed to secure or compound the debt to the reasonable satisfaction of the creditors
+To speed up the revival and rehabilitation process, the 2013 Act provides a one year time period for the finalisation of the rehabilitation 
+plan. 
+Overview of the process
+•	  In response to the application made by either the secured creditor or by the company itself, if the Tribunal is satisfied that a 
+company has become a sick company, it shall give time to the company to settle its outstanding debts if Tribunal believes that it is 
+practical  for the company to make the repayment of its debts within a reasonable period of time. 
+•	 Once a company is assessed to be a sick  company , an application could be made to the Tribunal under section 254 of the 2013 
+Act for the determination of the measures that may be adopted with respect to the revival and rehabilitation of the  identified sick 
+company either by a secured creditor of that company or by the company itself. The application thus made must  be accompanied 
+by audited financial statements of the company relating to the immediately preceding financial year, a draft scheme of revival and 
+rehabilitation of the company, and with such other document as may be prescribed.  
+ 
+Subsequent to the receipt of the application, for the purpose of revival and rehabilitation, the Tribunal, not later than seven would 
+be required to fix a date for hearing and would be appointing an interim administrator under Section 256 of 2013 Act to convene 
+a meeting of creditors of the company in accordance with the provisions of section 257 of the 2013 Act. In certain circumstances, 
+the Tribunal may appoint an interim administrator as the company administrator to perform such functions as the Tribunal may 
+direct.
+•	 The administrator thus appointed would be required to prepare a report specifying the measures for revival and rehabilitation 
+of the identified sick industry. The measures that have been identified under  the section 261 of the 2013 Act for the purpose of 
+revival and rehabilitation of a sick company provides for the following options: 
+-- Financial reconstruction
+-- Change in or takeover of the management 
+--  Amalgamation of the sick company with any other company, or another company’s amalgamation with the sick company
+•	 The scheme thus prepared,  will   need to be approved by the secured and unsecured creditors representing three-fourth and 
+one-fourth of the total representation in amounts outstanding respectively, before submission to the Tribunal for sanctioning 
+the scheme pursuant to the requirement of section 262 of the 2013 Act. The Tribunal, after examining the scheme will  give 
+its approval with or without any modification. The scheme, thus approved will  be communicated to the sick company and the 
+company administrator, and in the case of amalgamation, also to any other company concerned. 
+•	  The sanction accorded by the Tribunal  will  be construed as conclusive evidence that all the requirements of the scheme relating 
+to the reconstruction or amalgamation or any other measure specified therein have been complied with. A copy of the sanctioned 
+scheme will  be filed with the ROC by the sick company within a period of 30  days from the date of its receipt.
+•	 However, if the scheme is not approved by the creditors, the company administrator shall submit a report to the Tribunal within 
+15  days, and the Tribunal shall order for the winding up of the sick company. On passing of an order, the Tribunal shall conduct 
+the proceedings for winding up of the sick company in accordance with the provisions of Chapter XX,.Chapter XIX of the 2013 Act lays down the provisions for  the revival and rehabilitation of sick 
+companies.  The chapter describes the circumstances which determine the declaration of a 
+company as a sick company, and also includes the rehabilitation process of the same. Although  
+it  aims to provide comprehensive provisions for the revival and rehabilitation of sick companies, 
+the fact that several provisions such as particulars, documents as well as  content of the draft 
+scheme in respect of application for revival and rehabilitation, etc. have been left to substantive 
+enactment, leaves scope for interpretation. 
+The coverage of this chapter is no longer restricted to industrial companies, and the 
+determination of  the net worth would not be relevant for assessing whether a company is a sick 
+company.
+36 PwCCorporate social  
+responsibility
+9
+Companies Act, 2013    37The Ministry of Corporate Affairs (MCA) had introduced the Corporate Social Responsibility Voluntary Guidelines in 2009. These 
+guidelines have now been incorporated  within  the 2013 Act and have obtained legal sanctity. Section 135  of  the 2013 Act, seeks to 
+provide that every company having a net worth of 500 crore INR, or more or a turnover of  1000 crore INR or more, or  a net profit of   
+five crore INR or more, during any financial year shall constitute the corporate social responsibility committee of the board. 
+This committee needs to comprise of three or more directors, out of which, at least one director should be an independent director. The 
+composition of the committee shall be included in the board’s report. The committee shall formulate the policy, including  activities 
+specified in Schedule VII, which are as follows: 
+•	 Eradicating extreme hunger and poverty
+•	 Promotion of education
+•	 Promoting gender equality and empowering women
+•	 Reducing child mortality and improving maternal health
+•	 Combating human immunodeficiency virus, acquired immune deficiency syndrome, malaria and other diseases
+•	 Ensuring environmental sustainability 
+•	 Employment enhancing vocational skills
+•	 Social business projects
+•	 Contribution to the Prime Minister’s National Relief Fund or any other fund set-up by the central government or the state 
+governments for socio-economic development and relief, and funds for the welfare of the scheduled castes and  Tribes, other 
+backward classes, minorities and women
+•	 Such other matters as may be prescribed
+There have been mixed reactions to the introduction of the ‘spend or explain’ approach taken by the MCA 
+with respect to CSR. It may take a while before all of Corporate India imbibes CSR as a culture. 
+However,  activities specified in the Schedule are not elaborate or detailed enough to indicate the kind of projects that could be 
+undertaken, for example, environment sustainability or social business projects could encompass a wide range of activities. 
+The committee will also need to recommend the amount of expenditure to be incurred and monitor the policy from a time-to-time. The 
+board shall disclose the contents of the policy in its report, and place it on the website, if any, of the company. The 2013 Act mandates 
+that these companies would be required to spend at least 2%  of the average net-profits of the immediately preceding three  years on 
+CSR activities, and if not spent, explanation for the reasons thereof would need to be given in the director’s report(section 135 of the 
+2013 Act).
+38 PwCImplications on  
+private companies
+10
+Companies Act, 2013    39The main change in the definition of a private company is in the increase in the limit of the number of members from 50  to 200 . 
+Secondly, the definition does not state that a company inviting or accepting deposits from persons other than its members, directors or 
+their relatives cannot be a private company. (section 2(68) of the 2013 Act).
+Certain requirements which were till now applicable to public companies  or subsidiaries of public companies have now been also 
+extended to private companies . Some such requirements include the following:
+•	Section 90 of the 1956 Act, which was a saving section for private companies, has not been incorporated in the 2013 Act, thus 
+making the provisions relating to the various kind of share capital and voting rights applicable to private companies. Also refer 
+Chapter: Setting up of a Company (share capital and debentures)
+•	 Provisions for the appointment of managerial personnel, in section 196 of the 2013 Act, are also applicable to private companies.   
+Therefore, the following requirements are now applicable  to private companies:
+-- The re-appointment of a managerial person cannot be made earlier than one  year before the expiry of the term. However, 
+the term for which the managerial personnel can be appointed is five  years
+-- The eligibility criteria for the  age limit has been set between 21  to 70 years. An individual above the age of 70 years can also 
+be appointed as the key managerial personnel by passing a special resolution.
+-- In addition, private companies have the option to adopt principle of proportional representation for appointment of directors 
+(section 163 of the 2013 Act). 
+•	The 2013 Act restricts certain powers of the board of private companies, which can be exercised only with the company’s consent by 
+a special resolution. Some powers thus restricted are  as  follows :
+-- To sell, lease or otherwise dispose of the whole or substantially the whole of the company’s undertaking 
+-- To borrow money in excess of the aggregate of its paid-up share capital and free reserves
+•	The requirements relating to corporate social responsibilities are also applicable to private companies since the criteria is based on  
+specified levels of the net worth, turnover and net profit. However, it is of relevance to note, that while private companies are not 
+required to appoint independent directors as per section 149 of the 2013 Act, the section on CSR, requires companies within the 
+specified thresholds  to constitute a corporate social responsibility committee consisting of three or more directors, out of which 
+at least one director must  be an independent director. This requirement appears to be contradictory to the extent that the section 
+applies to private companies. Also refer Chapter: Corporate Social Responsibilities
+•	Private companies would now be required to comply with the requirements for inter-corporate loans as well as  investments, which 
+were hitherto not applicable. Also refer Chapter : Directors (Meetings of the Board and its Powers - Loans and investments by a company)
+•	The provisions relating to the appointment of the managing director, whole-time director or manager are also applicable to private 
+companies. Refer Chapter : Directors (Appointment and remuneration of managerial personnel - Introduction)
+•	For certain other compliance requirements, refer to Chapter: Directors (General -  Additional compliance requirements for private 
+companies)
+There is a marked increase in the compliance requirements mandated for private companies under the 
+2013 Act. While some of these will go a long way in increasing the accountability of private companies, 
+there are also concerns as to the need for increasing the complexities in private companies in which the 
+public at large is not interested.
+40 PwCOther areas
+11
+Companies Act, 2013    41Acceptance of deposits
+It is pertinent to note that the requirements relating to acceptance of deposits are already quite stringent under the 1956 Act and the 
+Rules made thereunder. The 2013 Act further strengthens these provisions. A significant impact of the 2013 Act is that only those public 
+companies which meet the prescribed net worth or turnover criteria may accept deposits from persons other than its members.  Other 
+companies can accept deposits only from its members. 
+The proposed provisions will enhance the protection of the deposit holders. 
+Companies will have to incur additional costs due to requirements related to credit rating, maintenance of 
+additional  liquid funds, deposit insurance, etc.
+1. Acceptance of deposits
+The 2013 Act states, that only those companies which meet such net worth or turnover criteria as may be prescribed will be eligible 
+to accept deposits from individuals  other than its members. Such companies will also be required to obtain the rating (including its 
+net worth, liquidity and ability to pay its deposits on due date) from a recognised credit rating agency which ensures adequate safety 
+[section 76(1) of the 2013 Act].
+Companies which do not meet the net worth or turnover criteria will only be able to accept deposits from its members [section 73(2) of 
+the 2013 Act].
+All companies will be required to comply with the prescribed conditions which includes issuance of a circular to its members, obtaining 
+credit rating, providing deposit insurance, maintaining deposit repayment reserve account, etc. [section 73(2) of the 2013 Act].
+2. Outstanding deposits 
+The 2013 Act states that deposits accepted before the 2013 Act comes into force will need to be repaid within one year from the 
+commencement of the 2013 Act or when such payments are due, whichever is earlier [section 74(1) of the 2013 Act].  This is likely to 
+create significant financial impact on companies which have currently accepted deposits and will not meet the eligibility criteria under 
+the 2013 Act.
+3. Protection of depositors 
+An amount equivalent to a minimum 15% of deposits maturing during the financial year as well as the following financial year will 
+need to be kept in a separate bank account with a scheduled bank. The Companies (Acceptance of Deposits) Rules, 1975 currently 
+requires that 15% of deposits maturing during the financial year needs to  be kept in bank or invested in specified securities [section 
+73(2) of the 2013 Act].  
+Additionally, the 2013 Act also states that the deposit insurance as prescribed will also be required to be provided [section 73(2) of the 
+2013 Act].
+Registered valuers 
+The 2013 Act has introduced a new concept of registered valuers who are required for providing valuation reports mandated under 
+various sections. These include the following:
+•	Further issue of share-capital (section 62 of the 2013 Act)
+•	Restriction on non-cash transactions involving directors (section 192 of the 2013 Act)
+•	Compromises, arrangements and amalgamations  [section 230 of  the 2013 Act]
+•	Purchase of minority share holding (section 236 of the 2013 Act)
+•	Submission of a report by the company liquidator (section 281 of the 2013 Act)
+•	Declaration of solvency in case of proposal to wind up voluntarily (section 305 of the 2013 Act)
+•	Power of the company liquidator to accept shares, etc., as consideration for the sale of property of  the company  
+(section 319 of the 2013 Act])
+•	The qualification, experience as well as  the process of registration as a valuer have been prescribed in the draft rules*  
+(section 247 of the 2013 Act). 
+42 PwCWinding-up
+•	Chapter XX of the 2013 Act consisting of sections 270 to 365,  deals with the provisions of winding-up of companies. The 1956 Act 
+prescribes three modes of winding-up. This includes the following: 
+--By the court
+--Under the supervision of the court
+--Voluntary  
+As against the existing modes of winding-up as prescribed by the 1956 Act, the 2013 Act prescribes the  following two modes:
+--By  the Tribunal
+--Voluntary
+•	 The 2013 Act does not acknowledge the distinction between members voluntarily  winding-up and creditors voluntarily  winding-
+up.  Additionally, the new grounds for winding-up by Tribunal are as follows:
+-- In a situation when the company has acted against the interests of sovereignty and integrity of India, the security of the state, 
+friendly relations with foreign states, public order, decency or morality
+-- Order has been made  under Chapter XIX (Revival and Rehabilitation of Sick Companies). 
+-- An application has been made by the ROC or any other person authorised by the central government by a notification under 
+the 2013 Act. 
+-- The tribunal is of the opinion that the affairs of the company have been conducted in a fraudulent manner or the company 
+was formed for fraudulent and unlawful purposes or the persons concerned in the formation or management of its affairs 
+have been found guilty of fraud, misfeasance or misconduct in connection therewith, and that it is proper that the company 
+be wound up
+-- The company has made a default in filing with the ROC, its financial statements or annual returns for immediately preceding 
+five consecutive financial years
+Dealing with fraud
+•	 The 2013 Act deals extensively  on the issue of  fraud (section 447 of the 2013 Act) and has for the first time defined fraud 
+specifically as:
+“Fraud in relation to affairs of a company or any body corporate, includes any act, omission, concealment of any fact or abuse of position 
+committed by any person or any other person with the connivance in any manner, with intent to deceive, to gain undue advantage from, or 
+to injure the interests of, the company or its shareholders or its creditors or any other person, whether or not there is any wrongful gain or 
+wrongful loss”
+The term,  ‘wrongful gain’ means  gain by unlawful means of property to which the person gaining is not legally entitled and ‘wrongful 
+loss’ means the loss by unlawful means of property to which the person losing is legally entitled [Explanation to section 447 of the 2013 
+Act].
+•	 Further, the penalties as prescribed under  this section are as follows:
+-- Imprisonment for a term of not less than six  months, but which may extend to 10 years  
+-- Fine not less than the amount involved in the fraud, but which may extend to three  times the amount involved in the fraud
+-- Also, where the fraud in question involves public interest, the term of imprisonment shall not be less than three  years
+•	 The provisions of this section have a significant impact and there are various areas across the 2013 Act, which will  lead a person to 
+be liable under this section. Some of these areas are as follows:
+-- Where a person furnishes any false or incorrect particulars of any information or suppresses any material information in 
+relation to incorporation of a company filed with the ROC [section 7(5) and (6) of the 2013 Act] 
+-- In case of the formation of the company with charitable purpose, where it is proved that the affairs of the company were 
+conducted fraudulently -  every officer in default [section 8(11) of the 2013 Act]
+-- Where a prospectus, issued, circulated or distributed includes any statement which is untrue or misleading in form or context 
+in which it is included or where any inclusion or omission of any matter is likely to mislead, every person who authorises the 
+issue of such prospectus [section 34 of the 2013 Act]
+-- Fraudulently inducing persons to invest money (section 36 of 2013 Act)
+-- Personation for acquisition, etc. of securities (section 38 of the 2013 Act)
+-- Where any depository or depository participant, has transferred shares with an intention to defraud a person (section 46(6) 
+of the 2013 Act)
+-- Failure to repay the deposit or a part thereof or any interest thereon, within the time limits as applicable, and where it is 
+proved that such deposits were accepted with intent to defraud the depositors or for any fraudulent purpose (section 75 of 
+the 2013 Act)
+Companies Act, 2013    43-- Where the Tribunal is satisfied that the auditor of a company has, whether directly or indirectly, acted in a fraudulent manner 
+or abetted or colluded in any fraud by, or in relation to, the company or its directors or officers [section 140(5) of the 2013 
+Act]
+-- Where it is proved that the partner or partners of the audit firm has or have acted in a fraudulent manner or abetted or 
+colluded in any fraud by, or in relation to or by, the company or its directors or officers [section 147(4) of the 2013 Act]
+-- Penalty for furnishing false statement, mutilation, destruction of documents (section 229 of the 2013 Act)  
+Shareholder democracy 
+Acknowledging the concept of shareholder democracy, various provisions have been incorporated in the 2013 Act. These provisions can 
+be broadly classified as under:
+•	Shareholder rights or protection
+•	Special consideration to small shareholders
+1. Shareholder rights or protection
+Class action suits:  A class action is a legal form of lawsuit where a large group of individuals collectively bring a claim to court or in 
+which a particular class of defendants is being sued. The concept of collective lawsuit finds its roots in the US , where it is still widely 
+prevalent. In several European countries, changes have been made recently in their civil law, to allow consumer organisations to bring 
+claims on behalf of large groups of consumers.
+Acknowledging the need to be at par with global standards, for class action lawsuit, the 2013 Act has empowered shareholders 
+associations or group of shareholders to take legal action in case of any fraudulent action on the part of company and to take part in 
+investor protection activities and class action suits(section 245 of the  2013 Act).
+Additionally, in response to the Standing Committee’s recommendation in its Twenty First Report for ensuring protection of interests of 
+minority shareholders and small investors, the MCA suggested that during adjudication on class action suits, the Tribunal will  ensure 
+that the interests of shareholders are protected and wrongdoers, including auditors and audit firms, are required to compensate the 
+victims on suitable orders by Tribunal.
+Also, as stated in the 2013 Act, the central government will have power to prescribe class or classes of companies which shall not be 
+permitted to allow use of proxies. The 2013 Act also to have provisions to provide that a person shall have proxies for such number of 
+members or such shares as may be prescribed.
+2. Special consideration to small shareholders
+The 2013 Act acknowledges the existing rights of  small shareholders envisaged in section 252A of the 1956 Act under  the following 
+sections:
+•	A listed company may have one director elected by such small shareholders in the manner and with the terms and conditions as may 
+be prescribed. Here the term, ‘small shareholders’ means a shareholder holding shares of nominal value of not more than  20, 000 
+INR  or such other sum as may be prescribed (section 166 of 2013 Act).  Also refer to shareholder democracy, chapter on ‘Other Areas’
+•	The board of directors of a company which consists of more than 1,000  shareholders, debenture-holders, deposit-holders and any 
+other security holders at any time during a financial year shall constitute a stakeholders relationship committee consisting of a 
+chairperson who shall be a non-executive director and such other members as may be decided by the board. Further, the section 
+under sub-section six, recognises the concept of the stakeholders relationship committee which is required to consider and resolve 
+the grievances of security holders of the company(section 178 of the 2013 Act).
+•	Specific disclosure under  the scheme of mergers or  amalgamation regarding the effect of merger on minority shareholders is to be 
+provided.
+•	Under various sections in the 2013 Act, for example, variation in terms of contract or object in prospectus, the dissenting 
+shareholders have been provided with an option to exit which act as a protection of the interests of small shareholders.
+The concept of class action suits, considering the best interests of the shareholders, is a welcome provision. 
+However, the fact that there are always possibilities of misuse cannot be ignored 
+Additionally, it is important to note that India, being a developing economy, may find it difficult to 
+appreciate the concept of ‘class action suits’ and implement it successfully.
+44 PwCChapter Section Title
+I 1 Short title, extent, commencement and application
+2(1) Abridged prospectus
+2(3) Alter or alteration
+2(4) Appellate Tribunal
+2(5) Articles
+2(6) Associate company
+2(8) Authorised  or nominal capital
+2(9) Banking company
+2(10) Board of directors or the board
+2(11) Body corporate or corporation
+2(12) Book and paper and book or paper
+2(14) Branch office
+2(15) Called-up capital
+2(16) Charge
+2(17) Chartered accountant
+2(18) Chief executive officer
+2(19) Chief financial officer
+2(20) Company
+2(21) Company limited by guarantee
+2(22) Company limited by shares
+2(24) Company secretary or secretary
+2(28) Cost accountant
+2(29) [except for sub-clause (iv)] Court
+2(30) Debenture
+2(32) Depository
+2(33) Derivative
+2(34) Director
+2(35) Dividend
+2(36) Document
+2(37) Employees’ stock option
+2(38) Expert
+2(39) Financial institution
+2(40) Financial statement
+2(43) Free reserve
+2(44) Global depository receipt
+2(45) Government company
+2(46) Holding company
+2(49) Independent director
+2(50) Issued capital
+2(51) Key managerial personnel
+2(52) Listed company
+2(53) Manager
+2(54) Managing director12. Sections notified till date 
+and circulars or  orders 
+issued
+Companies Act, 2013    45Chapter Section Title
+2(55) Member
+2(56) Memorandum
+2(57) Net worth
+2(58) Notification
+2(59) Officer
+2(60) Officer who is in default
+2(61) Official liquidator
+2(63) Ordinary or special resolution
+2(64) Paid-up share capital or share capital paid-up
+2(65) Postal ballot
+2(66) Prescribed
+2(67) Previous company law
+2(68) Private company
+2(69) Promoter
+2(70) Prospectus
+2(71) Public company
+2(72) Public financial institution
+2(73) Recognised stock exchange
+2(74) Register of companies
+2(75) Registrar
+2(76) Related party
+2(77) Relative
+2(78) Remuneration
+2(79) Schedule
+2(80) Scheduled bank
+2(81) Securities
+2(82) Securities and exchange board
+2(84) Share
+2(86) Subscribed capital
+2(87) [except the proviso and Expla -
+nation (d)]Subsidiary company or subsidiary
+2(88) Sweat equity shares
+2(89) Total voting power
+2(90) Tribunal
+2(91) Turnover
+2(92) Unlimited company
+2(93) Voting right
+2(94) Whole-time director
+2(95) Words and expressions used and not defined in this Act
+46 PwCChapter Section Title
+II 19 Subsidiary company not to hold shares in its holding company
+21 Authentication of documents, proceedings and contracts
+22 Execution of bills of exchange, etc.
+III 23 [except 23(1)(b) and 23(2)] Public offer and private placement
+24 Power of securities and exchange board to regulate the issue and transfer of 
+securities, etc.
+25 [except 25(3)] Document containing the offer of securities for sale to be deemed prospectus
+29 Public offer of securities to be in dematerialised form
+30 Advertisement of prospectus
+31 Shelf prospectus
+32 Red herring prospectus
+33 [except 33(3)] Issue of application forms for securities
+34 Criminal liability for misstatements in prospectus
+35 [except 35(1)(e)] Civil liability for misstatements in prospectus
+36 Punishment for fraudulently, inducing persons to invest money
+37 Action by the affected persons
+38 Punishment for personation for acquisition, etc., of securities
+39 [except 39(4)] Allotment of securities by company
+40 [except 40(6)] Securities to be dealt with in stock exchanges
+IV 44 Nature of shares or debentures
+45 Numbering of shares
+49 Calls on shares of same class to be made on uniform basis
+50 Company to accept unpaid share capital, although not called-up
+51 Payment of dividend in proportion to the amount paid-up
+57 Punishment for personation of the shareholder
+58 Refusal of registration and appeal against refusal
+59 Rectification of register of members
+60 Publication of authorised, subscribed and paid-up capital
+65 Unlimited company to provide for reserve share capital on conversion into 
+limited company
+69 Transfer of certain sums to capital redemption reserve account
+70 [except 70(2)] Prohibition for buy-back in certain circumstances
+VI 86 Punishment for contravention
+VII 91 Power to close register of members or debenture holders or other security 
+holders
+100 [except 100 (6)] Calling of extraordinary general meeting
+102 Statement to be annexed to notice
+103 Quorum for meetings
+104 Chairman of meetings
+105 [except the third and fourth 
+proviso of 105(1) and 105(7)]Proxies
+106 Restriction on voting rights
+107 Voting by show of hands
+111 Circulation of members’ resolution
+112 Representation of  President and governors in meetings
+113 [except 113(1)(b)] Representation of corporations at meeting of companies and of creditors
+114 Ordinary and special resolutions
+116 Resolutions passed at adjourned meeting
+Companies Act, 2013    47Chapter Section Title
+VIII 127 Punishment for failure to distribute dividends
+IX 133 Central government to prescribe accounting standards
+XI 161 [except 161(2)] Appointment of additional director, alternate director and nominee director
+162 Appointment of directors to be voted individually
+163 Option to adopt principle of proportional representation for appointment of 
+directors
+XII 176 Defects in appointment of directors not to invalidate actions taken
+180 Restrictions on powers of the board
+181 Company to contribute to bona fide and charitable funds, etc.
+182 Prohibitions and restrictions regarding political contributions
+183 Power of the board and other persons to make contributions to the national 
+defence fund, etc.
+185 Loan to directors, etc.
+192 Restriction on non-cash transactions involving directors
+194 Prohibition on forward dealings in securities of company by director or key 
+managerial personnel
+195 Prohibition on insider trading of securities
+XIII 202 Compensation for loss of office of managing or whole-time director or man -
+ager
+XXII 379 Application of the Act to foreign companies
+382 Display of name, etc., of the foreign company
+383 Service on the foreign company
+386 [except clause (a)] Interpretation
+XXIII 394 Annual reports on government companies
+XXV 405 Power of the central government to direct companies to furnish information 
+or statistics
+XXVII 407 Definitions
+408 Constitution of the National Company Law Tribunal
+409 Qualification of the President and members of the Tribunal
+410 Constitution of the Appellate Tribunal
+411 Qualifications of the chairperson and members of the Appellate Tribunal
+412 Selection of members of the Tribunal and the Appellate Tribunal
+413 Term of office of the President, chairperson and other members
+414 Salary, allowances and other terms and conditions of service of the members
+XXVIII 439 Offences to be non-cognisable.
+443 Power of the central government to appoint company prosecutors
+444 Appeal against acquittal
+445 Compensation for accusation without reasonable cause
+446 Application of fines
+XXIX 447 Punishment for fraud
+448 Punishment for a false statement
+449 Punishment for false evidence
+450 Punishment where no specific penalty or punishment is provided
+451 Punishment in case of repeated default
+452 Punishment for wrongful withholding of property
+48 PwCChapter Section Title
+453 Punishment for the improper use of ‘limited’ or ‘private
+limited’
+456 Protection of action taken in good faith
+457 Non-disclosure of information in certain cases
+458 Delegation by the central government of its powers and functions
+459 Powers of the central government or Tribunal to accord approval, etc., subject 
+to conditions and to prescribe fees on applications
+460 Condonation of delay in certain cases
+461 Annual report by the central government
+462 Power to exempt class or classes of companies from
+the  provisions of this Act
+463 Power of court to grant relief in certain cases
+467 Power of central government to amend the Schedules
+468 Powers of the central government to make rules relating to winding-up
+469 Power of  the central government to make rules
+470 Power to remove difficulties
+Companies Act, 2013    49Circulars or orders issued clarifying the notified sections:
+1)  General Circular No15/2013 dated 13 September  2013: This  provides clarifications on the implementation of sections 2(68), 
+102, 133 and 180. The clarifications given are as follows: 
+•	 Sub-section (58) of section 2 : The Registrar of Companies may register those memorandum and articles of association received 
+till 11 September 2013 as per the definition clause of the private company, under the Companies Act, 1956 without referring to the 
+definition of ‘private company’ under the said Act.
+•	 Section 102:  All companies which have issued notices of the general meeting on or after 12 September  2o13, the statement to be 
+annexed to the notice shall comply with additional requirements as prescribed in section 102 of the said Act.
+•	 Section 133:  Till the standards of accounting or any addendum thereto are prescribed by the central government in consultation 
+and recommendation of the National Financial Reporting Authority, the existing accounting standards notified under the 
+Companies Act, 1956 shall continue to apply.
+•	 Section 180:  In respect of requirements of special resolution under section 180 of the said Act as against the ordinary resolution 
+required by the Companies Act, 1956, if a notice for any such general meeting was issued prior to 12 September  2013, then such 
+resolution may be passed in accordance with the requirement of the Companies Act, 1956.
+2)  The general circular No16/2013 dated 18 September  2013:   This  clarifies that with effect from 12 September 2o13, the 
+relevant provisions of the Companies Act, 1956, which correspond to the provisions of 98 sections of the Companies Act, 2013,  brought 
+into force on 12 September .2013, cease to have effect from that date.
+3) The general circular No 18/2013 dated 19 November  2013: This  clarifies that section 372A of the 1956 Act continues to remain 
+in force till section 186 is notified.
+4) The Companies (Removal of Difficulties) Order, 2013: The MCA has issued the Companies (Removal of Difficulties) Order, 2013 
+(the ‘Order’), which seeks to remove the difficulty which arises on account of notifying the applicability of sections 24, 58 and 59 of 
+the 2013 Act without constituting the National Company Law Tribunal as per Chapter XXVII of the 2013 Act. Consequently, this order 
+clarifies that “ until a date is notified by the central government under sub-section (l) of section 434 of the Companies Act, 2013 (18 of 2013) 
+for transfer of all matters, proceedings or cases to the Tribunal constituted under Chapter XXVII of the said Act, the Board of Company Law 
+Administration shall exercise the powers of the Tribunal under sections 24,58 and section 59 in pursuance of the second proviso to sub-section 
+(l) of section 465 of the said Act.”
+
+About PwC 
+PwC helps organisations and individuals create the value they’re looking for. 
+We’re a network of firms in 157 countries with more than 184,000 people who 
+are committed to delivering quality in Assurance, Tax and Advisory services. Tell 
+us what matters to you and find out more by visiting us at www.pwc.com. 
+In India, PwC has offices in these cities: Ahmedabad, Bangalore, Chennai, Delhi 
+NCR, Hyderabad, Kolkata, Mumbai and Pune. For more information about PwC 
+India’s service offerings, visit www.pwc.com/in 
+PwC refers to the PwC network and / or one or more of its member firms, each of 
+which is a separate legal entity. Please see www.pwc.com/structure for further 
+details.
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+52 PwCpwc.in
+Data Classification: <<To be asked to the respective team e.g. DC0: For internal use only>>
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers 
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication 
+represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before 
+taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or 
+liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in 
+India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member 
+firm of which is a separate legal entity.
+NJ XXX - Month 2013 NameOfTheReport.indd
+Designed by Brand and Communication, India

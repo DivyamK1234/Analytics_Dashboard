@@ -1,0 +1,2568 @@
+Title: pwc_handbook-on-corporate-social-responsibility-in-india
+Date Published: 2013-12-16 11:50:17+05:30
+Source: pdfs/pwc_handbook-on-corporate-social-responsibility-in-india.pdf
+
+--- CONTENT ---
+
+Handbook on  
+Corporate Social  
+Responsibility in 
+Indiawww.pwc.in
+Message from  the Cha irman  
+CII’s Development Initiative Council 
+A robust and thriving development sector is central to India’s quest for equitable, inclusive 
+and sustainable growth. India’s development sector has evolved substantially over the last few 
+decades and is now witnessing unprecedented interest and investments across the value chain.
+With the passage of the Companies Act, 2013 the mandate for corporate social responsibility 
+(CSR) has been formally introduced to the dashboard of the Boards of Indian companies. The 
+industry has responded positively to the reform measure undertaken by the government with a 
+wide interest across the public and private sector, Indian and multinational companies. 
+The practice of CSR is not new to companies in India. However, what this Act does is bring 
+more companies into the fold. Also, it is likely that the total CSR spends will increase. What is 
+clear to many companies is that if this increased spending is to achieve results on the ground 
+– which is the intent of the Act – then it needs to be done strategically, systematically and 
+thoughtfully.
+It is in this context, that the ‘Handbook on Corporate Social Responsibility in India’ developed 
+by PwC India for CII can play an important role. The CII being the leading industry body, 
+through this handbook, envisages equipping companies for this shift of structured engagement 
+with communities. This handbook is aimed both at companies that are veteran CSR 
+practitioners as well as those that are just entering the fray. It suggests steps to develop a CSR 
+strategy and Policy and identifies the key building blocks for initiating and developing the CSR 
+programs. It walks the CSR practitioner through some of the key choices that may be required 
+to be made while pursuing CSR objectives and develop an organisation that is socially sensitive 
+and responsible.
+Building a society which provides equal access to opportunities negates disparities and, is a 
+collective responsibility.  This Act presents a unique opportunity to stand up to the challenge. It 
+is a call for action. And this handbook is a significant step in that direction.
+Rakesh Bharti Mittal
+Chairman, CII’s Development Initiative Council and
+Vice Chairman and Managing Director, Bharti Enterprises
+
+Message from  the Mentor and 
+Chairman Emeritus   
+Fortis Healthcare Limited 
+The constitutional structure of the country was laid with an objective of one man equals one 
+vote, equals one value. However the socio-economic realities of the country still have a long 
+way to go to match this vision of independent India where today there are many first among 
+equals. The country presently is under intense debate of developmental growth versus welfare 
+based development. Our political realities and our economic senses are at cross-roads. How do 
+we strike a balance between the two?  The choices we make today are going to influence our 
+generations to come. 
+Every single major policy initiative in this country has been driven with a perspective that an 
+overwhelming concern for the disadvantaged and marginalised, a multidimensional view of 
+poverty and human deprivation, the focus on our fundamental rights and the need to expand 
+opportunities while ensuring its equal distribution are fundamental for achieving strong 
+human development. But disparity, inequality and the growing divide in our societies define 
+our existence today. The inclusion of the CSR mandate under the Companies Act, 2013 is an 
+attempt to supplement the governments efforts of equitably delivering the benefits of growth 
+and to engage the Corporate World with the country’s development agenda. 
+Philanthropy and CSR is not a novel concept for Indian companies, however a few 
+organisations are likely to struggle. The role of civil society in fuelling this change is bound to 
+be extremely important. With the new corporate resources in their tool bag much will depend 
+on their ability to innovate and adapt.  
+The handbook is a guidance document which will facilitate development of CSR mandate 
+within organisations and help streamline dialogue within the industry. An addendum will 
+follow with details of the rules once the same have been notified by the Government.  The 
+members of the industry are likely to find their output helpful, informative and enabling.
+Confederation of Indian Industry has been in the forefront in sensitising industry on CSR 
+and creating necessary enablers for promoting CSR for over a decade. I am confident that all 
+companies will be immensely benefitted from this document too.   
+I would like to extend my warm appreciation to the PwC team, including Sachin Shukla, 
+Sharique Ahmad, Anjan Katna, Ankit Gupta and Shankar Venkateswaran who worked towards 
+the development of this document.
+Harpal Singh
+Mentor and Chairman Emeritus,  
+Fortis Healthcare Limited
+
+BRR Business Responsibility Report
+CSR Corporate social responsibility
+DPE Department of Public Enterprises
+EC European Commission
+ESG Environmental, social and governance
+ILO International Labour Organisation
+ISO International Organisation for Standardisation
+LBG London Benchmarking Group model
+MCA Ministry of Corporate Affairs
+NVG National Voluntary Guidelines
+OECD Organisation for Economic Co-operation and Development
+SEBI Securities and Exchange Board of India
+SME Small and medium enterprises
+SAAS Social accountability accreditation services
+SGAAP Social generally accepted accounting principles
+SROI Social return on investments
+UN United Nations
+UNGC United Nations Global Compact
+UNIDO United Nations Industrial Development Organisation
+WBCSD World Business Council for Sustainable DevelopmentList of abbreviations
+Contents
+6       Wha t is CSR?  
+11       The Companies Act, 2013  
+14       CSR: Planning and strategising  
+23       CSR and SMEs  
+26       App endices
+About the handbook  
+India is a country of myriad contradictions. On the one hand, it has grown to 
+be one of the largest economies in the world, and an increasingly important 
+player in the emerging global order, on the other hand, it is still home to the 
+largest number of people living in absolute poverty (even if the proportion 
+of poor people has decreased) and the largest number of undernourished 
+children. What emerges is a picture of uneven distribution of the benefits of 
+growth which many believe, is the root cause of social unrest.
+Companies too have been the target of those perturbed by this uneven 
+development and as a result, their contributions to society are under 
+severe scrutiny. With increasing awareness of this gap between the haves 
+and the have-nots, this scrutiny will only increase over time and societal 
+expectations will be on the rise. Many companies have been quick to sense 
+this development, and have responded proactively while others have done so 
+only when pushed. 
+Governments as well as regulators have responded to this unrest and the 
+National Voluntary Guidelines for Social, Environmental and Economic 
+Responsibilities of Business or the NVGs (accompanied by the Business 
+Responsibility Reports mandated by the SEBI for the top 100 companies) 
+and the CSR clause within the Companies Act, 2013 are two such instances 
+of the steps taken. 
+According to Indian Institute of Corporate Affairs, a minimum of 6,000 
+Indian companies will be required to undertake CSR projects in order 
+to comply with the provisions of the Companies Act, 2013 with many 
+companies undertaking these initiatives for the first time.  Further, some 
+estimates indicate that CSR commitments from companies can amount to as 
+much as 20,000 crore INR.
+This combination of regulatory as well as societal pressure has meant 
+that companies have to pursue their CSR activities more professionally. 
+This handbook attempts to bring together good practices of companies 
+and grant-making foundations so as to assist companies pursue their CSR 
+activities effectively, while remaining aligned with the requirements of  the 
+Companies Act, 2013.
+This handbook begins by building a common understanding of the concept 
+of CSR, based on global practices, Indian tradition, and the intent and 
+provisions of the Companies Act, 2013. It then goes on to bring out the key 
+aspects of clause 135 of the Companies Act, 2013 and the recently released 
+draft rules, and highlights its implications to companies. 
+A major part of the handbook focuses on the ‘what’ and ‘how’ of strategising, 
+planning, executing and monitoring the CSR activities of companies. It 
+provides a detailed guidance (rather than prescriptions) for each of these 
+processes covering the following:
+• Objective of the process
+• Process owners
+• Key inputs and outputs
+• Activities  or tasks to be covered, including methodology and timelines
+• Tools,  technical guidance or standards to be employed
+It also has a section on what small and medium enterprises, some of whom 
+will be required to comply with the Act, can do collectively. 
+6 PwC
+What is CSR?  
+Handbook on Corporate Social Responsibility in India      7What is CSR?
+The global context
+While there may be no single universally 
+accepted definition of CSR, each definition 
+that currently exists underpins the impact 
+that businesses have on society at large and 
+the societal expectations of them. Although 
+the roots of CSR lie in philanthropic 
+activities (such as donations, charity, 
+relief work, etc.) of corporations, globally, 
+the concept of CSR has evolved and now 
+encompasses all related concepts such as  
+triple bottom line, corporate citizenship, 
+philanthropy, strategic philanthropy, shared 
+value, corporate sustainability and business 
+responsibility. This is evident in some of the 
+definitions presented below:
+The EC1 defines CSR as “ the responsibility of 
+enterprises for their impacts on society”.  To 
+completely meet their social responsibility, 
+enterprises  “should have in place a process 
+to integrate social, environmental, ethical 
+human rights and consumer concerns into 
+their business operations and core strategy in 
+close collaboration with their stakeholders”
+The WBCSD defines CSR as2 “the continuing 
+commitment by business to contribute to 
+economic development while improving the 
+quality of life of the workforce and their 
+families as well as of the community and 
+society at large.”
+According to the UNIDO3, “Corporate 
+social responsibility is a management 
+concept whereby companies integrate 
+social and environmental concerns in 
+their business operations and interactions 
+with their stakeholders. CSR is generally 
+understood as being the way through which 
+a company achieves a balance of economic, 
+environmental and social imperatives 
+(Triple-Bottom-Line Approach), while at 
+the same time addressing the expectations 
+of shareholders and stakeholders. In this 
+sense it is important to draw a distinction 
+between CSR, which can be a strategic 
+business management concept, and charity, 
+sponsorships or philanthropy. Even
+1 http://ec.europa.eu/enterprise/policies/sustainable-
+business/corporate-social-responsibility/index_
+en.htm
+2 http://www.wbcsd.org/work-program/business-
+role/previous-work/corporate-social-responsibility.
+aspx
+3 http://www.unido.org/what-we-do/trade/csr/what-
+is-csr.html#pp1[g1]/0/ 
+4 Brundtland Commission’s Report, 1987 though the latter can also make a valuable 
+contribution to poverty reduction, will 
+directly enhance the reputation of a company 
+and strengthen its brand, the concept of CSR 
+clearly goes beyond that.”
+From the above definitions, it is clear that:
+• The CSR approach is holistic and 
+integrated with the core business strategy 
+for addressing social and environmental 
+impacts of businesses.
+• CSR needs to address the well-being 
+of all stakeholders and not just the 
+company’s shareholders.
+• Philanthropic activities are only a part of 
+CSR, which otherwise constitutes a much 
+larger set of activities entailing strategic 
+business benefits. 
+CSR in India
+CSR in India has traditionally been 
+seen as a philanthropic activity. And in 
+keeping with the Indian tradition, it was 
+an activity that was performed but not 
+deliberated.  As a result, there is limited 
+documentation on specific activities related 
+to this concept. However, what was clearly 
+evident that much of this had a national 
+character encapsulated within it, whether 
+it was endowing institutions to actively 
+participating in India’s freedom movement, 
+and embedded in the idea of trusteeship.
+As some observers have pointed out, the 
+practice of CSR in India still remains within 
+the philanthropic space, but has moved from 
+institutional building (educational, research 
+and cultural) to community development 
+through various projects. Also, with global 
+influences and with communities becoming 
+more active and demanding, there appears 
+to be a discernible trend, that while CSR 
+remains largely restricted to community 
+development, it is getting more strategic in 
+nature (that is, getting linked with business) 
+than philanthropic, and a large number of 
+companies are reporting the activities they 
+are undertaking in this space in their official 
+websites, annual reports, sustainability 
+reports and even publishing CSR reports.
+The Companies Act, 2013 has introduced 
+the idea of CSR to the forefront and 
+through its disclose-or-explain mandate, 
+is promoting greater transparency and 
+disclosure.  Schedule VII of the Act, which lists out the CSR activities, suggests 
+communities to be the focal point. On the 
+other hand, by discussing a company’s 
+relationship to its stakeholders and 
+integrating CSR into its core operations, 
+the draft rules suggest that CSR needs 
+to go beyond communities and beyond 
+the concept of philanthropy. It will be 
+interesting to observe the ways in which this 
+will translate into action at the ground level, 
+and how the understanding of CSR is set to 
+undergo a change. 
+CSR and sustainability
+Sustainability (corporate sustainability) 
+is derived from the concept of sustainable 
+development which is defined by the 
+Brundtland Commission as “ development 
+that meets the needs of the present without 
+compromising the ability of future generations 
+to meet their own needs” 4. Corporate 
+sustainability essentially refers to the role 
+that companies can play in meeting the 
+agenda of sustainable development and 
+entails a balanced approach to economic 
+progress, social progress and environmental 
+stewardship. 
+CSR in India tends to focus on what  is 
+done with profits after  they are made. On 
+the other hand, sustainability is about 
+factoring the social and environmental 
+impacts of conducting business, that is,  
+how  profits are made. Hence, much of the 
+Indian practice of CSR is an important 
+component of sustainability or responsible 
+business, which is a larger idea, a fact 
+that is evident from various sustainability 
+frameworks. An interesting case in point 
+is the NVGs for social, environmental 
+and economic responsibilities of business 
+issued by the Ministry of Corporate Affairs 
+in June 2011. Principle eight relating to 
+inclusive development encompasses most 
+of the aspects   covered by the CSR clause 
+of the Companies Act, 2013. However, the 
+remaining eight principles relate to other 
+aspects of the business. The UN Global 
+Compact, a widely used sustainability 
+framework has 10 principles covering 
+social, environmental, human rights and 
+governance issues, and what is described as 
+CSR is implicit rather than explicit in these 
+principles.
+8 PwCGlobally, the notion of CSR and 
+sustainability seems to be converging, as 
+is evident from the various definitions of 
+CSR put forth by global organisations. The 
+genesis of this convergence can be observed 
+from the preamble to the recently released 
+draft rules relating to the CSR clause within 
+the Companies Act, 2013 which talks 
+about stakeholders and integrating it with 
+the social, environmental and economic 
+objectives,   all of which constitute the 
+idea of a triple bottom line approach. It 
+is also acknowledged in the Guidelines 
+on Corporate Social Responsibility and 
+Sustainability for Central Public Sector 
+Enterprises issued by the DPE in April 20135. 
+The new guidelines, which have replaced  
+two existing separate guidelines on CSR 
+and sustainable development, issued in 
+2010 and 2011 respectively, mentions the 
+following: 
+“Since corporate social responsibility and 
+sustainability are so closely entwined, it can 
+be said that corporate social responsibility 
+and sustainability is a company’s commitment 
+to its stakeholders to conduct business in an 
+economically, socially and environmentally 
+sustainable manner that is transparent and 
+ethical.”
+5  Guidelines on Corporate Social Responsibility and 
+Sustainability for Central Public Sector Enterprises 
+-http://www.recindia.nic.in/download/DPE_Guide -
+lines_CSR_Sust.pdf   Why is the CSR clause of the 
+new Companies Act, 2013 so 
+critical for SMEs?
+By requiring companies, with a 
+minimum net profit of 5 crore INR, 
+to spend on CSR activities, the 
+Companies Act, 2013 is likely to bring 
+in many SMEs into the CSR fold. This 
+will usher in  a fresh set of challenges 
+to a sector that is increasingly 
+being asked by its B2B customers 
+to comply with environmental and 
+social standards, while remaining 
+competitive in terms of price and 
+quality. Thus, SMEs will have to 
+quickly learn to be compliant with 
+these diverse set of requirements and 
+it is hoped that this handbook will 
+facilitate their ability to comply with 
+the CSR clause of the Companies Act, 
+2013.Benefits of a robust CSR 
+programme
+ As the business environment gets 
+increasingly complex and stakeholders 
+become vocal about their expectations, 
+good CSR practices can only bring in greater 
+benefits, some of which are as follows:
+• Communities provide the licence to 
+operate: Apart from internal drivers 
+such as values and ethos, some of the key 
+stakeholders that influence corporate 
+behaviour include governments (through 
+laws and regulations), investors and 
+customers. In India, a fourth and 
+increasingly important stakeholder is 
+the community, and many companies 
+have started realising that the ‘licence 
+to operate’ is no longer given by 
+governments alone, but communities 
+that are impacted by a company’s 
+business operations. Thus, a robust CSR 
+programme that meets the aspirations 
+of these communities not only provides 
+them with the licence to operate, but 
+also to maintain the licence, thereby 
+precluding the ‘trust deficit’.
+• Attracting and retaining employees: 
+Several human resource studies have 
+linked a company’s ability to attract, 
+retain and motivate employees with 
+their CSR commitments. Interventions 
+that encourage and enable employees 
+to participate are shown to increase 
+employee morale and a sense of 
+belonging to the company.
+• Communities as suppliers: There 
+are certain innovative CSR initiatives 
+emerging, wherein companies have 
+invested in enhancing community 
+livelihood by incorporating them into 
+their supply chain. This has benefitted 
+communities and increased their income 
+levels, while providing these companies 
+with an additional and secure supply 
+chain.
+• Enhancing corporate reputation: 
+The traditional benefit of generating 
+goodwill, creating a positive image and 
+branding benefits continue to exist for 
+companies that operate effective CSR 
+programmes. This allows companies 
+to position themselves as responsible 
+corporate citizens.
+
+Handbook on Corporate Social Responsibility in India      9Global principles and guidelines
+A comprehensive guidance for companies 
+pertaining to CSR is available in the form 
+of several globally recognised guidelines, 
+frameworks, principles and tools, some of 
+which are discussed below. It must be noted 
+that most of these guidelines relate to the 
+larger concept of sustainability or business 
+responsibility, in keeping with the fact that 
+these concepts are closely aligned globally 
+with the notion of CSR.
+UNGC
+UNGC is world’s largest corporate citizenship 
+initiative with the objective to mainstream the 
+adoption of sustainable and socially responsible 
+policies by businesses around the world. The 10 
+principles of the UN Global Compact have been 
+derived from various UN conventions such as 
+the Universal Declaration of Human Rights, 
+ILO’s Declaration on Fundamental Principles 
+and Rights at Work, the Rio Declaration on 
+environment and development, and the UN 
+Convention Against Corruption. These prin -
+ciples cover four broad areas: 
+•	 Human rights (support and respect the 
+protection of international human rights 
+and ensure that business is not complicit 
+with human rights abuses)
+•	 Labour rights (uphold the freedom of as -
+sociation and effective recognition of the 
+right to collective bargaining, elimination 
+of all forms of forced and compulsory 
+labour, effective abolition of child labour 
+and elimination of description in respect 
+of employment and occupation)
+•	 Environment (support a precautionary 
+approach to environmental challenges, 
+undertake initiatives to promote greater 
+environmental responsibility and encour -
+age the development of environmental 
+friendly technology)  
+•	 Governance (work against corruption in 
+all forms, including bribery and extor -
+tion). 
+For more details refer the website of UNGC 6The UN Guiding Principles on Business and 
+Human Rights
+The UN guiding principles provide assistance 
+to states and businesses to fulfil their existing 
+obligations towards respecting and protecting 
+human rights and fundamental freedoms and 
+comply with the existing laws. These principles 
+act as global standards for addressing the risk 
+of human rights violation related to business 
+activity. In circumstances when these laws 
+are breached or the guidance is not adhered 
+to, suitable remedies have also been recom -
+mended. The primary focus is on the protec -
+tion of human rights by both, the state and the 
+business enterprises, and the principles broadly 
+outline the manner in which the framework can 
+be implemented.
+For more details refer the website of Office of 
+the High Commissioner for Human Rights7
+ILO’s tripartite declaration of principles on 
+multinational enterprises and social policy
+This is another voluntary declaration whose 
+adoption by governments, employers and mul -
+tinational organisations is encouraged, with the 
+intention of further ensuring labour and social 
+standards. This is particularly for organisations 
+that operate across multiple countries. Focus is 
+on core labour standards such as  (i) freedom of 
+association and the right to collective bargain -
+ing (prohibition of discrimination, bonded and 
+forced labour) (ii) industrial relations (no trade 
+union restrictions, regular discussions between 
+management and labour, and the provision of 
+a forum to lodge complaints in case of labour 
+standard violation)  (iii) employment opportu -
+nities (creation of job security, improved living 
+and working conditions and ensuring that 
+wages are on par with those of other enter -
+prises in the same country).
+For more details refer the website of ILO8
+OECD Guidelines: Multinational enterprises
+OECD Guidelines for multinational enterprises 
+elaborate on the principles and standards for 
+responsible business conduct for multinational 
+corporations. These guidelines were recently 
+updated in 2011. They cover areas such as 
+employment, human rights, environment, 
+information disclosure, combating bribery, 
+consumer interests, science and technology, 
+competition and taxation. They contain defined 
+standards for socially and environmentally 
+responsible corporate behaviour, and also pro -
+vide procedures for resolving disputes between 
+corporations and communities or individuals 
+adversely impacted by business activities.
+For more details refer the website of OECD9Institute of Social and Ethical Account -
+ability:  AccountAbility’s AA1000 series of 
+standards 
+This is a series of standards which enable or -
+ganisations to become accountable, responsible 
+and sustainable. It consists of the (i) AA1000 
+accountability principles (AP) standard (ii) 
+AA1000 assurance standard (AS) (iii) AA1000 
+stakeholder engagement (SE) standard. Since 
+these standards have been formulated through 
+a multi-stakeholder consultation process, they 
+ensure that those impacted (that is, enter -
+prises, governments and civil societies) stand 
+to gain. The Vodafone Group Plc has adopted 
+the AA1000AP standard by focussing on three 
+broad areas: (i) inclusivity (stakeholder en -
+gagement to develop and implement a strategic 
+approach to sustainability) (ii) materiality 
+(assess the management effort required for 
+each material issue and determine the content 
+of sustainability reports) (iii) responsiveness 
+(respond with solutions to material issues and 
+challenges).
+For more details refer the website of Account -
+Ability10
+Social Accountability International (SAI): SA 
+8000 Standard 
+This is one of the world’s first auditable social 
+certification standard. It is based on ILO, UN 
+and national law conventions, and adopts 
+a management system approach in order to 
+ensure that companies that adopt this approach 
+also comply with it. This standard ensures the 
+protection of basic human rights of workers. 
+The nine basic elements of this standard in -
+clude (i) child labour (ii) forced and compul -
+sory labour (iii) health and safety (iv) freedom 
+of association and the right to collective 
+bargaining (v) discrimination (vi) disciplinary 
+practices (vii) working hours (viii) remunera -
+tion (ix) management systems. According to 
+SAAS, there are 695 facilities in India that have 
+been accredited with this standard. Out of  
+these, Aditya Birla Chemicals (India) Limited, 
+Bhilai Steel Plant Steel Authority of India 
+Limited, Birla tyres, Dr Reddy’s Laboratories 
+Limited and Reliance Infrastructure Limited 
+figure prominently in the list of certified facili -
+ties within  India.
+For more details refer the website of SAI11 
+6 www.unglobalcompact.org/
+7 http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf
+8 http://www.ilo.org/empent/Publications/WCMS_094386/lang--en/index.htm
+9 http://oecdwatch.org/about-oecd/guidelines
+10 http://www.accountability.org/standards/
+11 http://www.sa-intl.org/index.cfm?fuseaction=Page.ViewPage&PageID=937
+10 PwCISO 26000: Social responsibility
+This is a guidance tool provided by the ISO 
+which enables organisations to understand the 
+meaning and significance of social responsi -
+bility. It is important to note that this is not a 
+certification but only a guiding tool. Hence, or -
+ganisations which comply with these standards 
+are self-certified. It covers six core areas of 
+social responsibility, including (i) human rights 
+(ii) labour practices (iii) environment (iv) fair 
+operating practices (v) consumer issues (vi) 
+community involvement and development. 
+This ensures a holistic approach to the concept 
+of social responsibility and sustainable develop -
+ment.
+For more details refer the website of ISO12  
+OECD CSR policy tool
+The OECD CSR policy tool aims to help 
+companies gain insight into their current CSR 
+activities, assess its value and determine other 
+CSR activities that can be employed. This policy 
+tool is based on the OECD Guidelines and the 
+ISO26000 implementation guidelines. The re -
+sult of the policy tool is a complete CSR policy, 
+including an action plan with tasks, responsi -
+bilities and a communication strategy plan. 
+For more details refer the website of OECD13 
+Global Compact Self-Assessment Tool
+The Global Compact Self Assessment Tool is an 
+easy-to-use guide designed for use by compa -
+nies of all sizes and across sectors committed 
+to upholding the social and environmental 
+standards within their respective operations. 
+The tool consists of 45 questions with a set of 
+three to nine indicators for each question. It 
+consists of a ‘management section’ and four 
+other sections, including human rights, labour, 
+environment and anti-corruption that relate to 
+the principles of the UN Global Compact. The 
+tool is in line with the UN Guiding Principles 
+on Business and Human Rights. For a small 
+company, this tool acts as a measure of the 
+company’s performance in all areas of the UN 
+Global Compact and how well these issues are 
+managed. For a large organisation, this tool 
+helps to continuously improve existing policies 
+and systems, engage subsidiaries, suppliers or 
+other stakeholders, and improves internal and 
+external reporting. 
+For more details refer the website of Global 
+Compact Self-Assessment Tool14The SROI Network  
+The SROI Network is a framework based on 
+social generally accepted accounting principles 
+(SGAAP) that can be used to help manage and 
+understand the social, economic and environ -
+mental outcomes created by an organisation or 
+a person.  In order to increase the social value or 
+impact of a task, SROI helps in understanding, 
+managing and communicating the social value 
+that a particular task creates in a clear and 
+consistent way with customers, beneficiaries 
+and funders. It also helps in managing risks and 
+identifying opportunities and raise finances. 
+It flags potential improvements to services, 
+information systems and the way to govern the 
+businesses. By forecasting the value a company 
+expects to create using SROI, one can identify 
+the areas where changes are required and a 
+comparison of performance against forecasts 
+will help create additional value. 
+For more details refer the website of SROI15 
+The  LBG model 
+Companies across the world adopt LBG’s 
+measurement model in order to assess the real 
+value and impact of their community invest -
+ment to both, the business and society. This 
+model helps companies to understand the total 
+amount of cash, time and in-kind invested with -
+in the community, and enables them to under -
+stand the geographic spread of their commu -
+nity support and the kind of themes supported 
+such as education, health and arts and culture. 
+Through this model, companies can track the 
+manner in which their community programme 
+supports wider business goals such as building 
+employee morale or creating reputational 
+advantages. Also, it helps to measure the differ -
+ence their programmes make to the community 
+at large.  Under this model, member companies 
+share data and best practices which in turn help 
+in the benchmarking process. 
+For more details refer the website of LBG16 National Voluntary Guidelines on Social, 
+Environmental and Economic Responsibili -
+ties of Business
+These guidelines rolled-out by the Ministry 
+of Corporate Affairs in India, were developed 
+through an extensive consultative process with 
+the objective of providing a distinctive India-
+centric approach for Indian businesses to un -
+derstand the nuances of responsible business, 
+applicable to large and small businesses alike. 
+They are easy to comprehend and implement, 
+and encourage businesses to adopt the triple 
+bottom line approach. These guidelines consist 
+of nine principles which relate to ethics and 
+transparency, product life cycle sustainability, 
+employee well-being, stakeholder engagement, 
+human rights, environmental stewardship, 
+responsible policy advocacy, inclusive develop -
+ment and consumer well-being. Each principle 
+consists of core elements that further articulate 
+the purpose and sense of each principle. It 
+also provides an approach for adopting these 
+guidelines.
+For more details refer the website of MCA17                                
+12 http://www.iso.org/iso/home/standards/iso26000.htm
+13 http://www.oecdguidelines.nl/get-started/creating-a-csr-policy/ 
+14 http://www.globalcompactselfassessment.org/aboutthistool
+15 http://www.thesroinetwork.org/117-home/all-regions/167-why-should-i-use-sroi10
+16 http://www.lbg-online.net/about-lbg.aspx
+17 http://www.mca.gov.in/Ministry/latestnews/National_Voluntary_Guidelines_2011_12jul2011.pdf
+Handbook on Corporate Social Responsibility in India      11
+Clause 135,  
+Companies Act,  
+2013
+12 PwCThe Companies Act, 2013
+In India, the concept of CSR is governed 
+by clause 135 of the Companies Act, 2013, 
+which was passed by both Houses of the 
+Parliament, and had received the assent 
+of the President of India on 29 August 
+2013. The CSR provisions within the Act 
+is applicable to companies with an annual 
+turnover of 1,000 crore INR and more, or a 
+net worth of 500 crore INR and more, or a 
+net profit of five crore INR and more. The 
+new rules, which will be applicable from the The Act lists out a set of activities eligible 
+under CSR. Companies may implement 
+these activities taking into account the local 
+conditions after seeking board approval. 
+The indicative activities which can be 
+undertaken by a company under CSR have 
+been specified under Schedule VII of the 
+Act. 
+The draft rules (as of September 2013) 
+provide a number of clarifications and while 
+these are awaiting public comment before 
+notification, some the highlights are as 
+follows:
+• Surplus arising out of CSR activities will 
+have to be reinvested into CSR initiatives, 
+and this will be over and above the 2% 
+figure
+• The company can implement its CSR 
+activities through the following methods: 
+ -Directly on its own 
+ -Through its own non-profit 
+foundation set- up so as to facilitate 
+this initiative 
+ - Through independently registered 
+non-profit organisations that have a 
+record of at least three years in similar 
+such related activities 
+ -Collaborating or pooling their 
+resources with other companies
+• Only CSR activities undertaken in India 
+will be taken into consideration
+• Activities meant exclusively for 
+employees and their families will not 
+qualify
+• A format for the board report on CSR 
+has been provided which includes 
+amongst others, activity-wise , reasons 
+for spends under 2% of the average net 
+profits of the previous three years and 
+a responsibility statement that the CSR 
+policy, implementation and monitoring 
+process is in compliance with the CSR 
+objectives, in letter and in spirit. This has 
+to be signed by either the CEO, or the MD 
+or a director of the company
+Governance
+Clause 135 of the Act lays down the fiscal year 2014-15 onwards, also require 
+companies to set-up a CSR committee 
+consisting of their board members, 
+including at least one independent director.
+The Act encourages companies to spend at 
+least 2% of their average net profit in the 
+previous three years on CSR activities. The 
+ministry’s draft rules, that have been put 
+up for public comment, define net profit 
+as the profit before tax as per the books of 
+accounts, excluding profits arising from 
+branches outside India.
+Promotion of 
+education
+Gender equity and  
+women empowermentEradication of extreme  
+hunger and poverty
+Reducing child 
+mortality and 
+improving maternal 
+healthCombating 
+HIV-AIDS, 
+malaria and other 
+diseases
+Environmental 
+sustainability
+Employment 
+enhancing 
+vocational 
+skillsContribution to 
+Prime Minister’s 
+relief fund and other 
+such state and 
+central fundsSocial 
+business 
+projects
+And such 
+other matters 
+as may be 
+prescribedList of activities under Schedule VII
+Handbook on Corporate Social Responsibility in India      13guidelines to be followed by companies 
+while developing their CSR programme.
+The CSR committee will be responsible 
+for preparing a detailed plan on CSR activities, including the expenditure, the 
+type of activities, roles and responsibilities 
+of various stakeholders and a monitoring 
+mechanism for such activities. The CSR 
+committee can also ensure that all the kinds 
+of income accrued to the company by way of 
+CSR activities should be credited back to the 
+community or CSR corpus.Reporting
+The new Act requires that the board of the 
+company shall, after taking into account 
+the recommendations made by the CSR 
+committee, approve the CSR policy for 
+the company and disclose its contents in 
+their report and also publish the details 
+on the company’s official website, if any, 
+in such manner as may be prescribed. If 
+the company fails to spend the prescribed 
+amount, the board, in its report, shall 
+specify the reasons.
+Business responsibility 
+reporting 
+The other reporting requirement 
+mandated by the government of 
+India, including CSR is by the SEBI 
+which issued a circular on 13 August 
+2012 mandating the top 100 listed 
+companies to report their ESG 
+initiatives.  These are to be reported 
+in the form of a BRR as a part of the 
+annual report. SEBI has provided a 
+template for filing the BRR.  Business 
+responsibility reporting is in line with 
+the NVG published by the Ministry 
+of Corporate Affairs in July 2011. 
+Provisions have also been made in 
+the listing agreement to incorporate 
+the submission of BRR by the relevant 
+companies. The listing agreement 
+also provides the format of the BRR. 
+The BRR requires companies to report 
+their performance on the nine NVG 
+principles. Other listed companies 
+have also been encouraged by SEBI 
+to voluntarily disclose information 
+on their ESG performance in the BRR 
+format. Net worth > 500 Crore INR 
+Turnover > 1000 Crore INR 
+Net profit > 5 Crore INR 
+Form a CSR commiittee
+Approve the CSR policy
+Ensure implementation of the activties 
+under CSR
+Ensure 2% spend
+Disclose reasons for not spending the 
+amount (if applicable)Role of the board CSR committee
+Three or more directors with at least one 
+independent director
+Formulate and recommend a CSR 
+policy to the board
+Recommend activities and the amount 
+of expenditure to be incurred
+Monitor the CSR policy from time to 
+timeRole of the board and the CSR committee
+14 PwC
+CSR: Planning  
+and strategising
+Handbook on Corporate Social Responsibility in India      15CSR: Planning and 
+strategising
+The first step towards formalising CSR 
+projects in a corporate structure is the 
+constitution of a CSR committee as per the 
+specifications in the Companies Act, 2013, 
+clause 135.
+Background
+Clause 135 of the Companies Act, 2013 
+requires a CSR committee to be constituted 
+by the board of directors. They will be 
+responsible for preparing a detailed plan 
+of the CSR activities including, decisions 
+regarding the expenditure, the type of 
+activities to be undertaken, roles and 
+responsibilities of the concerned individuals 
+and a monitoring and reporting mechanism. 
+The CSR committee will also be required to 
+ensure that all the income accrued to the 
+company by way of CSR activities is credited 
+back to the CSR corpus. 
+Companies Act, 2013, Clause 135: CSR 
+committee requirements
+•	 A CSR committee of the board should 
+be constituted. It should consist of at 
+least three directors out of whom at 
+least one is an independent director. 
+This composition will be disclosed in 
+the board’s report as per sub-section 
+(3) of section 134.
+•	 The CSR committee shall:
+ -formulate and recommend a CSR 
+policy to the board, indicating the 
+activities as specified in Schedule 
+VII of the Act
+ -recommend the amount of 
+expenditure to be incurred on the 
+activities indicated in the policy
+ -monitor the CSR policy regularlyThis is an excellent starting point for any 
+company new to CSR. In case a company 
+already practices CSR, this committee 
+should be set up at the earliest so that it 
+can guide the alignment of the company’s 
+activities with the requirements of the Act.
+For effective implementation, the CSR 
+committee must also oversee the systematic 
+development of a set of processes and 
+guidelines for CSR to deliver its proposed 
+value to the company, including:
+•	 one-time processes such as developing 
+the CSR strategy and operationalising 
+the institutional mechanism•	 repetitive processes such as the 
+annual CSR policy, due diligence of 
+the implementation partner, project 
+development, project approval, 
+contracting, budgeting and payments, 
+monitoring, impact measurement and 
+reporting and communication
+A set of such enabling processes, their 
+inter-relationships and the sequence in 
+which they need to be developed have been 
+identified below:
++
++
++
++Developing a CSR strategy 
+and policy1
+32
+4
+5Project approval
+Impact measurementDue diligence of the 
+implementation partner
+Progress monitoring 
+and reportingOperationalising the 
+institutional mechanism
+Finalising the 
+arrangenment with the 
+implementing agency
+Report consolidation 
+and communicationProject development
+Project implementationCSR processes
+16 PwCWhile developing these processes, no 
+standard set of recommendations exist for 
+all companies. However, an overview of the 
+required details, the activities required to be 
+completed for each of these processes along 
+with some additional guidance on critical 
+issues has been provided below:
+Step one: Developing a CSR 
+strategy and policy
+Purpose
+The Companies Act, 2013 requires every 
+company to put out its CSR policy in the 
+public domain. The guidance provided 
+in the Act and the draft rules on what 
+constitutes a CSR policy are that it should: 
+•	 exclude normal business activities of 
+the company 
+•	 contain a list of the CSR projects or 
+programmes which the company 
+plans to undertake during the 
+implementation year
+While specifying the annual report 
+requirements, the draft rules go on to say is 
+that the company must provide:
+•	 a brief outline of its CSR policy, 
+including ‘the statement of intent 
+reflecting the ethos of the company, 
+broad areas of CSR interest and an 
+overview of activities to be undertaken’
+•	 a web  link to the CSR policy including 
+‘the full list of projects, activities 
+and programmes proposed to be 
+undertaken by the company’ 
+Since most of the development requires 
+long-term commitments and their impact 
+often takes a while to accrue, a good CSR 
+practice requires that a company that is 
+serious about its CSR should develop a 
+long-term (three to five years) vision and 
+strategy which is reviewed annually and the 
+activities and budgets are planned on an 
+annual basis. The latter will comply with the 
+CSR policy requirements of the Companies 
+Act, 2013. 
+To avoid confusion regarding terms like 
+policy, strategy, project and programme, a 
+brief explanation has been provided here:
+•	 CSR strategy refers to what the 
+company expects to achieve in the next 
+three to five years and incorporates the 
+vision, mission and goals on a broader 
+level. It also entails how it plans to 
+achieve these in terms of organisation 
+and approach.•	 CSR policy refers to what the company 
+expects to achieve over the next year. 
+This is aligned with the requirements of 
+the Companies Act, 2013 .
+•	 Programme refers to a sector or an 
+issue that the company proposes to 
+address through its CSR. This can, 
+for instance, be ‘education of the girl 
+child’ or ‘agriculture development’. 
+Programmes will be clearly outlined in 
+the company’s CSR strategy.
+•	 Programme goals will be achieved 
+through a series of individual projects 
+and, a project refers to a set of 
+interventions, typically in a specific 
+geography and addressing a specific 
+stakeholder group, with a definite set of 
+goals, beginning and end and a budget 
+attached to it.
+•	 Each project in turn will consist of 
+a number of activities. All of which 
+contribute towards the project goals.
+Frameworking CSR strategy
+An effective CSR strategy should articulate:
+•	 who it wishes to address i e the target 
+group
+•	  where it wishes to work i e the 
+geography 
+•	 what sectors or issues it wishes to 
+address
+A brief understanding of these terms is 
+outlined below:
+Target group:  While development and 
+welfare programmes in India address all the 
+citizens, the focus is on the disadvantaged, 
+marginalised and excluded. Marginalisation 
+in India is primarily on the basis of gender, 
+disability, ethnicity and location. This leads 
+to social and physical exclusion of such 
+groups from all kinds of development. 
+Engaging the marginalised in India is 
+further complicated due to language and 
+literacy variances, information asymmetry, 
+infrastructure constraints, geographical 
+challenges and cultural barriers to name 
+a few. The CSR strategy should ideally 
+indicate which of these marginalised groups 
+it proposes to target.Geography:  The Companies Act, 2013 
+encourages companies to target their CSR 
+interventions in their local region. While 
+this is an obvious choice for companies that 
+are in manufacturing, those in the services 
+sector (like banking and telecom) with a 
+wider footprint have no concentrated local 
+region. Companies must decide whether 
+their CSR activities will be focused on a 
+few geographies (this can be around their 
+plants or in specific backward districts) or 
+whether they will prefer to particularly work 
+anywhere in India.
+Sector and issue:  Sector refers to the 
+development area that the company wishes 
+to focus on; typically, health, education, 
+livelihood, environment, and so on. 
+Issue refers to a specific aspect of a sector 
+for example, primary education in the 
+education sector, skills development or 
+social enterprise in the livelihoods sector. 
+It is important for a company to determine 
+which sector and issues it will focus on to 
+ensure significant positive impact. Also, 
+the reporting format in draft rules of the 
+Companies Act, 2013 requires that the 
+company report against the sector making it 
+all the more important.
+Process
+Objective:  Developing the CSR strategy and 
+policy.
+Process owners:  The CSR committee
+Inputs:
+•	 Guidance from the board 
+•	 Companies Act requirements 
+•	 Corporate business strategy, plan and 
+supply chain 
+•	 Development priorities: both, national 
+and wherever the company has 
+business interests
+Output(s): the CSR policy document and an 
+indication of sectors and issues, geographies 
+and a profile of the beneficiaries.
+Handbook on Corporate Social Responsibility in India      17Activities
+•	 Reviewing the past as well as the 
+current CSR activities and examining 
+their alignment with Schedule VII of 
+the Companies Act, 2013. 
+•	 Studying the publicly available 
+information on national and local 
+development priorities.
+•	 Meeting development experts in the 
+government as well as the NGOs to 
+understand priorities and identifying 
+potential areas of intervention.
+•	 Conducting internal meetings with 
+business leaders to establish the 
+relevance of potential CSR activities to 
+the company’s core business.
+•	 Studying the good CSR practices 
+of other companies and their 
+achievements.
+•	 Developing a CSR strategy that defines 
+for the next three to five years, what 
+the company’s CSR activities will cover 
+in terms of:
+ -vision and mission
+ -sectors and issues
+ -geographies: states and districts
+ -beneficiaries
+ -KPIs Tools, technical guidance  and 
+standards to be used:
+•	 The 10 principles of the UN global 
+compact
+•	 UN guiding principles on business 
+and human rights
+•	 ILO tri-partite declaration of 
+principles on multinational 
+enterprises and social policy
+•	 OECD CSR policy tool
+•	 Global compact self assessment
+•	 Clause 135, Companies Act, 2013
+Decision criteria Grant making Self execution
+Availability and access to 
+implementation partnerPreferred when there is an easy availability and 
+access to the implementation partners (in the target 
+geography working on identified sector and issue) who 
+can work towards the objective that the company wants 
+them to pursue. Preferred when there is a lack of availability and 
+access to the implementation partners (in the 
+target geography working on identified sector and 
+issue) who can work towards the objective that the 
+company wants them to pursue. 
+ Customisation The flexibility of customising a CSR project to suit the 
+company needs is low to medium.The flexibility of customising a CSR project to suit 
+the company needs is high.
+Cost of implementation Implementation partners are more likely to have lower 
+costs due to their concentrated focus in pursuing 
+development activities, cumulative time spent on 
+the field, cost of human resources deployed and 
+in general operational efficiencies. Fixed costs are 
+usually averaged down as the implementation partners 
+usually try to tap multiple sources of funding including 
+government assistance.Overheads are usually higher and economic 
+efficiencies lower (at least during inception and 
+growth phases). Higher fixed costs are involved.
+Control Low to medium levels of control over day to day 
+activities, efficiencies and outputs.High levels of control over day to day activities, 
+efficiencies and outputs.
+Building expertise Project management know-how is sufficient and in-
+depth domain knowledge of development issues is not 
+expected.Project management know-how is required along 
+with in-depth domain knowledge of development 
+issues.Step two: Operationalising the 
+institutional mechanism
+Purpose
+In order for a corporate to gain the greatest 
+leverage and a strategic advantage through 
+the investment of intellectual and financial 
+resources, they are required to select their 
+implementation mechanism. In terms of 
+implementation mechanism, a company has 
+several options, which are permitted under 
+the CSR draft rules:
+•	 Self-execution through:
+ -an in-house CSR department
+ -a company foundation with execution 
+capabilities
+•	 Making grants to an independent 
+implementation partner (which has a 
+track record of at least three years).
+•	 The grants can be made:
+ -direc tly by an in-house CSR 
+department
+ -through the company’s grant-making 
+foundation
+The factors that a company needs to 
+consider while deciding between in-house 
+execution and grant-making (whether 
+by the department or the company  
+foundation) are as follows:•	 Determining the implementation 
+mechanism:
+ -grant-making or direct 
+implementation
+ -institutional mechanism: in-house 
+department, corporate foundation, 
+partnerships with other NGOs
+•	 Annually developing a CSR policy in 
+line with the Companies Act, 2013 rules 
+that defines programmes, geographies 
+and budgets for the following financial 
+year, aligned with the strategy and 
+ensuring that the 2% requirement of 
+funds allocation is met
+•	 Establish methods for monitoring and 
+reporting
+18 PwCIt must be noted that whatever 
+implementation mechanism the company 
+chooses, it must have a basic CSR 
+department in place to support the CSR 
+committee. The role and structure of the 
+department will be determined by the CSR 
+committee.
+Selecting legal structure of the 
+company foundation
+Many companies have set up their own 
+foundations (a term used loosely to describe 
+a non-profit entity promoted by a company) 
+to implement their CSR activities. The 
+advantages that they see in this are:
+•	 It enables leveraging of funds from 
+other sources i e the government 
+schemes and other foundations. 
+Typically, profit organisations are not 
+eligible for such funds.
+•	 Since the skills, job titles, career paths 
+and cost structures required for the 
+execution of CSR projects are quite 
+different from a company’s operations, 
+a separate foundation enables the 
+company to keep these distinct.
+Under the draft CSR rules, an entity 
+that a company sets up to facilitate the 
+implementation of its CSR activities is to 
+be registered in India as a trust, society, 
+or a non-profit company under section 818 
+of the Companies Act, 2013. Non-profit 
+organisations in India are:
+•	 self-governed by a board of trustees or 
+a managing committee or a governing 
+council, comprising individuals who 
+generally serve in a fiduciary capacity
+•	 intended to benefit others outside the 
+membership of the organisation
+•	 prohibited from distributing a 
+monetary residual to its members
+A detailed comparative analysis of the 
+three choices of non-profit legal structures 
+is attached in Appendix 1: Comparative 
+analysis of the three choices for legal 
+entity. Process
+Objective:   Establishing a legal entity and 
+aligning the accounting, tax, finance, 
+administration, HR and IT systems to deliver 
+the commitments made in the CSR policy.
+Process owners:  The CSR committee
+Inputs: The CSR strategy
+Output(s): 
+•	 creation of a separate legal entity or a 
+CSR department for CSR activities 
+•	 other institutional mechanisms 
+to align the accounting, finance, 
+administration, HR and IT systems with 
+CSR activities
+Activities:
+•	 Selecting the organisation model for 
+the CSR implementation: in-house 
+versus outsourced and its legal entity 
+(trust, society, Section 819 company , 
+in-house department, etc)
+•	 Identifying the implementation model 
+(grant making, direct project execution, 
+etc)
+•	 Formalising the job description, 
+the roles and responsibilities and 
+the reporting relationships for the 
+CSR team (whether in-house or in a 
+foundation)
+•	 Integrating budgeting, procurement, 
+payments and reporting for CSR with 
+the existing finance, administration 
+and IT systems
+•	 Analysing accounting systems and 
+chart of accounts and make required 
+changes to record all expenses 
+appropriately. Establish a method of 
+allocation for the expenses (or assets 
+created) that are partly for the CSR 
+and partly for business or employee 
+use. 
+18,19 The non-profit organization formerly known as Section 25 companies are now called Section 8 companies after the introduction of Companies Act, 2013.Step three: Due diligence of the 
+implementation partner
+Purpose
+Due diligence refers to the process a 
+company undertakes to determine the 
+risks as well as the benefits of working 
+with a potential implementation partner. 
+This process has to be sufficiently robust to 
+ensure that a company’s implementation 
+partners have the reputation, competence 
+and integrity to deliver effective 
+programmes on the ground.
+It begins as soon as the discussions with 
+the implementation partner suggest that 
+there is prima facie interest of both parties 
+to enter into a partnership. A detailed 
+due-diligence is essential for large and 
+long partnerships but may be brief for a 
+relatively small or opportunistic partnership 
+opportunity.
+The due diligence process consists of five 
+primary areas for investigation:
+•	 competence of the implementation 
+partner
+•	 identity
+•	 management 
+•	 accountability 
+•	 transparency and financial capability
+These have been outlined below:
+Tools, technical guidance  and 
+standards to be used:
+•	 To be tailored as per corporate 
+requirements
+Handbook on Corporate Social Responsibility in India      19Issue Sub-issue Description
+Competence of the 
+implementation 
+partnerGeography Capacity, expertise and the number of years of experience with the geography under consideration
+Sector Capacity, expertise and the number of years of experience with the sector under consideration
+Issue Capacity, expertise and the number of years of experience with the issue under consideration
+IdentityHistory of existence The number of years the implementation partner has been in existence
+Legal identity The organisation is registered either as a trust, a society or Section 8  company, a charitable company, 
+a co-operative society or is unregistered
+Affiliations The desired level of affiliation with governments, local administration and international bodies
+Litigations Any ongoing litigation
+ManagementComposition of the board Number of members, advisors, term of members and advisors and board renewal procedures
+Profile of the board 
+members and advisorsBios of the members on the board, their number of years and depth of experience and relevant 
+achievements
+Diversity in expertise The expertise available at the disposal of the board for development activities
+Board meetings Regularity of meetings, attendance records and recent topics of discussion
+Vision, mission and 
+strategyThe management outlines its vision, mission and strategy in its operational plans or other documents. 
+These plans are communicated to all relevant employees
+Experience of the 
+management The management personnel responsible for the day-to-day activities have the necessary depth of 
+experience and skill set to manage the current and the future growth plans.
+Conflict of interest Any conflict of interest between the board members, the advisors or the management personnel with 
+the company. There is no conflict of interest with the local governments.
+Transparency Transparency Awareness of the disclosure and the transparency requirements for all stakeholders (including 
+regulators and funders) like periodic reporting, external audits and ratings
+Financial capabilityFinancial statements Availability of audited financial statements 
+Adequacy of reserves A formalised and institutionalised system for keeping reserves for times of financial need
+Section 12A registration Status of Section 12A registration
+80G registration Status of 80G registration.
+FC(R)A registration Status of the registration with the Foreign Contribution (Regulation) Act 2010.
+A more detailed due-diligence can also 
+undertake the evaluation of the following 
+five issues:
+•	 organisation structure 
+•	 operations, systems and processes 
+•	 human resource 
+•	 financial capability
+•	 risk management
+CII and Credibility Alliance’s guidelines for 
+identifying NGO partners are mentioned in 
+Appendix 4.
+Process
+Objective:   Selecting the implementation 
+partner.
+Process owners:  The CSR department or 
+Company Foundation
+Inputs:  
+•	 the CSR strategy and policy  
+•	 discussions with communities, board, 
+staff, other funders, local government 
+officials, local leaders or influencers, 
+auditors •	 studying the books of accounts and the 
+auditor’s report
+Output(s):
+•	 a due diligence report
+Activities:
+•	 Establishing a due diligence criteria 
+to evaluate the implementation or 
+concept development agency including 
+its incorporation, permits and licenses, 
+systems, processes, public image, 
+management, team deployment, 
+track record, financial soundness, 
+competence level, presence in desired 
+geography, compatibility with company 
+CSR policy and any conflicts of interest.
+•	 Establishing a due diligence criteria 
+for evaluation and empanelment of 
+private funders for partnership and 
+joint projects.
+•	 Evaluating the partnership 
+opportunities for its risks and benefits.Step four: Project development
+Purpose
+The CSR strategy of a company will be 
+implemented through a series of projects 
+which will have definite beginnings, ends, 
+expected outputs and outcomes as well as 
+budgets associated with it. These projects 
+may be of a short duration (a few months) 
+or multi-year. 
+A company may choose to implement 
+projects through its in-house teams or 
+in partnership with other agencies or a 
+combination of both. Whatever path it 
+takes, it is important for the project to be 
+developed clearly with distinct baselines, 
+defined activities, ‘monitorable’ targets and 
+budgets. In the case of multi-year projects, 
+it is important to include a provision to 
+undertake annual reviews which can form 
+the basis to revise the project.
+Tools, technical guidance  and 
+standards to be used:
+•	 To be tailored as per corporate 
+requirements.
+20 PwCProcess
+Objective:  Developing a feasible project 
+proposal.
+Process owners:  The implementation 
+agency (the CSR department, company 
+foundation or the NGO partner)
+Inputs: 
+•	 the CSR policy  
+•	 institutional mechanisms 
+•	 information from the government 
+sources, previous studies done in the 
+area, etc  
+•	 information on programs targeting 
+similar geographies and beneficiary 
+groups or strategies
+•	 monitoring impact measurement 
+reports from any earlier projects
+Output(s): 
+A project proposal that details:
+•	 a project context including the roles of 
+other development actors 
+•	 key needs of the target beneficiaries 
+•	 project goals, KPIs, baselines and 
+expected end lines 
+•	 project milestones for progress 
+monitoring purposes 
+•	 activities and timelines to achieve the 
+stated project goals 
+•	 budgets along with the basis for 
+estimation 
+•	 risks and mitigation strategies 
+•	 progress reporting: content, frequency 
+Activities:
+•	 Developing a framework to identify 
+key stakeholder groups including the 
+local community, the local government 
+or bodies, academia and research 
+institutions, investors, etc.
+•	 Conducting a needs assessment (if 
+required) to assess development 
+priorities. The methodology for this can 
+be participatory processes, surveys or a 
+combination of the two.
+•	 Studying and adopting good practices 
+to address similar challenges based on 
+prior experiences or lessons available 
+from other practitioners and develop 
+the approach.•	 Detailing the project: the objectives, 
+the beneficiaries and the impact on 
+the beneficiaries, the assumptions, 
+the expected outputs and outcomes, 
+detailed activities, potential to 
+influence public policy and practice. 
+•	 Identifying the indicators of success 
+with the means of verification and 
+establish the baseline for each. This can 
+be commissioned as a separate study 
+or can even be included in the needs 
+assessment stage.
+•	 Estimating the budget and how it will 
+be funded specifying the community 
+contributions, leveraging of the 
+government schemes and contributions 
+from the other donors.
+•	 Indicating the monitoring and 
+evaluation methodologies for impact 
+measurement.
+Tools, technical guidance  and 
+standards to be used:
+•	 Social return on investments (SROI), 
+the SROI network 
+•	 Global impact investing network (GIIN)
+•	 ISO 26000: social responsibility
+Step five: Project approval
+Purpose
+Every project, whether developed by the 
+in-house team or an external agency, must 
+be formally examined and approved. This 
+is to ensure that each project is in line with 
+the CSR strategy and policy, the monitoring 
+indicators are clearly defined and relevant 
+and there is an adequate budget available. 
+Projects that go on for longer durations 
+or demand a larger amount of resources 
+must be scrutinised more carefully than the 
+others.
+The CSR committee is ultimately the 
+one responsible for every project. It can, 
+however, choose to delegate authority to 
+a project approval committee consisting 
+of company staff and outside experts with 
+clearly defined roles and responsibilities.
+Process
+Objective:   Approve the project based on 
+the CSR policy objectives, principles and 
+guidelines.
+Process owners: The CSR committee or the 
+delegated project approval committee.Inputs:
+•	 a project proposal
+•	 a due diligence report
+Output(s):  An approved project proposal 
+including a monitoring process and 
+reporting and responsibility for this.
+Activities:
+•	 Determining the delegation of power 
+for the project approval.
+•	 Establishing an evaluation framework 
+for the appraisal of the project concepts 
+and implementing agencies that ensure 
+complete alignment with the CSR 
+policy.
+•	 Establishing tests for the theory of 
+change; whether the concept will be 
+able to deliver the intended results. 
+Establishing tests for the value for 
+money, economy, effectiveness and 
+efficiency.
+•	 Reviewing risks and mitigation 
+measures.
+•	 Identifying resource availability 
+and any specific organisational 
+requirements and constraints.
+•	 Laying down organisational supervision 
+and oversight requirements.
+Tools, technical guidance  and standards to be used:
+•	 To be tailored as per corporate 
+requirements.
+Step six: Finalising the 
+arrangement with the 
+implementing agency
+Purpose
+While working with an external agency, 
+it is very important to enter into a formal 
+arrangement which is referred to here 
+as a Memorandum of Understanding or 
+MoU. It defines the roles, responsibilities, 
+deliverables, commitments and 
+consequences in case of any breach. This is 
+essentially a formal acknowledgement that 
+all the partners have voluntarily consented 
+to work together to achieve an agreed 
+outcome that requires each one to play their 
+respective roles.
+The term MoU is used more generically 
+here to refer to the arrangements between 
+partners which can range from a formal, 
+legally enforceable contract on the one hand 
+to a simple exchange of written documents 
+Handbook on Corporate Social Responsibility in India      21on the other. However, what is important 
+for the company to keep in mind is that 
+it is entering into an arrangement with a 
+partner, not a supplier and there is a greater 
+sense of mutuality in this relationship.
+It may also be noted that the MoU is 
+relevant only if the project is being 
+implemented by a legal entity other than 
+the company’s own CSR department. It 
+must also be executed if the project is being 
+implemented by the company foundation if 
+it is a separate legal entity.
+Disbursement scheduling
+For a project to deliver the desired results, 
+it should have sufficient funds to carry out 
+the planned activities. At the same time, 
+having excess funds in the bank account 
+is not prudent financial management. 
+Thus, the scheduling of disbursements is 
+important both for the company (to plan its 
+cash flows from the CSR budget) and the 
+implementing agency and hence needs to be 
+detailed in the MOU.
+A good practice suggests that the scheduling 
+of disbursements should be linked with 
+the activities planned for the each period; 
+this can be a quarter, six months or a 
+year depending upon the administrative 
+convenience and budget sizes. Thus, the 
+project budget needs to be broken up 
+accordingly and the funds required for the 
+subsequent period should be made available 
+in advance.  
+Actual disbursements have to then be linked 
+to the progress on the ground. The MoU 
+should also specify the conditions that the 
+implementing agency should fulfil and the 
+documentation it should provide in support 
+of a disbursement request. Typically, these 
+include the status of:
+•	 activities originally planned in the 
+period
+•	 changes and the reasons thereof
+•	 planned and required funds for the 
+period
+•	 utilised funds and bank balances
+•	 net funds required  Process
+Objective:  Agree upon and sign the MoU 
+with the partner.
+Process owners:  The CSR department or 
+company foundation
+Inputs: 
+•	 an approved project proposal
+•	 a due diligence report
+Output(s):  MoU with the implementing 
+agency including the disbursement 
+schedule.
+Activities:
+•	 Developing template MoUs based 
+on the context. Specify the outputs 
+and outcomes, the approach and 
+methodology, the KPIs,  key parameters 
+to be monitored and reported, the 
+mode of communication, contract 
+management team, scope of change 
+in management procedures, dispute 
+or conflict resolution mechanisms, 
+inspection and audit requirements, 
+contract closeout requirements, time-
+lines, milestones and deliverables, 
+budgets, process of invoicing and 
+release of payments, etc
+•	 Establishing a process for negotiation 
+of the MoU with the implementing 
+agency. 
+•	 Negotiating, agreeing upon and signing 
+the MoUTo ensure objectivity, it is critical that the 
+monitoring is done by someone other 
+than the people directly engaged in the 
+project implementation. In cases where 
+the implementation is done by a partner or 
+corporate foundation, this role can either be 
+outsourced or played by the company’s CSR 
+department. In case the CSR department 
+itself is implementing a project, then 
+monitoring should either be outsourced to 
+a third party or the department structure 
+should include an independent monitoring 
+cell. This decision should be taken by the 
+CSR committee.
+Process
+Objective:  Monitoring progress, distilling 
+lessons and forming the basis for reporting.
+Process owners:  The CSR committee
+Inputs:
+•	 The approved project proposal 
+•	 Previous monitoring reports
+Output(s): 
+•	 Determining mid-course corrections 
+•	 Recommendations for future project 
+designs 
+•	 Project monitoring reports to the CSR 
+committee
+Activities:
+•	 Determining the monitoring schedule 
+for each project based on the approved 
+project proposal.
+•	 Obtaining all relevant progress reports 
+from the project, studying them and 
+making a note of the gaps.
+•	 Holding discussions with the 
+implementation team on reasons for 
+slippages (if any) and agreeing on a 
+corrective action. This may be done 
+through a field visit or remotely, based 
+on what has been agreed in the MoU.
+•	 Holding discussions with the 
+implementation team regarding what 
+lessons are emerging and how they can 
+be applied within the project as well as 
+outsi de. 
+Tools, technical guidance  and 
+standards to be used:
+•	 To be tailored as per corporate 
+requirements.Tools, technical guidance  and 
+standards to be used:
+•	 To be tailored as per corporate 
+requirements.
+Step seven: Progress monitoring 
+and reporting
+Purpose
+Routine progress monitoring serves the 
+following three important purposes:
+•	 It highlights any slippages and helps to 
+determine a corrective action that must 
+be taken if need be. 
+•	 It provides an excellent opportunity 
+for learning: what worked and what 
+did not. This can then be immediately 
+applied to other projects. 
+•	 This is an essential part of the directors’ 
+report as per the CSR clause of the 
+Companies Act, 2013
+22 PwCStep eight: Impact measurement
+Purpose
+Impacts of the development projects 
+typically take a while to manifest. For 
+instance, a girl child education programme 
+can show an increased enrolment and 
+retention of girls and on a monthly basis, 
+but further impacts such as improved 
+learning levels will take at least a year. 
+So, impact measurement studies have 
+different objectives from project monitoring 
+and typically have to be undertaken after 
+providing sufficient time for them to 
+manifest.
+Impact measurement is often quite 
+specialised and needs to be undertaken 
+by an independent team with specific 
+skills depending upon project design. 
+For instance, if a girl child education 
+programme has a strong component 
+for mobilising communities, then the 
+members of the evaluation team must not 
+only understand education but also have 
+knowledge of gender and the community in 
+order to assess the impact.  
+There are several tools and frameworks 
+for measuring impact. Each has its pros 
+and cons depending upon the nature of 
+interventions, time and budgets available 
+for the study and the availability of people. 
+Thus, selecting the impact measurement 
+methodology is important.
+Thus, impact studies have to be carefully 
+planned in terms of team composition, 
+timing and methodology. The process must 
+be driven by the CSR committee which can 
+delegate the day-to-day management of the 
+process to an appropriate structure within 
+the company.
+Process
+Objective:  Measuring the outcome and 
+impact of the projects. 
+Process owners: The CSR committee
+Inputs: 
+•	 resource planning
+•	 the project MoU
+Output(s):
+•	 impact measurement report
+•	 recommendations for the future project 
+designsActivities:
+•	 Identifying methods for conducting 
+the impact assessment and outcome 
+measurement suited to the context 
+and the size of the project and budgets 
+available.
+•	 Identifying the skills set required for 
+the impact measurement team and 
+accordingly identifying, selecting and 
+appointing the team.
+•	 Assisting the team to prepare the 
+methodology for selecting a sample, 
+conducting surveys, focus group 
+discussions collecting information on 
+the identified indicators.
+•	 Making the provisions for the site visits 
+by the team, involvement of the agency 
+involved during the baseline and needs 
+assessment.
+•	 Undertaking the impact measurement 
+exercise and preparing the report.
+•	 Identifying the lessons for future 
+interventions.Act, 2013. The report has to conform to 
+the requirements of CSR rules under the 
+Companies Act, 2013 in terms of form 
+and content as non-compliance attracts 
+penalties. This report will also form a key 
+input into the company’s SEBI Business 
+Responsibility Report and sustainability 
+report. The CSR committee may choose 
+to go beyond the requirements of the 
+Companies Act, 2013 and issue a stand-
+alone CSR report.
+Process
+Objective: Reporting the CSR at an 
+individual project level, consolidated at 
+a programme level and aligned with the 
+requirements under the Companies Act, 
+2013 and the CSR committee.
+Process owners:  The CSR department
+Inputs: 
+•	 CSR strategy and policy
+•	 the project MoU
+•	 monitoring reports from individual 
+projects 
+Output(s):  
+•	 consolidated CSR reports 
+•	 external stakeholder communication
+Activities:
+•	 Identifying the recipient of the report: 
+the board of directors, investors, 
+government agencies, beneficiaries, etc.
+•	 Selecting the appropriate reporting 
+framework that is aligned with the 
+requirements of the Companies Act, 
+2013 and the global best practices.
+•	 Consolidating project reports into 
+programme reports and an overall CSR 
+report.
+The reporting format will form a part of the 
+CSR rules being drafted by the Ministry of 
+Corporate Affairs. Step nine: Report consolidation 
+and communication
+Purpose
+Reporting and communication closes the 
+loop between intent and achievement and is 
+hence a crucial element of the CSR process. 
+In the context of the Companies Act, 2013 
+this is also a mandatory requirement as it 
+provides crucial inputs to preparing the 
+directors’ report.
+Project-level reporting forms the base 
+and hence getting it right is critical. 
+Project reports have to be consolidated in 
+programme related reports, aligned with 
+the CSR policy stated by the company 
+as a requirement under the Companies Tools, technical guidance  and 
+standards to be used:
+•	 London Benchmarking Group(LBG)  
+model 
+•	 Social return on investments (SROI), 
+The SROI network 
+•	 Global impact investing network 
+(GIIN)
+•	 Accountability -: AA 1000, Institute 
+of Social and  Ethical Accountability 
+•	 ISO 26000: social responsibility
+•	 Public consultation guidelines of 
+Government of India, etc
+Tools, technical guidance  and 
+standards to be used:
+•	 SEBI directive on ESG disclosure (if 
+applicable) , RBI guidelines on CSR, 
+sustainable development and  non-
+financial reporting (if applicable)
+•	 Clause 135, Companies Act, 2013 (if 
+applicable)
+Handbook on Corporate Social Responsibility in India      23
+CSR and SMEs
+24 PwCCSR and SMEs 
+What are SMEs?
+Small and medium enterprises (SMEs) 
+significantly contribute towards 
+India’s economic growth. These serve 
+independently and also as ancillary to larger 
+units and help generate employment and 
+industrialise the rural and backward regions 
+of India. They employ nearly 40% of India’s 
+workforce and contribute around 45% to 
+India’s manufacturing output20. 
+What do they do?
+The business activities of SMEs are 
+performed in proximity to the locals.   This 
+enables them to be aware of community 
+needs, manage expectations and develop 
+CSR programmes appropriately. 
+Now that the CSR clause in the Companies 
+Act, 2013 covers companies that have a 
+net profit of five crore INR and above, it 
+is expected that while micro-enterprises 
+will not qualify, many small and medium 
+enterprises (SMEs) will. 
+SMEs are being treated separately in this 
+handbook because of their distinct features. 
+The CSR activities of these enterprises 
+are driven by the personal interests of 
+promoters who hold a significant financial 
+stake in the business. They tend to be in 
+clusters and engaged in similar business 
+activities. While the quantum of revenue 
+available for CSR with individual SMEs is 
+expected to be small, all eligible companies 
+in a specific geographical cluster, who single 
+handed as well as collectively impact the 
+same community, can pool their resources 
+to create a sizeable CSR fund. 
+How can SMEs contribute to CSR 
+initiatives?  
+This section analyses the option of 
+undertaking collaborative CSR activities 
+by SMEs. This collaboration can also be 
+used by other companies to maximise 
+the impact of their CSR initiatives while 
+reducing the operational costs for fund 
+management. Why collaborate for CSR 
+initiatives?   
+CSR is for all companies. SMEs in India 
+have participated in CSR activities but these 
+efforts have not been optimally delivered.21 
+One possible reason can be the fact that CSR 
+activities depend on the profits of an SME 
+and any fluctuations in profits can adversely 
+affect their capability to continue their 
+contribution for CSR.  Another reason can 
+be the limited human resources available to 
+SMEs which may also result in the lack of a 
+professional approach. 
+SMEs tend to focus on short-term activities 
+that involve lesser operational costs. A 
+survey conducted by UNIDO in 2008 on five 
+SME clusters in India, found that 31% to 
+79% of the SMEs in these clusters, preferred 
+charity donations rather than long-term 
+programmes for local communities. 
+With the introduction of the new Companies 
+Act, 2013, the SME’s approach to CSR has 
+to be modified while keeping operational 
+costs low. One viable alternative is to pool 
+resources with other SMEs in the cluster 
+and create joint CSR programmes managed 
+by a single entity. This collaboration can be 
+formed within the units in a cluster as they 
+interact with the same communities and 
+have already established associations that 
+cater to the business needs of the units. 
+Collaboration has the following 
+advantages:
+•	 Reduces operational cost: Individual 
+CSR efforts by a company consist 
+of establishing a CSR department, 
+assessing the needs of local 
+communities, undertaking programmes 
+directly or through an NGO and 
+conducting regular impact assessment 
+studies. A common organisation 
+catering to a number of companies will 
+carry out these activities collectively 
+and thus reduce the operational cost of 
+management.
+•	 Undertake long-term projects:  A 
+major hindrance in developing long-
+term projects is the uncertainty in the 
+CSR budget. This is dependent on the 
+financial performance of the company. 
+A fluctuating performance implies 
+that the CSR budget allocations can 
+be unreliable and can jeopardise a 
+programme initiated earlier. Pooling 
+resources addresses this issue to a 
+20. http://articles.economictimes.indiatimes.com/2013-06-09/news/39834857_1_smes-workforce-small-and-medium-enterprises
+21. http://www.business-standard.com/article/sme/smes-to-get-professional-help-on-corporate-social-responsibility-108060501090_1.html
+Handbook on Corporate Social Responsibility in India      25certain extent as the other partners 
+can increase their share in case there 
+is variance in allocation from a certain 
+segment of the cluster. The long-
+term programmes also have greater 
+impact than the short-term projects. 
+Communities are increasingly realising 
+the importance of the support offered 
+by these programmes in making their 
+lives better. Long-term programmes 
+also lead to better community relations 
+and this ensures avoiding situations 
+of community unrest that hamper 
+business activities. 
+•	 Learning from experiences: A common 
+entity with multiple participants from 
+the cluster will help assess community 
+needs, undertake relevant programmes 
+based on past experiences and address 
+a greater number of community issues. 
+Collaboration among the SMEs in a cluster 
+also provides an opportunity to manage 
+social and environmental issues and 
+respond better to the pressure from buyers, 
+who are trying to establish ethical supply 
+chains and gain appreciation from the 
+international community. Collaborations 
+can also be forged amongst larger 
+companies, possibly through industry 
+associations, to enable them to address 
+common issues plaguing a geographical 
+region or an industry. 
+The process for an SME
+The first step involved in collaborating is to 
+create an alliance of interested SMEs. This 
+may be initiated by the cluster association 
+in case of large-scale participation from the 
+cluster. Alternatively, it can be initiated by 
+an individual SME in case there are only 
+a few units interested in undertaking CSR 
+activities in collaboration. Involvement of 
+the cluster association will ensure that the 
+local priorities are given due consideration 
+while developing CSR programmes. In case 
+a sufficient number of SMEs in a cluster do 
+not wish to participate or are not required 
+under the Companies Act, 2013 to spend 
+on CSR activities, the boundary may be 
+extended to other clusters, though this 
+increases complexity. 
+The alliance should then form a steering 
+committee with the representatives from 
+each SME so as to democratically decide on 
+issues. The steering committee should study 
+the institutional method of implementation, 
+i.e. undertaking activities through an 
+established trust, society, a Section 8 
+company or forming a new entity or directly 
+managing the funds. The steps other than the guidelines 
+mentioned by the steering committee in the 
+section “CSR: Planning and strategising” of 
+this handbook, include the following:
+•	 Deciding the thematic areas from 
+Schedule VII of the Companies 
+Act, 2013, beneficiary groups and 
+geographies that it will target based on 
+the inputs from participants.
+•	 Developing internal processes to track 
+individual contribution by members 
+and their utilisation in CSR activities, 
+finalising long-term projects based on 
+projected contributions by members 
+and addressing non-payment by 
+members.
+The CSR policy of individual SMEs should 
+be designed to allow for flexibility in case of 
+a collaborative effort to undertake CSR. This 
+implies that the policy, over and above the 
+guidelines mentioned in the section “Step 
+one: Develop CSR strategy and policy”, 
+should allow the following:
+•	 Flexibility in selecting thematic areas 
+from Schedule VII of Companies 
+Act, 2013, beneficiary groups and 
+geographies as per the priorities of the 
+entire association.
+•	 Support to initiate CSR programmes 
+to the extent possible, in case the 
+association is abandoned.
+The next steps involved in the due 
+diligence of implementation or the concept 
+development partner are:
+•	 Project development
+•	 Operationalising institutional 
+mechanism
+•	 Contracting
+•	 Budgeting and payments
+•	 Monitoring 
+•	 Impact measurement 
+Reporting and communication are as 
+described in section “CSR: Planning and 
+strategising” 
+In cases where the total CSR funds 
+are insufficient to cover the cost of 
+collaboration, SMEs can also contribute to 
+the Prime Minister’s National Relief Fund 
+or any other fund set up by the central 
+government or the state governments as 
+per activity ix of the Schedule VII of the 
+Companies Act, 2013. 
+
+26 PwCAppendix 1
+Comparative analysis of the three choices for legal entity 
+Differential factors Trust Society Section 8 company22 
+(earlier known as Section 25 company)
+Basic document Trust deed which contains objects of 
+the trust (bye-law)Memorandum of association
+Articles of association with rules and 
+regulationsMemorandum of association
+Articles of association
+Formation Simple Simple Slightly difficult
+Jurisdiction Deputy registrar or charity 
+commissionerRegistrar of Societies Registrar of Companies
+Legislation / statute Relevant state trust act Societies Registration Act 1860 Companies Act 2013
+Objectives Social benefits and charitable Literary, charitable, scientific and 
+resource orientedNonprofit activities
+Re-amendment 
+or   modification of 
+objectsAlteration can be undertaken only 
+by the founder or settlerEasy, legal procedures Complicated, legal procedures
+Required members Minimum = 2, maximum = no limit Minimum = 7, maximum = no limit Minimum = 7, maximum = no limit
+Registration As trust with the registrar As society with society registrar As per Companies Act under Section 8 (earlier 
+Section 25)
+Stamp duty 4% of trust property value will be 
+executed in non judicial stamp paper 
+with the registrarNo stamp paper required for 
+memorandum of association, and 
+rules and regulationsNo stamp paper required for memorandum and 
+articles of association
+Name Easy to choose Easy to choose Prior approval required from Registrar of 
+Companies
+Management board Trustees Governing body Board of directors and  management 
+committee
+Succession in 
+managementBy election By election By appointment
+Meetings No provisions Annual meeting as per law, 
+governing body meeting as per the 
+rules of society,Quite extensive as per the provision of 
+Company Law
+Statutory regulations Nominal Limited Maturable and exhaustive
+Membership transfer Not possible Not possible Free or control as per desire
+Member admission Not applicable Governing body control General body or board control through issue 
+of capital
+Payment to members As notified in trust deed Not restricted As approved by company and state
+22 The non-profit organizsation formerly known as Section 25 companies are now called Section 8 companies after the introduction of Companies Act, 
+2013.
+Handbook on Corporate Social Responsibility in India      27Appendix 2
+Designing a volunteering programme 
+As part of their corporate social 
+responsibility efforts, companies encourage 
+their employees to volunteer for a cause 
+(usually pre-selected by corporate 
+human resources or foundations) during 
+work hours under formalised employee 
+volunteering programmes (EVPs). These 
+EVPs involve substantial opportunity 
+cost for employers and therefore must be 
+carefully planned and executed.
+Who is a corporate 
+volunteer? 
+A corporate volunteer is an employee who 
+actively takes on a task, responsibility, or 
+project on his or her own accord without 
+needing to be assigned or told to do so as 
+part of his or her daily job duties. Corporate 
+volunteering is generally considered an 
+altruistic activity and is intended to promote 
+larger social or environmental good or 
+improve the quality of life of a target 
+beneficiary or a community. 
+Most often, there are no financial gains 
+for the work or service provided by such 
+volunteers. However, sometimes this 
+volunteering involves incentives such as 
+personality or profile development, skill 
+development, socialisation, and fun. In 
+certain areas of volunteering work such as 
+health services, education or emergency 
+rescue volunteers receive training before 
+they can contribute. 
+However, most volunteers serve on a need 
+basis without any prior educational or work 
+experience of related background.
+Several design parameters and related 
+activities need to considered while 
+developing an EVP:  Design parameter Activities
+Organisation goals: Laying out the overall 
+objective of a company from its EVP.• Identify volunteering goals of your 
+organisation.
+Employee volunteering mechanism: 
+Developing the institutional framework under 
+which employee volunteerism can be channelled 
+for a larger good.• Establish institutional ownership of 
+volunteering programme.
+• Establish volunteer codes of practice.
+• Establish volunteering governing principles.
+• Design volunteer programmes and projects.
+• Draft volunteering agreement including 
+the statement of volunteer rights and 
+responsibilities.
+• Lay out roles and responsibilities of 
+coordinators for the EVP.
+• Ensure continuity in volunteer work.
+Recruitment and enrolment: Attracting, 
+screening and selecting qualified individuals for 
+a specific volunteer role.• Lay out the volunteer recruitment and 
+enrolment process.
+• Create volunteer roles and writing position 
+descriptions.
+• Segment and target volunteers.
+• Write volunteer advertisements.
+• Process enquiries and applications.
+• Undertake selection and interview process.
+Inducting and training: Welcoming new 
+volunteers to the EVP and preparing them for 
+their role. It provides an introduction to the 
+working environment where they will volunteer 
+and available resources. The process will cover 
+volunteer rights, the terms and conditions of 
+volunteering, legal and compliance requirements 
+and health and safety guidance. It also covers 
+any necessary training needs of the volunteers to 
+perform their duties.  • Design and deliver induction and orientation 
+programmes.
+• Train volunteers.
+Mentoring and supervising: Ad hoc assistance 
+by a more experienced and knowledgeable 
+person to help facilitate a less experienced 
+and knowledgeable person to reach his or 
+her individual goals and objectives in the 
+volunteering programme. Supervision involves 
+management of the individual’s performance 
+against a prescribed objective on a routine basis 
+and providing actionable feedback.• Design and deliver mentoring programme.
+• Assign, supervise and establish key 
+performance indicators for volunteer work.
+• Provide performance feedback to volunteers.
+• Keep volunteers motivated.
+• Manage disputes and grievances.
+Rewarding and recognising: Rewards and 
+recognition are given when an organisation 
+wants to motivate volunteers in achieving a 
+goal or organisational objective. Rewards and 
+recognition are designed to distinguish and 
+motivate employees. This is important in the case 
+of volunteering where employees do not have 
+any financial incentives.• Make volunteering attractive.
+• Develop awards and recognition framework.
+Encouraging diversity: Encouraging employees 
+with unique experiences and backgrounds 
+to work together to increase productivity, 
+effectiveness and responsiveness to changing 
+conditions to enhance their contribution and 
+benefit from the volunteering exercise.• Communicate the value of diversity.
+• Develop programmes to encourage diversity.
+• Recruit and enroll volunteers from diverse 
+backgrounds.
+28 PwCA community can be defined as a 
+homogenous group of individuals bound 
+together geographically, politically, 
+culturally or by certain values, principles or 
+shared characteristics. For the purposes of 
+this discussion, we define community as the 
+collection of stakeholders who reside in the 
+local vicinity of company operations and 
+who rely on or are impacted by its shared 
+resources.
+Community engagement is defined as 
+a process in which the needs, priorities 
+and values of various individuals (not 
+directly associated with or dependent 
+on a given company) and that of other 
+external organisations in a community 
+are incorporated into corporate decision-
+making and management activities.   Appendix 3
+Community engagement
+Steps for robust community engagement Key activities
+Assess the local context: Understanding the 
+characteristics and complexities of the local 
+landscape and use this information for strategic 
+planning of community engagement.• Undertake socioeconomic assessment.
+• Map local communities and networks.
+• Map key institutions engaged with local 
+communities.
+• Identify potential partners.
+Involve communities: Support and facilitation 
+of the process of community-driven planning to 
+enable communities to define their own goals, 
+identify opportunities and assets they plan to 
+utilise or share, and prioritise areas of potential 
+engagement with the company and other local 
+development actors.• Identify objectives of community engagement 
+and its guiding principles.
+• Enable community planning, visioning and 
+prioritisation through participatory methods.
+• Manage community expectations and 
+perceptions. 
+Identify and categorise key stakeholders: 
+Creation of a list of the individuals, groups, and 
+institutions that could affect or be affected by any 
+community engagement project. This step identi -
+fies and generates knowledge about individuals 
+and local organisations in order to understand 
+their behaviours, intentions, inter-relations and 
+interests.• Identify and segment various target groups.
+• Undertake needs assessment.
+Set operational parameters: Setting up the 
+scope and target of such an engagement in line 
+with the activities a company will support.• Develop a baseline.
+• Identify the company and any shared assets 
+available. 
+• Identify investment areas and budgets.
+• Develop key performance indicators.
+Project implementation: Identifying the 
+best way to deliver a project in view of several 
+variables, such as the objectives of community 
+engagement, project timeframe, budget and local 
+operating context.• Select implementation model: in-house or 
+foundation, implementation partner, multi-
+stakeholder partnership, any other hybrid 
+model.
+• Engage and influence key opinion leaders in 
+local community.
+• Develop community forums.
+• Invest in capacity building of community.
+• Co-design detailed development projects with 
+community participation.
+• Operationalise development projects and 
+manage project cycle.
+Measure and communicate results: Monitoring 
+and evaluation to use the information collected 
+in future planning and communicating these 
+results to all stakeholders including the com -
+munity, the company and other development 
+partners.• Document results on key performance 
+indicators.
+• Calculate social return on investments.
+• Develop communications strategy to 
+periodically disseminate information to 
+community and other stakeholders.Tools, technical guidance  and 
+standards to be used:
+•	 Participatory rural appraisal 
+•	 Focus group discussions
+•	 Door-to-door surveys
+Handbook on Corporate Social Responsibility in India      29Appendix 4
+CII and Credibility Alliance’s guidelines for identifying NGO partners
+1. Identity: The NGO should exist and be 
+registered under the appropriate law 
+under which it is governed. It should 
+comply with the provisions of the Act 
+and other relevant laws. 
+• The organisation has been functioning 
+for a minimum of one year from the 
+date of registration.
+• The physical address given by the 
+organisation is verifiable.
+• The organisation is registered as a trust 
+or society or Section 25 company.
+• Registration certificates and documents 
+issued by the appropriate authority are 
+available upon request.
+2. Vision, aims, objectives, 
+achievements: The vision, purpose and 
+aims of the NGO should be explicitly 
+stated and be reflected in the activities 
+being undertaken.
+• A vision, purpose or mission, which 
+drives the organisation, is articulated 
+beyond the registration documents in 
+the form of activities and projects, etc.
+• The organisation has a defined aim and 
+a set of objectives.
+• The organisation is able to show 
+performance through defined indicators 
+against stated objectives.
+3. Governance:  There must be a 
+clear commitment towards good 
+governance for the NGO to enhance its 
+effectiveness, serve all stakeholders, 
+meet the needs of society and to ensure 
+its accountability towards society in 
+accordance with its charter of objects 
+and purposes.
+• The organisation has a governing 
+board.
+• The organisation follows a consultative 
+and democratic decision-making 
+process.
+• There is disclosure of the details of 
+board members viz, name, age, gender, 
+position and occupation. All family 
+affiliations should be indicated.
+• The board has at least two meetings 
+a year suitably spaced with quorum 
+stipulated in its own articles of 
+association, reviewing the functioning 
+of the NGO, evaluating the projects 
+undertaken by them and discussing the 
+way forward.• The organisation is not for profit and 
+its resources are deployed only for 
+accomplishing the objectives for which 
+it has been formed.
+• The organisation has attained 
+recognition under Section 12A of the 
+Income Tax Act. (80G of the Income Tax 
+Act is preferable).
+• Minutes of board meetings are 
+documented and circulated.
+• The board approves programmes, 
+budgets, annual activity reports and 
+audited financial statements.
+• The board ensures the organisation’s 
+compliance with applicable laws and 
+statutory regulations.
+• All pending legal disputes are declared.
+4. Operations: Operations refer to the 
+capacity to conduct programmes and 
+administrative activities efficiently and 
+effectively in the public interest. The 
+NGO should have norms in respect 
+to the nature of the programme it 
+undertakes, the nature and style of 
+its management; and the roles and 
+responsibilities of its human resources 
+including personnel and volunteers.
+• The activities are in line with the vision, 
+aim and objectives of the organisation.
+• The organisation periodically reviews 
+the progress of programmes.
+• The accounts of the organisation are 
+regularly maintained and those with an 
+annual income above 50,000 INR are 
+audited by the chartered accountant. 
+• The roles and responsibilities 
+are defined for all personnel and 
+volunteers.
+• All personnel are issued letters of 
+contract and appointment. 
+• An appropriate HR policy is in place.
+5.   Accountability and transparency:  
+Accountability and transparency are 
+key requirements of good governance 
+and necessary for building trust among 
+stakeholders. This works as a testimony 
+to the fact that the organisation has 
+been working efficiently and effectively. 
+• A financial management policy has 
+been developed and is adhered to.• Signed audited statements are prepared 
+annually and available on request: 
+balance sheet, income and expenditure 
+statement, receipts and payments 
+account, schedules to these, notes on 
+accounts and the statutory auditor’s 
+report.
+• Statement of accounts indicating 
+whether constructed on a cash or 
+accrual basis.
+• There are no serious adverse notes on 
+the veracity of the functioning of the 
+organisation. 
+• There are no material transactions 
+involving conflict of interest between a 
+board or staff member and/or adverse 
+comment and observation relating to 
+operational issues or financial dealing 
+in the record of public authority. 
+•  The organisation’s annual report is 
+distributed and communicated to 
+stakeholders and others and is made 
+available upon request every year, 
+within eight months of the end of the 
+organisation’s financial year.
+• The annual report contains a 
+description of the main activities, a 
+review of the progress and results 
+achieved in the year and information 
+on board member names, positions, 
+remuneration or reimbursement as well 
+as brief financial details.
+• The NGO shall disclose their funding 
+details i.e. the sources of funds, 
+annual revenue (O&M) and project 
+expenditure. The organisation shall 
+produce timely reports on the use and 
+management of funds which should be 
+made available on request.
+• Dovetailing with government schemes 
+will be preferred.
+• The NGO should give out accurate 
+information regarding their projects 
+i.e. survey reports, target population, 
+location, sustainability of the projects, 
+their success ratio, etc on request.
+The organisation should be ready to 
+submit an affidavit by the authorised 
+signatory attesting to the authenticity of 
+the information given.
+Appendix 5
+Illustrative list of NGOs and platforms for information on NGOs prepared by CII
+1. GiveIndia  (http://www.giveindia.org/): GiveIndia is a donation platform that 
+allows companies to support a cause of choice from about 200 NGOs that have been 
+scrutinised for transparency and credibility.
+2. Voluntary Action Network India  (http://www.vaniindia.org/) : Voluntary Action 
+Network India works towards building a society where voluntarism and voluntary 
+organisations play a dominant role in social cohesion, economic empowerment and 
+nation-building.
+3. Charities Aid Foundation  (http://www.cafindia.org/):  CAF India provides strategic 
+and management support to corporates, individuals and PSUs in order to ensure 
+greater impact of their philanthropic and CSR investments. 
+4. Oxfam India  (http://www.oxfamindia.org/) : The Oxfams are rights-based 
+organisations that fight poverty and injustice by linking grassroots programming 
+(through partner NGOs) to local, national and global advocacy and policy-making.
+5. Confederation of Voluntary Associations  (covanetwork.org/): COVA works in the 
+areas of communal harmony, peace and social justice through sensitisation of all 
+sections of society and empowerment of the marginalised and the poor.
+6. Partners in Change  (http://www.picindia.org/):  PiC focusses on building sustainable 
+partnerships between the corporate sector and social development initiatives in India. 
+PiC’s goal has been to become an organisation that is recognised both by companies 
+as well as civil society as a reliable facilitator for building partnerships for social 
+development.
+7. Credibility Alliance  (http://credibilityalliance.org):  Credibility Alliance’s mission is to 
+build the credibility of the voluntary sector through the creation and promotion of the 
+norms of good governance and public disclosure.
+8. Samhita (http://samhita.org/):  Samhita provides a platform for NGOs to showcase 
+their work and attract donation.
+9. Indian Confederation of NGOs  (http://www.icongo.in/):  iCONGO is a collective of 
+various credible, transparent and accountable NGO members registered as promoting 
+members and privilege members.
+10. GuideStar India  (http://www.guidestarindia.org/):  GuideStar India is India’s leading 
+provider of NGO information. Their portal provides a fully searchable database of 
+reliable and comparable information on over 3,500 NGOs.
+About CII
+The Confederation of Indian Industry (CII) works to create and sustain an environment 
+conducive to the growth of industry in India, partnering industry and government alike 
+through advisory and consultative processes. CII is a non-government, not-for-profit, 
+industry-led and industry-managed organisation, playing a proactive role in India’s 
+development process. Founded over 117 years ago, it is India’s premier business association, 
+with a direct membership of over 8100 organisations from the private as well as public 
+sectors, including SMEs and MNCs, and an indirect membership of over 90,000 companies 
+from around 400 national and regional sectoral associations.
+CII catalyses change by working closely with government on policy issues, enhancing 
+efficiency, competitiveness and expanding business opportunities for industry through 
+a range of specialised services and global linkages. It also provides a platform for 
+sectoral consensus building and networking. Emphasis is laid on projecting a positive 
+image of business, assisting industry to identify and execute corporate citizenship 
+programmes. Partnerships with over 120 NGOs across the country carry forward our 
+initiatives in integrated and inclusive development, which include health, education, 
+livelihood, diversity management, skill development and water, to name a few. CII has 
+envisaged a national movement for mainstreaming CSR for sustained inclusiveness as 
+part of its social development agenda. The CII National Committee on Corporate Social 
+Responsibility and Community Development was constituted in 2001 to make CSR an 
+actionable business agenda. The committee develops CSR guidelines and promotes the 
+sharing of CSR experiences and best practices. CII also organises an annual CSR summit 
+to enable stakeholders to review and strengthen the CSR movement. CII development 
+initiatives ensure the continuity of these programmes, particularly with respect to women 
+empowerment, industry-NGO partnership, and persons with disabilities.
+With 64 offices, including nine Centres of Excellence, in India, and 7 overseas offices 
+in Australia, China, Egypt, France, Singapore, UK, and USA, as well as institutional 
+partnerships with 224 counterpart organizations in 90 countries, CII serves as a reference 
+point for Indian industry and the international business community.Confederation of Indian 
+Industry
+249-F, Sector 18 Udyog Vihar,  
+Phase IV, Gurgaon-122015, Haryana, 
+India
+Telephone: +91 124 4014060-67 
+Fax:+91 124 4014080
+Email: jawahar.k@cii.in  
+sarbani.chakravarty@cii.in
+PwC India 
+Building 10, Tower C, DLF Cyber City
+Gurgaon-122002,  
+Haryana, India
+Telephone: 91 124 330 6000
+Fax: + 91 124 330 6999
+Email: prashant.vikram.singh@
+in.pwc.com  
+sachin.shukla@in.pwc.comAbout PwC 
+PwC helps organisations and individuals create the value they’re looking for. We’re a 
+network of firms in 157 countries with more than 184,000 people who are committed to 
+delivering quality in Assurance, Tax and Advisory services. Tell us what matters to you and 
+find out more by visiting us at www.pwc.com. 
+In India, PwC has offices in these cities: Ahmedabad, Bangalore, Chennai, Delhi NCR, 
+Hyderabad, Kolkata, Mumbai and Pune. For more information about PwC India’s service 
+offerings, visit www.pwc.com/in 
+PwC refers to the PwC network and / or one or more of its member firms, each of which is a 
+separate legal entity. Please see www.pwc.com/structure for further details.
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+pwc.in
+Data Classification: DC0
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers 
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication 
+represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before 
+taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or 
+liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in 
+India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member 
+firm of which is a separate legal entity.
+NJ 123 - Nov 2013 CSRHandbook.indd
+Designed by Brand and Communication, India

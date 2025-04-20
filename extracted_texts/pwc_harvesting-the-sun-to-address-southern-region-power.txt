@@ -1,0 +1,1491 @@
+Title: pwc_harvesting-the-sun-to-address-southern-region-power
+Date Published: 2013-12-13 15:05:14+05:30
+Source: pdfs/pwc_harvesting-the-sun-to-address-southern-region-power.pdf
+
+--- CONTENT ---
+
+Harvesting the sun to address 
+southern region power woes
+CII - Conference on solar power
+www.pwc.in
+11 December 2013
+Overview   p2/Policy and regulatory framework for solar power  p6/Transmission 
+and evacuation infrastructure plans  p12/Financing of solar projects  p14/Global 
+outlook  p18/The need for a competitive ecosystem in India  p21/Securing and 
+diversifying the energy mix by distributed generation  p25/Enabling frameworks 
+would ensure sustained push for the solar sector  p27
+
+CII - Conference on solar power    3
+Overview
+India, which has been traditionally 
+dominated by conventional energy sources, has the fifth largest power 
+generation capacity in the world. As on 
+September 2013, the country’s generation capacity stood at 228 GW, out of which the southern states contribute close to 25%. 
+Installed generation capacity (GW)
+0%5%10%15%20%
+050100150200250
+FY09 FY10 FY11 FY12 FY13
+%growthCapacity (GW)
+Years
+Thermal Nuclear Hydro Renewable energy
+% growth in NEWNE region % growth in southern region
+Source: Central Electrical Authority (CEA)
+The southern region of India comprising of Andhra Pradesh, Karnataka, Kerala and Tamil Nadu, has seen an increasing power 
+deficit situation over a period of time. 
+The power deficit in the southern region peaked at 15.5%, unlike the improving deficit scenario of the northern, eastern, 
+western and north-eastern (NEWNE) region of India where the deficit is 6.1%. 
+Barriers such as fuel shortage, lack of 
+sufficient capacity addition and delay in 
+integrating the southern with  the NEWNE grid, have been  the key reasons for the widening power deficit within  the region. 
+Energy deficit (in %)
+0%4%8%12%16%20%
+FY09 FY10 FY11 FY12 FY13 FY14 till 
+September 
+2013Deficit (%)
+Years
+Andhra Pradesh Karnataka Kerala Tamil Nadu NEWNE
+Source: CEA
+4 PwCHigh deficit situation in the southern region 
+has led to  some of the states resorting to scheduled and unscheduled load shedding 
+as well as adopting  restriction and control 
+(R&C) measures.  Load shedding ranges  from a few hours within the  capital cities in the region to more than eight hours in Tier-
+II cities, and even more in the rural areas in 
+summer season.  Moreover, demand from industrial as well as  commercial consumers  in the region is controlled by way of setting up a cap on allowable energy, while  
+demand in the states of Tamil Nadu and 
+Andhra Pradesh is controlled through R&C measures. Stringent penalties are imposed on consumers not complying with R&C 
+guidelines.
+Power shortages have crippled regular 
+operations of industries and commercial consumers. Businesses are forced to either cut down production or use captive power 
+generation or buy power from the exchange 
+due to the power cuts. 
+With the use of alternate options, the cost 
+of power generation through  diesel or 
+heavy furnace oil is around three to four 
+times more expensive than grid power. This is in addition to the capital cost incurred while  purchasing the generation equipment and inverters. Industrial consumers today 
+consider that having in place a power 
+backup is a necessity, and are ready to incur the capital and operating costs so as to ensure reliability, despite its effect on 
+the profitability of the companies. Small 
+size businesses which cannot afford  high cost arrangements like power generation through diesel, procure from power exchange, has to rely on grid connected 
+power and are forced to cut down their 
+production due to load shedding. 
+Need for energy supply diversity
+Currently, obstacles such as widening deficit,  increasing cost as well as  unavailability of conventional fuels, 
+long gestation period for setting up of 
+conventional power plants, impact on the economy due to  the import of fossil fuels is a challenge to the energy security scenario of the nation. This situation 
+is paving the way for  the country to 
+consider alternative sources of energy which are quick to install, environmental friendly, locally available  and need not  be imported.
+The southern region is endowed with 
+significant renewable energy generation potential which is estimated to be over 51GW (excluding solar).  Till March 
+2012, around 12.4 GW has been installed, 
+which is a commendable 44% of the country’s total installed renewable energy generation capacity. The southern states have varying levels of renewable energy penetration. Tamil Nadu, one of the forerunners in harnessing  renewable energy, has 
+installed a capacity of 7.4 GW, which is the 
+highest in the country, and accounts for approximately 31% of the total installed 
+capacity in India.
+Installed renewable capacity (MW) as on August 2013
+118435711757491
+Andhra 
+PradeshKarnatakaKeralaTamil Nadu
+CapacityStates
+Source: Ministry New and Renewable Energy (MNRE)
+Wind energy has been the biggest 
+contributor to the share of renewable energy in southern region. Tamil Nadu has 
+again been the forerunner  in harnessing 
+wind energy, while  other  states in the region are catching up.
+CII - Conference on solar power    5
+Market for solar power: Unique 
+to south India 
+India has a vast potential for solar power 
+generation, since around  58% of the total land area receives an annual average 
+global irradiation of above 5 kWh/m2/
+day. The total installed capacity of grid-interactive solar energy as on October 2013 was 2079.97 MW. This forms over 
+8% of the total installed capacity of 
+renewable energy. 
+The 12th Five Year plan’s strategy for 
+the period  2013-17, aims to develop an ambitious 10,000 MW of solar energy.Installed capacity of grid-interactive solar power  (in MW) as on October 2013
+25%
+50%5%13%4%3%Jawaharlal Nehru National Solar Mission  
+State policy
+Rooftop od small solar projects or 
+Generation Based Incentive Scheme
+Renewable Energy Certificate Scheme
+Other phot voltaic projects
+Solar thermal
+Source: MNRE
+6 PwC
+Solar irradiation and  grid interactive solar capacity (MW) as on October 2013
+Tamil Nadu
+Commissioned: 21MWAndhra Pradesh
+Commissioned: 63 MW
+Karnataka
+Commissioned: 24MWSolar irradiation and  grid interactive solar capacity (MW) as on October 2013Currently, the top three states in the 
+country with installed solar generation capacity include, Gujarat, with an 
+installed capacity of over 852 MW, 
+Rajasthan with 608 MW, and Madhya Pradesh with 220 MW. Apart from good radiation, successful adoption of solar 
+power in these states can be attributed to 
+encouraging policies as well as supportive regulations rolled-out by the respective state governments. Other states such as Uttar Pradesh, Punjab are also following  
+suit, and are introduding various policies 
+as well as  competitive tariffs in order to attract private investments in solar power generation projects. 
+Southern states such as Andhra Pradesh, 
+Tamil Nadu, Karnataka and Kerala have reported a decent  average solar irradiation of 5.0 to 6.0 kwh/m2/day, 
+with around 300 clear sunny days in 
+a year. Despite  being a resource rich region, the combined total installed grid connected solar capacity in the southern 
+states constituites a mere 5.2% of the 
+country’s installed solar power capacity. 
+Even if only 0.5% of the wasteland is used 
+in the region, the realisable potential is above 15, 000 MW. The southern region 
+can increase its solar capacity installation 
+considerably, installing in excess of its current announced targets.
+Source: Solargis, MNRE
+With developments such as reduction in the cost of generation from solar power projects over the last five years,  
+backed by policies such as the Jawaharlal 
+Nehru National Solar Mission (JNNSM), mandatory solar purchase obligation (SPO) as well as  proactive state-specific 
+solar policies supporting development 
+of roof top, decentralised and large utility scale projects, the region is poised to spearhead a massive deployment of solar power projects and thereby drive 
+investments within  the sector.
+CII - Conference on solar power    7Policy and regulatory 
+framework  for solar power
+Power generation from renewable sources 
+is constantly on the rise in India, with the share of renewable energy in the country’s 
+total energy mix rising from 7.8% in FY08 
+to 12.3% in FY13. Wind power has led the renewable energy capacity addition within  the country, registering a growth 
+of 34% in the last decade, and its  installed 
+capacity reaching 19.93 GW in October 2013. This  growth can be attributed to a conducive  policy and regulatory framework in the form of preferential 
+tariffs, renewable purchase obligations 
+(RPO), renewable energy certificate(REC) mechanism as well as  fiscal benefits such as  accelerated depreciation and 
+generation based incentives (GBI) to 
+wind power developers. The states of Tamil Nadu and Karnataka are among the leading states in India in wind power with a total installed capacity at 7.2 GW and 
+2.1 GW respectively. Similar success, if 
+replicated in the solar space, may address the energy shortage problem of these states. 
+Currently, growth in solar can be 
+associated with various promotional policies both at the national as well as the  state level. JNNSM has been driving solar installations within  the country 
+since its launch in 2009. It aims to achieve 
+a grid-cost parity for solar energy and  install 20 GW of grid connected solar power by 2022.  The southern region 
+has  been  proactive in terms of policy 
+formulation. Karnataka was the first among the southern states to formulate  a comprehensive solar policy. Other states such as Tamil Nadu, Andhra Pradesh and 
+Kerala  have announced their respective 
+solar policies in recent times.Tamil Nadu 
+With a vision of developing Tamil Nadu as the world leader in solar energy, the government of Tamil Nadu along with the 
+state nodal agency Tamil Nadu Energy 
+Development Agency (TEDA)  drew up  the Tamil Nadu Solar Energy Policy in 2012.  The policy envisages a solar 
+capacity addition of 3,000 MW through 
+utility scale, solar roof top projects and the REC mechanism by 2015. 
+Key policy aspects
+Solar purchase obligation
+The state has obligated various consumer 
+categories (HT I to V and LT V category)  in order to meet the solar purchase 
+obligation of 3% till December 2013 and 
+6% from January 2014 onwards. Being a first of its kind, where the obligation rests  directly on the consumers, this SPO is 
+expected to drive  solar power investments 
+within  the state. 
+The FY13 energy consumption of  obligated 
+consumers within  the state is 22,381 MUs. The obligation will  translate to  a solar 
+capacity requirement of 426 MW at 3% SPO 
+and 852 MW at 6% SPO. 
+Key supporting incentives
+The incentives offered by the state 
+government for the development of the 
+solar energy sector under the solar energy policy include the following:
+• The GBI scheme for capacity addition 
+of 50 MW is targeted for domestic 
+solar rooftop installations. A incentive 
+of  2 INR per unit  for the first two years,  1 INR per unit for the next two  years,  0.5 INR per unit for the 
+next two  years for all solar as well 
+as hybrid plants installed before 31 March  2014  will  be provided.
+• Net-metering is allowed to promote 
+rooftop penetration
+• Exemption from the payment of 
+electricity tax to an extent of 100% on electricity generated from solar power projects, used for self-consumption or 
+sale to utility will  be permitted  for 
+five years.
+• Exemption from demand cut to the extent of 100% of the installed 
+capacity assigned for captive use 
+purpose will be permitted.
+• Guaranteed single-window clearance in 30 days
+8 PwCThe charges for open access transactions, 
+that is, for energy supply through a third-party or a captive, are to be finalised by the 
+state. Investments within  the sector are 
+likely to gain momentum once the  applicable open access charges are announced by the regulator.
+States progress: A 1000 MW competitive 
+bid process
+In December 2012, the Tamil Nadu 
+Generation and Distribution Corporation Ltd (TANGEDCO) announced a 1,000 
+MW tender for solar projects within the 
+state. Towards this, letter of intents to the tune of  499 MW were issued, and the capacity tied up is expected to go up as 
+Letter of intent (LoIs) were signed with 
+bidders to implement bid capacity or higher. TANGEDCO determined a tariff of  6.48 INR per  kWh, with 5% escalation for acceptable bids, which is considered 
+feasible by many independent power 
+producers (IPPs) as well as  developers claiming accelerated depreciation benefits. 
+Key points
+Capacity offered: 1,000 MW
+Letter of intent issued:  499 MW
+PPA: Twenty years with the TANGEDCOTariff: 6.48 INR per kWh, with 5% 
+escalation for the first 10 years
+Status: PPA yet to be signed 
+While letter of intent (LoIs) has been 
+allocated, the PPAs are yet to be signed. 
+The expedition of signing a  PPA will  help achieve financial closure and support the business decisions of developers who have 
+timed the project for both normal as well as  
+accelerated depreciation benefits.Rooftop solar
+For rooftop solar systems of 1 kW, a capital subsidy of 30% is to be provided by the government of India and 20% by the state 
+government. The state government of 
+Tamil Nadu has announced this  additional subsidy for solar rooftop projects in the month of October 2013. With this 
+announcement, an investor now needs 
+to bring in only the remaining 50%. This subsidy will be given on a first come, first serve basis to the first 10,000 customer. It will be given only to grid-connected, 
+without battery systems, and only for 
+domestic consumers (LT-1A category). Solar power generated is to be consumed within the building.
+Net metering guidelines
+Tamil Nadu Electricity Regulatory Commission (TNERC) has recently announced its guidelines for net metering 
+implementation within  Tamil Nadu. 
+According to these guidelines, two separate meters  will be installed for metering purpose. While one meter will be  
+for measuring solar power generation,  the 
+other meter will be for export or import measurement. However, solar generation meter is optional for consumers not availing the GBI. 
+An annual cap has been set for the amount 
+of energy residential photo voltaic (PV) system owners can supply to the  local grid under the net metering scheme. 
+The electricity generated by a residential 
+PV system will  be capped commercially at 90% of the electricity consumption by the eligible consumer at the end of a settlement period, and the excess energy 
+generated beyond the 90% cap will be 
+treated as lapsed. Furthermore, at the local distribution level, connectivity to rooftop PV systems will be restricted 
+to 30% of the distribution transformer 
+capacity on a  first come, first served basis. 
+The settlement period is 12 months 
+between August and July each year. As the settlement period ends immediately after 
+the summer season, any excess generation 
+accumulated during the summer season might get lapsed.
+
+CII - Conference on solar power    9Solar tariff and open access regulation
+Recently, the TNREC has released a draft 
+consultative paper on solar tariff for solar PV, Solar thermal and kilowatt (kW) scale 
+systems. A solar PV tariff of  5.78 INR per  
+kWh with no escalation was proposed. The tariffs proposed for solar thermal and kW scale systems are  8.34 INR per kWh and  
+8.15 INR per kWh respectively. 
+It is to be seen if the tariff will  be revised 
+considering the dynamics of capital, financing as well as  operational costs, and other factors such as  the capacity 
+utilisation factor, the area required, 
+technology (domestic as well as  global), keeping in view that among the consumers, both IPPs as well as  investors  
+are keen to implement solar power 
+projects within  the state.
+Andhra Pradesh
+The state has drawn out a solar policy with an aim to  encourage  investments in grid and off-grid solar power projects. 
+The policy has given greater emphasis on 
+development of projects under the third-party, captive or REC route.
+Key supporting incentives 
+The state government has provided a host 
+of  incentives to  solar power generators within  the state in order to  encourage  solar power generations. These incentives 
+include the following:  
+• Wheeling and transmission charges 
+are not applicable  for the sale of power within the state.
+• Cross-subsidy surcharge is not applicable for intra-state open access sale and captive use.
+• Hundred per cent banking facility will  be permitted for 12 months. 
+Towards this, banked energy cannot 
+be redeemed between the months of February and June.
+• All solar power projects will  be exempted from paying electricity duty for captive consumption and third party sale.
+• Value added tax (VAT) for all the inputs required for solar power projects will  be refunded.
+• The Industries Department will provide incentive in terms of refund 
+of stamp duty as well as  registration 
+charges for the land purchased for setting up a solar power project.
+As per the policy, incentives proposed 
+are valid for a period of seven  years 
+from the date of implementation. Such communication regarding the certainty of a policy is an aspect   investors give huge importance, and is a driving factor for 
+mobilising investments within  the sector.
+States progress: A 1000 MW competitive 
+bid process 
+Andhra Pradesh announced bids to the 
+tune of  1,160 MW of solar PV projects which was oversubscribed by 570 MW, 
+thereby totaling up to 1,730 MW. Project 
+sizes were of five  and 10 MW each. The highest bid was 15.99 INR per kWh and the lowest bid was 6.49 INR per 
+kWh. The locations, for which bids have 
+been submitted, have been allocated a total capacity of 920 MW only by Andhra Pradesh Transmission Company (APTRANSCO). Among the 121 locations 
+bid for, there is a possibility that the 
+capacities bid for in these locations may not actually lead to complete fill up of capacity for each location. 
+So far, under the solar policy, the state has 
+received offers for only 418 MW, thereby  leaving a large gap in its planned target. Key points 
+Capacity offered: 1,000 MW
+Letter of intent issued: 144 MW
+PPA: Twenty years, with the DISCOM
+Tariff: 6.49 INR per kWh
+Status: PPA yet to be signed 
+Decentralised solar power
+The state has a total capacity of 11 MW 
+sanctioned under the off-grid standalone solar plants, and the installed capacity as 
+on September 2010 is only 139 KW. The 
+New and Renewable Energy Development Corporation of Andhra Pradesh (NEDCAP) has been working closely with a number 
+of organisations in order to improve the 
+awareness about decentralised solar power systems among industrial as well as  domestic consumers. 
+The state government intends to provide 
+solar pump sets to agriculturists on a huge 
+subsidy basis, and this benefit  will  be extended only to those villages which do not have a conventional grid. Under the 
+Solar Photovoltaic Lanterns programme, 
+around  22,000 solar lanterns will  be distributed during the financial year 2013-14. The state government will  subsidise each lantern to the extent of  500 INR to 
+all categories of beneficiaries. Solar water 
+heating  as well as  lighting systems are also gaining popularity among industrial consumers. Recently, the Warangal 
+Municipal Corporation has installed a 
+27 KW rooftop solar PV power system in order to run the office lighting system.
+10 PwC
+Net metering guidelines
+The state government has announced a 
+policy for encouraging net metering within  the state. This facility is only provided to 
+three  phase consumers.  Compensation 
+for surplus energy pumped into the system is a pooled cost as decided by the Andhra Pradesh Electricity Regulatory 
+Commission (APERC) from time-to-time, 
+and settled on a half-yearly basis. Such a payment is made for the period of seven  years, starting from the date of setting up of the project. The state has decided to 
+provide 20% subsidy for systems up to 3 
+kW in addition to the 30% Ministry of New and Renewable Energy (MNRE) subsidy.  A detailed set of technical guidelines 
+related to the installation and safety 
+procedures have  also issued.
+Karnataka
+Karnataka has come up with a Karnataka Renewable Energy Policy 2009-14 in 2009, wherein a target of 126 MW of 
+solar power was envisaged up to 2013-
+14. This included the power that the state was likely to receive  under the JNSSM. After the enactment of the 
+Karnataka RE policy, Karnataka Electricity 
+Regulatory Commission (KERC) issued the renewable purchase obligation (RPO) regulations in order to encourage the initiation of solar projects within the 
+state. The state government thereafter 
+decided to implement a dedicated solar policy, and has subsequently formulated  the Karnataka Solar Policy 2011-16 
+for the development of solar projects. 
+The Karnataka Renewable Energy Development Limited (KREDL) as the 
+state nodal agency is responsible for 
+implementing this policy.
+Key aspects of the policy  include the 
+following:
+• Proposal  to install 200 MW of 
+solar-based projects by 2015-16, for  procurement by Electricity Supply Companies (ESCOMs), added at an annual capacity of 40 MW
+• The minimum capacity shall be 3 MW and maximum 10 MW for solar PV-based projects. For solar thermal projects, the minimum capacity shall 
+be 5 MW
+• The capacities will be allotted through 
+a competitive bid process, under the reverse bidding route, with a maximum tariff based on the KERC 
+tariff order as of  13 July 2010 
+• Captive power plants and the sale of 
+power to third parties are not a part of the 200 MW capacity. Wheeling as 
+well as  open access charges will be 
+applicable as determined by the KERC or Central Electricity Regulatory Commission (CERC).
+• An additional 50 MW is reserved for  
+central or  state-owned undertakings 
+for setting-up solar projects in the state for the purpose of bundling with thermal power from outside the state,  
+at government approved rates. 
+• Solar energy generators can sell 
+electricity to the ESCOMs at a pooled cost of power purchase as determined by the KERC or  CERC, and sells the 
+RECs to obligated entities. States progress: A 200 MW competitive 
+bid process in the last two  years.
+The state auctioned 80 MW of solar energy 
+in 2011 and a further 130 MW in 2013 to meet it RPO.  Phase 1 capacity included a 
+10 MW solar thermal project. 
+Except for a 10 MW solar PV project that 
+has been commissioned, other project  are currently under construction.  The state 
+has extended the deadline for completion 
+of project under phase I to March 2014.
+Key points 
+Capacity offered: 200 MW
+PPA: Twenty-five  years with respective 
+ESCOMs
+Tariff: 
+• Phase 1:  7.94 to 8.50 INR per kWh 
+• Phase 2:  5.51 to8.05 INR per kWh
+Status: Ten MW commissioned under 
+Phase 1, and PPA to be signed for 130 
+MW of Phase 2
+Feed-in-tariffs for solar plants
+Karnataka Electricity Regulatory 
+Commission has recently introduced tariffs for grid connected projects. 
+Type of solar plant Tariff (INR 
+per kWh)
+Solar PV plants 8.40
+Rooftop and small solar plants 9.56
+Rooftop and small solar plants with 30% capital subsidy7.20
+Source: KERC solar tariff order 2013
+However, results of both the phases in 
+the bid process indicate  that the KERC’s benchmark as well as  average tariff in the 
+market differ, while  the tariff recently 
+announced by the KERC may only serve as a benchmark for future capacity allotments under the reverse bidding 
+process.
+In case of small and rooftop solar plants, 
+there is generally no reverse bidding process. Although Karnataka is yet to  announce a specific net metering or 
+rooftop policy, similar policies announced 
+in other states in the region indicate  that projects falling under this category have been  allocated on a first-come-first-serve 
+basis. Specific net metering guidelines will 
+encourage consumers as well as  investors to look into  rooftop projects with renewed interest. 
+CII - Conference on solar power    11Kerala 
+Kerala Solar Energy Policy 2013
+In order to mainstream solar energy 
+in Kerala and ensure optimal usage of available solar potential in the region, the 
+state government of Kerala formulated  its 
+Solar Energy Policy 2013.
+Key policy aspects  include the following:• To achieve a solar installed capacity 
+of 500 MW by 2017 and 1,500 MW by 
+2030
+• To promote the use of solar water heating system (SWHS) and solar steam systems
+• For off-grid systems, the policy seeks to ensure bank finance at attractive rates, and provides generation-based incentives rather than capital 
+subsidies
+• The Kerala State Electricity Regulatory Commission (KSERC) 
+shall notify the normative preferential tariff of solar power for procurement 
+by the Kerala State Electricity Board 
+(KSEB) in case of offsite commercial installations. For all agencies that consume grid power and have 
+installed solar installations with some 
+form of government subsidy, only net metering shall be applicable.
+• The government of Kerala  will  assess as well as help developers identify 
+the land areas suitable for solar 
+installations
+• Incentives in the form of exemption of open access charges, wheeling as well 
+as  transmission charges within the 
+state are  applicableKerala Off-grid Rooftop Programme
+Kerala has one of the highest population densities in the country and does not have any sizable area of barren land.  This 
+makes the development of utility scale 
+ground mount solar PV projects difficult to implement. States geography imposes challenges on solar power generation, 
+thereby making it  a lesser attractive 
+option as compared to the neighboring states of Tamil Nadu, Karnataka and  Andhra Pradesh. Hence, in such a scenario, the off-grid rooftop PV systems 
+become an attractive proposition for state.
+Kerala has launched an off-grid solar 
+rooftop programme known as the 10,000 Solar Rooftop Programme. Households 
+interested in putting up solar PV systems 
+(of 1 kWp, off-grid) can apply to the state nodal agency, the Agency for Non-Conventional Energy and Rural Technology (ANERT). Households within 
+the state will receive a 30% subsidy from the MNRE, and in addition, another  
+39,000 INR from the government of Kerala through the ANERT. As of May 2013, a total of 11,590 applications for these systems have been received by ANERT. 
+Key aspects of this programme as follows:
+• Each rooftop power plant (solar 
+array) shall be of 1 kWp capacity
+• Only off-grid power plants are covered under this programme
+• State will give additional subsidy of 
+39000 INR per system to beneficiary
+• Central government subsidy of  
+81,000 INR or 30% of the cost of the power plant (whichever is less) is 
+expected
+State Transmission and 
+wheeling chargesTransmission and wheeling lossesBanking CSS on third-party Other incentives
+Andhra PradeshNot applicable Normal transmission and wheeling losses applicableHundred per cent banking permitted. No redemption of banked units between the months of February and June, and also during ToD hoursNot applicable Electricity duty exempted
+Karnataka Not applicable Not applicable Hundred per cent banking permitted Not applicable None
+Kerala Not applicable Not applicable Conditional banking as per the policy - Electricity duty exempted
+Tamil Nadu (proposed)Thirty per cent of the applicable chargesNormal transmission and wheeling losses applicableNot yet finalised Fifty per cent of the applicable cross subsidy surchargeElectricity tax exempted for five years for captive, and a 100% demand cut
+Source: PwC Analysis, Tariff order• Applicants must be willing to meet the 
+remaining expense of around 1 lakh INR
+• A total of 10,000 of such systems will be installed in the state totaling 10 MW solar PV capacity
+• All the installation has to  meet 
+the specifications of the central  
+government  as well as  implement projects through empanelled vendors
+Encouraging projects under the open 
+access route
+With increasing retail tariffs, industrial 
+as well as  commercial consumers are considering options to hedge their energy 
+costs. Consumers are currently pursuing 
+the open access based sourcing under a third-party or group captive routes in order to procure energy directly from 
+the generators. These options also 
+help  consumers meet their respective renewable or solar purchase obligations. An open access-based power procurement process has been a success in states such 
+as Tamil Nadu. 
+The solar policies and open access 
+(OA) regulations within  the southern states support procurement of solar 
+energy through OA mechanisms. While 
+the applicable charges for solar OA transactions are defined in states such as Andhra Pradesh, Karnataka and Kerala, Tamil Nadu has proposed the applicable 
+charges in a draft order which is yet to be 
+finalised. While Karnataka has come up with a complete waiver on open access charges and has paved the way  for 100% 
+banking, other southern states  have also 
+extended the specific benefits for solar projects  set-up under the open access route.
+12 PwC
+level of  9.3 INR per kWh. The outstanding 
+inventory of solar RECs till end of November 2013 is 54,506 RECs as against 
+the average monthly redemption which 
+has been within the range of 1,703 RECs to 9,257 RECs in 2013. Lower demand  due to the lack of strict compliance to the 
+renewable purchase obligation. Some 
+states have come forward to enforce the RPO because of which demand for Solar RECs has picked up since September 2013. 
+The secondary aspect is related to 
+regulatory support to such projects.  Issues such as uncertainty in the open access charges applicable,  the matter 
+of extension of concessional charges 
+to such projects and the REC eligibility have all contributed to the ambiguity for developers to undertake projects under REC mechanism. Clarity on OA 
+charges applicable, stringent compliance 
+enforcement and revision of RPO targets, keeping in line with market expectations, will encourage investments in REC-based projects. REC mechanism
+The REC mechanism has been framed in order to promote renewable energy development and assist the obligated 
+entities to meet the RPO obligation by way 
+of purchasing the ‘green’ component of the renewable energy. Till 30 November 2013, 308.87 MW of solar PV capacity 
+and 3 MW of solar thermal capacity are 
+accredited under the REC mechanism in the country. Out of this capacity, only 42.6 MW is accredited from the southern states. Similarly out of 262 MW of solar 
+PV capacity registered under the REC 
+mechanism in the country, only 14.8 MW is registered from the four states of southern India.
+Capacity addition under the REC 
+mechanism is not significant, primarily due to the fact that the current demand for solar RECs is much lower than the supply available. This has resulted in the building 
+up of a large amount of  unsold inventory 
+of solar RECs, and as a result, the clearing prices have remained at the floor price Conclusion
+Undoubtedly, with a basic policy and regulatory framework in place, if certain  market fundamentals are addressed,  
+in the future, solar energy can play a 
+significant role for a secure and diversified mix of energy in the southern region of India. Currently, the region is chalking 
+out a roadmap to position itself as a hub 
+for solar power. Despite its highs and lows, policy-backed projects will continue to be the largest driver for new capacity addition in the coming years, while 
+business models will be explored in order 
+to match the market requirements.
+CII - Conference on solar power    13• Inadequate evacuation infrastructure
+• Load management of grid, owing to 
+the infirm nature of the generation
+This problem, if not tackled, will also affect the solar generation sources which are coming up in a huge  way, over  the next few years. As per the CEA, 32,713 
+MW of renewable energy generation 
+capacity is expected to be added in 12th  Five Year Plan which includes around 16,500 MW from Tamil Nadu, Karnataka and Andhra Pradesh. These three states 
+are expected to add close to 5,000 MW 
+of solar power capacity by FY17.  It is therefore important for the southern region to address the evacuation-related 
+issues in order to maximise the utilisation 
+of the RE sources.
+Management of renewable 
+energy 
+Understanding the need for strengthening 
+the transmission evacuation, the forum of regulators and the Power Grid 
+Corporation of India Limited (PGCIL) 
+in July 2012 proposed the need for a ‘Green Energy Corridor’ for evacuating  renewable energy generation in the 
+RE-rich states. PGCIL has proposed to 
+augment an inter-state transmission system, an intra-state transmission System, and a last mile connectivity system to the state transmission utility 
+(STU) network, and  strengthening within 
+state for conveyance of ISTS transfer.Transmission and evacuation 
+infrastructure plans 
+Renewable energy generation in India 
+is concentrated within a few states, and within a couple of districts in those 
+states. Generation capacity has increased 
+rapidly over time, but the evacuation infrastructure development has been able to keep pace with the generation 
+infrastructure. 
+Currently, certain pockets of the state 
+transmission network are yet to support evacuation of renewable energy at its peak generation. With additional  capacity 
+likely to be added at the sites with good 
+potential which are situated far away from load centres, the network is bound to face congestion. Investors today focus  
+on setting up  projects even in good 
+potential sites, even after considering the evacuation challenges.
+Wind as well as  solar generation sources 
+are infirm generation sources, and are 
+deemed as a must run. However, it has 
+been observed that wind power generating sources in states of Tamil Nadu and Karnataka have been asked to back-down 
+leading to significant loss of revenue 
+as well as  electricity generation.   Key reasons towards this step are as follows: 
+Intra-state transmission system proposed by the RE-rich states 
+State Transmission line Additional Substations
+Tamil Nadu •	1,440 ckms of 400 kV line
+•	91 ckms of 230 kV line
+•	45 ckms of 110 kV line•	1 no. of 400/230 kV S/s (830 MVA)
+•	1 no. of 230/110 kV S/s (300MVA)
+Andhra 
+Pradesh •	460 ckms of  400 kV line
+•	582 ckms of 220 kV line•	1 no. of 400/220 kV S/s (1260 MVA)
+•	5 no. of 220/132 kV S/s (1120MVA)
+Source: PGCIL, (As per the DPR, excluding elements for conveyance to ISTS)
+Proposed connectivity system to the STU network (intra-state)
+State Transmission line Additional Substations
+Tamil Nadu •	1,620 ckms of 230 kV line
+•	2,840 ckms of 110 kV line•	10 no. of 230/33 kV S/s (2900 MVA)
+•	22 no. of 110/33 kV S/s (4400 MVA)
+Karnataka •	630 ckms of 220 kV line
+•	1,160 ckms of 132 kV line•	4 no. of 220/33 kV S/s (1200 MVA)
+•	9 no. of 132/33 kV S/s (1750 MVA)
+Andhra Pradesh•	900 ckms of 220 kV line
+•	1600 ckms of 132 kV line•	5 no. of 220/33 kV S/s (1600 MVA)
+•	12 no. of 132/33 kV S/s (2450 MVA)
+Source: PGCIL, (As per the DPR, excluding elements for conveyance to ISTS)
+14 PwCProposed system strengthening within the state for conveyance of ISTS transfer 
+State Transmission line 
+Tamil Nadu •	1,240 ckms of 400kV line 
+•	1,500 ckms of 230kV line •	6 no. of 400/230/110 kV S/s (6925 MVA) 
+•	4 no. of 230/110 kV S/s (2650 MVA)
+Karnataka •	720 ckms of 220 kV line -
+Andhra 
+Pradesh•	260 ckms of 400 kV line 
+•	1,178 ckms of 220 kV line•	2 no. of 400/220 kV S/s (2205 MVA) 
+•	4 no. of 220/132 kV S/s (600 MVA) 
+•	400/220 kV S/s Augmentation (3465 MVA) 
+•	220/132 kV S/s Augmentation (1450 MVA)
+Source: PGCIL, (As per the DPR, excluding elements for conveyance to ISTS)
+Some of the proposed inter-state 
+transmission systems corridors in the southern region are as follows:
+• Establishment of a plus  500 kV, 2500 
+MW New Pugalur - Hyderabad HVDC Bipole
+• Establishment of a 400 kV Srisailam - 
+Kurnool New Double Circuit ( D/c)
+• The New Pugalur - Udumalpet 400 
+kV D/c 
+• The New Pugalur - Vagarai 400 kV D/c (quad) 
+• The New Pugalur - Pugalur 400 kV D/c (quad) 
+• The Hyderabad – Hyderabad(New) 400 kV D/c (quad) 
+• The LILO of Tuticorin Pool-Salem 765 kV line at New Pugalur (initially to be operated at 400 kV)
+• Establishment of a +500 kV, HVDC terminal stations (2500MW), each at 
+New Pugalur and  Hyderabad 
+• Establishment of 400 kV substations 
+at New Pugalur and  Hyderabad 
+On a positive note, work towards building 
+the Green Energy Corridor has been 
+initiated, and the Government of India  has received its first tranche of soft loan from Germany under Indo-German Bilateral Development Cooperation 
+Program in November 2013. Considering 
+the fact the gestation period of RE projects is much shorter than the time required to plan and construct evacuation 
+infrastructure, it is critical to accelerate 
+the construction process in order to accommodate  energy from the RE projects.Grid integration for renewables 
+Generation of power from solar and wind energy are variable in nature, and high levels of penetration as observed in the 
+RE-rich states, such as  the four states of 
+southern India,  can impact the stability of the grid which is required to operate within  a tight frequency band as well as  
+other operating parameters.
+Rather than curtailing the generation 
+of power by requesting  RE projects to back-down their generation or imposing penalties by calling   for strict adherence 
+to forecasting, it is important to develop 
+systems as well as  infrastructure which can help in managing the grid effectively
+Forecasting of generation
+•	Forecasting of generation from  
+RE sources can help the system operator in managing other generation sources and demand 
+•	Forecasting can be done by the RE generator or the system operator, as done in Europe. RE generators must  not be penalised for giving inaccurate forecast.
+•	Since the forecasting systems are 
+not matured and the accuracy of forecast is better at the grid scale 
+rather than individual farm level
+Peaking power and hydro generation
+•	The state must try to manage 
+the grid by utilizing gas-based peaking power stations, and storage-based hydro power plants in order to scale up and down the generation so as  to accommodate the variable RE generation.Smart grid 
+•	Smart grids can help in 
+managing the grid instability by efficient control of demand and other generation sources.
+Real-time markets
+•	As per the industry, having in 
+place a real-time market, in addition to existing Day Ahead Market (DAM) will help provide opportunity to the states to handle variable generation from RE sources
+Solar energy when compared to the other 
+infirm renewable energy generation sources is easier to forecast. Various 
+mathematical models have evolved 
+over  time, which can fairly estimate the generation. Accuracy is expected to be low at the farm level, but when aggregated at 
+a district or state grid level, the level of 
+accuracy is expected to be considerably high.
+The CEA report on grid integration of 
+RE power also suggests having in place  
+renewable energy management centres  
+in  each state, and regional load dispatch centres which will  conduct a  real-time forecast of the RE generation, and work 
+with  load dispatch centres in effective 
+control of the grid.
+Currently, owing to the inadequate 
+integration of the northern with the southern grid, and also the inadequate 
+integration of various states transmission 
+networks, it has been difficult to manage  excess or under generation in a specific  RE-rich state.  However, with the 
+commissioning of the Raichur- Sholapur 
+765 kV link line and strengthening of the inter-state transmission system as a part of the Green Energy Corridor, surplus energy could be exported to the energy-deficit 
+states, which could  also manage the 
+stability of grid.
+CII - Conference on solar power    15
+Financing of solar projects
+Renewable energy projects, including 
+solar projects are highly capital-intensive in nature. Therefore raising finance 
+is the most important activity for the 
+development of the project, as financial costs form the biggest component of the overall operational cost, and is the major 
+cash out flow for the project until the debt 
+is repaid.
+Risk perceived Factors Mitigation
+Construction 
+risk•	Land acquisition The government can assist  companies in identifying and assisting in land acquisition or can provide government land for lease.
+•	Project developers face hurdles while  obtaining evacuation approval and obtaining right of way for installing evacuation infrastructureThe government can support project developers in providing quicker evacuation approvals and assist developers in addressing ROW- related issues.
+Another option is that government can 
+build evacuation infrastructure and the cost can be borne by the project developer.
+Operations risk •	 Reduced generation 
+owing to frequent plant down timeThere is a need for quality in project 
+execution and O&M. Investors have to strike a balance between the capital cost of project and quality, in order to minimise the downtime during the life of the project
+•	 Generation not as per 
+the projectionsA good solar resource assessment (SRA) 
+prepared using long-term data and quality information is required to predict the long-term PLF in a more accurate manner.
+Also, a good SRA reduces the generation 
+uncertainty and is critical a document for lender or investor appraisal.
+•	 Curtailment of 
+generation due to congestion in evacuation infrastructureThe states must  plan evacuation 
+infrastructure taking into consideration a long-term view of possible growth in generation and demand from consumers.The viability of the project greatly depends 
+on obtaining cheaper cost of funds and timely financial closure. 
+Financing of grid connected MW 
+scale projects
+It has been observed that solar project 
+developers find it difficult to raise finance. The lenders as well as  equity investors 
+have a high-risk perception about solar 
+power projects, resulting in difficulty in raising funds.
+Higher risk perception of projects results in 
+increased cost of financing in terms of  higher cost of debt as well as  the security required to be offered. It also results in delay in raising funds due to increased due 
+diligence efforts.
+16 PwCCommercial 
+risk•	PPA risk- delay or default in paymentsStrong payment security in the form of an unconditional irrevocable letter of credit or a bank guarantee can be taken from the buyer (state utility or OA consumer) in order to reduce any risks related to payments  risk.
+It is important to evaluate the credit rating 
+of the consumer before entering into a PPA.
+•	Policy changes and change in revenues in OA-based modelsIncrease in OA charges after project commissioning can drastically reduce the net realisation, and therefore, affect the project viability.
+The government must ensure policy 
+certainty and not change the policies or regulations which affect the viability of operational projects.
+•	REC-based projects Strict enforcement of RPO on utilities as well as other obligated entities in the states is required
+Promoter risk •	Equity Projects sponsors must secure the required equity for the project before approaching the lenders.
+•	Track record and credit ratingExperience in successfully executing power projects along with experienced management can give comfort to the lenders
+Good credit rating of the promoters will  be 
+a positive factor in raising funds
+It has been observed that financing of 
+JNNSM-based and a couple of  state projects have been easier when compared 
+to others. This is because of the quality of  
+PPAs and the generation performance. 
+Debt financing for solar thermal 
+generation projects is observed to be 
+relatively  difficult given its lower installed 
+base in the country. As per the industry, more support is required for solar thermal projects from the government, including providing finance till the capabilities and 
+the required ecosystem gets built over the 
+period of time in the country. 
+Most of the project risks are directly or 
+indirectly related to the lack of supporting 
+policy and regulations from the government. Strong policy support which can help in mitigating  risks is required in order to enable easy access to cheaper finance to 
+project developers
+Owing to inherent risks in the 
+development of solar as well as  other renewable energy projects  today  few 
+projects have raised finance on a non-
+recourse basis. Project developers are made to give securities as well as  collaterals in the form of corporate or personal guarantee, bank guarantees 
+and in some cases, hard collaterals such 
+as  land over and above project land and  assets.Debt financing
+Unlike other renewable power projects, solar power projects have access to multiple sources of debt financing which 
+include conventional long-term debt 
+from banks and financial institutions, funding from export credit agencies and development finance agencies.
+Sources Details Issues
+Indian Banks and 
+NBFCs•	Primary source of financing
+•	Available for projects of various sizesHigher cost of funds
+Export credit agenciesEXIM banks of various countries have come forward to finance projects executed with equipment, sourced from their respective countries. 
+These banks only provide 
+debt to the tune of the amount equal to the imported items which form close to 40 to 50% of the project cost.Remaining amount has to be raised from Indian banks
+Owing to increased volatility in the 
+USD-INR exchange equation, the cost of hedging has reduced the competitiveness of foreign currency loan.
+Further, hedging is only available 
+for larger size projects being developed by promoters with strong profiles.
+Development finance institutionsVarious Development Finance Institutions such as the IFC, OPIC, JICA, kfW, etc have financed solar projects in India at lower interest rates. (in USD terms)Owing to increased volatility in the USD-INR exchange equation,  EXIM funds are increased, thereby resulting in the net cost of debt increasing by 100 to 300 bps
+CII - Conference on solar power    17
+Other financing strategies
+Construction risk is considered to be most 
+critical risk as per lenders and investors. The projects are considered to have a low 
+risk profile after commissioning. Project 
+developers therefore have an option to refinance the project with cheaper funds. 
+Developers with a good track record can 
+also opt to issue long-term fixed rate 
+bonds at the construction stage or during operations for refinancing. Government can also support by offering tax incentives on such solar bonds.
+Post-commissioning, any good quality 
+project under preferential tariff will  generate annuity kind of returns. Considering the lower risk profile, future 
+cash flows can be securitised and the 
+money can be utilised to repay the debt or to invest in other projects.
+Project developers in few cases have 
+availed supplier credit which enables 
+them to pay the equipment supplier in 
+installments after commissioning. This strategy allows payment of the capital cost 
+from the operational revenues. However, 
+it has been observed that the duration of  credit provided by suppliers have reduced over the period of time.
+Equity financing 
+The country has seen increased investor interest in renewable energy industry. While wind energy sector being a mature 
+industry has seen several equity deals, the 
+solar industry has also attracted numerous investments. Timeline Target 
+companyInvestor Deal type Deal value (in million USD)Segment
+November 2013NavSemi Energy Pte LtdAlpha Technologies Acquisition NA Equipment
+October 2013 Claro Energy Minority stake purchaseAngel investorsNA Solar Power Solutions
+June 2013 A 5MW solar power projectFortum Acquisition NA IPP
+January 2013 Megatech Power Equipments Pvt LtdConsul Consolidated LtdAcquisition NA Solar Power Solutions
+January 2013 HHV Solar Swelect Energy Systems LtdMinority stake purchase3.99 Module manufacturer
+June 2012 Sunborne EnergyNA Minority stake purchase5 IPP
+February 2012Eversun EnergyTecpro SystemsAcquisition NA Solar EPC
+February 2012Enelek Power Blue Circle Services LtdAcquisition NA Solar thermal solutions
+February 2012Alex Astral Power Pvt LtdShree Ganesh Jewellery HouseAcquisition 20.29 IPP
+January 2012 Gadhia Solar Zephyr Peacock Management IndiaMinority stake purchase7.31 Solar thermal solutions
+Source: ISI Emerging Market
+18 PwC
+Deals took place not only in the area 
+of power generation, but also on the equipment and solutions side. 
+In order to have increased  investments 
+into the solar energy sector of the country, it is important to have low-risk, good quality generation projects backed by 
+supportive policy and innovation along 
+various segments of the value chain by the technology companies.
+Financing of decentralised solar 
+generation 
+Solar power generation can work 
+as a decentralised solution, thereby maximizing the benefits for the consumer. 
+Decentralised generation projects include 
+rooftop or ground mount systems in the size of 1 kW to close to a MW being set-up to supply power to the industrial or 
+commercial and retail consumers. 
+Various business models have evolved in 
+the developed economies as well as  in India, which are based on decentralised 
+power generation through solar. Widely 
+used business models are as follows:• Set-up, own and operate for captive 
+consumptions 
+• Projects set-up by an IPP within  the 
+premises of the consumer and energy sold through a PPA
+• Solar generation assets are leased to 
+the consumer for self-consumption 
+under a financial lease or hire purchase
+MNRE in the JNNSM scheme outlined financing support for decentralised power generation sources which is in addition to the capital subsidy. As per the scheme, MNRE through Indian Renewable Energy 
+Development Agency Limited (IREDA) and 
+other agencies such as the National Bank for Agriculture and Rural Development (NABARD), National Housing Board 
+(NHB), Small Industries Development 
+Bank of India (SIDBI), etc directly or through commercial banks (refinanced by IREDA, NABARD, NHB, SIDBI, etc) will  provide loans, at not more than 5% to the approved projects. Project developers can however opt 
+for long-term debt from commercial 
+banks through balance sheet funding. While the market size of the IPP model implementing the decentralised solar generation projects within the  developed 
+economies is matured, in India, the market 
+is still in its nascent stage. The market will  grow as more IPP-based decentralised 
+generation projects come up, validating 
+and improving the business models over the period of time. 
+It is important from the lenders and 
+investors perspective to have business 
+models established in order to understand 
+the risks and appropriately price the funds. Till that time, it is important for the government to continue supporting the 
+decentralised power generation market 
+with required funding.
+CII - Conference on solar power    19Global outlook
+Europe is highest solar installation with 
+more than70 GW solar capacity by 2012, representing about 70% of the global  
+cumulative PV capacity. Markets outside 
+Europe China (8.3 GW), US (7.8 GW), Japan (6.9 GW), Australia (2.4 GW) and regions such as Africa, Middle East, 
+South East Asia and Latin America are 
+emerging with potential frameworks that may change the topography of solar power projects in the near future. 
+In contrast the segment being largely 
+driven by  feed-in tariff (FiT) based 
+projects, presently and also in future  market are likely to be structured based on business model that can drive regional 
+price expectations to a level that makes 
+solar power compete with fossil fuels.
+Evolution of global PV cumulative installed 
+capacity 2009 -2012 (GW)
+Source: Global Market Outlook 2013, EPIAMeasures taken by market 
+leaders to promote the solar 
+sector
+Japan 
+Details Solar PV
+Procurement 
+category10 kW or moreLess than 10 kW (purchase of excess 
+electricity)
+Tariff (per kW) 40.0 yen 42.0 yen
+Duration 20 years 20 years
+Japan approved its FiT scheme for 
+renewable energy in 2011. This Act obliges electric utilities to purchase electricity 
+generated from renewable energy sources 
+(solar PV, wind power, hydro power, geothermal and biomass) based on a fixed-period contract  with fixed price. Costs 
+incurred in purchasing renewable energy 
+sourced electricity shall be transferred to the electricity customers, who pay a ‘surcharge for renewable energy’ proportional to electricity usage.
+China
+As one of the largest markets for renewables in the world, China though slow to develop its own solar energy 
+market, has quickly gained momentum 
+and reached approximately 8.3GW by 2012 since its start in 2010. Early 2013, China raised its solar target for the fourth 
+time in two years to 35 GW by 2015. 
+At around the same time, China also announced a 10 GW installation goal for 2013.
+Government subsidies for solar PV 
+projects in China are granted through 
+special programs, such as  the PV Building Demonstration Programme, Golden Sun Programme and FiT. 
+In addition to the state council’s policy 
+detailed policies related to solar Feed-in-Tariff, tax incentives, development of distributed generation infrastructure and simplifying project approval procedures 
+are announced.
+Legislative measures like the Electricity 
+Act (1996), Interim Regulation on the On-grid Tariff (2005), Renewable Energy Law 
+(2006), Regulations on the Administration 
+of Renewable Power Energy (2006) provide the basic framework for securing development and defining rules on pricing of renewable power and the relevant 
+government subsidies in China.
+The National Development and Reform 
+Commission on Perfection of Policy in the second half of 2013  seeks revision of 
+current FiT to encourage the development 
+of solar PV in China.
+20 PwCGermany 
+Since inception in 2000, The Renewable 
+Energy Sources Act promotes renewable energy notably solar PV, wind power and 
+biomass through FiT. 
+The EU Directive
+1 sets out an EU wide 
+target of achieving 20% of the final energy 
+consumption from renewables by 2020. 
+Germany’s final target is 18% by 2020.
+In addition the country targets to achieve 
+the following levels by 2020:  Green house gas reduction (40% below 1990 
+level); renewable heat target (14% of 
+thermal energy from renewable energy sources) and renewable energy target (30%). National Renewable Energy Action Plan (NREAP) targets 51.7 GW solar 
+installations by 2020. Module prices, internationally 
+are generally not stable 
+The real case for solar energy as a near 
+term alternative to fossil energy is largely pegged on the view that the cost of solar energy have come down rapidly in recent years and will continue to do so in the coming years, largely dictated by the 
+module prices. 
+As seen from the spot market price in 
+the EU, though solar module prices have dropped substantially in recent years, 
+much of the decline in recent years is due 
+to overproduction and dumping from regions like China.  However balance-of-system (BOS) and other costs that now represent a larger share of installed project 
+costs can become the next barrier. By October 2013, there are two price levels which are increasingly visible for module 
+supplies from Asia - one for modules from Chinese production which is subject to the EU agreement and thus a restriction on imports; and the other one from the 
+rest of Asian region – for which there are 
+no regulatory barriers. Global supply chain for photovoltaic modules is seen to stabilise since third quarter, 2013 with the 
+EU’s anti-dumping tariffs on the Chinese 
+solar modules driving up prices. 
+Such trade conflicts might mean low 
+cost modules for commercial use may became scarce and the cost of solar energy 
+components increase in the year 2014. 
+2011
+•	Coridor revision proposal1990 - 1999
+•	Stromeinspeisungsgesetz (StrEg), 1990: 
+PV receives 90% of retail electricity price  
+(8.45 - 8.84 Euro cents per kWh)
+•	100,000 roofs programme, 1999. Receives 
+interest free loan
+2000 - 2004
+•	2000: Erneuerbare Energien Gesetz (EEG): PV receives 51 cents/kWh)    
+350MW program cap   
+5MW system cap for roof tops   
+100kW system cap for free standing
+•	2002: PV cap programme cap raised to 
+1000MW
+•	2004: EEG amended  
+New rates between 46  - 62 Euro cents 
+per kWh Programme and system size cap 
+removed
+2008 - 2010
+•	2008 - 2010: EEG amended
+•	National FiT registry created
+CII - Conference on solar power    21
+Source: pv-magazine    EU spot market module price trend (mono/poly) and average net price (Euro/Wp)
+Source: PVXchangeCan projects built in India 
+continue to stand out from global 
+competition?
+With entry barriers to the EU, the strategy 
+of global manufacturers appears to shift towards performance of the modules sold 
+at similar prices and focus on service and 
+the associated global operations cost.  Overseas manufacturers might prefer to focus on enhancing their product and 
+incorporate additional quality assurance 
+measures in their manufacturing operations in order to ensure generation commitments. This means good quality modules comes at a price to projects in 
+India.
+However, lack of any major breakthrough 
+in solar installation and developmental methods, technology improvements, 
+procedural and deployment hurdles for 
+large scale projects is likely to remain costly and labour intensive atleast with respect to  India. It is increasingly becoming clear that modules below 
+250 Wp (for crystalline technology) are 
+losing priority in utility scale projects in India. Reductions in cost can come incrementally, in response to scaling up of 
+domestic solar manufacturing capacities 
+and sustained subsidies in order to realise the full potential.
+Scaling solar without heavy subsidies 
+will require bringing both module and 
+installation costs dramatically, significant 
+breakthroughs in electricity transmission and evacuation, storage options and pursuit for centralised solar plants that 
+can benefit from economies of scale and 
+high irradiation, if specific locations with high insolation level are concentrated for development. 
+As a long-term strategy,  developing 
+better and cost competitive technologies, 
+introducing solar subsidies may be justified. But heavily subsidised projects may not ideally represent a true strategy 
+to replace fossil energy.Module price USD per Wp by region - Qtr 3, 2013 Tier 1, Chinese supplierPrice USD per Wp
+22 PwCThe need for a competitive 
+ecosystem in India
+Currently, the total solar PV module 
+production capacity in India is approximately 2 GW while the  cell 
+manufacturing capacity is around  850 
+MW. Bulk of India’s solar PV industry is dependent on imports of critical raw materials as well as components, including 
+silicon wafers. 
+Most Indian companies are either 
+standalone module companies or standalone cell companies (for example,  Jupiter, Indosolar, Euro Multivision).  
+Few companies  are into both cell as well 
+as  module production (for example,  Tata Power Solar, Moser Baer, Websol). Presently, some  companies are attempting 
+to have their presence in the upstream 
+wafer manufacturing and poly-silicon production, but the capacities are insignificant and projects are met with  delays. Due to  lack of integration, Indian 
+companies do not have the leverage to 
+keep their manufacturing costs down. The top Chinese manufacturing companies alone have a  module and cell production 
+capacity more than the total  installed 
+capacity in India. Due to this  scale, these large  companies are able to reduce their 
+unit costs by significant levels. 
+Solar modules have been priced 
+aggressively in the global market, below the level which can be supported by the domestic manufacturers, resulting in 
+under- utilisation of domestic capacity. 
+The huge capacity build-up by Chinese manufacturers resulted in serious demand-supply imbalance in the global 
+PV market. Over 50 solar PV companies 
+announced bankruptcy or exit the solar market globally (key players include Bosch, Siemens, Q Cells, Solyandra,  Siemens, Abound Solar, Conergy, etc.).
+Transforming India into a solar energy 
+hub will  include a leadership role in low-cost, high quality solar manufacturing, including balance of system components.
+Conducive policy initiatives: A boost 
+to India’s manufacturing sector is required given the competitive global manufacturing market, positioning India as a manufacturing hub requires 
+developmental goals, support from the 
+central as well as  state government, enhancement of technology and investment in R&D initiatives, pipeline of 
+future projects that gives opportunities for 
+domestic manufacturers to compete in the global landscape.
+In support of a strong domestic 
+manufacturing sector, inspite of policy 
+directives and incentives at the central and 
+the state level, no large scale development has taken place  in solar photovoltaics and solar thermal manufacturing, largely due 
+to the focus on specific segments of the 
+ecosystem, like  generation projects.
+Domestic solar PV manufacturing capacity (MW)
+20008481515
+0 500 1000 1500 2000ModulesCellsWafersIngot
+Capacity
+Source: Market ResearchDomestic manufacturing capacity utilisation (%)
+65%20%15%
+0% 50%1 00%201020112012
+% utlisationYears
+CII - Conference on solar power    23Policies stimulating solar 
+manufacturing ecosystem
+Semiconductor Policy, 2007
+The Semiconductor Policy announced 
+by the government of India in 2007 provides a special incentive package 
+to attract investments for setting up 
+semiconductor fabrication and other micro and nanotechnology manufacturing industries. The incentives are for all 
+semiconductors not only those exclusive 
+to solar photovoltaic’s and solar thermal technology.
+A key benefit is the grant of the SEZ status. 
+The special incentive package shall be 
+available as per the SEZ Policy.
+Karnataka Semiconductor Policy 2010
+The government of Karnataka through 
+the Karnataka Semiconductor Policy 2010 has given an impetus to the growth 
+of semiconductor industries in the 
+state. The policy specifically encourages and provides assistance to solar PV manufacturing units under the Karnataka 
+Renewable Energy Policy. 
+Highlights of the policy include the 
+following:
+• Location of land with access to 
+infrastructure such as ports and airports in close proximity; Karnataka Power Corporation Limited (KPCL) and KREDL also taking steps to 
+develop solar farms on JV and PPP 
+mode in districts such as Bijapur, Gulbarga, Raichur and Bellary
+• Fiscal incentives to micro, small, 
+medium manufacturing enterprises 
+(MSMEs)
+• Exemption of stamp duty for MSME, large, mega projects (100% for Zone 1 and Zone 2; 75% for Zone 3)
+• Exemption from entry tax (ET) (100% exemption from payment on plant and machinery, capital goods, for the first three years from the commencement of project implementation; on raw materials, inputs, component parts 
+and consumables for five years from 
+the commencement of commercial  production)
+• Interest subsidy for micro 
+manufacturing enterprises: interest at 
+5% on term loan 
+• Hundred per cent exemption of electrical duty and tax for three to five years Types of unit Threshold NPV of 
+investmentsIncentives in SEZ Incentives in non SEZ
+Fab unit 2500 crore INR 20% of capital expenditure25% of capital expenditure + exemption from countervailing duty
+Eco system unit1000 crore INR 20% of capital expenditure25% of capital expenditure + exemption from countervailing duty
+Andhra Pradesh Electronic Hardware 
+Policy 2012-2017
+Andhra Pradesh has instituted a policy to 
+promote electronics, including solar PV modules and cells.
+Highlights of the policy are as follows:
+• Hundred per cent reimbursement 
+of stamp duty, transfer duty and registration fee paid on sale, lease 
+deeds, mortgages and hypothecations 
+on the first transaction  
+• Two and a half per cent reimbursement of stamp duty, 
+transfer duty and registration fee 
+paid on sale, lease deeds, mortgages and hypothecations on the second transaction  
+• Admissibility of industrial power category tariff 
+• Four and a half per cent to micro, 40% to small, 25% to medium and 10% 
+to large-scale industry limited to 30 
+lakh INR of power subsidy on power bills for a period of five years from the date of commencement of commercial operations 
+• Reimbursement and grant of 50% exhibition subsidy for participating in national and international exhibitions limited to 9 sq m space 
+• Twenty per cent investment subsidy limited to 20 lakh INR for micro and small industries and additional 5% incentive subsidy for women, SC, ST entrepreneurs  
+• Three per cent interest rebate limited to 5 lakh INR per year for five years  
+• Ten per cent subsidy on new capital equipment for technology 
+upgradation limited to 25 lakh INR 
+as one-time availment by the eligible company • Fifty per cent subsidy on the expenses incurred for quality certification limited to 4 lakh INR [Conformity European (CE),China, Compulsory Certificate (CCC), UL Certification, 
+ISO, CMM Certification, SA, RU, etc]
+• Twenty-five per cent subsidy on 
+cleaner and green production measures limited to 10 lakh INR 
+• Hundred per cent tax reimbursement of VAT and CST, for the new units started after the date of issue of this policy, for a period of five years from the date of commencement of 
+production for products made in AP 
+and sold in AP 
+• Twenty-five per cent rebate in land cost limited to 10 lakh INR in 
+industrial estates, industrial parks, 
+SEZs, hubs, parks and clusters 
+• Fifty per cent reimbursement and grant of cost involved in skill upgradation and training the local 
+manpower limited to 2,000 INR per 
+person
+Tamil Nadu Solar Policy 2012
+Tamil Nadu Solar Policy provides added incentives to attract and encourage solar manufacturing in the state. The policy 
+states that capacity of about 1000 MW/
+annum of local manufacturing will result in direct and indirect job creation. Highlights of incentives are as follows:
+• Appropriate tax incentives as per 
+Tamil Nadu Solar Policy 
+• Creation of solar manufacturing ecosystem that includes solar research centres, test facilities,  resource 
+assessment facilities 
+• Exclusive solar manufacturing parks 
+in the state and preference in existing industrial SEZsIndian government incentives for semiconductors
+24 PwCIn sum, support to manufacturing is 
+important to set the platform for solar power to play an important role in 
+meeting energy security and clean energy 
+considerations of India. Domestic content requirement in JNNSM Phase II Batch I for 375 MW by the government of India 
+is seen as an encouragement for local 
+manufacturers. Yet, the need of the hour is to ramp up domestic manufacturing facilities in for the next few years. 
+Further upstream, cells, wafers and poly-
+silicon will not see much growth unless 
+there is strong drive from the government through policy and regulatory support. In addition, the state governments can 
+identify potential sites for developing solar 
+parks with basic infrastructure in place.
+Key areas that policies can look into 
+include:
+• Priority sector lending status for 
+solar manufacturing, to promote 
+investment in manufacturing and access to debt funding
+• Access to lower cost funds to improve 
+the cost competitiveness of the 
+domestic players
+• Provision of land and suitable infrastructure including reliable power supply to house the entire 
+manufacturing eco-system (wafers, 
+cells, modules and balance of systems).Building projects based on 
+sustainable technology choices
+With increase in retail tariffs and decrease 
+in solar panel costs, solar projects are becoming cost-competent to retail 
+supply tariff in selective states, but to be 
+commercially viable, technology should achieve higher efficiency levels at current cost, maximize generation from existing 
+capacities and should improve operations 
+and management practices. 
+Technology selection best suited 
+to the requirement
+The best technology for a solar power 
+plant depends on the specific application and the requirement. A broad variety of 
+technologies is expected to continue to 
+characterise the technology portfolio, depending on the specific requirements and economics of the applications–tariff 
+structure, meteorological conditions, 
+land availability, evacuation levels, future aspirations of policymakers and others. 
+Crystalline vis-à-vis thin film technology: 
+Both crystalline as well as thin-film 
+technologies have gained significant 
+traction in the last few years and have come out as proven technologies. In India, both the technologies have fairly equal 
+installations. In the Indian environment, 
+the effect of dust, soiling, climate and degradation are crucial factors for the success of any technology. 
+Solar thermal technology: Concentrated 
+solar power (CSP) is advantageous in 
+that it is utility scalable technology, is dispatchable and is firm RE option. With the inherent energy storage capability 
+in the form of heat that can be used to 
+generate electricity up to hours later and with further support from additional thermal storage systems or a hybrid system design, CSP plants can continue to 
+produce stable electricity even when cloud 
+block the sun or the sun sets. So it is much less challenging to integrate CSP than wind or PV generation into power systems. 
+Although CSP has better performance 
+for grid integration, but is relatively challenging technology and current high cost limit its large-scale deployment. One disadvantage of CSP is that it requires 
+strong direct sunlight. As a result, 
+adequate CSP resources are generally limited to semi-arid, hot regions or deserts. In particular, India does not have 
+conducive ecosystem for the development 
+of CSP because very less projects have been undertaken with this technology. Solar trackers: Optimising the energy 
+produced and making the most of scarce 
+resources such as land have become increasingly important as developers look for higher profit. Solar trackers 
+which move the panels to follow the 
+trajectory of the sun can increase solar power production by up to 25% compared to a fixed-tilt system. Projects based on trackers have been implemented in India 
+under the JNNSM scheme and it is to be 
+seen with further localisation how IPPs and developers will deploy projects based on trackers with programmes demanding 
+higher PLF.
+A vertical integration in the 
+manufacturing process, from sand to module, lowers the production cost. India today does not have this advantage and is largely dependent on imports for crucial materials such as silicon wafers, encap-sulating material and high transmission glass. The key challenge is the imposition of import duty on input items in the manufacturing process of solar cell and modules, where-as there is no import duty on finished solar equipment (solar modules).To make the country a manu-facturing hub, policy must decide its objective: to drive a market that is import driven or create a robust domestic manufacturing base.Concentrated solar power (CSP) could have a unique role in India’s energy mix with its potential be hybrid and its ability to easily add storage could unlock dispatchable  and base-load power, setting the stage for larger renewable energy penetration.
+Localisation: A solution to the 
+manufacturing sector for solar 
+power generators 
+Capital costs of solar installations 
+have fallen drastically in the last five years. This has seen many states adopt 
+the technology. Economies of scale, 
+technological innovation and the learning curve affect the attempt to drive costs further down.
+It may be noted that within the overall 
+system costs, the proportion of non-
+module system costs is increasing. In 
+fact, the cost reduction possibilities in the non-module segment of system costs could well determine the timing of grid parity. 
+The cost reduction trends for non-module 
+system costs can be achieved through low-cost financing, local sourcing of materials, localised assembly and production of 
+invertors. 
+CII - Conference on solar power    25Accelerating R&D initiatives to 
+make technology competitive 
+With the aim of achieving further 
+significant cost reductions and efficiency improvements, R&D is predicted to 
+continuously progress in improving 
+existing technologies and developing new technologies. Currently, innovation in the solar sector is happening in developed 
+parts of the world such as the US and 
+Europe. Slowdown in Europe will reduce further innovation. The US has been able to identify a significant amount of shale gas reserves which can be made 
+commercially available at around 3 USD 
+per mmbtu. There is less incentive for them to invest in solar which is relatively costlier than the newly found shale gas 
+reserves. On the other hand, India which 
+is struggling to source coal and gas required for conventional power plants has to depend on imports and has no 
+option but to get the most out of wind, 
+solar and other renewable technologies. 
+The country needs to support and gain 
+leadership in terms of innovation in solar technologies. 
+R&D for the indigenisation of 
+technology and quality standards for both manufacturing as well as solar 
+project implementation most suited to 
+India should be undertaken to focus on optimising energy generation from existing devices and applications, reducing integration and other plant BOS costs, 
+and improving efficiency of generation 
+devices. 
+Considering solar can provide options 
+for storage, the focus should also be 
+on developing cost-effective storage 
+technologies which would address both variability and storage constraints, through the use of better and improved materials.  
+It may be noted that the Indian Institute 
+of Science (IISc), Bangalore and the 
+National Renewable Energy Laboratory (NREL), Golden, Colorado, USA have undertaken the project for SERIIUS, the Solar Energy Research Institute for India 
+in order to accelerate the development of 
+solar electric technologies by lowering the cost per watt of photovoltaics (PV) and concentrated solar power (CSP). There 
+needs to be increase in such initiatives 
+and efforts in order to commercialise such developments.Effective operation and 
+maintenance
+Like any other project, solar power 
+projects require higher plant uptime to consistently operate at peak performance. 
+System monitoring, preventive 
+maintenance, maintenance of critical spares and addressing repairs are crucial for a plant owner, to reduce downtime and 
+derive maximum value over the lifetime of 
+the installation. 
+Operating a solar plant entails managing a 
+broad variety of elements including plant performance and reliability, safety and risks, spares and receivables, generation 
+guarantees and warranty enforcement. 
+As we understand, maintenance regimes 
+play a critical role in solar power projects. While corrective maintenance regimes 
+remain common in practice, preventive 
+and condition based maintenance strategies represent a growing trend. It’s estimated that by usage of Tier 1 module 
+supplier for development of solar project 
+can increase the generation upto 15%.  
+In India, realising this critical aspect, 
+some IPPs and EPCs have invested in 
+house teams in order to standardise O&M 
+practices across their facility portfolios and are working to systematise remote monitoring and efficiently identify, diagnose and resolve problems across a 
+wide portfolio of systems.
+As the solar industry struggles with the 
+uncertainty in panel pricing, it is turning to the optimisation of system energy 
+output in order to make the economic 
+case for solar power projects an attractive investment.
+Source: SunPowerRange of improvement in output through O&M
+26 PwCSecuring and diversifying 
+the energy mix by distributed generation 
+Distributed generation (DG) refers 
+to electricity produced at or near the point of consumption. For a large and 
+dispersed rural based country like India, 
+decentralised power generation systems offers a better solution.
+Distributed solar energy can be located on 
+rooftops or ground-mounted, and typically 
+connected to the local utility distribution grid, thereby avoiding transmission and distribution costs. Solar PV is ideal for small-scale projects, and also for places 
+without access to electric grid.
+Government policy initiatives
+The government of India has adopted 
+an integrated energy policy which aims to provide energy security to all its 
+citizens through conventional as well as 
+alternative sources of energy. Some of the policies adopted by the Indian government are as follows.
+• The Electricity Act, 2003 has given 
+a thrust to distributed generation particularly in the context of rural electrification. The Act specifies distributed generation and supply 
+through stand-alone conventional and 
+renewable energy systems.
+• The National Electricity Policy recommends under the rural 
+electrification component, that to 
+provide a reliable rural electrification system, wherever conventional grid is not feasible, decentralised distributed generation facilities (using 
+conventional or non-conventional 
+sources of energy) together with local distribution network be provided.
+• Two specific schemes, the Rajiv 
+Gandhi Grameen Vidyutikaran Yojna 
+and the Remote Village Electrification Scheme, will provide up to 90% capital subsidy for rural electrification projects using decentralised 
+distributed generation options 
+based on conventional and non-conventional fuels.• The JNNSM policy document mentions implementation of 2 GW of solar rooftop installations by 2022.  JNNSM Phase II also promotes off-grid solar 
+especially for improved energy access 
+for remote areas, encouragement of  heating and cooling applications, replacement of diesel and kerosene, distributed generation, industrial 
+process heat applications, solar water 
+irrigation pumping systems, etc. The policy target is as follows:
+ – Twenty thousand villages, hamlets, 
+bastis and padas to be electrified 
+by deployment of off-grid electricity generation projects
+ – Deployment of around 10 lakh off-grid lighting systems
+ – Development of solar cities as well as inclusion of more 
+ – Deployment of 25,000 solar pumps by the end of FY 2017 
+ – Deployment of around 25,000 solar integrated telecom towers
+ – Target of 15 to 20 cities where solar water heaters will become the main source of heating water 
+replacing electric geysers
+• SECI is  promoting rooftop programme 
+by conducting competitive bidding has already allotted 5.5 MW in four cities  
+in the Phase I of the rooftop 
+programme in April 2013. The SECI has also invited bidders to take part in the allocation process for 11.1 MW in six cities in Phase II. The bidder has to 
+quote a cost in INR/Wp terms based on 
+which the SECI will provide a capital subsidy of 30%.
+• MNRE also promotes off-grid through 
+subsidy schemes where it provides  
+30% of capital subsidy of the benchmark costs for rooftop applications (100 MW a year), and also through ’solar cities’ which aim 
+to reduce 10% of city dependence on 
+conventional energy at the end of  five years. 
+• Distributed generation projects can 
+also avail accelerated depreciation 
+benefit, wherein they can avail 80% depreciation benefit in the first year  of operation.
+CII - Conference on solar power    27• Further, all southern states are 
+promoting rooftop and distributed generation projects:
+ – The Tamil Nadu Solar Policy aims 350 MW of rooftop capacity in three phases of 100, 125 and 125 MW (per year) during 2013-
+2015. Apart from this, the state 
+will also implement 300 MW from government buildings and government schemes for rural and urban lighting.
+ – Kerala launched its 10,000 rooftop power plants programme for 2012-2013. Apart from the MNRE’s 30% capital subsidy, 
+the state is offering a discount 
+of 39,000 INR per system. The unique aspect of the programme is that the policy support is completely for off-grid PV 
+systems, whereas all other 
+programmes in the country have opted for a grid-tied system.
+ – The KREDL along with the SECI 
+is implementing 1297 numbers of 
+0.5kW and 646 numbers of 1kW grid connected rooftop systems in Karnataka.  
+ – Andhra Pradesh has also 
+announced its intention of 
+promoting rooftop solar systems through a net-metering mechanism. NEDCAP, the state 
+nodal agency is also helping in 
+bringing awareness for solar distributed generation, solar lanterns, etc.
+Need to prioritise in-situ 
+generation for self-consumption 
+with a net-metering approach
+Countries such as the US, Japan and 
+Germany have high rooftop solar installations and are estimated to meet 
+as high as 20% of their total electricity 
+requirement from solar rooftops. 
+States such as Gujarat and Karnataka 
+have been promoting solar rooftops with 
+feed-in-tariffs. Cities are experimenting 
+with policies to encourage distributed solar to offset peak electricity demand and stabilise the local grid through rooftops. Though it puts the additional 
+challenge of monitoring and verification 
+on distribution utilities, states have now come up with the solar rooftop policy of self-consumption with net metering policy 
+to help the seamless integration of the 
+technology with the grid. With net-metering, consumers can install rooftop PV and first use the solar generation for their own consumption, and feed in only excess rooftop PV 
+generation into the utility grid. They will 
+continue to draw their power requirement from the grid as and when needed. Consumers with high tariffs and high energy use will benefit most from it. Bill 
+savings from such avoided costs will 
+determine the viability of rooftop PV with net metering.
+Rooftop and decentralised generation 
+projects with net-metering support allow 
+southern states to deal with a high-deficit situation apart from offering other benefits:
+• Decentralised generation can be set 
+up in various sizes by retail, industrial 
+or commercial consumers as rooftops for captive consumption and sale of excess power through net metering.    
+ – Consumers can also get relief from R&C measures and load shedding by establishing decentralised solar projects in states such as Tamil Nadu and 
+Andhra Pradesh. 
+ – Solar generation is higher in 
+summer when the power deficit is generally high and is more 
+predictable than other infirm 
+renewable energy sources.
+• Decentralised generation can also help to meet demand in remote locations and villages, where grid 
+connected power is not available. 
+These solutions can especially benefit agricultural consumer in rural areas.
+• Decentralised generation gets 
+consumed locally without significant 
+T&D losses. This helps offset transmission and distribution equipment needed to deal with new load behaviour and rising electricity 
+demand (e.g. congestion). 
+• Solar heating solutions can displace 
+some electricity and fossil fuel based heating solutions. Distributed solar 
+system can decrease the dependency 
+on diesel gen-sets, which are used by most industries connected to grid power due to unreliability use.
+• It reduces land otherwise required for 
+utility sized project.Need for a robust, coordinated 
+and inclusive approach  
+Given the immense market potential 
+of rooftop and distributed generation applications, an integrated approach that involves seamless collaboration among partners across the value chain is important. The following will need specific 
+focus:
+• National Building Codes need to have 
+the framework for the establishment of green buildings, in order to make it 
+mandatory for buildings to implement 
+solar application with proper standards and guidelines. 
+• Until now, the most preferred route for distributed solar PV has been the 
+corporate financing route. However, 
+with the expected large-scale adoption of captive solar PV power plants, both project finance and asset 
+finance routes can be expected to 
+come into place.
+• Unlike large-scale projects, the decentralised market will require 
+solutions that have to be developed 
+based on customer requirements and setting up logistical infrastructure to reach the customer. For example, a 
+solar rooftop solution that provides 
+quality performance at lowest possible costs at the consumer end is the need of the hour.
+• Energy-efficient design standards that include building integrated PV (BIPV) into building architecture to generate electricity, allow entry of natural light and provide heat insulation are 
+needed. 
+• Innovative solutions such as solar 
+walls for drying and heating applications in many agro-processing 
+industries work both as a standalone 
+system as well as a preheat to traditional mechanical operations. 
+Such systems reduce our dependence 
+on fuelwood or fossil fuels required for drying.
+• Standalone, off-grid street lighting with built-in automated controls 
+for remote application can provide 
+reliable outdoor lighting for streets, villages, open spaces, etc.
+28 PwCEnabling frameworks will 
+ensure a sustained push for the solar sector 
+The developer-centric Indian solar market 
+challenges the role of the policy and regulators, leading to an approach that 
+has to consider choices at every level of 
+the market. The health of the industry can improve if focus is kept on the sector ecosystem.
+Given the severe power shortage in 
+southern India and R&C measures forcing industrial consumers to look for alternative sources of energy, it is imperative for all four states to encourage 
+investments in both grid connected utility 
+scale as well as rooftop and decentralised solar energy projects through continuous policy support to encourage innovation in 
+the sector.
+Solar power projects have come a long 
+way what with the cost of solar PV systems considered to be barrier to PV adoption on a decreasing trend and technology 
+improvements taking place, they have 
+become economically competitive.  As a long-term strategy to develop better and cost competitive technologies, introducing 
+solar subsidies may be justified. But 
+heavily subsidised projects may not ideally represent a true strategy to replace fossil energy.Effective implementation of 
+central and state policies
+While the NSM catalyses solar energy 
+growth and as the mission steps into Phase 2, appreciation for the unique roles solar PV (utility scale / distributed generation) and CSP can play in the energy mix are key to the development of each technology.
+Solar power’s ability to easily achieve 
+scale and commissioning timelines coupled with the potential to add storage options can unlock dispatchable and 
+base-load power, setting a stage for larger 
+penetration if fundamental policy and regulatory measures are undertaken and supported at the state level.
+The southern states have introduced 
+policies and set optimistic targets for 
+capacity addition, but implementation awaits policy directives. Andhra Pradesh, Karnataka and Tamil Nadu were expected 
+to be the key market drivers for new 
+installations in 2014. If PPAs can be signed for the allocated capacities in these three states, the planned capacities can be 
+quickly commissioned. Similarly, if policy 
+guidelines are implemented effectively, larger interest can be generated among investors.
+Initiating steps to improve the 
+solar eco-system within the states
+Each technology has its own advantages. 
+From the context of the Indian market, technology improvement and cost 
+reduction can be structured to drive 
+primary factors--localisation, economies of scale, manufacturing innovations, R&D and technology improvements, increasing 
+efficiency and reducing cost. 
+Overall, solar PV system costs are also 
+driven by factors such as exchange rate fluctuations and interest rates. With an increase in the cost of imported elements 
+in the solar PV system, the impact of any 
+exchange rate depreciation will have an adverse impact on overall system costs and the resultant power tariffs. Specific 
+localisation support initiatives will reduce 
+such exposures.
+CII - Conference on solar power    29Enabling the open access market 
+While various incentives are offered to 
+support solar energy procurement through OA mechanisms, the following aspects 
+may be better addressed in order to 
+mobilise investments.
+• Investors setting up projects for 
+the supply of power under OA 
+mechanisms are concerned about the 
+certainty of applicable OA charges for the life of the projects. Any rapid change in the OA charges or banking facility after commissioning will 
+affect the viability of the project. 
+Communications regarding certainty of applicable OA charges for the life of the projects can help take investment decisions.Overcoming grid connectivity 
+issues
+The southern states are facing hurdles 
+in obtaining evacuation approvals for large-scale deployment of capacities (solar 
+parks). Securing load flow approvals, 
+ROW and clearances is causing delays in project execution and increase in the cost for developers. Industry expects 
+support from relevant transmission and 
+distribution utilities as well as state nodal agencies in creating required evacuation infrastructure.
+With southern states facing huge power 
+deficits and R&C measures forcing 
+industrial consumers to look for alternate sources of energy, the time is right for the solar energy segment to take off. Initially, 
+the high cost of solar PV systems was 
+considered a barrier to PV adoption but with cost of PV systems decreasing and the cost of diesel fuel increasing, PV systems are becoming economically competitive. 
+Also, a significant demand in southern 
+states comes from the capital cities where most of the load centres are located. Here, decentralised energy systems can play a 
+role in reducing the dependency on grid 
+connected power. Thus, a shift of focus towards the use of solar power will help industrial and domestic consumers gain access to power even in peak consumption 
+time. • Consumers procuring under third-
+party and group captive mechanisms are unable to draw energy during scheduled and unscheduled power-
+cuts and when R&C measures are 
+imposed. Consumers are required to have dedicated feeders to continue to draw the energy. It is difficult for 
+every OA consumer to have dedicated 
+feeders. States may structure mechanisms that allow OA consumers to continue drawing energy.
+Land and infrastructure
+Solar policies of Tamil Nadu, Andhra Pradesh and Karnataka state that the responsibility to acquire land for any 
+project lies with the developer. Land 
+availability being a major challenge for developers, government support in obtaining clearance will be a major 
+motivator for developers to set up solar 
+plants. Respective governments can endeavour to suitably identify land to be offered to developers and facilitate acquisition for grid connected solar 
+installations.
+
+About CII Contact
+The Confederation of Indian Industry (CII) works to create and sustain 
+an environment conducive to the development of India, partnering industry, government, and civil society, through advisory and consultative processes.
+CII is a non-government, not-for-profit, industry-led and industry-
+managed organisation, playing a proactive role in India’s development process. Founded over 118 years ago, India’s premier business association has over 7100 members, from the private as well as public sectors, including SMEs and MNCs, and an indirect membership of over 90,000 enterprises from around 257 national and regional sectoral industry bodies.
+CII charts change by working closely with government on policy 
+issues, interfacing with thought leaders, and enhancing efficiency, competitiveness and business opportunities for industry through a range of specialized services and strategic global linkages. It also provides a platform for consensus-building and networking on key issues.
+Extending its agenda beyond business, CII assists industry to identify 
+and execute corporate citizenship programmes. Partnerships with civil society organizations carry forward corporate initiatives for integrated and inclusive development across diverse domains including affirmative action, healthcare, education, livelihood, diversity management, skill development, empowerment of women, and water, to name a few.
+The CII Theme for 2013-14 is Accelerating Economic Growth through 
+Innovation, Transformation, Inclusion and Governance. Towards this, CII advocacy will accord top priority to stepping up the growth trajectory of the nation, while retaining a strong focus on accountability, transparency and measurement in the corporate and social eco-system, building a knowledge economy, and broad-basing development to help deliver the fruits of progress to all.
+With 63 offices, including 10 Centres of Excellence, in India, and seven 
+overseas offices in Australia, China, Egypt, France, Singapore, UK, and USA, as well as institutional partnerships with 224 counterpart organizations in 90 countries, CII serves as a reference point for Indian industry and the international business community.Mahesh Natarajan
+Regional DirectorConfederation of Indian Industry
+98/1, Velacherry Main Road
+Chennai-600 032Email: cii.south@cii.inWebsite: www.cii.in
+Merin Devassia
+Deputy DirectorConfederation of Indian Industry98/1, Velacherry Main Road
+Chennai-600 032
+Email: merin@cii.in Website: www.cii.in
+About PwC Contact
+PwC helps organisations and individuals create the value they’re 
+looking for. We’re a network of firms in 157 countries with more than 184,000 people who are committed to delivering quality in Assurance, Tax and Advisory services. Tell us what matters to you and find out more by visiting us at www.pwc.com. 
+In India, PwC has offices in these cities: Ahmedabad, Bangalore, 
+Chennai, Delhi NCR, Hyderabad, Kolkata, Mumbai and Pune. For more information about PwC India’s service offerings, visit www.pwc.com/in 
+PwC refers to the PwC network and / or one or more of its member 
+firms, each of which is a separate legal entity. Please see www.pwc.com/structure for further details.
+You can connect with us on: 
+   facebook.com/PwCIndia
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwcKameswara Rao
+Executive Director, Leader, Energy, Utilities and Mining
+Phone: +91-40-6624 6688
+Email: kameswara.rao@in.pwc.com
+Sunil Kumar
+Associate Director, Energy and Utilities
+Phone: +91-40-6624 6203
+Email: sunil.kumar@in.pwc.com
+Sathish Kamalanabhan
+Manager, Energy and Utilities
+Phone: +91-80-4079 4042
+Email: sathish.kamalanabhan@in.pwc.com
+www.pwc.in
+Data Classification: DC0
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents 
+of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained 
+within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited 
+liability company in India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+AK 127 - November 2013 CII - Conference on solar power.indd
+Designed by Brand and Communication, India

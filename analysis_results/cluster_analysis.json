@@ -1,0 +1,1958 @@
+{
+  "0": {
+    "summary": {
+      "cluster_name": "Energy Security in India Cluster",
+      "common_themes": [
+        "Energy Security in India",
+        "Global Impact of Shale Oil Production",
+        "Economic Consequences of Shale Oil",
+        "Geopolitical Implications of Shale Oil",
+        "Environmental Concerns of Shale Oil"
+      ],
+      "common_topics": [
+        "Shale oil production growth and projections",
+        "Impact on global oil prices and GDP",
+        "Winners and losers among countries (importers vs. exporters)",
+        "Strategic implications for oil companies and governments",
+        "Environmental effects and regulations"
+      ],
+      "common_keywords": [
+        "India",
+        "Sustainable Development",
+        "Energy Security",
+        "Economic Growth",
+        "Shale oil",
+        "Global energy markets",
+        "Oil prices",
+        "GDP",
+        "Geopolitics",
+        "OPEC"
+      ]
+    },
+    "articles": [
+      {
+        "title": "pwc_shale-oil-report",
+        "url": "",
+        "industry": "Energy",
+        "themes": [
+          "Global Impact of Shale Oil Production",
+          "Economic Consequences of Shale Oil",
+          "Geopolitical Implications of Shale Oil",
+          "Environmental Concerns of Shale Oil",
+          "Strategic Opportunities and Challenges of Shale Oil"
+        ],
+        "topics": [
+          "Shale oil production growth and projections",
+          "Impact on global oil prices and GDP",
+          "Winners and losers among countries (importers vs. exporters)",
+          "Strategic implications for oil companies and governments",
+          "Environmental effects and regulations"
+        ]
+      },
+      {
+        "title": "pwc_harvesting-the-sun-to-address-southern-region-power",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Power Deficit in Southern India",
+          "Renewable Energy Solutions",
+          "Economic Impact of Power Shortages",
+          "Policy and Regulatory Framework for Solar Power",
+          "Sustainable Energy Mix"
+        ],
+        "topics": [
+          "Power deficit situation in Southern India (Andhra Pradesh, Karnataka, Kerala, Tamil Nadu)",
+          "Impact of power shortages on industries and businesses",
+          "Renewable energy potential in Southern India (Solar, Wind)",
+          "Policy and regulatory framework for solar power development",
+          "Financing solar projects"
+        ]
+      },
+      {
+        "title": "Towards a climate-resilient future: Strategies for the Andaman and Nicobar Islands",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Climate Change Resilience",
+          "Sustainable Development",
+          "Vulnerability Assessment",
+          "Financial Strategies for Climate Action",
+          "Environmental Conservation"
+        ],
+        "topics": [
+          "Land Use and Land Cover Change (LULC) Analysis",
+          "Climate Change Impact Assessment (Andaman and Nicobar Islands)",
+          "Vulnerability Prioritization of Sub-districts",
+          "Proposed Measures to Address Vulnerabilities",
+          "Green Finance and Carbon Markets"
+        ]
+      },
+      {
+        "title": "Climate_Flyer copy",
+        "url": "",
+        "industry": "Energy",
+        "themes": [
+          "Sustainable and Clean Energy Development in India",
+          "Fiscal Policy and Tax Incentives for Green Initiatives",
+          "Challenges and Roadblocks in Renewable Energy Adoption",
+          "India's Net-Zero Emission Goals",
+          "Infrastructure Development for Clean Energy"
+        ],
+        "topics": [
+          "High cost of raw materials and capital for renewable energy projects",
+          "Tax incentives and policies for renewable energy and waste management",
+          "India's renewable energy capacity growth and targets",
+          "Impact of GST on renewable energy costs",
+          "Importance of cross-border technology transfer"
+        ]
+      },
+      {
+        "title": "pwc_forging-ties-securing-energy-supply-for-a-stronger-economy",
+        "url": "",
+        "industry": "Energy",
+        "themes": [
+          "Energy Security in India",
+          "International Collaboration for Energy",
+          "Sustainable Energy Development",
+          "Economic Growth and Energy",
+          "Policy and Strategy for Energy Security"
+        ],
+        "topics": [
+          "Rising energy demand in India",
+          "High import dependency on energy",
+          "International cooperation for energy security",
+          "Impediments to energy security",
+          "Efficient use of available energy resources"
+        ]
+      },
+      {
+        "title": "pwc_looking-ahead-securing-energy-through-clean-technologies",
+        "url": "",
+        "industry": "Energy",
+        "themes": [
+          "Energy Security in India",
+          "Bridging the Energy Demand-Supply Gap",
+          "Transition to Clean Energy",
+          "Economic Impact of Energy Policy",
+          "Renewable Energy Potential and Development"
+        ],
+        "topics": [
+          "India's energy consumption and deficit",
+          "Capacity addition challenges in the power sector",
+          "Dependence on imported fossil fuels",
+          "Role of renewable energy sources",
+          "Government targets and policy initiatives"
+        ]
+      },
+      {
+        "title": "pwc_north-east_summit-2013",
+        "url": "",
+        "industry": "Consulting",
+        "themes": [
+          "Inclusive Economic Development in India's Northeast",
+          "Infrastructure Development and Connectivity",
+          "Resource Utilization and Sustainable Growth",
+          "Regional Cooperation and Cross-Border Trade",
+          "Government-Private Sector Collaboration"
+        ],
+        "topics": [
+          "Socio-economic challenges in India's Northeast",
+          "Opportunities for investment in agriculture and food processing",
+          "Development of physical infrastructure (power, roads)",
+          "Skill development and workforce training",
+          "Augmenting border trade with neighboring countries"
+        ]
+      }
+    ],
+    "article_count": 7
+  },
+  "1": {
+    "summary": {
+      "cluster_name": "Python Programming Cluster",
+      "common_themes": [
+        "Python Programming",
+        "Cryptography",
+        "Security",
+        "Software Dependencies",
+        "Error Handling"
+      ],
+      "common_topics": [
+        "AES Encryption",
+        "AES encryption algorithm",
+        "Missing Dependencies",
+        "Error handling in Python",
+        "PyCryptodome Library"
+      ],
+      "common_keywords": [
+        "PyCryptodome",
+        "AES",
+        "Python",
+        "encryption",
+        "error",
+        "library",
+        "dependency",
+        "algorithm",
+        "cryptography",
+        "security"
+      ]
+    },
+    "articles": [
+      {
+        "title": "kpmg_sebi-cscrf-our-point-of-view.coredownload.inline",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Error Handling",
+          "Software Dependencies",
+          "Python Libraries",
+          "Security"
+        ],
+        "topics": [
+          "AES Encryption",
+          "PyCryptodome Installation",
+          "Missing Dependencies",
+          "Error Messages",
+          "Python Cryptography"
+        ]
+      },
+      {
+        "title": "kpmg_global-tech-report-healthcare-insights.coredownload.inline",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptographic Errors",
+          "Software Dependencies",
+          "Python Programming",
+          "Security",
+          "Library Management"
+        ],
+        "topics": [
+          "PyCryptodome library missing",
+          "AES encryption algorithm failure",
+          "Dependency resolution in Python",
+          "Error handling in Python",
+          "Troubleshooting cryptographic implementations"
+        ]
+      },
+      {
+        "title": "pwc_countdown_to_companies_act_2013_impact_on_transactions_and_corporate_restructuring",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Error Handling",
+          "Software Dependencies",
+          "Python Programming",
+          "Security"
+        ],
+        "topics": [
+          "AES Encryption",
+          "Missing Libraries",
+          "PyCryptodome Installation",
+          "Dependency Management in Python",
+          "Troubleshooting Cryptographic Errors"
+        ]
+      },
+      {
+        "title": "kpmg_remote-working-in-india-tax-and-regulatory-consideration.coredownload.inline",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Software Errors",
+          "Library Dependencies",
+          "Python Programming",
+          "Security"
+        ],
+        "topics": [
+          "AES Encryption",
+          "PyCryptodome Library",
+          "Missing Dependencies",
+          "Error Handling",
+          "Software Installation"
+        ]
+      },
+      {
+        "title": "kpmg_food-and-nutritional-security-in-india",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Cryptography",
+          "Software Errors",
+          "Library Dependencies",
+          "Software Installation",
+          "Python Programming"
+        ],
+        "topics": [
+          "PyCryptodome library missing",
+          "AES encryption algorithm",
+          "Error handling in Python",
+          "Dependency management",
+          "Troubleshooting software issues"
+        ]
+      },
+      {
+        "title": "kpmg_geopolitics-top-risk-2025-executive-summary.coredownload",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Error Handling",
+          "Software Dependencies",
+          "Python Libraries",
+          "Security"
+        ],
+        "topics": [
+          "AES Encryption",
+          "PyCryptodome Installation",
+          "Missing Dependencies",
+          "Python Error Messages",
+          "Troubleshooting Cryptographic Implementations"
+        ]
+      },
+      {
+        "title": "kpmg_evolving-third-party-landscape-in-indias-media-and-entertainment-industry",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Error Handling",
+          "Software Dependencies",
+          "Python Libraries",
+          "Security"
+        ],
+        "topics": [
+          "AES Encryption",
+          "PyCryptodome Library",
+          "Missing Dependencies",
+          "Installation Issues",
+          "Troubleshooting Cryptographic Errors"
+        ]
+      },
+      {
+        "title": "kpmg_spotlight-on-internal-office-accounts.coredownload.inline",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Error Handling",
+          "Software Dependencies",
+          "Python Programming",
+          "Security"
+        ],
+        "topics": [
+          "AES Encryption",
+          "PyCryptodome Library",
+          "Missing Dependencies",
+          "Installation of Libraries",
+          "Troubleshooting Cryptographic Errors"
+        ]
+      },
+      {
+        "title": "kpmg_liberation-day-its-implications-on-india.coredownload.inline",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Cryptography",
+          "Software Errors",
+          "Dependency Management",
+          "Python Programming",
+          "Security"
+        ],
+        "topics": [
+          "PyCryptodome library requirement",
+          "AES encryption algorithm",
+          "Error handling in Python",
+          "Missing dependencies",
+          "Software installation and configuration"
+        ]
+      },
+      {
+        "title": "kpmg_vor-key-financial-reporting-updates-for-the-quarter-ended-31-march-2025.coredownload.inline",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Error Handling",
+          "Software Dependencies",
+          "Python Libraries",
+          "Security"
+        ],
+        "topics": [
+          "PyCryptodome installation",
+          "AES encryption/decryption",
+          "Missing library errors in Python",
+          "Dependency management in Python",
+          "Troubleshooting cryptographic code"
+        ]
+      },
+      {
+        "title": "kpmg_top-geopolitical-risks-2025-web.coredownload.inline",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptographic Errors",
+          "Software Dependencies",
+          "Python Programming",
+          "Security",
+          "Library Management"
+        ],
+        "topics": [
+          "PyCryptodome library requirement",
+          "AES encryption algorithm",
+          "Missing dependencies in Python",
+          "Error handling in Python",
+          "Troubleshooting cryptographic implementations"
+        ]
+      },
+      {
+        "title": "kpmg_kpmg-global-tech-report-industrial-manufacturing-insights",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Error Handling",
+          "Software Dependencies",
+          "Python Programming",
+          "Security"
+        ],
+        "topics": [
+          "AES Encryption",
+          "PyCryptodome Library",
+          "Missing Dependencies",
+          "Installation of PyCryptodome",
+          "Troubleshooting Python Code"
+        ]
+      },
+      {
+        "title": "kpmg_global-tech-report-enrc",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptographic Errors",
+          "Software Dependencies",
+          "Python Programming",
+          "Security Implementations",
+          "Error Handling"
+        ],
+        "topics": [
+          "Missing PyCryptodome library",
+          "AES encryption algorithm failure",
+          "Dependency management in Python",
+          "Troubleshooting cryptographic errors",
+          "Correct installation of cryptographic libraries"
+        ]
+      },
+      {
+        "title": "kpmg_generative-ai-value-risk-and-regulation.coredownload.inline",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Software Errors",
+          "Library Dependencies",
+          "Python Programming",
+          "Error Handling"
+        ],
+        "topics": [
+          "Missing PyCryptodome library",
+          "AES encryption algorithm",
+          "Dependency management in Python",
+          "Troubleshooting software errors",
+          "Installation of Python libraries"
+        ]
+      },
+      {
+        "title": "kpmg_three-new-criminal-laws.coredownload.inline",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Cryptographic Errors",
+          "Software Dependencies",
+          "Python Programming",
+          "Security Issues",
+          "Library Management"
+        ],
+        "topics": [
+          "PyCryptodome library missing",
+          "AES encryption algorithm failure",
+          "Dependency resolution in Python",
+          "Error handling in cryptographic operations",
+          "Troubleshooting code execution"
+        ]
+      },
+      {
+        "title": "kpmg_labour-codes.coredownload.inline",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptographic Errors",
+          "Software Dependency Management",
+          "Python Programming",
+          "Security",
+          "Error Handling"
+        ],
+        "topics": [
+          "PyCryptodome library requirement",
+          "AES encryption algorithm",
+          "Missing dependency error",
+          "Troubleshooting cryptographic code",
+          "Software installation and configuration"
+        ]
+      },
+      {
+        "title": "kpmg_management-capability-development-index-mcdi-india-2024-report",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptographic Errors",
+          "Software Dependencies",
+          "Python Programming",
+          "Security Issues",
+          "Library Management"
+        ],
+        "topics": [
+          "PyCryptodome library requirement",
+          "AES encryption algorithm",
+          "Missing dependencies error handling",
+          "Software installation and configuration",
+          "Troubleshooting cryptographic implementation"
+        ]
+      },
+      {
+        "title": "kpmg_money-mules-fincrimes-trojan-horse-unveiled.coredownload.inline",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Software Errors",
+          "Library Dependencies",
+          "Python Programming",
+          "Security"
+        ],
+        "topics": [
+          "AES Encryption",
+          "PyCryptodome Library",
+          "Missing Dependencies",
+          "Error Handling",
+          "Software Installation"
+        ]
+      },
+      {
+        "title": "kpmg_pulse-of-fintech-h2-2024",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Error Handling",
+          "Software Dependencies",
+          "Python Programming",
+          "Security"
+        ],
+        "topics": [
+          "Missing Cryptographic Library",
+          "AES Encryption",
+          "PyCryptodome Installation",
+          "Dependency Management",
+          "Troubleshooting Python Code"
+        ]
+      },
+      {
+        "title": "kpmg_related-party-transactions-minimum-information-for-review.coredownload.inline",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Cryptography",
+          "Software Errors",
+          "Library Dependencies",
+          "Python Programming",
+          "Security"
+        ],
+        "topics": [
+          "PyCryptodome library requirement",
+          "AES encryption algorithm",
+          "Error handling in Python",
+          "Missing dependencies",
+          "Troubleshooting software issues"
+        ]
+      },
+      {
+        "title": "kpmg_cyber-considerations-2025.coredownload.inline",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Cryptography",
+          "Software Errors",
+          "Library Dependencies",
+          "Error Handling",
+          "Python Programming"
+        ],
+        "topics": [
+          "Missing PyCryptodome library",
+          "AES Encryption Algorithm",
+          "Python library management",
+          "Troubleshooting cryptographic errors",
+          "Software dependency issues"
+        ]
+      },
+      {
+        "title": "kpmg_third-party-risks-in-the-pharmaceutical-supply-chain",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Cryptography",
+          "Software Errors",
+          "Dependency Management",
+          "Python Programming",
+          "Security"
+        ],
+        "topics": [
+          "AES Encryption",
+          "PyCryptodome Library",
+          "Missing Dependencies",
+          "Error Handling",
+          "Software Installation"
+        ]
+      },
+      {
+        "title": "kpmg_a-new-age-of-cybersecurity-culture",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Software Errors",
+          "Dependency Management",
+          "Python Programming",
+          "Security"
+        ],
+        "topics": [
+          "PyCryptodome library",
+          "AES encryption algorithm",
+          "Missing dependencies",
+          "Error handling in Python",
+          "Software installation"
+        ]
+      },
+      {
+        "title": "kpmg_emerging-trends-in-infrastructure-and-transport-2025.coredownload",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cryptography",
+          "Software Errors",
+          "Dependency Management",
+          "Python Programming",
+          "Security"
+        ],
+        "topics": [
+          "PyCryptodome library",
+          "AES encryption algorithm",
+          "Missing dependencies",
+          "Error handling in Python",
+          "Software installation and configuration"
+        ]
+      }
+    ],
+    "article_count": 24
+  },
+  "2": {
+    "summary": {
+      "cluster_name": "Information Security Posture in Indian Organizations Cluster",
+      "common_themes": [
+        "Information Security Posture in Indian Organizations",
+        "Evolving Threat Landscape and Preparedness",
+        "Alignment of Security Spending and Strategy with Business Objectives",
+        "Importance of Security Culture and Leadership Support",
+        "Emerging Security Challenges (Cloud, Mobility, Insider Threats)"
+      ],
+      "common_topics": [
+        "Security incidents and financial losses",
+        "Security spending and budget allocation",
+        "Effectiveness of security policies and practices",
+        "Adoption of new technologies (cloud, mobility) and associated security risks",
+        "Insider threats and lack of preparedness"
+      ],
+      "common_keywords": [
+        "India",
+        "Technology",
+        "Investment",
+        "Economic Growth",
+        "Cybersecurity",
+        "Union Budget 2025",
+        "Regulations",
+        "Innovation",
+        "Financial Inclusion",
+        "M2M"
+      ]
+    },
+    "articles": [
+      {
+        "title": "pwc_before-tomorrow-dawns",
+        "url": "",
+        "industry": "Information Technology",
+        "themes": [
+          "Information Security Posture in Indian Organizations",
+          "Evolving Threat Landscape and Preparedness",
+          "Alignment of Security Spending and Strategy with Business Objectives",
+          "Importance of Security Culture and Leadership Support",
+          "Emerging Security Challenges (Cloud, Mobility, Insider Threats)"
+        ],
+        "topics": [
+          "Security incidents and financial losses",
+          "Security spending and budget allocation",
+          "Effectiveness of security policies and practices",
+          "Adoption of new technologies (cloud, mobility) and associated security risks",
+          "Insider threats and lack of preparedness"
+        ]
+      },
+      {
+        "title": "pwc_connected-life-the-next-five-years-in-asia",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Socio-economic impact of mobile technology in Asia",
+          "Mobile technology solutions for societal challenges",
+          "The future of connected life in Asia",
+          "Economic benefits of mobile technology adoption",
+          "Cross-industry collaboration in mobile technology deployment"
+        ],
+        "topics": [
+          "Reducing traffic congestion in China",
+          "Combating power theft in India",
+          "Improving healthcare in Japan",
+          "Reducing education costs in South Korea",
+          "M2M (machine-to-machine) technology advancements"
+        ]
+      },
+      {
+        "title": "pwc_automobiles-the-economic-outlook-and-employment-situation",
+        "url": "",
+        "industry": "Automotive",
+        "themes": [
+          "Global Automotive Industry Outlook",
+          "Economic Impact of the Automotive Industry",
+          "Challenges Facing Global Automakers",
+          "Regional Variations in Automotive Market Performance",
+          "Future Trends in the Automotive Industry"
+        ],
+        "topics": [
+          "Global automotive production and sales trends (2013 and beyond)",
+          "Economic restructuring in the automotive industry post-2008 crisis",
+          "Challenges faced by automakers (labor costs, competition, product quality)",
+          "Regional contributions to automotive growth (North America, Europe, Asia-Pacific)",
+          "Impact of urbanization and alternative transportation on automotive demand"
+        ]
+      },
+      {
+        "title": "pwc_indian-mutual-fund-industry-fv",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "Growth potential of the Indian mutual fund industry",
+          "Challenges and opportunities in the under-penetrated market",
+          "Role of technology and distribution in expanding reach",
+          "Importance of investor education and financial literacy",
+          "Regulatory landscape and its impact on the industry"
+        ],
+        "topics": [
+          "Untapped rural markets in India",
+          "Technological advancements in mutual fund distribution",
+          "Regulatory trends in India and overseas",
+          "Investor education and awareness initiatives",
+          "Strategies for achieving profitability and growth"
+        ]
+      },
+      {
+        "title": "Global Capability Centers - Key expectations from the Budget_A4_v3",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Growth and challenges of Global Capability Centers (GCCs) in India",
+          "Government policies and incentives for GCCs",
+          "Taxation and regulatory environment for GCCs",
+          "GCCs' contribution to Indian economy and employment",
+          "Regional development and expansion of GCCs"
+        ],
+        "topics": [
+          "Impact of COVID-19 on GCCs and reverse migration",
+          "Tax incentives and their impact on GCCs' growth",
+          "Regulatory hurdles and jurisdictional issues faced by GCCs",
+          "Employment trends and projections for GCCs in India",
+          "Policy recommendations for attracting and retaining GCCs"
+        ]
+      },
+      {
+        "title": "India Pharma Inc.",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Regulatory Challenges in the Indian Pharmaceutical Industry",
+          "Market Slowdown and Growth Strategies",
+          "Technological Advancements and their Impact",
+          "Compliance and Governance",
+          "Clinical Research in India"
+        ],
+        "topics": [
+          "Impact of the new drug pricing policy",
+          "Delays in clinical trial approvals",
+          "Uncertainty over FDI policy and compulsory licensing",
+          "Need for robust internal compliance programs",
+          "Technological advancements to improve stakeholder engagement"
+        ]
+      },
+      {
+        "title": "pwc_smart-governance-and-technology",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Smart Governance",
+          "Technology in Public Sector",
+          "Government Transformation",
+          "Digital Governance",
+          "Public-Private Partnerships"
+        ],
+        "topics": [
+          "Technology implementation in government",
+          "Improving citizen services through technology",
+          "Case study of Bhutan's technology initiatives",
+          "Role of technology in national governance",
+          "PwC's experience in government technology consulting"
+        ]
+      },
+      {
+        "title": "pwc_imperatives-for-growth-the-wellness-industry",
+        "url": "",
+        "industry": "Healthcare",
+        "themes": [
+          "Growth and profitability in the Indian wellness industry",
+          "Strategies for sustained growth in a competitive market",
+          "Challenges and concerns facing the wellness industry",
+          "Importance of consumer awareness and trust",
+          "Need for industry regulation and talent development"
+        ],
+        "topics": [
+          "Market size and growth trajectory of the Indian wellness industry",
+          "Strategies for scaling operations (franchising, hybrid models)",
+          "Multi-brand strategies to target diverse customer segments",
+          "Cost rationalization and margin improvement",
+          "Industry concerns regarding talent, quality standards, and regulation"
+        ]
+      },
+      {
+        "title": "pwc_breaking-dawn-on-the-horizon-destination-india-2013",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "Foreign Investment in India",
+          "India's Economic Growth and Challenges",
+          "Tax and Regulatory Framework in India",
+          "Investment Opportunities in India",
+          "India's Emerging Middle Class Market"
+        ],
+        "topics": [
+          "Foreign Direct Investment (FDI) regulations and policies",
+          "India's GDP growth and projections",
+          "Direct and indirect taxation in India",
+          "Mergers and acquisitions in India",
+          "Investment opportunities in various sectors (services, construction, telecom)"
+        ]
+      },
+      {
+        "title": "pwc_corporate-attributes-and-practices-towards-arbitration-in-india",
+        "url": "",
+        "industry": "Legal Services",
+        "themes": [
+          "Corporate Attitudes towards Arbitration in India",
+          "Dispute Resolution Mechanisms in India",
+          "Factors Influencing Arbitration Choices",
+          "Use of Expert Evidence in Arbitration",
+          "Future of Arbitration in India"
+        ],
+        "topics": [
+          "Dispute Resolution Policies",
+          "Institutional vs. Ad-hoc Arbitration",
+          "Selection of Arbitrators",
+          "Choice of Seat for Arbitration",
+          "Role of Expert Evidence"
+        ]
+      },
+      {
+        "title": "pwc_16th-ceo-survey-india-final-for-circulation",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "CEO Outlook and Strategies in India",
+          "Economic Growth and Volatility",
+          "Navigating Uncertainty (VUCA)",
+          "Stakeholder Engagement and Corporate Social Responsibility",
+          "Operational Efficiency and Innovation"
+        ],
+        "topics": [
+          "Indian Economic Growth Rate",
+          "CEO Optimism about Global and Domestic Economy",
+          "Strategies for Growth in Uncertain Times",
+          "Engagement with Stakeholders (Communities, Media, NGOs)",
+          "Operational Efficiency and Cost Cutting"
+        ]
+      },
+      {
+        "title": "pwc_innovation-in-fmcg",
+        "url": "",
+        "industry": "Fast-Moving Consumer Goods (FMCG)",
+        "themes": [
+          "FMCG Innovation in India",
+          "Market Growth and Demand in the Indian FMCG Sector",
+          "Types of Innovation (Incremental, Breakthrough, Radical)",
+          "Consumer Trends and Preferences",
+          "Challenges and Opportunities in FMCG Innovation"
+        ],
+        "topics": [
+          "Indian FMCG market overview",
+          "Defining and categorizing innovation in FMCG",
+          "Comparison of innovation strategies in China and India",
+          "Growth of health and wellness segment in Indian FMCG",
+          "Challenges in new product development and launch"
+        ]
+      },
+      {
+        "title": "India Budget 2025 | Key proposals for the Financial Services Sector",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "Economic Growth and Resilience",
+          "Tax Simplification and Reform",
+          "Financial Sector Development",
+          "Ease of Doing Business",
+          "Foreign Investment Attraction"
+        ],
+        "topics": [
+          "Revised Individual Tax Rates",
+          "Capital Gains Tax Changes",
+          "Foreign Investment in Insurance",
+          "Fast-Track Mergers",
+          "Credit Guarantee for Startups"
+        ]
+      },
+      {
+        "title": "How India spends: A deep dive into consumer spending behaviour",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "Indian Consumer Spending Behavior",
+          "Impact of Digitalization on Spending",
+          "Financial Inclusion and Innovation in India",
+          "Opportunities and Challenges for Financial Institutions",
+          "Data-Driven Insights for Business Strategies"
+        ],
+        "topics": [
+          "Analysis of transaction data from Indian consumers",
+          "Shifting consumer preferences and payment methods (e.g., UPI)",
+          "Impact of rising middle class and digital infrastructure",
+          "Spending patterns across income levels and geographic locations",
+          "Recommendations for financial institutions and businesses"
+        ]
+      },
+      {
+        "title": "KPMG global tech report: Technology insights",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Tech Sector Profitability and Investment Strategies",
+          "Digital Transformation in the Tech Industry",
+          "ESG Focus in Tech Investments",
+          "Governance and Experimentation in Tech",
+          "Impact of Technology on Organizational Profitability"
+        ],
+        "topics": [
+          "Impact of digital transformation on profitability",
+          "Investment in AI, automation, and cybersecurity",
+          "Prioritization of ESG goals in tech investments",
+          "Decentralized approach to governance and experimentation",
+          "Accuracy of cost benefit forecasts in tech investments"
+        ]
+      },
+      {
+        "title": "pwc_it-print",
+        "url": "",
+        "industry": "Transportation and Logistics",
+        "themes": [
+          "Improving Efficiency in the Indian Transportation and Logistics Sector",
+          "Leveraging Technology for Growth and Competitiveness",
+          "Addressing Infrastructure and Regulatory Challenges",
+          "Meeting Evolving Customer Expectations",
+          "The Role of Government Initiatives"
+        ],
+        "topics": [
+          "Supply chain efficiency and optimization",
+          "Technology adoption in logistics (IT, emerging technologies)",
+          "Infrastructure development and its impact on logistics",
+          "Regulatory effectiveness and its influence on the sector",
+          "Market analysis and competitive landscape of Indian logistics"
+        ]
+      },
+      {
+        "title": "Emerging Trends in Real Estate",
+        "url": "",
+        "industry": "Real Estate",
+        "themes": [
+          "Asia Pacific Real Estate Market Trends",
+          "Investment Strategies in a Changing Market",
+          "Capital Flows and Financing in Real Estate",
+          "Market Competition and Risk Assessment",
+          "Emerging and Niche Market Opportunities"
+        ],
+        "topics": [
+          "Capital flows in Asia Pacific real estate",
+          "Investment strategies in response to low yields and rising interest rates",
+          "Competition for conventional assets and the shift to niche markets",
+          "Impact of tapering monetary policy on real estate markets",
+          "Analysis of specific markets (China, Japan, etc.)"
+        ]
+      },
+      {
+        "title": "pwc_home-improvement-the-building-and-home-products-industry",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Growth of the Indian Construction Industry",
+          "Impact of Urbanization on Construction",
+          "Demand for Home Improvement Products",
+          "Economic Factors Affecting Construction",
+          "Middle Class Consumption and its Influence"
+        ],
+        "topics": [
+          "Contribution of construction to Indian GDP",
+          "Growth of the middle class and its spending power",
+          "Urbanization and its effect on housing demand",
+          "Demand for various home improvement products (e.g., sanitary ware, ceramic tiles, modular kitchens)",
+          "Economic slowdown and its impact on the construction sector"
+        ]
+      },
+      {
+        "title": "pwc_grey-swans-transformation-of-risk-in-an-interconnected-world",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Risk Management in an Interconnected World",
+          "Grey Swan Events and their Impact",
+          "The Evolving Risk Landscape",
+          "Value of Proactive Risk Management",
+          "Building Risk Resilience"
+        ],
+        "topics": [
+          "Current state of risk management in Indian organizations",
+          "Impact of interconnected financial markets",
+          "Grey swan events and their increasing frequency",
+          "Need for a two-pronged approach to risk management",
+          "Investment in risk management capabilities"
+        ]
+      },
+      {
+        "title": "pwc_chemical-industry-leadership-on-sustainability-aspire",
+        "url": "",
+        "industry": "Chemicals",
+        "themes": [
+          "Corporate Sustainability in the Chemical Industry",
+          "Sustainable Development Goals and their Impact on Business",
+          "Stakeholder Engagement and Responsibility",
+          "Regulatory Landscape and its Influence on Sustainability",
+          "The Chemical Industry's Evolution Towards Sustainability"
+        ],
+        "topics": [
+          "Definitions and history of sustainable development",
+          "External drivers (regulation and stakeholder concerns)",
+          "CEO perspectives on sustainability",
+          "Industry response to sustainability challenges",
+          "Recommendations for Indian chemical companies"
+        ]
+      },
+      {
+        "title": "pwc_exploring-new-horizons",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "Financial Inclusion in Rural India",
+          "Rurban Growth and Development",
+          "Financial Services Business Models",
+          "Technological Enablement in Rural Markets",
+          "Strategic Partnerships and Alliances"
+        ],
+        "topics": [
+          "Financial product penetration in rural areas",
+          "Growth of rurban areas in India",
+          "Impact of technology on financial services",
+          "Changing income levels and consumption patterns in rural India",
+          "Strategic partnerships for financial inclusion"
+        ]
+      },
+      {
+        "title": "pwc_digital-iq",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cloud Computing Adoption in India",
+          "Balancing Cloud Benefits and Risks",
+          "Cloud Investment Strategies",
+          "Future Trends in Cloud Technology",
+          "Cloud Security Concerns"
+        ],
+        "topics": [
+          "Current Cloud Investments in India (Public vs. Private)",
+          "Cost Reduction and Increased Productivity through Cloud",
+          "Data Security and Privacy Challenges in Cloud Adoption",
+          "Future Investment Plans for Cloud Technologies",
+          "The Role of Cloud in Workforce Productivity"
+        ]
+      },
+      {
+        "title": "pwc_domestic-transfer-pricing-navigating-new-challenges-booklet",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "Domestic Transfer Pricing (DTP) Regulations in India",
+          "Challenges of DTP Compliance",
+          "Interpretation and Application of DTP Provisions",
+          "Impact of Judicial Precedents on DTP",
+          "Guidance on DTP Documentation and Compliance"
+        ],
+        "topics": [
+          "Extension of transfer pricing provisions to domestic transactions",
+          "Coverage of transactions under DTP regulations (e.g., expenditure under section 40A, transactions between related entities)",
+          "Safe harbor provisions and thresholds",
+          "Determining beneficial ownership for DTP purposes",
+          "Treatment of capital expenditure under DTP regulations"
+        ]
+      },
+      {
+        "title": "pwc_handbook-on-corporate-social-responsibility-in-india",
+        "url": "",
+        "industry": "Consulting",
+        "themes": [
+          "Corporate Social Responsibility (CSR) in India",
+          "Sustainable and Inclusive Growth",
+          "Implementation of the Companies Act 2013",
+          "Strategic CSR Practices",
+          "Role of Civil Society in CSR"
+        ],
+        "topics": [
+          "CSR mandate under the Companies Act 2013",
+          "Increased CSR spending and its strategic implementation",
+          "Development of CSR strategy and policy",
+          "Balancing developmental growth and welfare",
+          "Role of civil society and industry collaboration"
+        ]
+      },
+      {
+        "title": "pwc_coal-mining-icc-report-v2-300613",
+        "url": "",
+        "industry": "Energy",
+        "themes": [
+          "Coal Supply and Demand Imbalance in India",
+          "The Role of Private Participation in Coal Mining",
+          "Impact of Coal Imports on India's Economy",
+          "Strategies for Ensuring Coal Supply Security",
+          "Policy and Regulatory Challenges in Coal Sector"
+        ],
+        "topics": [
+          "India's coal reserves and production",
+          "Rising domestic demand for coal",
+          "Increasing reliance on coal imports",
+          "Impact of global coal prices on India",
+          "Need for private sector involvement in coal mining"
+        ]
+      },
+      {
+        "title": "pwc_people-oriented-architecture",
+        "url": "",
+        "industry": "Consulting",
+        "themes": [
+          "Total Rewards Management",
+          "Employee Engagement and Motivation",
+          "Talent Management and Acquisition",
+          "People-Oriented Architecture",
+          "Impact of Digitization on Workforce"
+        ],
+        "topics": [
+          "Shifting Employee Motivators (beyond cash rewards)",
+          "Importance of work-life balance and flexible work arrangements",
+          "Strategic alignment of people and business strategies",
+          "Leveraging technology for talent management",
+          "Addressing talent shortages and improving employee retention"
+        ]
+      },
+      {
+        "title": "pwc_retail-reinvention-paradigm-v1",
+        "url": "",
+        "industry": "Retail",
+        "themes": [
+          "Retail Reinvention in India",
+          "Omni-channel Strategies",
+          "Impact of E-commerce and Quick Commerce",
+          "Brick-and-Mortar Resilience",
+          "Government Policy and Technological Enablement"
+        ],
+        "topics": [
+          "Growth of e-commerce and quick commerce in India",
+          "Challenges and opportunities for brick-and-mortar retailers",
+          "Consumer behavior and preferences across channels",
+          "The role of technology in enhancing retail operations",
+          "Government policies impacting the retail landscape"
+        ]
+      },
+      {
+        "title": "pwc_m2m-technologies",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "M2M Technology in India",
+          "M2M Ecosystem and Applications",
+          "Potential of M2M for Smart Cities and National Development",
+          "M2M Business Models and Market Opportunities",
+          "Policy and Regulatory Frameworks for M2M"
+        ],
+        "topics": [
+          "Definition and Functionality of M2M",
+          "M2M Ecosystem Players (Hardware, Communication Service Providers, M2M Service Providers, System Integrators)",
+          "Applications of M2M in Smart Cities, Smart Grids, Agriculture, and Healthcare",
+          "Market Potential of M2M in India",
+          "Challenges and Opportunities for M2M Growth in India"
+        ]
+      },
+      {
+        "title": "pwc_tax-glimpses-2012",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Corporate Tax Law Developments in 2012",
+          "Mergers and Acquisitions Tax Implications",
+          "Indirect Tax Changes and Regulations",
+          "Transfer Pricing and GAAR (General Anti-Avoidance Rules)",
+          "International Tax Treaties and Jurisprudence"
+        ],
+        "topics": [
+          "Vodafone International Supreme Court Case",
+          "Introduction of GAAR and Advance Pricing Agreements",
+          "Retrospective Amendments related to Indirect Transfers",
+          "Taxability of Software Embedded in Hardware",
+          "Permanent Establishment Determination"
+        ]
+      },
+      {
+        "title": "pwc_dissecting-indias-risk-equity-premium",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Equity Risk Premium (ERP) Estimation for India",
+          "Methodology for Determining ERP",
+          "Risk-Free Rate Determination in Emerging Markets",
+          "Application of ERP in Financial Modeling",
+          "Comparison of ERP Estimation Methods"
+        ],
+        "topics": [
+          "Defining the market and risk-free rate for India",
+          "Selection of appropriate indices (BSE Sensex, CMIE Cospi)",
+          "Analysis of the risk-free rate using Indian government bonds",
+          "Evaluation of different methods to determine ERP (historical, survey, implied)",
+          "Discussion of the limitations of the survey method"
+        ]
+      },
+      {
+        "title": "Socio-economic impact of mHealth: An assessment report for the European Union",
+        "url": "",
+        "industry": "Healthcare",
+        "themes": [
+          "Socio-economic impact of mHealth in the EU",
+          "Cost savings and GDP growth potential of mHealth",
+          "Barriers to mHealth adoption and solutions",
+          "Improved healthcare delivery through mHealth",
+          "Public health and wellbeing benefits of mHealth"
+        ],
+        "topics": [
+          "Potential cost savings in healthcare (public and private)",
+          "GDP growth contribution through increased productivity and employment",
+          "Number of patients potentially benefiting from mHealth",
+          "Barriers to mHealth adoption (regulatory, policy)",
+          "Strategies for overcoming barriers to mHealth adoption"
+        ]
+      },
+      {
+        "title": "pwc_the-holy-grail-of-indigenisation",
+        "url": "",
+        "industry": "Defense",
+        "themes": [
+          "Indigenization of the Indian Defence Industry",
+          "Self-reliance in Defence Equipment Manufacturing",
+          "Challenges and Opportunities for MSMEs in Defence",
+          "Role of Public-Private Partnerships in Defence",
+          "Technological Modernization of Defence Systems"
+        ],
+        "topics": [
+          "Defence Procurement Procedure (DPP) 2013",
+          "Participation of MSMEs in Defence Supply Chain",
+          "Foreign Direct Investment (FDI) Norms in Defence",
+          "Indigenous Development of Defence Equipment and Weapon Systems",
+          "Public-Private Sector Collaboration for Defence Modernization"
+        ]
+      },
+      {
+        "title": "Invading privacy: Cyber crimes on the rise",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "Emerging Cybercrime Trends in India",
+          "Impact of Cybercrime on Businesses",
+          "Importance of Proactive Cybersecurity Strategies",
+          "Internal vs. External Cyber Threats",
+          "The Role of Technology in Cybercrime"
+        ],
+        "topics": [
+          "Hacking and Website Defacement",
+          "Corporate Espionage",
+          "Phishing and Skimming",
+          "Internal Threats and BYOD",
+          "Cloud Computing Security Risks"
+        ]
+      },
+      {
+        "title": "pwc_exec-summary",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "Financial Inclusion in India",
+          "Government Policies and Regulations",
+          "Role of Financial Institutions",
+          "Last-Mile Delivery of Financial Services",
+          "Sustainable Business Models for Inclusive Markets"
+        ],
+        "topics": [
+          "Emerging middle-income market in India",
+          "Government initiatives for financial inclusion (Aadhaar, cash transfers)",
+          "Challenges in last-mile delivery of financial services",
+          "The need for innovative business models and partnerships",
+          "Role of technology and small enterprises"
+        ]
+      },
+      {
+        "title": "pwc_indian-pe-in-2012-outlook-2013",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "Impact of Government Policies on Private Equity in India",
+          "Challenges and Opportunities in the Indian Private Equity Market",
+          "Investment Trends and Sectoral Performance in 2012",
+          "Exit Strategies and Market Liquidity",
+          "Outlook for 2013 and Future Trends"
+        ],
+        "topics": [
+          "Tax legislation and its impact on private equity investments",
+          "Challenges posed by global financial crisis and policy inertia",
+          "Sectoral investment trends (healthcare, ITeS, infrastructure, etc.)",
+          "Analysis of exits through stock markets and secondary sales",
+          "Opportunities for private equity in 2013 (promoters' pragmatism, distressed assets)"
+        ]
+      },
+      {
+        "title": "pwc_leading-industry-practices-in-security-and-privacy",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Cybersecurity Best Practices",
+          "Data Privacy and Protection",
+          "Industry Awards and Recognition",
+          "Organizational Security Maturity",
+          "Benchmarking and Improvement"
+        ],
+        "topics": [
+          "DSCI Excellence Awards",
+          "Security Frameworks (DSF)",
+          "Best Practices in Banking, Telecom, and BPO sectors",
+          "GRC (Governance, Risk, and Compliance) Automation",
+          "Data-centric Security Implementation"
+        ]
+      },
+      {
+        "title": "pwc_r-and-c-merger-and-acquisition-paper",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "Mergers and Acquisitions in the Indian FMCG Sector",
+          "Cross-border Acquisitions",
+          "Due Diligence and Deal Preparation",
+          "Valuation and Financing",
+          "Cultural and Market Considerations"
+        ],
+        "topics": [
+          "Factors driving M&A activity in Indian FMCG",
+          "Challenges in cross-border FMCG acquisitions",
+          "Importance of pre-deal preparation for corporates",
+          "Addressing valuation discrepancies in deals",
+          "Managing cultural differences in acquisitions"
+        ]
+      },
+      {
+        "title": "Manufacturing Sector_Flyer-v2",
+        "url": "",
+        "industry": "Manufacturing",
+        "themes": [
+          "Challenges facing Indian manufacturing",
+          "Budgetary expectations for Indian manufacturing",
+          "Growth and potential of Indian manufacturing",
+          "Policy recommendations for Indian manufacturing",
+          "Global competitiveness of Indian manufacturing"
+        ],
+        "topics": [
+          "High raw material costs and dumping",
+          "Land acquisition and licensing challenges",
+          "Tax policies and incentives",
+          "GST and customs classification issues",
+          "Regulatory hurdles and litigation"
+        ]
+      },
+      {
+        "title": "pwc_msme",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "MSME Financing in India",
+          "Challenges faced by MSMEs",
+          "Government Initiatives to support MSMEs",
+          "Alternative Financing Options for MSMEs",
+          "Growth and Development of the MSME Sector"
+        ],
+        "topics": [
+          "Credit availability and cost for MSMEs",
+          "Government schemes and financial institutions supporting MSMEs",
+          "Role of credit rating agencies",
+          "Alternative financing methods (venture capital, factoring)",
+          "Challenges related to legal, tax, operational, infrastructure and technology"
+        ]
+      }
+    ],
+    "article_count": 39
+  },
+  "3": {
+    "summary": {
+      "cluster_name": "Data Validation Cluster",
+      "common_themes": [
+        "Data Validation",
+        "Data Errors",
+        "Data Formatting",
+        "Programming Errors",
+        "Error Handling"
+      ],
+      "common_topics": [
+        "Incorrect date/time format",
+        "Error message interpretation",
+        "Data type mismatch",
+        "String parsing errors",
+        "Time data format mismatch"
+      ],
+      "common_keywords": [
+        "Error",
+        "Format",
+        "Debugging",
+        "Validation",
+        "Data",
+        "Time",
+        "Parsing",
+        "Mismatch",
+        "String",
+        "Exception"
+      ]
+    },
+    "articles": [
+      {
+        "title": "pwc_bs-renewables-v1",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Data Errors",
+          "Data Formatting",
+          "Data Validation",
+          "Programming Errors",
+          "Debugging"
+        ],
+        "topics": [
+          "Datetime parsing errors",
+          "Incorrect date/time format strings",
+          "String-to-datetime conversion",
+          "Error message interpretation",
+          "Debugging Python code"
+        ]
+      },
+      {
+        "title": "pwc_bs-msme",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Data Errors",
+          "Data Validation",
+          "Data Formatting",
+          "Programming Errors",
+          "Error Handling"
+        ],
+        "topics": [
+          "Time data format mismatch",
+          "Incorrect date/time string",
+          "Parsing errors",
+          "Debugging techniques",
+          "Error message interpretation"
+        ]
+      },
+      {
+        "title": "pwc_convergence-event-report-pwc",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Data Errors",
+          "Data Validation",
+          "Data Integrity",
+          "Error Handling",
+          "Date/Time Formatting"
+        ],
+        "topics": [
+          "Incorrect date/time format",
+          "Data type mismatch",
+          "Error message interpretation",
+          "Debugging data processing errors",
+          "Importance of consistent data formats"
+        ]
+      },
+      {
+        "title": "pwc_business-standard-budget-business",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Data Error Handling",
+          "Data Validation",
+          "Date/Time Formatting",
+          "Programming Errors",
+          "Debugging"
+        ],
+        "topics": [
+          "Incorrect date/time format",
+          "Error message interpretation",
+          "Debugging strategies for format errors",
+          "Identifying the source of the error",
+          "Potential solutions to resolve format mismatch"
+        ]
+      },
+      {
+        "title": "pwc_bs-retail",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Data Processing Errors",
+          "Data Validation",
+          "Data Formatting",
+          "Time Series Data",
+          "Software Debugging"
+        ],
+        "topics": [
+          "Incorrect Time Data Format",
+          "Format Specifier Mismatch",
+          "Data Type Conversion Issues",
+          "Error Handling in Data Analysis",
+          "Debugging Strategies for Data Processing"
+        ]
+      },
+      {
+        "title": "pwc_financial-express",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Data Error Handling",
+          "Data Validation",
+          "Date/Time Formatting",
+          "Software Debugging",
+          "Programming Errors"
+        ],
+        "topics": [
+          "Incorrect date/time format",
+          "String parsing errors",
+          "Data type mismatch",
+          "Error message analysis",
+          "Debugging strategies"
+        ]
+      },
+      {
+        "title": "pwc_bs-healthcare",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Data Processing Errors",
+          "Data Validation",
+          "Data Formatting",
+          "Error Handling",
+          "Software Debugging"
+        ],
+        "topics": [
+          "Time data format mismatch",
+          "Incorrect date/time string",
+          "String parsing failure",
+          "Exception handling in data processing",
+          "Debugging techniques for data errors"
+        ]
+      },
+      {
+        "title": "pwc_bs-telecom",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Data Errors",
+          "Data Validation",
+          "Data Formatting",
+          "Programming Errors",
+          "Error Handling"
+        ],
+        "topics": [
+          "Incorrect date/time format",
+          "String to datetime conversion",
+          "Debugging techniques",
+          "Error message analysis",
+          "Data input validation"
+        ]
+      },
+      {
+        "title": "pwc_tax-sops-higher-deposit-insurance-can-offer-support-banks",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Data Errors",
+          "Data Validation",
+          "Data Integrity",
+          "Data Processing",
+          "Error Handling"
+        ],
+        "topics": [
+          "Date/Time Data Formatting",
+          "Data Type Mismatch",
+          "Exception Handling",
+          "Debugging Techniques",
+          "Error Messages"
+        ]
+      },
+      {
+        "title": "pwc_bs-electronics",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Data Error Handling",
+          "Data Validation",
+          "Data Formatting",
+          "Software Debugging",
+          "Programming Errors"
+        ],
+        "topics": [
+          "Incorrect date/time format",
+          "String parsing errors",
+          "Data type mismatch",
+          "Error message interpretation",
+          "Debugging techniques for data errors"
+        ]
+      },
+      {
+        "title": "pwc_business-standard-budget-impact",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Data processing errors",
+          "Data validation and sanitization",
+          "Data format inconsistencies",
+          "Time and date handling",
+          "Error handling and debugging"
+        ],
+        "topics": [
+          "Incorrect date/time format",
+          "String parsing errors",
+          "Python's `strptime` function",
+          "Data cleaning techniques",
+          "Debugging strategies for data errors"
+        ]
+      },
+      {
+        "title": "pwc_bs-power-infra",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Data Errors",
+          "Data Validation",
+          "Data Integrity",
+          "Data Processing",
+          "Error Handling"
+        ],
+        "topics": [
+          "Time Data Format Errors",
+          "Incorrect Date/Time String",
+          "Data Parsing Issues",
+          "Debugging Data Errors",
+          "Data Input Validation"
+        ]
+      }
+    ],
+    "article_count": 12
+  },
+  "4": {
+    "summary": {
+      "cluster_name": "Multichannel Customer Experience Cluster",
+      "common_themes": [
+        "Multichannel Customer Experience",
+        "Contact Center Optimization",
+        "Customer Relationship Management (CRM)",
+        "Service Channel Strategy",
+        "Impact of Technology on Customer Service"
+      ],
+      "common_topics": [
+        "Multichannel strategy implementation",
+        "Balancing customer experience and contact center operations",
+        "Utilizing various service channels (web, mobile, social media, etc.)",
+        "Optimizing multichannel service mix",
+        "Integrating CRM systems for enhanced customer view"
+      ],
+      "common_keywords": [
+        "India",
+        "Customer Experience",
+        "Social Media",
+        "Efficiency",
+        "Digital Transformation",
+        "SMAC",
+        "CIO",
+        "Compliance",
+        "Litigation",
+        "Multichannel"
+      ]
+    },
+    "articles": [
+      {
+        "title": "pwc_multichannel-strategy",
+        "url": "",
+        "industry": "Customer Service and Contact Centers",
+        "themes": [
+          "Multichannel Customer Experience",
+          "Contact Center Optimization",
+          "Customer Relationship Management (CRM)",
+          "Service Channel Strategy",
+          "Impact of Technology on Customer Service"
+        ],
+        "topics": [
+          "Multichannel strategy implementation",
+          "Balancing customer experience and contact center operations",
+          "Utilizing various service channels (web, mobile, social media, etc.)",
+          "Optimizing multichannel service mix",
+          "Integrating CRM systems for enhanced customer view"
+        ]
+      },
+      {
+        "title": "Managing in uncertain times: HR at a crossroads",
+        "url": "",
+        "industry": "Business Services",
+        "themes": [
+          "Leadership in Uncertain Times",
+          "Talent Acquisition and Management",
+          "Organizational Growth and Efficiency",
+          "Adapting to a Changing Business Environment",
+          "CEO Perspectives on the Indian Economy"
+        ],
+        "topics": [
+          "Impact of VUCA on Indian Businesses",
+          "Skills Gap as a Major Threat to Growth",
+          "Strategies for Achieving Growth in a Challenging Environment",
+          "Importance of Culture and Customer Focus",
+          "Leadership Pipeline Development"
+        ]
+      },
+      {
+        "title": "pwc_pwc_5th_annual_digital_iq_survey",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Digital Transformation in Business",
+          "Impact of Technology on Business Growth",
+          "Strategic Alignment of Technology and Business Objectives",
+          "Global vs. Indian Business Digital Maturity",
+          "C-Suite Collaboration and Digital Strategy"
+        ],
+        "topics": [
+          "Adoption of SMAC technologies (Social, Mobile, Analytics, Cloud)",
+          "Digital maturity assessment of Indian organizations",
+          "The role of the CIO in driving digital transformation",
+          "Alignment of digital strategy with overall business goals",
+          "Relationship between C-suite executives and digital initiatives"
+        ]
+      },
+      {
+        "title": "pwc_running-it-as-a-business",
+        "url": "",
+        "industry": "Technology",
+        "themes": [
+          "Transformation of the CIO Role",
+          "Impact of Emerging Technologies on Business",
+          "Leveraging SMAC (Social Media, Mobility, Analytics, Cloud) for Innovation",
+          "Strategic Technology Adoption for Business Growth",
+          "Building a Technology Roadmap for Enterprises"
+        ],
+        "topics": [
+          "Social Media's Role in Business",
+          "Mobility's Impact on Enterprise Agility",
+          "Big Data Analytics for Enhanced Decision-Making",
+          "Cloud Computing's Contribution to Scalability",
+          "CIO Interviews and Best Practices"
+        ]
+      },
+      {
+        "title": "pwc_enterprise-mobility-putting-people-first",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Enterprise Mobility's Impact on Business",
+          "People-Centric Approach to Enterprise Mobility",
+          "Challenges and Opportunities in Enterprise Mobility Adoption",
+          "Economic Benefits of Enterprise Mobility",
+          "The Future of Enterprise Mobility in India"
+        ],
+        "topics": [
+          "Enterprise mobility ecosystem in India",
+          "Trends in enterprise mobility",
+          "Challenges in enterprise mobility implementation",
+          "Experiences of companies implementing enterprise mobility (Aegis example)",
+          "Future opportunities in enterprise mobility"
+        ]
+      },
+      {
+        "title": "pwc_building-a-social-enterprise",
+        "url": "",
+        "industry": "Marketing and Consulting",
+        "themes": [
+          "Social Media Strategy for Businesses",
+          "Impact of Social Media on Customer Relations",
+          "Leveraging Social Media for Business Growth",
+          "Social Media and Internal Communication",
+          "Managing Social Media Risks and Crises"
+        ],
+        "topics": [
+          "Social media's impact on customer expectations",
+          "Utilizing social media for improved services, sales, and support",
+          "Social media's role in product development and marketing campaigns",
+          "Internal social collaboration and its benefits",
+          "Crisis management in the context of social media"
+        ]
+      },
+      {
+        "title": "pwc_companies-act-2013-key-highlights-and-analysis",
+        "url": "",
+        "industry": "Legal",
+        "themes": [
+          "Company Law Reform",
+          "Corporate Governance",
+          "Compliance and Enforcement",
+          "Company Structures and Definitions",
+          "Implications for Indian Businesses"
+        ],
+        "topics": [
+          "Changes from Companies Act 1956 to Companies Act 2013",
+          "New company types (OPC, small company)",
+          "Amendments to definitions of private companies",
+          "Corporate Social Responsibility",
+          "Mergers and Acquisitions"
+        ]
+      },
+      {
+        "title": "pwc_telecom-trends",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Telecom Industry Trends in India",
+          "Regulatory Impacts on Telecom",
+          "Financial Performance and Investment in Telecom",
+          "Customer Engagement and Service Innovation",
+          "Network Infrastructure Development"
+        ],
+        "topics": [
+          "Consolidation in the mobile service provider space",
+          "Data revenue growth",
+          "Tablet market growth",
+          "Cloud services adoption by enterprises",
+          "Slowdown in subscriber growth"
+        ]
+      },
+      {
+        "title": "Raising the bar: A benchmarking study of organisational structures in manufacturing companies",
+        "url": "",
+        "industry": "Manufacturing",
+        "themes": [
+          "Organizational Structure and Strategy Alignment",
+          "Impact of Organizational Structure on Performance",
+          "Benchmarking Organizational Structures in Manufacturing",
+          "Decision-Making and Information Flow",
+          "Skills and Competency Alignment"
+        ],
+        "topics": [
+          "Organizational structure types in Indian manufacturing",
+          "Benchmarking analysis of organizational structures",
+          "Relationship between organizational structure and strategy",
+          "Impact of structure on decision-making and information flow",
+          "Skills gaps and their impact on strategy implementation"
+        ]
+      },
+      {
+        "title": "Income Tax Flyer_v1",
+        "url": "",
+        "industry": "Finance",
+        "themes": [
+          "Income Tax Act Simplification",
+          "Litigation Reduction",
+          "Compliance Burden Reduction",
+          "Taxpayer Interest Balancing",
+          "Budget 2025 Expectations"
+        ],
+        "topics": [
+          "Review of Income Tax Act, 1961",
+          "Simplification of language in tax provisions",
+          "Introduction of mediation processes",
+          "Removal of obsolete provisions",
+          "Consolidation of tax forms"
+        ]
+      },
+      {
+        "title": "pwc_india-manufacturing-barometer",
+        "url": "",
+        "industry": "Unknown",
+        "themes": [
+          "Economic Outlook and Challenges for Indian Manufacturing",
+          "Strategies for Growth and Competitiveness in a Challenging Environment",
+          "Impact of Global Economic Conditions on Indian Manufacturing",
+          "Customer Expectations and Business Models",
+          "Government Policies and Investment Climate"
+        ],
+        "topics": [
+          "Global economic slowdown and its impact on Indian manufacturing",
+          "Cost pressures (interest rates, declining domestic demand, foreign exchange volatility)",
+          "Growth prospects for Indian manufacturing sector",
+          "Strategies employed by manufacturers (new product/service introductions, R&D, facilities expansion, customer relationship management)",
+          "Government policies and investment environment"
+        ]
+      },
+      {
+        "title": "Digital engagement for inclusive governance",
+        "url": "",
+        "industry": "Government",
+        "themes": [
+          "Inclusive Governance through Digital Engagement",
+          "Improving G2C Service Delivery in India",
+          "Bridging the Digital Divide in Rural India",
+          "Citizen Satisfaction and Government Efficiency",
+          "Leveraging Digital Media for Effective Governance"
+        ],
+        "topics": [
+          "Assessment of current G2C service delivery in India",
+          "Challenges of e-governance implementation in India (rural population, literacy)",
+          "Opportunities of digital engagement for improved service delivery",
+          "Case studies of successful e-governance initiatives (MCA21, Income Tax e-filing)",
+          "Citizen lifecycle and service availability"
+        ]
+      }
+    ],
+    "article_count": 12
+  }
+}

@@ -1,0 +1,956 @@
+Title: pwc_the-holy-grail-of-indigenisation
+Date Published: 2013-07-01 16:10:19+05:30
+Source: pdfs/pwc_the-holy-grail-of-indigenisation.pdf
+
+--- CONTENT ---
+
+www.pwc.in
+June 2013
+Introduction  08  | Landscape: Defence industrial base  09 | 
+Next generation technologies  12 | Challenges in indigenisation  
+14 | Participation of MSMEs and their challenges  17 
+The holy grail of 
+indigenisation
+Achieving self-reliance in 
+defence equipment
+
+2 PwC
+It is a pleasure to learn that the Associated Chambers of Commerce and Industry of 
+India is organising the 6th International Conference on Aerospace and Defence. The 
+theme of the Conference, ‘Improving of Indigenisation towards self-reliance’ is timely  
+and relevant.
+Aerospace and Defence are two of the core sectors that are crucial to strengthening the 
+defence of any nation. Fast paced technological changes are taking place in these fields. 
+However, the endeavour of both the public and the private sectors must be to modernise 
+the defence systems through maximum possible indigenisation. 
+Various agencies are making efforts at indigenous development of latest equipment and 
+weapon systems. All these agencies must interact on a regular basis with end-users for 
+timely induction of such weapon systems and equipment.
+I am sure that the Conference will discuss ways and means to accelerate the pace of 
+indigenisation in the defence and aerospace sectors. 
+I wish all the delegates at the Conference a warm and a pleasant stay at our country.
+Here is wishing the deliberations at the Conference all success.
+A.K Anthony
+Hon’ble Minister of Defence
+Government of IndiaMessage
+On behalf of ASSOCHAM, I am pleased to announce the sixth international 
+conference on Aerospace & Defence for increasing indigenisation towards self-
+reliance to be held on 26th June, 2013 at Hotel Shangrila, New Delhi.
+ASSOCHAM’s National Council of Defence has been proactively working in close 
+coordination with the Ministry of Defence, Government of India and is committed to 
+making the Indian Defence Sector more robust. ASSOCHAM appreciates the efforts 
+being made by Ministry of Defence and specifically by its Acquisition Wing towards 
+rendering the defence procurement procedures more conducive to indigenisation. 
+The new DPP 2013 has helped in promoting participation of the Indian Private 
+Sector and adoption/ development of technology, to enable the Private Sector in 
+contributing to Indian Defence programs in a meaningful way.
+While the Ministry of Defence initiatives definitely boosts optimism, there are still 
+certain elements which need the attention of Ministry of Defence. This seminar is 
+intended to highlight these elements. 
+For a meaningful two-way discussion the Ministry of Defence has very graciously 
+accepted to chair the various sessions of this seminar.
+We are also pleased to release the report on  ‘The holy grail of indigenisation: 
+Achieving self-reliance in defence equipment’. We would like to thank 
+PricewaterhouseCoopers, our Knowledge Partner for this conference, for this 
+excellent report that highlights the key issues and challenges in increasing 
+indigenisation to achieve self-reliance in manufacturing defence equipment.
+PC Bhasin, Vice Admiral (Retd.) , PVSM, AVSM, VSM
+Chairman,
+ASSOCHAM Defence Council
+Message
+The recent announcement made by the Ministry of Defence, Government of India on 
+Defence Procurement Procedure 2013 on Capital Procurement highlights the need for 
+self reliance towards indigenisation of the Indian Defence Industry. 
+Ministry of Defence has promulgated the Defence Procurement Procedure 2013 which 
+aims to balance the competing requirements of expediting capital procurement, 
+developing a robust indigenous Defence sector and conforming to the highest standards 
+of transparency, probity and public accountability. While laying a strong emphasis on 
+promoting indigenisation and creating a level playing field for the Indian Industry
+Any Defence program success or failure is because of supply chain execution and it is 
+precisely here that the Indian Small and Medium companies will play a critical role in 
+the entire supply chain for the Aerospace and Defence sector.
+ASSOCHAM has taken the thought leadership position by inviting the industry leaders 
+and the decision makers on various forums for creating a better understanding about 
+this Sector. We are very confident that the ASSOCHAM’s National Council on Defence 
+is organizing the 6th ASSOCHAM International Conference on Aerospace & Defence 
+with the theme “Improving of Indigenisation towards Self-Reliance” for creating a 
+better understanding in further strengthening the domestic supply chain and local 
+manufacturing in the A&D sector in India.
+We believe that there is a significant business opportunity for the India Defence 
+companies particularly the Small and Medium Enterprises who are known to develop 
+niche technologies for the Defence and Home Land security. We at ASSOCHAM believe 
+that for developing niche technologies within the country Government needs to review 
+the current FDI norms in the Defence Sector. 
+We thank the Ministry of Defence and also Micro, Small and Medium Enterprises, 
+Ministry, for officially supporting the 6th ASSOCHAM International Conference on 
+Aerospace & Defence and also guiding us. We would also like to thank our knowledge 
+partner PricewaterhouseCoopers for mapping the critical issues and suggesting the 
+remedial measures in achieving indigenisation
+The Recommendations from this Conference will be forwarded to the concerned 
+Ministries which may set the roadmap for further developing the Defence Industry 
+within the country.
+With best wishes,
+D S Rawat 
+Secretary General 
+ASSOCHAMMessage
+Message
+India undoubtedly has potential to become one of the key players on the 
+international stage in the competitive Aerospace Industry, domain of highly 
+developed countries for decades. Fundamental global economic and political 
+decisions hinge on how far India has progressed and how quickly our highly 
+complex country can become a global powerhouse.
+There is a very clear linkage between a country’s economic growth and its 
+aviation industry. There are encouraging signs of the aerospace industry 
+emerging as a major contributor to our self reliance and export business. At 
+the same time, there are signs of domestic industry enhancing its capabilities 
+through joint ventures and technology tie-ups. 
+India continues to be one of the top Defence spending countries in the world, 
+with substantial numbers of signed capital acquisition contracts in the recent 
+past and many more in the pipeline. With the increasing liberalization of 
+Defence Procurement Procedure as well as the recently announced focus on 
+Make India programs, there would be substantial impetus to domestic Industry 
+for growing at fast pace.
+Fundamental strength in the Indian Industry already exists, in form of a large 
+number of SME’s and MSME’s, who are transforming themselves into major 
+players in this sector. If they and large business houses can collaborate to form 
+a robust Indian Aerospace & Defence eco system, India would surely create a 
+mark on international stage, sooner than later. It is time for Government and 
+Private enterprises to come together and become a key part of Global Aerospace 
+Supply Chain. 
+Industry bodies play a crucial role in creating and sustaining an atmosphere 
+crucial for industry growth. ASSOCHAM has been doing an admirable work by 
+actively contributing in this area.
+Wishing team ASSOCHAM a success.
+Kamesh Gupta
+Co-Chairman
+ASSOCHAM Defence Council
+We are pleased to present the discussion paper on ‘ The holy grail of indigenisation: 
+Achieving self-reliance in defence equipment’ at the 6th ASSOCHAM conference on 
+Aerospace and Defence. Characterised by a high growth potential, India’s aerospace and 
+defence industry is important to the country’s strategic and economic interests. 
+The A&D value-chain is long and complex and our manufacturing capabilities can at 
+best be described as patchy with small pockets of excellence at many levels, but without 
+comprehensive coverage. The defence procurement procedures (DPP) have undergone 
+several revisions in the past to promote indigenisation. However, none have been as 
+direct and comprehensive as those announced in its latest version. The most important 
+of these is laying down a hierarchy of acquisition programmes with those that will 
+make domestic private companies the primes by giving them highest priority while 
+categorizing defence procurements. Though the revised DPP is encouraging and seeks 
+to invite larger participation by domestic players, the government is still a long way from 
+achieving its stated objective of broad basing domestic capabilities by including the 
+private sector in defence production.
+There is a need to streamline policy contradictions for creating synergies and an 
+eco-system that stimulates investments in building domestic capabilities across the 
+entire supply-chain. We trust this paper will provide valuable insight to existing and 
+prospective investors on the opportunities and challenges confronting indigenisation. 
+We also thank ASSOCHAM for giving us this opportunity to present the perspectives and  
+opportunities for the sector in India.
+Dhiraj Mathur  
+Leader, Aerospace and Defence Practice
+PwC IndiaMessage
+8 PwC
+Introduction
+Across the world, the aerospace and defence (A&D) sector has always been 
+associated with cutting-edge research and development that has spawned some 
+of the most game-changing inventions to have impacted our lives. An excellent 
+example is the internet.  These innovations are generally a state mandate, 
+employing a battery of scientists and engineers.
+As India continues with a massive acquisition programme (that started over 10 
+years ago) to provide its armed forces with the latest and best equipment, it is 
+pertinent to ponder over reducing its extreme dependence on imports by building 
+indigenous capabilities across the entire value-chain – from research, design 
+and development to manufacturing, integration, maintenance and repair. The 
+government being the sole regulator needs to design solutions for what is a tightly 
+regulated monopsony market. The regulator and its companies account for 
+almost all of the limited indigenous production.
+Laudable as the government initiatives are, it must be borne in mind that 
+domestic capability cannot be built merely by addressing RFPs to Indian 
+companies. There are multiple areas that need attention–funding, R&D, 
+taxation, protection of intellectual property, foreign investment and 
+collaboration, the import and export regimes. There is need for a comprehensive 
+review of all of these to create synergies rather than contradictions and an eco-
+system that stimulates investments in building domestic capabilities across the 
+entire supply-chain.
+Keeping in view the above background, this paper assesses the current status of 
+the Indian defence industrial base, requirement of next-generation technologies 
+and analyses the role the new DPP can play in accelerating the pace of 
+indigenisation. This paper also attempts to identify various operational and 
+regulatory challenges impacting indigenisation. 
+The holy grail of indigenisation- Achieving self-reliance in defence equipment          9
+Landscape: 
+Defence 
+industrial baseThe Indian A&D market presents an attractive and significant 
+opportunity for Indian and foreign companies. India allocates 
+about 2.1% of its GDP towards defence spending, of which 40% 
+is allocated to capital acquisitions. India ranks among the top 
+10 countries in the world in terms of military expenditure yet 
+imports 70% of defence equipments.
+Sector overview
+Indian A&D manufacturing is dominated by DPSUs and 
+ordnance factories which contribute about 90% of the total 
+manufacturing output. 
+DPSUs contribute about 63% in the defence manufacturing output 
+of the country. Their output has grown at a CAGR of 14% from 
+2002 to 2012.  While they have enjoyed significant protection 
+from the government, it must also be acknowledged that their 
+growth has been constrained by this ownership. Moreover, they 
+have grown during the long period that this country faced denial 
+regimes. DPSUs have been unable to expand with the orders 
+placed and each has order books that extend well beyond 15 to 
+20 years. Co-opting the private sector will, over time, reduce the 
+production and delivery period.
+DPSUs have played a critical role in building a domestic industrial 
+base in this sector as they typically outsource 20 to 25% of their 
+production requirements to private companies. The leading DPSUs 
+include Hindustan Aeronautical Ltd, Bharat Electronics Ltd, 
+Mazagon Dock Ltd, and Bharat Earth Movers Ltd.  
+The 41 ordnance factories are spread over 26 different locations 
+and employ close to 1,25,000 people . These factories manufacture 
+a wide spectrum of products from weapons (small calibre, mortar 
+equipment, medium calibre and large calibre), ammunition (small  
+medium and large calibre, mortar bombs, grenades, signalling 
+smoke, rocket bombs, demolition, explosives, propellants and 
+chemicals), vehicles (armoured and transport), clothing, general 
+stores and equipment for the defence services.Revenue Capital
+Type Units Revenue 2011-
+12(INR crore)
+DPSU 9 28,667
+Ordnance 41 12,390Indian defence budget (Figures in billion USD)
+10 PwCEfforts to indigenise
+Defence sector manufacturing was opened to private and foreign 
+participation in 2001. Since then, there has been increased 
+focus on indigenisation. The private sector, which contributes 
+approximately 10% of the total manufacturing output, has 
+seen a significant change in its role. From a supplier of raw 
+material, components and sub-systems, Indian companies are 
+now progressing to become partners in manufacturing and 
+integrating complete equipment and systems. Till date, as per the 
+data available, close to 180 licences have been granted which is 
+reflective of the current manufacturing capability of the Indian 
+enterprises. Some of the established Indian companies engaged 
+in defence manufacturing or rendering engineering, design and 
+testing services include Larsen & Toubro, Mahindra Defence 
+Systems, Tata Advanced Systems Ltd and Tata Motor Defence 
+Systems in addition to over 6000 MSMEs such as Alpha Design 
+Technologies, TAAL, Axis Aerospace and Centum Electronics.
+The government has initiated the process of transforming the 
+A&D sector by taking policy decisions to develop an indigenous 
+manufacturing base, consequently reducing the dependence on 
+imports. Progressive revisions in the DPP clearly highlight the 
+gradual shift in focus towards indigenisation as the government 
+attempts to utilise the Indian industry's cost advantages, 
+availability of talent, manufacturing capabilities and IT 
+competitiveness.   
+DPP 2013 clearly focuses on creating a conducive  environment 
+for achieving indigenisation by stipulating preferred 
+categorisation for buy (Indian), buy and make (Indian),  make 
+categories and allowing the private industry to participate in 
+maintenance transfer of technology (ToT) thereby providing 
+a level playing field to it with foreign OEMs and DPSUs. This 
+mandate will compel Indian companies and foreign OEMs to 
+revisit their India strategies and will most surely stimulate 
+increased strategic and technology partnerships between 
+them. The government has also been successful in bringing 
+much-needed clarity in the licensing process by releasing the 
+defence product list and by clarifying that dual use products do 
+not need licensing. However, the procedure for arriving at the 
+value of indigenous content seems to be complex and requires 
+deliberation as there will be many practical challenges in 
+compliance.  
+A point of concern is a recent office memorandum issued by the 
+Department of Defence Production to keep in abeyance certain 
+‘service’ related paragraphs in offset guidelines which raises 
+significant concern on the fate of the eligibility of services as 
+an offset avenue.  India is a pioneer in rendering engineering, 
+design, testing and software development services and hopefully 
+the government will seek representations from all stakeholders 
+before taking a final decision on the eligibility of services as a 
+positive offset avenue.Areas of development
+Project management capabilities
+The defence manufacturing set-up has traditionally faced 
+constraints due to inadequate technology and in delivering 
+projects within the budgeted cost and time e.g. the delay in the 
+‘Light Combat Aircraft Tejas’ programme which took close to 
+three decades for completion resulted in a 10-fold increase in 
+project cost. 
+An analysis of the employee productivity reveals that the 
+defence sector has a long way to go to meet  benchmarks from 
+the domestic and global private sector. The Annual Survey 
+of Industries, conducted by the Ministry of Finance revealed 
+that the defence industry output of 1,539 (INR thousand per 
+employee per year) was considerably lower than the average  
+of 3,000 (INR thousand  per employee per year) across  
+various industries. 
+The DPSUs and ordnance factories have often faced challenges 
+towards  scaling  up production capability and to match global 
+standards of quality and delivery. However, sectors with 
+dominant private participation have over time been more 
+agile in building capacity and adapting new technology and 
+delivering to international standards of quality. For example, in 
+the automobile industry, global companies like Toyota, Suzuki, 
+General Motors, Ford and Honda and in telecommunication, 
+majors like Nokia and LG have all set up production bases 
+in India. Due to the limited share of private and foreign 
+participation in the defence sector, the industrial growth 
+trajectory has been sluggish in increasing capacity and  
+absorbing technology. 
+Technology
+India’s historical dependence on imports may possibly be 
+one reason for the limited focus on developing intellectual 
+property. Presently, access to technology and in-house capability 
+development has been a bottleneck for manufacturing. ToT 
+carried out by global OEMs is limited in access for domestic 
+players as the DPSUs have invariably been selected for 
+production purposes. The 26% cap on FDI also disincentivises 
+investment and ToT. 
+Talent development and retention
+India has a large pool of qualified scientists and engineers 
+leveraged by a growing number of foreign OEMs who have set 
+up engineering and design centres. Anecdotal evidence suggests 
+that the growing presence of these OEMs has put pressure on the 
+DPSUs in attracting and retaining talent.  
+The holy grail of indigenisation- Achieving self-reliance in defence equipment          11Industry SWOT analysis
+Strengths
+• Large domestic market
+• Existing manufacturing infrastructure of DPSUs contributing 
+approximately 63% of manufacturing output
+• Strong R&D set-up for the Defence Research and 
+Development Organisation (DRDO)
+• Large pool of talented scientists, engineers and skilled 
+manpower
+Weaknesses
+• High dependence on import of capital equipment
+• Low absorption and ToT by DPSUs and ordnance factories
+• Limited indigenous machine tool building capability
+• Talent attraction and retention
+• Restrictive and contradictory policy regime
+Opportunities for growth
+• Shrinking defence budgets in the US and Europe
+• The offset policy can stimulate creation of a domestic value-
+chain
+• Allowing private participation in MToT will create domestic 
+industry in MRO 
+Threats
+• Lack of a level playing field due to unfavourable policies for 
+domestic private players has thwarted their development.
+• Competition from emerging economies for OEM investments 
+and ToT
+• Adversaries also investing in acquisition and development 
+of a defence industrial base while turning self-sufficient in 
+production and technology
+Research and development  
+With a vast network of institutions and more than 50 labs 
+across the country, the DRDO is the pioneer R&D agency in 
+the Indian defence sector and has to its credit a number of 
+spectacular successes, particularly in its missile development and 
+aeronautical system programme. Other government agencies  
+like the CSIR, the Department of Space (DoS), the MOES and  
+the DST are also involved in R&D while outsourcing to  
+domestic MSMEs.
+The private sector has had a limited share in the R&D space 
+of the defence sector. However, there have been a few success 
+stories like Tata Power’s Strategic Electronics Division that has 
+partnered with the MoD, the armed forces and the DRDO  
+since 1974 in the development and supply of state-of-the-art 
+defence systems.Challenges facing R&D
+• The Indian defence budget allocates approximately 6% 
+towards R&D spend as compared to 15% by France and 12% 
+by the US.
+• High upfront R&D and establishment costs with long 
+gestation periods for realising R&D benefits and the absence 
+of government sponsored programmes have deterred private 
+involvement and investments in R&D. 
+• India is faced with limited expertise in designing critical 
+equipment in advanced technology due to lack of ToT from 
+global OEMs.
+• India lacks adequate infrastructure and trained human 
+capital to support R&D initiatives. 
+• End users of technology and equipment along with 
+manufacturers are currently not fully involved in the decision-
+making process with key R&D agencies like the DRDO.
+• Existing agencies have not been very successful in sharing 
+R&D capabilities with private players.
+• There is hardly any competition within R&D agencies 
+and private players for developing weapon systems and 
+technologies.
+12 PwC
+Next-generation 
+technologiesThe A&D sector has spawned cutting-edge technology. Constant 
+improvements are taking place in military equipment and better 
+technologies are being developed around the globe. India has 
+long been considered a potential hub for R&D because of its 
+vast talent pool of engineers and scientists. Despite this, the 
+country is lagging behind in terms of technology development 
+and increasing imports show that it is not utilising its purchasing 
+power to leapfrog into niche areas. 
+A key requirement for private participation is visibility of the 
+technology requirements of the armed forces. The technological 
+capabilities which India needs were first spelt out in the 
+Technology Perspective and Capability Roadmap 2010 (TPCR) 
+and subsequently in TPCR 2013, which are released as an 
+unclassified version of the LTIPP. These are  one of the first 
+efforts to provide the domestic industry with an overview of 
+what the armed services hope to acquire by the middle of the 
+next 15 years. The document’s stated intent has been to drive the 
+technology and development process of prospective developers, 
+contractors and bidders in India and abroad, and to ‘provide 
+industry an overview’ of the MoD’s objectives and enable the 
+defence industry to plan their R&D roadmap. 
+The TPCRs  thus identify strategies for attaining national 
+defence objectives such as strategic deterrence, full-spectrum 
+capability, sea control, aerospace capabilities, special operations, 
+logistics, defence cooperation, media, personnel, leadership 
+and use of technology. The capabilities envisaged for the army 
+include optimising force application capability, individual 
+protective equipment for troops, enhancing detection and 
+decontamination equipment in quality and quantity, developing 
+integrated field shelters, addressing logistic voids and enhancing 
+logistic capability, enhancing mobilisation capability, C4I2SAR 
+capability, night-fighting capability, developing IW capability, 
+improving anti-armour, SAM, ASM and SSM capabilities, 
+introducing and developing the ‘land warrior’ concept, aviation 
+quick reaction capability, indigenisation of bridging technology, 
+improving communication to effect manpower savings and 
+derive maximum benefit from the telecom network, improving 
+and developing wide area network and satellite communication 
+network, enhancing battle space awareness and force protection 
+capability. Similarly, it elucidates the requirements of the navy 
+and the air force.
+With increasing technological sophistication in defence, 
+skill requirements of the industry are specific and require 
+considerable time, money and human resources to develop. 
+Thus, TPCRs are a welcome step. However, the extent to 
+which the industry can utilise these  TPCRs with the details 
+available remains a big question as it does not provide relevant 
+information on the basis of which industry can chalk out its 
+business plans. The industry needs adequate information to 
+create a technology roadmap by identifying the product that will 
+be the focus, the technology drivers, the alternatives and the 
+timelines. Thus, the concept of indigenisation can be facilitated 
+if the contents of the TPCR have adequate details and are in 
+consonance with a well-planned defence manufacturing policy 
+based on ‘product strategy’.
+The holy grail of indigenisation- Achieving self-reliance in defence equipment          13It is added that measures are also required to promote R&D 
+and greater coordination between research institutes like 
+the DRDO, universities and private industry players. The 
+educational institutions are a rich source of human capital, 
+which can be effectively leveraged to help the sector jumpstart 
+its development. In the current environment of blanket secrecy, 
+it is difficult to develop meaningful partnerships with academia 
+or private institutions. There are a large number of niche areas 
+where the nation’s existing talent and low-cost base can be 
+leveraged to attain a competitive position in developing next-
+generation technologies.
+Stealth 
+With the advent of and improvements in sonar, infra-red and 
+radar technologies, it has become increasingly difficult to 
+remain undetected by the enemy. Countries around the world 
+are trying to develop ways to reduce the visibility of their troops 
+and machinery for tactical and operational advantages. Stealth 
+technology was developed as a direct consequence. It aims to 
+reduce the visibility of troops, vehicles or aircraft using a variety 
+of techniques. Some of these involve design, shape, camouflage, 
+radar absorbing materials and ways to reduce the infrared 
+trail. Stealth aircraft are probably the best example of the 
+advancements in stealth technology. They are adapted in certain 
+ground vehicles and are also an important part of designing 
+a submarine. In India, the advanced medium combat aircraft 
+(AMCA) and fifth generation fighter aircraft (FGFA) will possess 
+stealth technology.
+Robotics
+The importance of robots for the armed forces is immense. 
+Unmanned aerial vehicles (UAVs) and unmanned ground 
+vehicles (UGVs) are examples of robots increasingly being used 
+by countries both for reconnaissance and attack. Robots are used 
+in a variety of applications where the job is either too tedious or 
+dangerous for people. The DRDO is developing an unmanned 
+combat air vehicle (UCAV) called ‘Rustom’ for the Indian 
+military. It has the potential to be used for reconnaissance in the 
+Naxalite infested areas which will give troops a clear idea of the 
+dangers.
+Air independent propulsion (AIP) 
+The AIP technology helps keep submarines underwater for 
+longer periods of time. Submarines have to surface or use a 
+snorkel to access atmospheric oxygen and to release exhaust. 
+This makes them vulnerable to detection by enemy forces 
+compromising the safety of the submarine. The DRDO is in the 
+process of developing this technology. Two of the Scorpène class 
+submarines bought from the French company DCNS may also be 
+fitted with AIP technology.•	Nanotechnology, composite 
+material and metal 
+research
+•	Night vision
+•	Electronic miniaturisation
+•	Textile technology
+•	Defensive systems in 
+satellites 
+•	Cyber warfare•	Increase FDI
+•	Promote R&D
+•	Allow offset for R&D in 
+leading institutions like the 
+IITs and IIS
+•	Improve transparency 
+and lay down a detailed 
+roadmap in TPCRs
+•	Incentives for development Niche areas 
+for next-gen 
+technologies
+Measures to 
+support ToT
+Directed energy weapons (DEWs)
+DEWs emit energy in an aimed direction without a projectile. 
+This energy can be of various forms--particles with mass, sound 
+and electromagnetic radiation. This is a developing technology, 
+yet to be used effectively and being considered for operations like 
+protecting the earth from asteroids. In time, this technology is 
+expected to develop because of its many operational advantages. 
+The DRDO has reportedly started work on DEWs such as a 
+25-kilowatt laser system to destroy incoming missiles in their 
+terminal stage and a 100-kilowatt solid-state laser system to take 
+out missiles in their boost phase itself.
+14 PwC
+Challenges in 
+indigenisationDefence procurement procedure 2013: 
+Catalyst for indigenisation
+The revised DPP has provisions to promote transparency, 
+accountability and accelerating the procurement processes. The 
+key relevant highlights of the revised DPP are as follows: 
+• Prioritisation of ‘buy (Indian)’ and ‘buy and make (Indian)’ 
+for capital acquisitions under defence procurement procedure
+• Maintenance ToT (MToT) will no longer be through 
+nomination  but through bidding 
+• Advance consultations for ‘make’ procedure
+• Simplification of ‘buy  and  make (Indian)’ procedure
+• Clear definition of indigenous content
+• Ensuring faster progress in ‘make’ and ‘buy and  make 
+(Indian) cases
+• Enhanced delegation of financial powers for capital 
+acquisitions 
+• Powers to DAC to approve all deviations from DPP
+The key change in DPP 2013 has been the stipulation of a 
+hierarchy of categorisation of any new defence procurement 
+under ‘buy (Indian)’ and ‘buy and make (Indian)’ categories. 
+‘Buy (Indian)’ requires a minimum 30% of indigenous content 
+on cost-basis. However, ‘buy and  make (Indian)’ must have 
+a minimum 50% indigenous content on cost-basis. It further 
+provides that apart from the overall indigenous content being 
+at least 30%/ 50% of the total contract value, a minimum 30% 
+/ 50% indigenous content will also be required in (i) basic cost 
+of equipment; (ii) cost of manufacturers’ recommended list of 
+spares; and (iii) cost of special maintenance tools and special test 
+equipment taken together.
+DPP 2013 also lays down the method for computation of 
+indigenous content. It broadly prescribes the cost of the 
+equipment to be reduced by the cost of imported materials, 
+cost of services received from non-Indian entities at all  tiers. 
+The definition of indigenous content in spirit is commendable 
+and seeks to scan through the indigenous content in the 
+entire supply-chain.  However, ensuring compliance with the 
+requirement at all the tiers is going to be extremely cumbersome 
+for the entire industry.  The indigenous content as it is currently 
+worded may also be open to varied interpretation, example, 
+the meaning of non-Indian entities, direct and indirect costs 
+of services etc.  Further, the Indian companies, even if they 
+are indigenously manufacturing the core equipment, may get 
+disqualified on a strict application of the definition of indigenous 
+content. This may lead to re-categorisation of the procurements 
+under ‘buy and make with ToT’or ‘buy global programmes and 
+eventually defeat the objectives of the changes.
+The affirmation of indigenous content at the trial stage is 
+impractical and requires re-consideration.  It is acknowledged 
+that India does not have the current know-how and the 
+infrastructure to manufacture high-end defence equipments and 
+therefore, expecting the requirement to be fulfilled at the time of 
+trials is unreasonable and impractical.
+The holy grail of indigenisation- Achieving self-reliance in defence equipment          15In summary, while the recent initiatives taken by the DAC in 
+revamping the defence procurement procedure are welcome, 
+however, there will be challenges in complying with some of 
+these new provisions requiring  further deliberation.  Further, 
+though the DPP seeks to provide a level playing field to Indian 
+private players, there are areas which are heavily lopsided in 
+favour of DPSUs. A case in point being the ERV benefit being 
+extended only to DPSUs in ab-initio single vendor cases or when 
+nominated as a production agency.
+Defence product list: Simplifying the 
+licence regime
+The industry has long been grappling with the issue of industrial 
+licence. This has finally been clarified and a licence is not 
+required for dual use goods. However, necessary sensitisation 
+of this position is required so that there is consistency between 
+the policy and its implementation by various arms of the 
+government. It is also interesting to note that though the defence 
+product list has been put up on the MoD’s website, it refers to a 
+‘dual-use’ list which has not been made available to the public, 
+hence providing only partial clarity.
+FDI in defence: An imaginary bogey
+The role of FDI in building a domestic industry and creating an 
+enabling environment for transfer of technology from foreign 
+OEMs cannot be over emphasised. The 26% cap has completely 
+failed as the total inflows of FDI in the last 10 years in this sector 
+have been a meagre  five million USD and a handful of joint 
+ventures, compared to over 280 billion USD that the country 
+has received during the same period. Based on the experience in 
+sectors such as automobiles, IT and other manufacturing sectors, 
+there is an urgent need to allow 100% FDI in this sector and 
+address security concerns separately as in most countries.
+Concerns about IP protection  
+Protecting IP is a key concern in this sector and foreign OEMs are 
+reluctant to transfer technology because of the 26% FDI cap as 
+well as a perception of inadequate IP protection.
+Given below is an  overview of relevant intellectual property 
+laws:
+Indian Patents Act, 1970:  Contains provisions with respect to 
+grant of patent (an exclusive right granted for a new product or 
+a process involving an inventive step and capable of industrial 
+application) in India.
+Designs Act, 2000:  Aimed at protection of designs, it contains 
+provisions in relation to registration of designs, copyright in 
+registered designs, etc.
+Copyright Act, 1957:  Protects, inter alia, the rights in literary 
+work, which includes computer programmes. It contains 
+provisions, inter-alia, regarding what constitutes copyright and 
+term of copyright, ownership of copyrights and rights of the 
+owner, registration of copyrights, infringement of copyrights, 
+remedies for it, etc.   Despite the age-old debate of what constitutes optimal IP norms 
+for a developing country, usually challenges faced in relation 
+to the transfer  and licensing of technology in India do not arise 
+due to any inadequacies in the legal framework of IP laws but 
+due to the contractual terms governing such transfer between 
+the seller and the buyer. For instance, contracts for transfer of 
+technology, may not balance the risk between the buyer and 
+seller or in relation to the defence sector, may be interpreted in 
+the context of the prevailing procurement policy and the buyer’s 
+ultimate obligations thereunder, thus sometimes disregarding 
+the contractual rights of the seller. In the event of a breach 
+of contract by the buyer, the seller may also face practical 
+challenges in enforcing its rights and remedies, like termination 
+of contract, against the buyer if he or she has already absorbed 
+the technology or know-how for innovative activity in a given 
+technological area.
+The general apprehension of foreign suppliers that Indian 
+courts do not enforce contracts effectively and will  adopt a 
+pro-domestic market approach when determining intellectual 
+property rights disputes between a foreign supplier and an 
+Indian buyer and that wariness around IP rights in India is low, 
+coupled with incidents of Indian courts rejecting requests of  
+patent grants of a foreign company (as in a recent Supreme Court 
+precedent  in the pharma sector) creates a perception that the IP 
+environment in India is vague, uncertain and unsafe. This along 
+with the restricted FDI cap of 26% with no significant control 
+over the company’s affairs deters OEMs from sharing critical 
+technology with Indian manufacturers. 
+Technology suppliers may thus need to consider steps to 
+minimise the risk of losing IP while participating in the A&D 
+business in India by ensuring that the IP rights in relation 
+to the technology being shared are clearly understood by 
+all stakeholders and suitably articulated in the contracts, 
+particularly identifying and addressing issues not covered by any 
+domestic legislation, checking for any possible conflicts with the 
+policy and providing for potential violations of the IP rights.
+16 PwCIndirect tax
+The government’s initiative for indigenisation in the A&D 
+industry in India, through the DPP 2013 requires complementary 
+initiatives under the indirect tax regime. The focus of the 
+initiative under the indirect tax regime can be on rationalisation 
+of the tax structure and promoting greater value-additions in 
+India. The current tax and duty regime in the country makes the 
+Indian manufacturer uncompetitive and directly works against 
+the indigenisation policy of the government. 
+Considering the multiple levies of indirect taxes in India, 
+following are the key note comments on indigenisation in the 
+A&D industry:
+Customs duties:  Effective rate of customs on the import of 
+goods is 28.85 % (peak rate of customs). Subject to prescribed 
+conditions, a majority of goods imported in relation to defence 
+and commercial airlines are exempt from customs duties . For 
+instance, customs duty is exempt on imports of aircrafts and 
+parts imported for MRO related activities. 
+Key note:  With respect to the defence sector, these exemptions 
+are typically available where the MoD or its contractors (private 
+companies) are importers and unavailable where goods are 
+imported by Indian offset partners for further processing and 
+delivery to the ministry. This militates against the indigenisation 
+policy.	The	benefits	under	these	exemptions	are	not	available	even	
+to goods imported by sub - contractors of foreign OEMs. Besides 
+this, there are no such general exemptions from customs duty on the 
+import of goods for use in the manufacture of defence related goods. 
+Appropriate changes to remove this anomaly must be proposed to 
+the government .
+Excise duty:  Effective excise duty rate is 12.36% (inclusive of 
+education cess) on manufacturing activity. Exemption from 
+excise duty is available for aircrafts, if sold to the government or 
+to commercial airlines engaged in specified activities.   
+Key note:  Goods supplied against international competitive bidding 
+(ICB) are exempt from excise duty subject to prescribed conditions. 
+The	challenge	is	to	ensure	that	these	benefits	actually	accrue.	With	
+the government’s plan on indigenisation, a blanket exemption needs 
+to be carved out for the supply of goods to the A&D industry. VAT and CST:  While an inter-state sale of goods is subject to 
+central sales tax (CST), intra-state sale of goods is subject to VAT. 
+The CST rate is 2 % if the prescribed statutory form (i.e. Form C) 
+is issued by the purchaser. If no forms are provided, the VAT rate 
+applicable in the originating state of the seller will be applicable. 
+For most goods, the VAT rate ranges from 5 to 15 % depending 
+on the nature of goods. Sale of spares under the MRO operations 
+are charged to VAT which range  from 5 to 15% across  states. 
+Typically, airline operators do not have the option to buy it at 
+concessional rates of CST against usage of Form C as they do not 
+meet the eligibility criteria for issuance of Form C.
+Key note:  No general exemptions or concessions are available on the 
+sale of goods to defence and  commercial airlines. Accordingly, the 
+relevant state VAT legislation should be examined and the possibility 
+of special dispensation if required from the state government 
+should be explored so that the domestic procurement of goods is 
+economically at par with imports. Participants in India’s MRO 
+industry believe that the tax regime needs to change in order to 
+enable India to positioning itself as an MRO hub. 
+Service tax:  With effect from 1 July 2012, the service tax regime 
+in India had undergone a significant change whereby service 
+tax has been made applicable on all services provided in India 
+unless they fall under the negative list or are specifically exempt 
+from payment of service tax. In addition, in terms of the recently 
+introduced Place of Provision of Service Rules, 2012 the MRO 
+services may not qualify as export of services from India since the 
+aircraft will need to be in India for repair. Further, the service tax 
+exemption for services provided to the government in relation 
+to repair or maintenance of an aircraft has been withdrawn with 
+effect from 1 April 2013.
+Key note:  The burden of input taxes is reduced to the extent of 
+service tax credit admissible to MRO customers. With the proposed 
+procurement plan, exemptions or concessions from the service tax 
+perspective need to be introduced for boosting the domestic service 
+industry.
+Others:  The states are also authorised to levy other local taxes 
+such as entry tax, octroi and local body tax. Further, an R&D cess 
+at 5% is also applicable on the import of technology in specified 
+situations.
+The holy grail of indigenisation- Achieving self-reliance in defence equipment          17
+Participation of 
+MSMEs and their 
+challengesThe continued focus by the MoD on greater private sector 
+participation appears to be changing in favour of Indian 
+companies, especially for MSMEs, which have hither to been 
+supplying to defence public sector undertakings. Offset 
+requirements being imposed by the MoD including aspects 
+such as transfer of technology and multiplier of offset credits 
+for collaboration with MSMEs are compelling OEMs and other 
+suppliers to source more components from domestic suppliers. 
+This in turn leads OEMs to increasingly engage with smaller 
+Indian players by establishing partnerships or JVs and in the 
+process, playing a part in the growth of MSMEs in India.
+The offset experience brings  good news for MSMEs. Out of the 
+19 contracts signed in the A&D sector amounting to 4.54 billion 
+USD since 2008, almost 26% have been received by MSMEs. 
+However, it is pertinent to note that these have been received by 
+only a handful of companies. 
+The MoD has set itself a goal of sourcing 70% of all equipment 
+from Indian companies–public and private sector - by 2020 
+which could provide a further boost to MSMEs in this sector. The 
+Indian government has announced the following measures in the 
+last two years to enhance the role of MSMEs: 
+• Creating an MSME fund through SIDBI
+• Facilitating certifications of MSMEs  
+• Promoting the PPP model with participation of MSMEs 
+• Creating aerospace clusters and earmarking special economic 
+zones (SEZs) to include common infrastructure facilities  
+for MSMEs 
+• Incentivising foreign players to collaborate with MSME’s  
+by allowing multipliers for collaborations with MSMEs for 
+offset credit 
+Challenges faced by MSMEs
+Notwithstanding the positive trends mentioned above, MSMEs in 
+the Indian A&D sector continue to face challenges  detrimental to 
+the efforts of the MoD to indigenise: 
+•	Funding options:  Access to funds continues to remain the 
+biggest challenge faced by small players as MSMEs are 
+sensitive to a highly capital-intensive business characterised 
+by long gestational periods and cyclical growth. Despite 
+government steps to help MSMEs find the right funding 
+options, the situation on the ground has not changed much 
+over the last four to five years. Numerous delays in large 
+programmes require financially robust MSMEs that can ably 
+sustain time-lags. This issue can be solved only by continued 
+government intervention and help assisting long-term 
+sustenance.
+18 PwC
+•	Technology:  The A&D sector is in the midst of a tremendous 
+change for newer technologies forcing companies to 
+innovate in order to remain competitive. R&D investments 
+are generally considered high risk because of the long 
+gestational periods. Private sector sources of financing are 
+not always receptive to accepting such risks. These factors 
+make small players highly risk-averse affecting R&D spends 
+and hence their ability to build innovative technologies. As 
+a consequence, most MSMEs struggle to provide sustained 
+and high quality support to larger players adversely 
+impacting  efforts to indigenise.  
+•	Quality and L1 issues: While Indian manufacturing has 
+improved significantly in quality control over time, a 
+mature supplier base is still in an early stage of evolution. 
+Additionally, accreditation is time-consuming and 
+expensive in this low-tolerance industry in which the buyer 
+expects the highest quality of products and services at the 
+lowest possible price.
+Unfinished agenda
+DPP 2013 creates an enabling framework for increased 
+indigenisation. However, the success of the revised DPP largely 
+depends on the extent to which the policy can be put in practice 
+and support extended by other policy frameworks affecting the 
+A&D ecosystem such as the FDI policy and indirect taxes. The 
+following are some of the immediate steps that the government 
+needs to take into account in order to accelerate the pace of 
+indigenisation:
+• Increasing the FDI limit in defence to encourage high-end 
+technology transfers from foreign OEMs
+• Security guidelines to allay security concerns while 
+allowing higher FDI participation by foreign OEMs
+• Ensuring adherence to 30 or 50% indigenisation 
+requirements at trial stage  to be re-considered as the 
+requirement seems impractical
+• Reconsidering the procedure proposed in DPP 2013 for 
+calculating value of indigenous content as the process 
+is complex and may discourage Indian vendors from 
+participating in the procurement programmes
+• Further alignment of the DPP to even out anomalies to 
+provide level playing field to domestic private sector by 
+addressing issues like benefit of ERVs
+• Accelerating its efforts to work with MoF to address indirect 
+tax issues to boost indigenous defence manufacturing as 
+currently Indian manufacturers are un-competitive as far as 
+the incidence of tax is concerned vis-à-vis foreign vendors
+• Sponsoring R&D projects at private industry level to 
+encourage R&D for developing critically advanced 
+technologies and providing special tax incentives to R&D in 
+defence.
+• Extending the benefits of additional avenues for  
+fulfilling offset obligations to the programs falling under 
+previous DPP.
+The holy grail of indigenisation- Achieving self-reliance in defence equipment          19
+Abbreviations
+AMCA Advanced Medium Combat Aircraft
+A&D Aerospace & Defence
+AIP Air Independent Propulsion
+CST Central Sales Tax
+CAGR Compounded Annual Growth Rate
+CSIR Council for Scientific and Industrial Research
+DAC Defence Acquisition Council
+DPP Defence Procurement Procedure
+DPSU Defence Public Sector Undertaking
+DRDO Defence Research and Development Organisation
+DST Department of Science and Technology
+DoS Department of Space
+DEWs Directed Energy Weapons
+ERV Exchange Rate Variation
+FGFA Fifth Generation Fighter Aircraft
+FDI Foreign Direct Investment
+GDP Gross Domestic Product
+IIT Indian Institute of Technology
+IT Information Technology
+IP Intellectual Property
+ICB International Competitive Bidding
+JV Joint Venture
+LTIPP Long Term Integrated Perspective Plan
+MRO Maintenance Repair & Overhaul
+MToT Maintenance Transfer of Technology
+MSMEs Micro Small and Medium Enterprises
+MoD Ministry of Defence
+MOES Ministry of Earth Sciences
+MoF Ministry of Finance
+OEMs Original Equipment Manufacturers
+PPP Public Private Partnership
+RFP Request for Proposal
+R&D Research & Development
+SIDBI Small Industries Development Bank of India
+SEZ Special Economic Zones
+SWOT Strengths Weakness Opportunities & Threats
+TPCR Technology Perspective and Capability Roadmap
+ToT Transfer of Technology
+UAV Unmanned Aerial Vehicles
+UCAV Unmanned Combat Air Vehicle
+UGV Unmanned Ground Vehicles
+VAT Value Added Tax
+20 PwCNotes
+The holy grail of indigenisation- Achieving self-reliance in defence equipment          21
+About ASSOCHAM
+ASSOCHAM acknowledged as the knowledge chamber of India has 
+emerged as a forceful, pro-active, effective and forward-looking 
+institution playing its role as a catalyst between the government 
+and the industry. ASSOCHAM established in 1920 and has been 
+successful in influencing the government in shaping India’s 
+economic, trade, fiscal and social policies which will be of benefit to 
+the trade and industry.
+ASSOCHAM renders its service to over 4,50,000 members which 
+includes multinational companies, India’s top corporates, medium 
+and small scale units and associations representing the interest of 
+more than 400 chambers and trade associations from all over India 
+encompassing all sectors.
+ASSOCHAM has over 100 national committees covering the 
+entire gamut of economic activities in India. It has been especially 
+acknowledged as a significant voice of Indian industry in the 
+fields of corporate social responsibility, environment and  safety, 
+e-commerce, corporate governance, information technology, 
+agriculture, nanotechnology, biotechnology, defence, cyber security, 
+entertainment and  media, pharmaceuticals, telecom, banking 
+and  finance, company law, corporate finance, economic and 
+international affairs, tourism, civil aviation, infrastructure, energy  
+power, education, legal reforms, real estate, rural development, etc. 
+The chamber has its regional offices in Bangalore, Ahmedabad, 
+Kolkata, Ranchi, Bhopal, Jaipur and International offices in 
+Australia, Japan, UAE and USA. ASSOCHAM has also signed MoU 
+partnership with business chambers in more than 75 countries.
+Mr D S Rawat
+Secretary General
+ASSOCHAM
+Tel: 011-46550555
+Email: d.s.rawat@assocham.com
+About PwC  
+PwC* helps organisations and individuals create the value 
+they’re looking for.  We’re a network of firms in 158 countries 
+with more than 180,000 people who are committed to delivering 
+quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having 
+offices in: Ahmedabad, Bangalore, Chennai, Delhi NCR, 
+Hyderabad, Kolkata, Mumbai and Pune. For more information 
+about PwC India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC 
+network. Each member firm is a separate legal entity. Please see 
+www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwcPwC India Aerospace and Defence Team
+Dhiraj Mathur
+Executive Director, Leader, Aerospace and Defence Practice
+Tel: +91 124 3306 005
+Email: dhiraj.mathur@in.pwc.com
+Rajiv Chib
+Associate Director, Aerospace and Defence Practice
+Tel: +91 124 3306 026
+Email: rajiv.chib@in.pwc.com
+Shashank Tripathi
+Executive Director, Leader, Strategy and Research Practice
+Tel: + 91 22 6669 1002
+Email: shashank.tripathi@in.pwc.com
+Gautam Khattar
+Associate Director, Indirect Tax
+Tel: +91 124 3306 528
+Email: gautam.khattar@in.pwc.com
+Kamal Abrol
+Executive Director, Corporate Tax
+Tel: +91 124 3306510
+Email: kamal.abrol@in.pwc.com
+Nidhi Kansal
+Senior Manager, Aerospace & Defence Practice
+Tel: +91 124 330 6124
+Email: nidhi.kansal@in.pwc.com
+www.pwc.in
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or 
+estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are 
+advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this 
+publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained within it or for 
+any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability 
+company in India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+AK 23 - June 2013 The holy grail of indigenisation.indd
+Designed by: PwC Brand and Communications, India

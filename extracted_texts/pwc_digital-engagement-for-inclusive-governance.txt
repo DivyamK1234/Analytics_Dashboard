@@ -1,0 +1,282 @@
+Title: Digital engagement for inclusive governance
+Date Published: 2013-09-17 04:36:53-05:00
+Source: pdfs/pwc_digital-engagement-for-inclusive-governance.pdf
+
+--- CONTENT ---
+
+Digital engagement for 
+inclusive governance
+www.pwc.in
+Fostering inclusive growth through G2C service delivery models  
+Executive summary p2/ Assessing the G2C service delivery scenario p3/ Why 
+e-governance is yet to gain momentum?p5/ Why is digital engagement important? p6/ 
+Getting it right: Putting the citizen first p8/ Conclusion  p10/
+
+As citizens become more aware of their rights, they have 
+become more demanding as the primary consumers of government services. Failure to deliver in time and with required agility fails to meet expectations which in turn results in diminishing confidence in the government delivery system.
+ Effective public service today, should be characterised by 
+transparency, efficiency and accountability. Further, to cater to the young generation, government agencies need to consider fresh strategies to deliver services through the digital medium. This can extend the reach of delivered services to the wider population and also help in faster adoption.
+ This report explores the opportunity of effective service 
+delivery through new digital media. New media not only aims to meet the demand of the new generation, but also recommends to the government the means of bringing about greater agility in service delivery and saving cost. This report focusses on examining the divide between the expectations of the new generation and the conventional service delivery channels and studying the current trends as exhibited by our young citizens, to finally set the stage for G2C service delivery.Executive summary
+Digital engagement for inclusive governance 3Assessing the G2C 
+service delivery scenario
+E-governance initiatives in India have traditionally been confronted with the dual challenges of automating government departments and taking online services to the common man. In India, it is not feasible to emulate the western models of e-governance as more than three-fourth of the population lives in rural areas, with a large section still illiterate. However, we cannot do away with e-governance implementation nor can we afford to neglect the rural population. Hence, innovative solutions that suit the typical needs of Indian society are the need of the hour.
+Unfortunately though, existing service disbursal schemes have 
+become synonymous with painful delays and inefficiency. These issues can be largely attributed to the manual processes that involve long approval workflows and capturing redundant information through numerous forms. 
+Absence of a centralised database means minimal data-sharing 
+between government agencies. This only prolongs the difficulty  of a citizen looking to avail multiple services.
+Until recently, requesting for any such service necessitated 
+multiple visits to the nearest service delivery centre where information had to be submitted through a set of forms. This was usually followed by a spate of verifications and approvals, further extending the total turnaround time of service delivery. This, in turn, often encouraged fraudulent actions that undermined government control over delivery channels and promoted corruption.
+Cumulatively, these factors have raised public dissatisfaction with 
+the government’s service delivery mechanism and have further discouraged young citizens who seek convenience and speed in 
+service delivery.
+Present G2C initiatives
+Recent initiatives on the government’s part in setting up mission 
+mode projects (MMPs) under the National e-Governance Plan (NeGP) look promising and may well be the breakthrough that could change the perception citizens have of their government and its service delivery schemes.
+The programme encourages all government departments and 
+ministries to manage their internal processes electronically. Effectively, this means creating almost paperless departments. It is still work-in-progress but the lack of a firm deadline means that every department is proceeding at its own pace. Since effective co-ordination is lacking, even the departments that adopt electronic processes cannot be fully efficient until other related departments reach the same level.Source: Census Report, 2001; TRAI Jan 2012Child•	Birth	certificate
+•	Healthcare
+Student•	School	admission
+•	Scholarships
+•	Elearning
+•	Examination	results
+Youth•	Employment	services
+•	Driver’s	licence
+•	Vehicle	registration
+•	Passport	and	visa
+Family•	Land	record
+•	Property	registration
+•	Marriage	certificate
+•	Taxes
+•	Utility	services
+Old age•	Pensions
+•	Insurance
+•	Healthcare
+•	Death	certificateGovernment services through a citizen’s lifecycle
+Anytime,	anywhere	service	availability
+Improved	service	qualityTransparent,	efficient	and	secure	deliveryCitizen  
+centric  
+solution33%
+India’s rural teledensityOut of India’s 1.2 billion 
+population, almost 
+70% reside in rural areas.
+Out of about 1.2 billion population, there are already around  
+929 million 
+ mobile subscriptions.
+PwC4
+There are a few success stories, though, like the MCA21 mission 
+mode project, which addressed the challenges faced by the Ministry of Corporate Affairs in providing services to corporate entities, and others like e-filing of income tax returns and land record management systems. The success of e-filing of income tax returns can be gauged by the significant year-on-year increase in the number of citizens and users who have adopted the system.
+Mission mode projects (MMPs) conceptualised under NeGP
+Central government categoryIncome	tax
+Passport,	visa	and	immigration
+Insurance
+National	citizen	database
+Central	excise
+Pensions
+Banking
+E-office
+State govt categoryLand	recordsProperty	registrationAgricultureTreasury
+Municipalities
+Gram	panchayat
+Commercial	taxes
+Employment	exchanges
+E-district
+Source: National e-Governance Plan, 11th Report
+Factors to consider:
+•	Degree	of	efficiency	and	transparency
+•	Extent of reduction in cost and improvement 
+of convenience
+•	Extent of integration of back-end processes with front-end
+•	Amenability for public private partnership (PPP) arrangement
+•	Enhancement of revenue for the government and the service provider
+•	Technological robustness of the project
+Digital engagement for inclusive governance 5Why e-governance 
+is yet to gain momentum
+In spite of an increased level of IT spending by the government, which surpasses that of even some of the biggest private enterprises, the overall effectiveness of IT systems in government and public sector enterprises (PSEs) is yet to produce intended results. The reasons for these are not very disparate from the private sector failure stories such as poor system selection, lack of management, employee buy-in and lack of parameters to assess the success of any IT initiative. There are, however, a few reasons unique to PSEs. These mainly include perceived job insecurity through the introduction of IT systems, loss of power on information sharing and weak change management. Consistent failures in ICT implementation owing to these reasons have further maligned the perception of such initiatives. Mishandled change management not only jeopardises the current project but also sets the organisation back considerably in its IT roadmap, as both service providers and consumers remain skeptical about newer and better initiatives. 
+Currently, most government departments are seen working stand-
+alone with separate databases, partly owing to security concerns about sensitive data. Although integration across various departments with secured, authorised data-sharing is on the rise, much is yet to be achieved.
+A major downside to such a siloed working model is duplication 
+of activities across services that may be discouraging due to the extra effort and time involved. Often, various government-run service portals may be seen functioning on obsolete platforms, not optimised for the latest applications. Worse still, important links need to be dug out from within layers of web-pages and may involve multiple data entry points in the process. Such features are contradictory to the internet usage pattern of the young generation and therefore, act as dampeners.
+Access to on-the-go services is another crucial requirement for 
+present-day consumers, but highly lacking in conventional service delivery channels due to fixed service locations, strict process workflows and multiple verification levels.
+There is an evident misalignment between the younger 
+generation’s expectations and what is currently being offered. 
+This generation gap arises primarily out of a failure to grasp the 
+consumption patterns of the ‘digital natives’ and a reluctance to adapt to new technology and the process re-engineering that it entails. Steps can be taken to redress such disparity and bridge the gap, while doing away with obsolete working methodologies.Key barriers to adoption of  technology
+•	Resistance to change
+•	Lack of standard processes and poor business  
+process re-engineering
+•	Lack of trained IT personnel
+•	Weak change management
+•	Lack	of	clearly	defined	responsibilities	and 	 
+process owners
+36%  
+of time is wasted in a 
+day at work by trying 
+to contact people  to 
+find information and 
+schedule meetings67  
+minutes a day is 
+spent trying to find 
+key information39  
+minutes a day 
+are spent on 
+duplicating the same 
+communications
+Source: 2009/2010  Tower Watson Communication ROI StudyTM Source: Census Report, 2001; TRAI Jan 2012
+PwC6Why is digital 
+engagement important?
+Driven by growing consumer expectations, the efficiency and effectiveness of public service delivery are increasingly seen as key metrics of a government’s performance. Consumer expectations from service delivery channels span seven key areas:
+Speed
+The time taken to deliver a service should be the shortest possible for both the consumer and the organisation delivering the service
+Engagement
+The manner in which services are delivered should be seen as consumer-centric (i.e. participatory and trustworthy with the citizens’ needs at the core)
+Responsiveness
+There should be an ‘intelligent’ mechanism in place to address any variation in meeting service levels and to drive changes in the service delivery organisation
+Value
+The consumer needs to believe that the service delivery mechanism is cost-effective, and value is driven by consumer outcomes, not organisational processes
+Integration
+The service delivery mechanism needs to be integrated, with no ‘wrong door’ policy for citizens
+Choice
+There needs to be multiple channels for service delivery, so that consumers can have ‘channels of choice’, depending on specific needs at specific times
+Experience
+Personalisation of service is necessary to ensure that consumers’ experiences are on par with what they are used to receiving from other modern-day entities•	Internet penetration in India has almost doubled in 
+the last four years, making it the fourth largest user base in the world.
+•	E-commerce has increased from 20,000 crore INR in 2009 to 50,000 crore INR in 2011.
+•	Out of a population of about 1.2 billion, there are already around 929 million mobile subscriptions.
+•	Forty per cent of Indian users made a phone call using Skype (three times more than US and six times more 
+than Japan).
+•	One-third of India’s social media users use micro-blogging sites such as Twitter at least once a day.
+Source: PwC research and analysis; TRAI Jan 2012
+Source: Nielsen, Global Average
+Base: All respondents n =27,665
+The following factors are the major drivers of change in existing service delivery mechanisms:
+Consumer awareness
+Citizens today are more aware of their rights, have better access to information on public services and consequently have higher expectations of service levels. They also expect a positive customer experience and better returns on the taxes they pay. Further, the country has empowered citizens with the Right to Information legislation leading to heightened awareness about customer rights and, consequently, customer service.
+Budgetary constraints
+Tightening budgets and the need for value for money with respect to tax payments by citizens and businesses are forcing governments to address the issue of public service delivery. In many countries, changes have been introduced, aimed at ensuring that the public sector performs under two key metrics: quality of service including  accessibility for all and satisfactory customer experiences and outcomes, and cost of service, leading to value for money.
+Accountability and transparency
+The heightened role of the media and social activism has combined to create greater demand for accountability and transparency. However, the issue of accountability is particularly complicated.for the government. When things go wrong for government and public sector organisations, it often makes front page news and instantly transforms a management issue into a political problem.I am more likely to share(write about/Tweet, review, etc) a negative rather than a positive product experience online
+Digital engagement for inclusive governance 7Conventional marketing 
+wisdom long held that a dissatisfied customer tells ten people. But…in the new age of social media, he or she has the tools to tell ten 
+million.
+Paul Gillin, author of The New 
+Influencers
+Source: PwC Digital Tipping Point Survey 2011           
+Combined proportion of respondents who  are “currently using” or “considering using” Online MobileCustomer segments’ preferences for digital channelsCompetitive drive
+Attracting investment to fund economic growth is a priority in most countries. Investment fund managers regard public sector efficiency as one of the important factors in evaluating the investment destination. In this context, the cost of doing business becomes an important measure of public sector efficiency. Ensuring reduced cost calls for a balanced approach which is aligned both to the needs of the customer and towards realising greater efficiencies in service delivery. Thus, the global competition for ‘investments’ as a means for economic growth is also driving the agenda for reforms in the public service delivery.
+Changing interests of Indian youth
+Young people’s interest in traditional political parties and organisations has been declining. They frequent digital terrains as the internet has become one of the most effective mediums for mobilising opinions and involvement. The governments, 
+organisations and companies all over the world are beginning to 
+acknowledge this phenomenon.
+What is even more important is that behavioural patterns and 
+actions are rapidly changing. This is particularly noticeable among the ‘digital natives’ who have grown up in the internet 
+age, and have explored the unlimited possibilities that it offers. 
+These changes in necessitate an understanding of how and where 
+communication with future citizens will take place.
+The youth, in addition to having digital relationships, also seeks 
+direct contact with organisations.
+Owing to the wide-spread internet usage and a deeper mobile 
+penetration, there has been a shift in the young consumers’ expectations for delivery channels that are capable of dispensing the required services faster without any location or accessibility limitations.
+The e-generation seeks faster and convenient means of expression 
+and collaboration and is constantly searching for different means of engagement with institutions and decision making in their fields of interest. It is therefore crucial to utilise such youth involvement through digital channels, which will in turn result in them having better interaction with the traditional institutions.89%
+consumers began engaging with a competitor following a poor customer experience.
+81%
+companies with stronger capabilities and competencies for delivering customer experience excellence are outperforming their competitorsEven in a negative economy, customer experience is a priority  with 60% often or always paying more for a better experience.
+User expectations and behaviour are changing. The country now has a new digital generation. Radical modernisation of public service delivery is the needed in order to bring a sense of  inclusiveness among these digital natives.
+PwC8Getting it right: 
+Putting the citizen first
+Public sector departments and agencies across the globe are increasingly adopting a ‘one stop shop’ citizen-centric service delivery model. The idea is to enable the customers with a single access point to information and service transactions. The development of such models calls for a holistic customer insight.
+Listen to the citizens
+Government policies have traditionally had internal focus. Owing to their lack of understanding of the citizens’ interest, public sector departments and agencies have traditionally designed models that impose on the citizens rather than collaborating with them. Not only does this exacerbate a noncitizen-centric culture but also fundamentally limits the outcomes for citizens which it is supposed to serve. To understand the customer’s needs, expectations and preferences, a number of techniques are available to the public sector. These include customer research, touch point journey mapping and customer segmentation.
+Customer’s voice: Engaging with the citizens and having them 
+participate in designing a one stop shop through customer research enables their ideas and perspectives to included be in the citizen-centric service delivery model. 
+Touch point mapping: Public sector organisations play a number 
+of roles including setting and administering policy, enforcement, customer service, operational delivery, efficiently and effectively undertaking design, development and maintenance of the infrastructure. 
+Understanding how the customers see a public sector organisation 
+and its operating units is critical to understanding their experience. A structured approach to touch point mapping can provide this information. 
+Effective customer segmentation: The public sector is required 
+to serve diverse customer segments. Unlike the private sector, where customers are treated differently according to their capacity to pay for services, the public sector is required to satisfy the rights of its entire customer base; equally and up to the standards. It is therefore essential to develop clear strategies for ensuring the inclusion of all the segments of society as well as meeting their needs. The needs of these various segments can be quite distinct and will be driven by multiple factorsThere are five guiding principles for a citizen-centric ‘one stop shop’:
+•	 Listen to the citizens
+•	 Break down the silos
+•	 Enable a multi channel service experience
+•	 Constantly improve through citizen feedback
+•	 Set citizen centric service standards
+Interface Dept 5 Dept 1
+Dept 2
+Dept 3Dept 4Fragmented valueCustomer-centric approach
+CustomerDepartment-centric approach
+Customer
+IntermediariesDepartment 1
+Department 2
+Department 3
+Departmental Support
+Intermediaries
+Department 4
+Department 5Fragmented value
+Transformation
+Digital engagement for inclusive governance 9The Planning	Commission and	
+the National	Innovation	Council organised	the	first	ever	‘hackathon’	to	involve	individuals and groups from various spheres of life in collaborating towards innovative communication during the 12th	Plan (2012-17)	through	creative	visualisations	and software	applications.
+Government agencies are increasingly adopting social media platforms like Facebook, Twitter, etc. for better interaction. However, they should also try to utilise these platforms for service delivery.Break down the silos
+The design and delivery of a one stop shop needs to take into account the way  public sector departments and agencies are  structured (hierarchical or siloed). For the customer, the siloed structure means where they are often left joining up between agency silos rather than seeing a single organisation that is working for them.
+While breaking down hierarchical structures, the emphasis 
+should be on how to make agency silos more connected rather than abandoning them altogether. Though this is not a simple task, it does not imply that a complete government restructuring is required. It means addressing the silos which exist within individual public sector agencies and integrating them to form what we refer to as a ‘connected government’.
+Enable a multichannel service  interface
+Citizens’ needs, expectations and preferences are shaped by their experiences with the private sector and consequently, they are increasingly demanding the same level of channel choices when interacting with the public sector. 
+For public sector agencies, engaging with the citizens through 
+their online networks is a quick, direct and cost effective method. However, there are challenges which could lead to a poor and inconsistent customer experience and should be immediately addressed.Constant improvement through citizen feedback
+Customer feedback is a powerful tool not only for understanding customers’ experience and satisfaction with public services, but also for developing strategies to improve them. Unfortunately, customer feedback has not been fully utilised by the public sector 
+agencies. For such agencies, lack of customer feedback can be 
+a source of major operational risk and severely hinder their 
+continuous learning capabilities. As a result, any one stop shop model should ensure that it incorporates customer feedback into the service design, processes and customer interfaces.
+Set citizen centric service standards
+The rising demand for better governance standards in the private sector have spurred initiatives aimed at improving disclosure and corporate governance. Heightened customer awareness has particularly driven a demand for greater accountability and transparency, forcing the public sector to respond positively. 
+Technology has enabled increased accessibility to government 
+services. Citizens can obtain information and avail services through an easy to use, simplified navigation system. There is an increased visibility of operations for transparency(e.g. agency scorecard performance, update status of service requests). 
+Performance information is used to improve service levels and 
+increase accountability. 
+PwC10It is evident that technology facilitates effective governance. 
+The power of the rapidly growing traditional and social media has transformed how citizens access and share information. The growth in the number of young, educated people in India argues well for promoting a new set of ideas that might have appeared impossible or inconceivable a few years ago. A one stop shops or a multi channel presence through  digital mediums has unprecedented potential and has revolutionised the way we communicate. It’s time we make the most of this positive change.Conclusion
+About PwC 
+PwC* helps organisations and individuals create the value they’re 
+looking for.  We’re a network of firms in 158 countries with more than 180,000 people who are committed to delivering quality in 
+assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having 
+offices in: Ahmedabad, Bangalore, Chennai, Delhi NCR, Hyderabad, Kolkata, Mumbai and Pune.  For more information 
+about PwC India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC 
+network. Each member firm is a separate legal entity. Please see www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+Contacts
+Pradip Bhowmick
+Executive director
+PricewaterhouseCoopers Pvt. Ltd.Phone: +91-33-44043293 
+Email: pradip.bhowmick@in.pwc.com 
+Arindam Mukhopadhyay
+Managing consultant
+PricewaterhouseCoopers Pvt. Ltd.Phone: 091-9711599097
+Email: arindam.mukhopadhyay@in.pwc.com 
+Arunava Mitra
+Managing consultant
+PricewaterhouseCoopers Pvt. Ltd.Phone: 091-9836610106
+Email: arunava.mitra@in.pwc.com
+Contributors
+Amrita Chatterjee
+Pranav Singh
+Sayan Basu
+pwc.in
+Data Classification: DC0
+This publication does not consti tute professional advice. The i nforma tion in this publication has been  obtained or derived fr om sources believed by Pricewate rhouseCoopers 
+Private Limited (PwCPL) to be re liable but PwCPL does not re present that this information is ac curate or complete. Any opinions  or estimates contained in this public ation 
+represent the judgment of PwCP L at this time and are subjec t to change without notice. Reade rs of this publication are advised  to see k their own professional a dvice before 
+taking any course of action or decision, for which  they are entirely responsible, based on th e contents of this publication. PwCPL neither accepts or assumes any responsibility or 
+liability to any reader of this p ublication in respect of the info rmation contained within it or for any decisions readers may take or decid e not to or fail to take.
+© 2013 PricewaterhouseCoopers Pri vate Limited. All rights res erved. In this document, “PwC” refers  to PricewaterhouseCoopers Priv ate Limited (a limited liability co mpany in 
+India having Corporate Identity  Number or CIN : U74140WB1983P TC036093), which is a member firm of  PricewaterhouseCoopers Interna tional Limited (PwCIL), each member 
+firm of which is a separate lega l entity.
+NJ 82 - Sep 2013 Infocom.indd
+Designed by: PwC Brand and Com munications, India

@@ -1,0 +1,743 @@
+Title: pwc_fostering-indias-inclusive-growth-v1
+Date Published: 2025-02-02 17:44:49+05:30
+Source: pdfs/pwc_fostering-indias-inclusive-growth-v1.pdf
+
+--- CONTENT ---
+
+Budget 2025-26Fostering India’s 
+Inclusive Growth
+01
+Budget Highlights04
+Industry Speaks
+02
+Economic Outlook05
+Annexures
+03
+Key tax and regulatory proposals
+PwC  |  Fostering India’s Inclusive Growth2Table of contents
+PwC  |  Fostering India’s Inclusive Growth3
+Budget Highlights
+Economic Outlook
+Key tax and regulatory proposals
+Widening and deepening of tax base
+Rationalisation and simplificationTax rates
+Tax certainty
+Ease of doing business Financial services and Capital marketsGDP growth expected to be 
+between 6.3% to 6.8%Inflation expected to ease to 4.5%
+Staying on route for fiscal consolidation – 
+fiscal deficit of 4.4% expected by FY26Gross tax to GDP ratio expected at 12%
+New Income-tax Bill to be introducedUpdated return filing timeline extended till 
+48 months
+Rationalisation of Customs duty rate 
+structureNo fresh lease of eight years for losses on 
+amalgamationPersonal income tax slabs rationalised 
+Presumptive tax regime – introduced for 
+non-residents in electronics manufacturingEase in TDS/ TCS compliances
+Realignment of Custom duty ratesIntroduction of block assessment for 
+transfer pricing proceedings‘Plant and machinery’ redefined under GST 
+from retrospective effect 
+Tax holiday extended for start-ups till 2030 Incentives for IFSC
+Liberalisation of FDI limits in the insurance 
+sectorCustoms rules eased for assessment and 
+compliancesUniform tax rate on LTCG – applicable to 
+FIIs on non-listed securities
+PwC  |  Fostering India’s Inclusive Growth4Economic Outlook
+Expenditure Profile
+Larger proportional increase in capital expenditure signifies the government’s continued focus on 
+improving the quality of public expenditure.
+FY25–26 (BE):  
+FY24–25 (RE):  Up 7.4%
+Total expenditure
+INR 50.7trillion
+INR 47.2trillionUp 6.7%
+Revenue expenditure
+INR 39.4trillion
+INR 37.0trillionUp 10.1%
+Capital expenditure
+INR 11.2trillion
+INR 10.2trillion
+Revenue Receipts
+10.8% increase in revenue receipts, mainly due to moderation in non-tax revenue growth on the basis of 
+the high base of FY25RE, reflecting realistic revenue estimation.
+FY25–26 (BE):  
+FY24–25 (RE):  Up 10.8%
+Revenue Receipts
+INR 34.2trillion
+INR 30.9trillionUp 11%
+Net Tax Revenue
+INR 28.4trillion
+INR 25.6trillionUp 9.8%
+Non-Tax Revenue
+INR 5.8trillion
+INR 5.3trillionFiscal Position
+The Government of India estimates that it will better its fiscal deficit target of 4.9% and pegs it at 4.8% 
+for financial year (FY) 2025. It has also budgeted a fiscal deficit of 4.4% for FY26, thereby keeping its 
+commitment to attain a lower than 4.5% deficit by FY26.
+Lower
+Fiscal Deficit
+FY25–26 (BE):  
+4.4% of GDP
+FY24–25 (RE):  
+4.8% of GDPFY25–26 (BE)
+INR 35.0trillionRevenue  
+(excluding borrowings)
+INR 50.7trillionTotal 
+Expenditure
+INR 15.7trillionFiscal 
+Deficit
+BE: Budget estimates
+RE: Revised estimates
+Non-Debt Capital Receipts
+Higher disinvestment receipts budgeted as ‘other receipts’ reflecting expectation to conclude ongoing 
+stake sale processes in some Public Sector Undertakings (PSUs) during FY26.
+FY25–26 (BE):  
+FY24–25 (RE):  Up 28.8%
+Non-Debt 
+Capital Receipts
+INR 0.76trillion
+INR 0.59trillionUp 11.5%
+Recovery  
+of Loans
+INR 0.29trillion
+INR 0.26trillionUp 42.4%
+Other  
+Receipts
+INR 0.47trillion
+INR 0.33trillionFY25–26 (BE):  
+FY24–25 (RE):  
+FY25–26 (BE):  
+FY24–25 (RE):  Up 10.8%
+Gross Tax
+INR 42.7trillion
+INR 38.5trillion
+Up 10.9%
+GST
+INR 11.8trillion
+INR 10.6trillionUp 10.4%
+Corporation Tax
+INR 10.8trillion
+INR 9.8trillion
+Up 3.2%
+Other Taxes
+INR 5.7trillion
+INR 5.5trillionUp 14.4%
+Income Tax
+INR 14.4trillion
+INR 12.6trillionTax Revenue
+Gross tax-to-GDP ratio expected to improve to 12% in FY2026 from 11.9% in FY2025.
+Government Debt
+The Central Government debt is budgeted to 
+reduce to 56.1% in FY26 with a target to attain 
+Central Government debt to GDP level of about 
+50±1% by 31 March 2031 as part of the fiscal 
+consolidation glide path.Lower
+Government Debt
+FY25–26 (BE):  56.1% of GDP
+FY24–25 (RE):  57.1% of GDP
+PwC  |  Fostering India’s Inclusive Growth5
+PwC  |  Fostering India’s Inclusive Growth6India is expected to remain fastest growing major economy in the world
+Robust growth in domestic consumption and exports but slowdown in urban 
+demand and investment in FY25As per the first advance estimates, India’s economic growth is expected to moderate to 6.4% in financial 
+year (FY) 2025 compared to 8.2% growth in FY24, mainly due to slowdown in urban consumption, high 
+food inflation, slow growth in capital formation and global headwinds. However, India is expected to 
+remain the world’s fastest growing in 2025, supported by a strong domestic market, rising working age 
+population and strong macroeconomic fundamentals.
+Government consumption growth is estimated to improve in FY25 given the increase in the revenue 
+expenditures of both State and Union Governments, while private consumption growth is expected to be 
+driven by rural demand, easing inflation and a favourable base. However, high frequency indicators such 
+as passenger vehicle sales and Fast Moving Consumer Goods reflect weakness in urban demand. Exports 
+are also expected to witness strong growth supported by robust growth in services exports. Investment 
+growth is expected to drop slightly in FY25 due to slowdown in capital expenditure at both the state and 
+central government level as well as due to a lack of pick-up in private investment.Annual GDP growth at constant prices
+Growth rates for government and private 
+consumption, investment and exports at 
+constant prices Indian economy 
+Source: International Monetary Fund, World Economic Outlook Update, January 2025
+Source:  First advance estimates of GDP for 2024–25, Ministry 
+of Statistics and Programme Implementation (MoSPI)2024 (Estimate) 2025 (Projection)World Output Advanced 
+EconomiesChina United States Euro Area Emerging Market 
+and Developing 
+Economies3.2%
+3.3%
+1.7%
+1.9%
+4.8%
+4.6%2.8%
+2.7%
+0.8%
+1.0%
+4.2%
+4.2%
+6.5%
+6.5%
+India
+FY24 (PE) FY25 (FAE)Govt
+consumptionPrivate
+consumptionInvestment Exports2.5%4.0%9.0%
+2.6%4.1%7.3%6.4%5.9%The economic survey projects growth in the 
+range of 6.3% to 6.8% in FY26. There are 
+downside risks to the growth that emerge 
+primarily from the external sector. Inflation 
+is expected to moderate to an average 
+of 4.5% in FY26, aided by a favourable 
+food inflation with good harvest and 
+normal monsoon expected and softening 
+commodity prices. The exchange rate, 
+which has been under pressure, should 
+improve, as the volatility in Foreign Portfolio 
+Investor (FPI) flows subsides and crude 
+price softening begins to lower the prices of 
+the Indian crude import basket. Outlook
+Existing Proposed
+Total Income (in INR) Tax rates Total Income (in INR) Tax rates
+0 – 300,000 Nil 0 - 400,000 Nil
+3,00,001 to 700,000 5% 4,00,001 to 800,000 5%
+7,00,001 to 10,00,000 10% 8,00,001 to 12,00,000 10%
+10,00,001 to 12,00,000 15% 12,00,001 to 16,00,000 15%
+12,00,001 to 15,00,000 20% 16,00,001 to 20,00,000 20%
+Above 15,00,000 30% 20,00,001 to 24,00,000 25%
+Above 24,00,000 30%Key tax and 
+regulatory proposals
+Tax rates
+•	Income-tax rates (including surcharge and health and education cess) for individuals to remain 
+unchanged for taxpayers opting for the old tax regime.
+•	For assessment year (AY) 2026–27, tax slabs for the New Personal Tax Regime (NPTR) are set out below:
+•	Tax rebate is proposed to be enhanced from INR 25,000 to INR 60,000 having an effect of Nil tax liability 
+up to total income of INR 12,00,000.
+•	No change in corporate income-tax rates.
+PwC  |  Fostering India’s Inclusive Growth7Income Tax
+Key takeaways: 
+•	The revised tax slabs are expected to reduce the financial burden for the middle class, giving them 
+more disposable income which will help in boosting household consumption, increasing personal 
+savings, and spurring investment.
+•	Salaried taxpayers earning income up to INR 12,75,000 need to pay zero tax as per the revised tax 
+slabs under NPTR.
+PwC  |  Fostering India’s Inclusive Growth8•	Specific changes in effective Basic Customs Duty (BCD) rate from 2 February 2025 are to be brought 
+forth to correct the inverted duty structure:
+•	Only one cess [either Social Welfare Surcharge 
+(SWS) or Agriculture Infrastructure and 
+Development Cess (AIDC)] is to be levied on any 
+product to ensure same effective Customs duty 
+where the BCD rate slabs are realigned.
+•	Exemptions from SWS rate from  
+2 February 2025 are provided for 82 Tariff Lines, 
+such as the following:
+ –Solar cells
+ –Luminaries and lighting fittings, including 
+searchlights and spotlights and parts  
+thereof, etc.
+ –Parts of electronic toys
+ –Solar module and other semiconductor devices 
+and photovoltaic cells
+ –Motor vehicles for transport of ten or more 
+persons
+ –Motor vehicles for transport of goods. Motor 
+cars other than Completely Built Units (CBU) 
+with CIF value exceeding USD 40,000.
+•	35 and 28 new specified capital goods for use in 
+manufacture of EV and mobile phone industry, 
+respectively, are added in the list of exempted 
+capital goods.Customs
+DescriptionChapter/ 
+Tariff HeadingEarlier BCD New effective BCD
+Open cell for Interactive Flat Panel 
+Display Module8524 15%/10% 5%
+Inputs and Parts of the Open 
+Cells for use in the manufacture of 
+Television Panels of LED/ LCD TV.8529 2.5% Nil
+Interactive Flat Panel Displays (CBU) 8528 59 00 10% 20%
+Knitted Fabrics Specified	heading	
+to chapter 6020%/10% 20% or INR 115/kg, 
+whichever is higher
+•	After a comprehensive review of the general 
+exemption notifications, out of 25 entries, 24 are 
+retained and 1 entry is removed. Therefore, with 
+effect from 1 April 2025, 20% BCD to apply on 
+heat coil for use in the manufacture of electrical 
+kitchen chimneys.
+•	Extension of export timeline and added duty-
+free inputs to industries such as handicraft. The 
+leather and marine industry also benefit from 
+reduced BCD to promote manufacturing and 
+exports.
+•	Rate of AIDC is increased with effect from  
+2 February 2025 on certain goods, such as the 
+following:
+ –Specified footwear – from Nil to 18.5%
+ –Solar Cells – Nil to 7.5%
+ –Specified motor vehicles of Headings 8702, 
+8703 and 8704 – Nil to 20%/ 67.5%.
+ –Laboratory chemicals – Nil to 70%
+ –Luminaries and lighting fittings – Nil to 5%.
+Key takeaway: The government continues with its objective to reduce the tax complexity and 
+rationalisation of inverted duty structure to facilitate Make in India.
+PwC  |  Fostering India’s Inclusive Growth9Widening and deepening of tax base
+Tax certainty•	To encourage voluntary compliance, the time limit to file an updated return of income is extended 
+from 24 months to 48 months from the end of the Assessment Year (AY). The additional tax outflow is 
+tabulated below:
+•	With effect from 1 April 2025, it is proposed that no fresh lease of eight years to be available to 
+accumulated losses in a merger/amalgamation. Losses to be allowable for the unexpired period only.
+•	The scope of definition of Virtual Digital Assets (VDAs) is proposed to be expanded to include 
+any crypto-asset, being a digital representation of value that relies on a cryptographically secured 
+distributed ledger or a similar technology to validate and secure transactions.Income Tax
+Time Period Additional Tax
+Upto 12 months 25%
+After 12 months and upto 24 months 50%
+After 24 months and upto 36 months 60%
+After 36 months and upto 48 months 70%
+Key takeaways:
+•	Enhanced time limit to file updated tax return will encourage taxpayers to self rectify mistakes and 
+avoid protracted tax litigation.
+•	Limiting the set off of accumulated losses would impact cost benefit of amalgamations for the 
+industrial undertakings that have accumulated losses.
+•	Seemingly, the definition of VDA has been expanded to align it with the definition of ‘crypto asset’ 
+mentioned in the OECD’s Crypto-Asset Reporting Framework.
+•	Scope of safe harbour rules to be expanded. 
+Detailed rules are awaited.
+•	Investments held by investment funds  
+[Category I or II Alternative Investment Fund 
+(AIFs)] are deemed to be ‘capital assets’.
+•	Long-term capital gains (LTCG) on the sale of 
+unlisted debt investments (whether or not such 
+capital gains are deemed to be short-term under 
+the current provisions) are to continue to qualify 
+for the exemption available to Sovereign Wealth 
+Funds (SWFs) and Pension Funds (PFs).•	LTCG arising in the hands of Real Estate 
+Investment Trust and Infrastructure Investment 
+Trust upon the sale of listed shares are to be 
+taxed at a concessional rate of 12.5%.
+•	To augment the government’s Semicon India 
+Programme, presumptive taxation is proposed 
+to be introduced for non-residents providing 
+services or technology to resident companies for 
+setting up an electronics manufacturing facility.
+ –Income is deemed as 25%Income Tax
+PwC  |  Fostering India’s Inclusive Growth10Description End Date
+Specific	bulk	drugs	for	manufacture	of	drugs	or	medicines 31 March 2029
+Bulk drugs used in the manufacture of polio vaccine and Mono 
+component insulins31 March 2029
+Goods	for	the	manufacture	of	telecommunication	grade	optical	fibres	or	
+optical	fibre	cables31 March 2027
+Goods for use in the manufacture of Open cell of LCD and LED TV panel 31 March 2027
+Parts of wind operated electricity generators, for the manufacture or the 
+maintenance of wind operated electricity generators31 March 2026
+Permanent magnets for manufacture of PM synchronous generators 
+above 500KW for use in wind-operated electricity generators31 March 2026 –Effective tax rate payable is 8.75% (35% of deemed income), excluding surcharge and cess
+ –It is clarified in the frequently asked questions introduced post the Budget that services provided by 
+technical personnel is also part of the presumptive scheme.
+•	It is proposed to clarify that a Significant Economic Presence (SEP) will not constitute for a transaction 
+confined to the purchase of goods in India for the purpose of export.
+•	A new provision is introduced, which allows importers and exporters to voluntarily revise the entries, 
+post clearances. Based on the revisions, the importer or exporter is allowed to either avail refund of 
+excess duty paid or make payment of differential duties and interest (but without penalty), in case of 
+excess or short payment of duty at the original instance, respectively. However, this revision is not 
+allowed in specified cases, e.g. investigation, audit and re-assessment.
+•	Extension of specific conditional BCD exemptions (Notification No. 50/2017 - Customs dated  
+30 June 2017) is extended beyond 31 March 2025 for a one- to ten-year periods as set out below:CustomsKey takeaways:
+•	Year after year, the government has consistently focused on promoting manufacturing in India, 
+simplifying tax laws and providing tax certainty. This year is no exception. Apart from harmonising 
+the SEP provisions with the concept of ‘business connection’, this new presumptive scheme offers 
+greater tax certainty, helps in determining the tax costs upfront and lowers the risk of protracted 
+tax litigation. 
+•	The extension of sunset date for tax exemptions on investments made by SWFs and PFs will 
+significantly aid in boosting investment and growth in the infrastructure sector.
+•	The expansion of safe harbour provisions aims to reduce litigation and provide greater certainty in 
+international taxation, which could certainly impact Global capability centers.
+Key takeaway: Tax certainty is a key pillar of trade facilitation. Based on stakeholders’ consultations, 
+the proposed measures endeavour to encourage voluntary compliances to avoid possible dispute in 
+the future and also extend status quo on critical exemptions.
+PwC  |  Fostering India’s Inclusive Growth11•	With a view to nullify the impact of the recent judgement by the Supreme Court in the case of  
+Safari Retreat1, the phrase ‘plant or machinery’ is proposed to be replaced with ‘plant and machinery’ in 
+section 17(5)(d) of the Central Goods and Services Tax Act, 2017 (CGST Act), retrospectively from  
+1 July 2017. A new entry is inserted in Schedule III retrospectively from 1 July 2017. 
+•	Supply of goods warehoused in a Special Economic Zone (SEZ) or Free Trade Warehouse Zone (FTWZ) 
+to any person before clearance for exports or to the Domestic Tariff Area are deemed to be not supply. 
+No refund can be claimed in respect of any tax previously paid in this regard.
+•	Provisions in relation to time of supply of vouchers are omitted, in view of the intention of the 
+government not to treat transaction in vouchers as supply.
+1 Civil Appeal No. 2948 of 2023 dated 3 October 2024GST
+Rationalisation and simplification
+•	Presently, the annual value of a self-occupied 
+house property which cannot be occupied by the 
+owner is considered ‘Nil’ if there are specified 
+reasons. Amendments are now proposed to 
+provide that the annual value of the property is  
+to be considered Nil if it is not self-occupied for 
+any reason. 
+•	Block assessment for transfer pricing 
+assessment proceedings
+ –Changes are proposed in the existing transfer 
+pricing assessment provisions to introduce 
+multi-year ALP determination. 
+ –The proposed amendment provides that the 
+ALP for an international transaction for any 
+year will apply to a similar transaction for the 
+next two consecutive years.Income Tax
+ –The taxpayer needs to opt for block 
+assessment. The option will be subject to the 
+validation and subsequent examination of 
+the ALP by the Transfer Pricing Officer (TPO). 
+The form, manner and timelines are to be 
+prescribed.
+ –These changes are to take effect from  
+1 April 2026.
+•	Deemed dividend provisions are to be relaxed on 
+a loan or advance by a Finance Company / Unit 
+undertaking treasury activities in the IFSC, to its 
+group entity listed outside India. Conditions in 
+this regard are to be prescribed.Key takeaway: The amendment aimed at nullifying the impact of Supreme Court judgement, would 
+have significant implications for industry stakeholders, particularly concerning blocked input tax 
+credits on buildings and civil structures. Businesses are to promptly conduct thorough assessment 
+of the impacted assets to determine if they qualify as ‘plant and machinery’ under GST law, as this 
+classification would maintain their eligibility for input tax credits. The insertion of the new entry in 
+Schedule III in respect of supply of goods warehoused in SEZ or FTWZ seems to settle the issue 
+once and for all and clearly clarifies the intention of the government not to treat such transactions as 
+a supply.
+Section Present Threshold Proposed Threshold
+194 INR 5,000 INR 10,000
+194I INR 240,000 during the  
+financial	year	(FY)INR 50,000 per month or part of a month 
+(i.e. INR 600,000 during the FY)
+194J INR 30,000 INR 50,000•	Key revisions in Tax Deduction at Source (TDS) thresholds:
+For other TDS related revision in thresholds, kindly refer to Annexure – A.
+•	The threshold limit for Taxes Collected at Source 
+(TCS) under the Liberalised Remittance Scheme 
+(LRS) and for sellers of overseas tour packages 
+is proposed to be reduced from INR 0.7m to 1m. 
+TCS provisions on the sale of goods to not apply 
+with effect from 1 April 2025. For details, kindly 
+refer to Annexure – B.
+•	The period for processing of immunity 
+applications by the tax officer is extended from 
+one month to three months from the end of 
+the month in which the tax officer receives the 
+application.
+•	The time limit to pass the penalty order is 
+rationalised to six months from the end of the 
+relevant quarter in which –  –proceedings pursuant to which the penalty is 
+initiated are completed; or
+ –revision order is passed; or
+ –order is received by the relevant authorities, in 
+case of appeal; or
+ –notice of penalty initiation is issued.
+•	For computing the limitation period for various 
+proceedings, the commencement date and 
+the end date is clarified with regard to the stay 
+granted by court. The period beginning from the 
+date of grant of stay order by any court till the 
+receipt of the certified copy of the order vacating 
+the stay by jurisdictional Principal Commissioner 
+or Commissioner, is to be excluded.
+Key takeaways:
+•	Introduction of block assessment for transfer pricing proceedings is in line with international tax 
+practices and would result in releasing significant administrative burden for the taxpayers. Rules in 
+this regard are currently awaited, and it will be an interesting space to watch out for.
+•	The amendments related to TDS / TCS aims at improving cash flow for businesses, particularly 
+for small and medium enterprises, while ensuring that tax collection remains robust and targeted 
+towards significant transactions.
+PwC  |  Fostering India’s Inclusive Growth12
+PwC  |  Fostering India’s Inclusive Growth13
+•	Rationalisation of existing Customs duty rate slabs from 15 to 8, including zero rate, with effect from 
+1 May 2025 are to be carried out as follows:
+ –Existing tariff rate from 25%, 30%, 40% is changed to 20%.
+ –Existing tariff rate from 150%, 120% and 100% is changed to 70%.
+•	Re-alignments in Customs Tariff Act, 1975 notified with effect from 1 May 2025 in terms of the following:
+ –Creation of new Tariff lines and explanations in certain chapters (Chapter 29, 38).
+ –Alignment with the Explanatory Notes of HSN 2022 (Chapter Note 2 to Chapter 85).Customs
+Illustrative examples are set out below:
+However, the effective Customs duty remains unchanged.DescriptionChapter/ 
+Tariff HeadingEarlier BCD New effective BCD
+Specified	Footwear 6401 – 6405 35% 20%
+Sollar Cells 8541 42 00 40% 20%
+Solar	Modules/	specified	 
+semi-conductor devices/ PV cells8541 43 00 
+8541 49 0040% 20%
+Motor vehicles for transport of 10 
+or more persons8702 40% 20%
+Passenger Cars 8703 125% 70%
+Motor vehicles for transport of 
+Goods8704 40% 20%
+Specified	motorcycles	(with	or	
+without side car)8711 100% 70%
+Luminaries	and	lighting	fittings	etc. 9405 25% 20%
+Parts of electronic toys 9503 00 91 70% 20%
+Laboratory Chemicals 9802 00 00 150% 70%
+Key takeaway: Realignment of duty slabs is expected to aid not only administration but is also a step 
+towards a leaner duty structure which is predictable and easy for compliances.
+PwC  |  Fostering India’s Inclusive Growth14•	Pre-deposit for cases involving only penalty (no tax demand involved) is revised as below:
+ –Reduced from 25% to 10% of penalty for appeal before the appellate authority for cases under 
+section 129(3) of the CGST Act.
+ –For cases involving penalty other than under section 129(3) of the CGST Act, the pre-deposit is to be 
+10% of the penalty at the appellate authority and Tribunal level.
+•	Definition of ‘Input Service Distributor’ (ISD) and provisions relating to manner of distribution by ISD 
+are amended. Distribution of input tax credit (ITC) paid in respect of Integrated Goods and Service Tax 
+(IGST) paid under reverse charge mechanism enabled.GST
+•	Under the Central Excise Law, the Settlement Commission is to be dissolved with effect from.  
+1 April 2025, and Interim Boards for Settlement (Interim Boards) are proposed to be established to 
+process all pending applications.Central Excise
+•	To provide speedy approvals, the scope of fast-track mergers to be widened, and the process to be 
+simplified.
+•	Jan Vishwas Bill 2.0 to decriminalise more than 100 provisions in various laws. Regulatory
+Ease of doing business
+•	The provisions providing for higher TDS or TCS for non-filers of return of income are proposed to be 
+deleted with effect from 1 April 2025.
+•	With an aim to further boost start-ups in India, the period for incorporation of eligible start-ups claiming 
+tax holiday is to be extended by five years from 1 April 2025 to 1 April 2030.
+•	Relaxation to be provided from invoking prosecution-related provisions in case of delayed deposit of 
+TCS, up to the due date of filing the TCS return (akin to TDS provisions).Income TaxKey takeaway: Simplifying the company merger process can speed up integration, realize synergies 
+faster, and reduce legal and administrative costs. Additionally, decriminalizing various provisions 
+may create a more business-friendly environment, encouraging entrepreneurship, innovation, and 
+economic growth.
+Key takeaway: These are positive steps towards incentivising start-ups, reducing the risk of default 
+and moderating the compliance burden for deductors or collectors of TDS or TCS.
+PwC  |  Fostering India’s Inclusive Growth15•	To increase certainty through procedural ease, the following changes in Customs law are provided:
+ –Provisional assessment to be finalised within a period of two years extendable on merits by one 
+year, except in specified cases (e.g. when any information is being sought from an authority outside 
+India through a legal process, an appeal in similar matter of the same person is pending before any 
+Appellate Tribunal, High Court, Supreme Court, etc.). For pending provisional assessments, the period 
+for finalisation is to be counted from the date of enactment of the Finance Act, 2025.
+ –The Customs (Import of Goods at Concessional Rate of Duty or for Specified End Use), Rules 2022 
+are revised to relax compliances, i.e. returns are to be filed quarterly instead of monthly, and the time 
+period of utilisation of goods is extended from six months to one year.Customs
+•	A high-level committee to review all non-financial sector regulations to strengthen trust-based economic 
+governance.
+•	Foreign Direct Investment (FDI) limits under the Insurance sector to be liberalised from 74% to 100% for 
+companies investing the entire premium in India.
+•	Current guardrails and conditionalities associated with foreign investment to be reviewed and simplified.Regulatory
+Financial services and Capital markets
+•	Sunset period for tax neutrality on relocation of 
+offshore funds to International Financial Services 
+Centre (IFSC) extended to 31 March 2030.
+•	Tax neutrality extended to relocation of offshore 
+funds to Exchange Traded Funds and retail funds 
+in the IFSC.
+•	For claiming tax holiday on account of 
+transfer of any aircraft or ship, the timeline for 
+commencement of operations by an IFSC unit 
+leasing such aircraft or ship is now extended 
+from 31 March 2025 to 31 March 2030.Income Tax
+•	The deadline for making investments by SWFs 
+and PFs in the infrastructure sector is extended 
+from 31 March 2025 to 31 March 2030.
+•	Fund managers managing offshore funds to 
+determine the condition of up to 5% participation 
+in offshore funds by persons resident in India 
+semi-annually on April 1 and October 1.  
+Non-compliance (if any) to be cured within  
+four months.
+•	Uniform tax rate of 12.5% to be applicable on 
+LTCG derived by Foreign Institutional Investors 
+(FIIs) or other specified funds in securities other 
+than listed equity shares.Key takeaway: The measures relating to relaxation of periodic compliances and ensuring closure of 
+assessment in a time-bound manner are expected to reduce the compliance and business costs.
+Key takeaway: Regularization and simplification of non-financial sector and FDI regulations are 
+poised to create a more conducive environment for business operations and foreign investments. 
+These changes are expected to drive economic growth, enhance competitiveness, and foster a more 
+transparent and predictable regulatory landscape.
+PwC  |  Fostering India’s Inclusive Growth16•	Exemption available to non-residents on  
+non-deliverable forwards or Overseas Derivative 
+Instrument contracts with Offshore Banking Units 
+is now extended to IFSC-based FPIs.
+•	Time limit for commencing the operations by an 
+IFSC unit, for claiming exemption on the income 
+of a non-resident recipient by way of royalty or 
+interest, on account of lease of a ship or aircraft, 
+is now extended from 31 March 2025 to  
+31 March 2030.
+•	Exemption on dividend income from one IFSC 
+unit to another IFSC unit, earlier available to 
+aircraft leasing entities, is now extended to  
+ship-leasing entities.•	Exemption on capital gains arising on transfer of 
+equity shares by one IFSC unit to another IFSC 
+unit, earlier available to a non-resident or an IFSC 
+unit engaged in aircraft leasing, is now extended 
+to ship leasing entities. Furthermore, the time 
+limit for commencing the operations for ship or 
+aircraft leasing entities is now extended from  
+31 March 2026 to 31 March 2030.
+•	Exemption is provided to non-residents on 
+proceeds received from life insurance policies 
+availed from IFSC Insurance Offices.
+•	SWAMIH Fund 2 of INR 150bn to be established with contribution from the government, banks and 
+private investors, for the completion of an additional 100,000 dwelling units.Regulatory
+Other key proposalsKey takeaway: The focus on building mechanisms for impact evaluation, enhancing the financial 
+sector’s responsiveness, and establishing the SWAMIH Fund 2 may act as an important economic 
+growth factor fostering a robust, inclusive and dynamic framework. Further, the establishment of 
+SWAMIH Fund 2 may lead to the promotion of the real estate sector while addressing social needs. 
+This will provide a significant boost to the real estate sector, particularly in the completion of stalled 
+projects.
+•	Interim Board to replace Settlement Commission covering Central Excise Act, 1944. The process and 
+working of the proposed Interim Board are prescribed. However, no application can be made before the 
+Interim Board post 1 April 2025.Customs
+•	Requirement for reversal of ITC (attributable to a credit note) by the recipient, to reduce the supplier’s 
+output tax liability.
+•	A new provision is inserted to provide for ‘Track and Trace’ mechanism for ensuring effective monitoring 
+and control of supply of specified commodities. This is to be implemented by affixing a Unique 
+Identification Mark (UIM). A new penal provision for contraventions in this regard is inserted.
+•	A special provision is inserted to give retrospective exemption from service tax on reinsurance services 
+provided by insurance companies under the Weather Based Crop Insurance Scheme and the Modified 
+National Agricultural Insurance Scheme (from 1 April 2011 to 30 June.2017) along with a refund 
+mechanism in cases where service tax has been collected.GST
+PwC  |  Fostering India’s Inclusive Growth17
+•	The coverage and scope of Micro, Small and Medium Enterprises (MSMEs) is proposed to be 
+broadened, and investment and turnover criteria are to be enhanced as follows:-
+•	The National Manufacturing Mission is 
+introduced, focusing on ease and cost of doing 
+business, a dynamic MSME sector, future-ready 
+workforce, and availability of technology and 
+quality products. 
+•	A Centre of Excellence is to be set up in artificial 
+intelligence for education. 
+•	A national framework is to be set up for 
+promoting global capability centres in emerging 
+Tier-2 cities. 
+•	Gig workers to be eligible for healthcare benefits 
+under the PM Jan Arogya Yojana.
+•	Clean tech manufacturing to be used for solar 
+PV cells, EV batteries, motors and controllers, 
+electrolyzes, wind turbines, very high voltage 
+transmission equipment and grid-scale batteries.Regulatory
+CategoryInvestment (INR in m) Turnover (INR in m)
+Current Revised Current Revised
+Micro Enterprises 10 25 50 100
+Small Enterprises 100 250 500 1000
+Medium Enterprises 500 1,250 2,500 5,000
+•	Schemes to be formulated with focus on the 
+development of clusters, skills and manufacturing 
+ecosystem for making India a global hub for toys.
+•	Schemes for India’s footwear and leather sector 
+to be launched for boosting design capacity, 
+component manufacturing.
+•	A new fund of funds to be set up for start-ups 
+with expanded scope, and a fresh contribution of 
+another INR 100bn to be made.
+•	Digital public infrastructure ‘BharatTradeNet’ 
+to be set up for international trade as a unified 
+platform for trade documentation and financing 
+solutions.
+PwC  |  Fostering India’s Inclusive Growth18
+The Union Budget 2025 reinforces India’s growth agenda with a push for education, exports, 
+consumption and regulatory reforms. The 6.65% increase in allocation for the education sector will 
+accelerate skill development, aligning with the vision of ‘Viksit Bharat’. Measures to boost exports will 
+drive GDP growth, creating more opportunities. The much-awaited tax relief for the middle class will 
+enhance disposable income, stimulating demand and contributing to the desired level of economic 
+growth. Overall, this budget supports economic momentum and strengthens the foundation for a 
+digital-first, skill-driven economy to contribute to India’s progress.““
+Sanjeev Bansal
+NIIT Limited
+CFOA growth and consumption-oriented budget: Amendments ranging from the New Income Tax Bill are 
+to be presented in the current session., exempting personal Income-tax up to INR 12,00,000/- under 
+the new tax regime (which would result in increased expenditure towards personal consumption), 
+multi-year arm’s length price determination from a transfer pricing perspective (in line with the 
+provisions in developed countries) and rationalisation of withholding tax provisions and Customs duty 
+rates – Strong step for India moving towards developed economy.““
+Abhinav Sogani
+Tata Consumer Products
+Tax Head
+The Indian Government’s Budget 2025 is focused on fostering growth and simplifying tax regulations. 
+The increase in individual tax limits provides higher disposable income, boosting consumption. 
+Rationalising TDS and TCS compliances enhance ease-of-doing business, supporting entrepreneurs. 
+Extensions of the sunset clauses for sovereign wealth funds startups and IFSC units aim to attract 
+investments. The introduction of a new Income Tax Bill promises to simplify the tax code. Not raising 
+the capital gains tax rate and avoiding inheritance tax alleviate investor concerns, encouraging further 
+investment. Overall, the budget balances economic growth, ease of compliance and investment 
+promotion effectively.““
+Ravi Shingari
+Apollo Tyres
+Group Head – Accounts and Tax
+Industry Speaks
+PwC  |  Fostering India’s Inclusive Growth19The Union Budget 2025–26 will play a crucial role in driving growth and fostering inclusive 
+development. It focuses on sustaining economic expansion, enhancing infrastructure, improving 
+the ease-of-doing business, bolstering social programs and healthcare, and supporting MSMEs. 
+The SWAMIH Fund 2, with an allocation of INR 15,000crores, along with the capital expenditure 
+allocation and INR 1.5lakh crore allocation in interest-free loans for states, will serve as a catalyst for 
+strengthening the economy.““
+Vineet Singhal
+Gaursons Group
+CFO
+Budget 2025 has reaffirmed the government’s policy of tax certainty. Income-tax breaks to boost 
+consumption should augur well for the economy. While we await the New Income Tax Bill, efforts to 
+streamline TDS and TCS provisions should reduce compliance burden on corporates.“ “
+Ashok Dharmarajan
+ITC Limited
+Executive V.P . and Head (Corporate Tax)
+
+PwC  |  Fostering India’s Inclusive Growth20Annexures
+Annexure A – Revision of thresholds applicable to TDS
+Section Description Current threshold Proposed threshold
+193 Interest on securities Nil* INR 10,000
+194A Interest other than interest on 
+securities(i) INR 50,000 for senior 
+citizens; (ii) INR 40,000 for 
+others when the payer is 
+bank, cooperative society or 
+post	office;	(iii)	INR	5,000	in	
+other cases(i) INR 1,00,000 for senior 
+citizens; (ii) INR 50,000 for 
+others when the payer is 
+bank, cooperative society or 
+post	office;	(iii)	INR	10,000	in	
+other cases
+194K Income in respect of units of 
+a	mutual	fund	or	specified	
+company or undertaking INR 5,000 INR 10,000
+194B Winnings from lottery, 
+crossword puzzle, etc. Aggregate of amounts 
+exceeding INR 10,000 during 
+the FYINR 10,000 in respect of a 
+single transaction
+194BB Winnings from horse race Aggregate of amounts 
+exceeding INR 10,000 during 
+the FYINR 10,000 in respect of a 
+single transaction
+194D Insurance commission INR 15,000 INR 20,000
+194G Income by way of 
+commission, prize, etc. on 
+lottery ticketsINR 15,000 INR 20,000
+194H Commission or brokerage INR 15,000 INR 20,000
+194LA Income by way of enhanced 
+compensation INR 250,000 INR 500,000
+*  Threshold for interest on debentures payable to individual or HUF issued by a company in which the public are substantially 
+interested was INR 5,000 earlier.These amendments are to take effect from 1 April 2025.
+Annexure B – Relaxation of threshold for TCS on LRS
+Description Current threshold Proposed threshold
+LRS	for	education	financed	by	
+loan	from	specified	financial	
+institution Nil upto INR 0.7m 
+0.5% above INR 0.7m TCS not applicable 
+Purchase of overseas tour 
+program package 5% till INR 0.7m 
+20% above INR 0.7m 5% till INR 1m 
+20% above INR 1m 
+LRS for medical treatment or 
+education	(other	than	financed	
+by	loan	from	a	specified	financial	
+institution) Nil upto INR 0.7m 
+0.5% above INR 0.7m Nil upto INR 1m 
+0.5% above INR 1m 
+LRS for other purposes Nil upto INR 0.7m 
+5% above INR 0.7m Nil upto INR 1m 
+5% above INR 1m 
+These amendments are to take effect from 1 April 2025. 
+PwC  |  Fostering India’s Inclusive Growth21
+About PwC
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of 
+firms	in	151	countries	with	over	360,000	people	who	are	committed	to	delivering	quality	in	assurance,	
+advisory and tax services. Find out more and tell us what matters to you by visiting us at www.pwc.com.
+PwC	refers	to	the	PwC	network	and/or	one	or	more	of	its	member	firms,	each	of	which	is	a	separate	
+legal entity. Please see www.pwc.com/structure for further details.
+© 2025 PwC. All rights reserved.
+pwc.in
+Data Classification: DC0 (Public)
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate 
+Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited 
+(PwCIL), each member firm of which is a separate legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or derived from 
+sources believed by PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this 
+information is accurate or complete. Any opinions or estimates contained in this document represent the judgment of PwCPL at 
+this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice 
+before taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. 
+PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information 
+contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved. 
+AW - February 2025 - M&C 

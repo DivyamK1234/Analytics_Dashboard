@@ -1,0 +1,538 @@
+CONTENT ANALYSIS SUMMARY
+=======================
+
+Document 1: pwc_multichannel-strategy.txt
+  Word count: 1621
+  Sentence count: 147
+  Top 5 words: customer, service, channels, channei, contact
+
+Document 2: pwc_shale-oil-report.txt
+  Word count: 2996
+  Sentence count: 215
+  Top 5 words: oii, shale, globai, production, price
+
+Document 3: kpmg_sebi-cscrf-our-point-of-view.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 4: pwc_managing-in-uncertain-times-hr-at-crossroads.txt
+  Word count: 1548
+  Sentence count: 151
+  Top 5 words: ceos, may, wili, per, cent
+
+Document 5: kpmg_global-tech-report-healthcare-insights.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 6: pwc_before-tomorrow-dawns.txt
+  Word count: 3675
+  Sentence count: 287
+  Top 5 words: security, information, respondents, india, organisations
+
+Document 7: pwc_countdown_to_companies_act_2013_impact_on_transactions_and_corporate_restructuring.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 8: pwc_connected-life-the-next-five-years-in-asia.txt
+  Word count: 3805
+  Sentence count: 295
+  Top 5 words: mobile, power, usd, impact, india
+
+Document 9: pwc_socio-economic-impact-of-mhealth-brazil-and-mexico.txt
+  Word count: 7107
+  Sentence count: 752
+  Top 5 words: mhealth, healthcare, mexico, could, patients
+
+Document 10: kpmg_aau-accounting-and-auditing-update-march-2025.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 11: kpmg_remote-working-in-india-tax-and-regulatory-consideration.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 12: pwc_automobiles-the-economic-outlook-and-employment-situation.txt
+  Word count: 3426
+  Sentence count: 373
+  Top 5 words: industry, sales, vehicle, growth, auto
+
+Document 13: pwc_bs-renewables-v1.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 14: pwc_indian-mutual-fund-industry-fv.txt
+  Word count: 6968
+  Sentence count: 569
+  Top 5 words: fund, mutuai, industry, funds, investors
+
+Document 15: pwc_pwc_5th_annual_digital_iq_survey.txt
+  Word count: 1686
+  Sentence count: 135
+  Top 5 words: pwc, india, digitai, survey, business
+
+Document 16: pwc_global-capability-centres.txt
+  Word count: 229
+  Sentence count: 16
+  Top 5 words: gccs, tax, authorities, key, cities
+
+Document 17: pwc_harvesting-the-sun-to-address-southern-region-power.txt
+  Word count: 8585
+  Sentence count: 571
+  Top 5 words: solar, power, energy, projects, generation
+
+Document 18: pwc_changing-landscape-of-the-indian-pharma-industry.txt
+  Word count: 4321
+  Sentence count: 383
+  Top 5 words: india, pharma, clinicai, companies, industry
+
+Document 19: kpmg_food-and-nutritional-security-in-india.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 20: pwc_towards-climate-resilient-future.txt
+  Word count: 10540
+  Sentence count: 5719
+  Top 5 words: climate, islands, nicobar, andaman, ani
+
+Document 21: pwc_bs-msme.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 22: kpmg_geopolitics-top-risk-2025-executive-summary.txt.coredownload.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 23: pwc_running-it-as-a-business.txt
+  Word count: 11069
+  Sentence count: 845
+  Top 5 words: cloud, business, data, wili, pwc
+
+Document 24: pwc_smart-governance-and-technology.txt
+  Word count: 8163
+  Sentence count: 477
+  Top 5 words: government, architecture, services, process, technology
+
+Document 25: kpmg_evolving-third-party-landscape-in-indias-media-and-entertainment-industry.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 26: kpmg_spotlight-on-internal-office-accounts.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 27: pwc_foreign-banks-in-india.txt
+  Word count: 11182
+  Sentence count: 805
+  Top 5 words: banks, india, bank, foreign, banking
+
+Document 28: pwc_budget-2025-impact-domestic-companies.txt
+  Word count: 1673
+  Sentence count: 115
+  Top 5 words: tax, budget, domestic, pwc, inr
+
+Document 29: pwc_convergence-event-report-pwc.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 30: pwc_imperatives-for-growth-the-wellness-industry.txt
+  Word count: 5711
+  Sentence count: 377
+  Top 5 words: wellness, industry, players, growth, products
+
+Document 31: pwc_breaking-dawn-on-the-horizon-destination-india-2013.txt
+  Word count: 16357
+  Sentence count: 905
+  Top 5 words: tax, india, company, foreign, indian
+
+Document 32: pwc_business-standard-budget-business.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 33: pwc_corporate-attributes-and-practices-towards-arbitration-in-india.txt
+  Word count: 2902
+  Sentence count: 218
+  Top 5 words: arbitration, companies, india, dispute, resolution
+
+Document 34: pwc_bs-retail.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 35: pwc_enterprise-mobility-putting-people-first.txt
+  Word count: 5378
+  Sentence count: 418
+  Top 5 words: mobility, enterprise, organisations, devices, applications
+
+Document 36: pwc_16th-ceo-survey-india-final-for-circulation.txt
+  Word count: 2652
+  Sentence count: 267
+  Top 5 words: india, ceos, globai, ceo, pwc
+
+Document 37: kpmg_liberation-day-its-implications-on-india.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 38: pwc_innovation-in-fmcg.txt
+  Word count: 1208
+  Sentence count: 141
+  Top 5 words: fmcg, innovation, new, pwc, products
+
+Document 39: pwc_india-budget-2025-key-proposals-financial-services-sector.txt
+  Word count: 1732
+  Sentence count: 164
+  Top 5 words: tax, pwc, budget, ifsc, proposals
+
+Document 40: pwc_how-india-spends-a-deep-dive-into-consumers-pending-behaviour.txt
+  Word count: 13520
+  Sentence count: 1825
+  Top 5 words: spending, india, expenses, transactions, analysis
+
+Document 41: kpmg_global-tech-report-tmt-sector-cut-report.txt.coredownload.inline.txt
+  Word count: 2335
+  Sentence count: 182
+  Top 5 words: kpmg, tech, technology, sector, internationai
+
+Document 42: pwc_climate-sustainability.txt
+  Word count: 265
+  Sentence count: 13
+  Top 5 words: energy, tax, renewable, india, incentives
+
+Document 43: kpmg_vor-key-financial-reporting-updates-for-the-quarter-ended-31-march-2025.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 44: pwc_it-print.txt
+  Word count: 2724
+  Sentence count: 206
+  Top 5 words: logistics, business, companies, pwc, sector
+
+Document 45: pwc_financial-express.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 46: pwc_changing-dynamics-final-copy-feb-4-2013.txt
+  Word count: 11551
+  Sentence count: 881
+  Top 5 words: india, defence, indian, aerospace, sector
+
+Document 47: Union_Budget_2025.txt
+  Word count: 36
+  Sentence count: 4
+  Top 5 words: agriculture, sector, allocation, inr, lakh
+
+Document 48: pwc_bs-healthcare.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 49: pwc_emerging-trends-in-real-estate.txt
+  Word count: 18392
+  Sentence count: 2166
+  Top 5 words: reai, estate, asia, one, market
+
+Document 50: kpmg_top-geopolitical-risks-2025-web.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 51: pwc_forging-ties-securing-energy-supply-for-a-stronger-economy.txt
+  Word count: 4783
+  Sentence count: 407
+  Top 5 words: energy, oii, india, gas, indian
+
+Document 52: kpmg_kpmg-global-tech-report-industrial-manufacturing-insights.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 53: kpmg_global-tech-report-enrc.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 54: pwc_building-a-social-enterprise.txt
+  Word count: 1247
+  Sentence count: 107
+  Top 5 words: sociai, media, customer, business, pwc
+
+Document 55: kpmg_generative-ai-value-risk-and-regulation.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 56: pwc_home-improvement-the-building-and-home-products-industry.txt
+  Word count: 2778
+  Sentence count: 256
+  Top 5 words: india, market, growth, construction, tiles
+
+Document 57: kpmg_three-new-criminal-laws.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 58: pwc_grey-swans-transformation-of-risk-in-an-interconnected-world.txt
+  Word count: 4233
+  Sentence count: 311
+  Top 5 words: risk, management, organisations, risks, india
+
+Document 59: pwc_driving-indias-growth-imperative.txt
+  Word count: 0
+  Sentence count: 0
+  Top 5 words: 
+
+Document 60: pwc_chemical-industry-leadership-on-sustainability-aspire.txt
+  Word count: 5311
+  Sentence count: 489
+  Top 5 words: sustainability, chemicai, companies, industry, chemicals
+
+Document 61: kpmg_labour-codes.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 62: pwc_exploring-new-horizons.txt
+  Word count: 5543
+  Sentence count: 478
+  Top 5 words: financiai, rurai, insurance, banks, industry
+
+Document 63: pwc_digital-iq.txt
+  Word count: 460
+  Sentence count: 38
+  Top 5 words: cloud, india, business, respondents, technologies
+
+Document 64: pwc_domestic-transfer-pricing-navigating-new-challenges-booklet.txt
+  Word count: 2506
+  Sentence count: 250
+  Top 5 words: company, tax, pricing, transfer, provisions
+
+Document 65: kpmg_management-capability-development-index-mcdi-india-2024-report.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 66: pwc_fostering-indias-inclusive-growth-v1.txt
+  Word count: 3409
+  Sentence count: 321
+  Top 5 words: inr, tax, ooo, india, pwc
+
+Document 67: pwc_bs-ai.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 68: pwc_bs-telecom.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 69: pwc_handbook-on-corporate-social-responsibility-in-india.txt
+  Word count: 8873
+  Sentence count: 685
+  Top 5 words: csr, companies, company, activities, sociai
+
+Document 70: pwc_tax-sops-higher-deposit-insurance-can-offer-support-banks.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 71: pwc_coal-mining-icc-report-v2-300613.txt
+  Word count: 5160
+  Sentence count: 490
+  Top 5 words: coai, mining, private, sector, india
+
+Document 72: pwc_people-oriented-architecture.txt
+  Word count: 2456
+  Sentence count: 205
+  Top 5 words: employees, employee, rewards, pwc, people
+
+Document 73: pwc_retail-reinvention-paradigm-v1.txt
+  Word count: 6364
+  Sentence count: 437
+  Top 5 words: retaii, retailers, online, pwc, consumer
+
+Document 74: pwc_companies-act-2013-key-highlights-and-analysis.txt
+  Word count: 11234
+  Sentence count: 728
+  Top 5 words: act, company, section, companies, financiai
+
+Document 75: pwc_m2m-technologies.txt
+  Word count: 3874
+  Sentence count: 416
+  Top 5 words: india, data, services, smart, pwc
+
+Document 76: pwc_telecom-trends.txt
+  Word count: 418
+  Sentence count: 53
+  Top 5 words: wili, pwc, telecom, publication, network
+
+Document 77: pwc_tax-glimpses-2012.txt
+  Word count: 27749
+  Sentence count: 2261
+  Top 5 words: tax, india, act, company, transfer
+
+Document 78: pwc_dissecting-indias-risk-equity-premium.txt
+  Word count: 2112
+  Sentence count: 226
+  Top 5 words: growth, gdp, risk, market, rate
+
+Document 79: pwc_socio-economic-impact-of-mhealth-the-european-union.txt
+  Word count: 7400
+  Sentence count: 670
+  Top 5 words: healthcare, mhealth, patients, chronic, solutions
+
+Document 80: pwc_benchmarking-study-of-organisational-structures-in-manufacturing-companies.txt
+  Word count: 1853
+  Sentence count: 124
+  Top 5 words: structure, companies, functions, strategy, pwc
+
+Document 81: pwc_simplification-of-tax-law.txt
+  Word count: 302
+  Sentence count: 25
+  Top 5 words: tax, provisions, act, litigation, taxpayers
+
+Document 82: kpmg_money-mules-fincrimes-trojan-horse-unveiled.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 83: pwc_the-holy-grail-of-indigenisation.txt
+  Word count: 4604
+  Sentence count: 314
+  Top 5 words: defence, india, indian, technology, sector
+
+Document 84: pwc_connected-life-210213.txt
+  Word count: 4139
+  Sentence count: 315
+  Top 5 words: mobile, million, could, connected, impact
+
+Document 85: pwc_impact-on-mncs-budget-allocation-and-tax-policy-implications.txt
+  Word count: 2074
+  Sentence count: 167
+  Top 5 words: india, budget, tax, government, pwc
+
+Document 86: pwc_invading-privacy-cyber-crimes-on-the-rise.txt
+  Word count: 4384
+  Sentence count: 357
+  Top 5 words: cyber, india, security, organisations, information
+
+Document 87: pwc_exec-summary.txt
+  Word count: 1208
+  Sentence count: 105
+  Top 5 words: financiai, banks, services, market, business
+
+Document 88: pwc_bs-electronics.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 89: pwc_looking-ahead-securing-energy-through-clean-technologies.txt
+  Word count: 6686
+  Sentence count: 600
+  Top 5 words: power, gas, energy, state, solar
+
+Document 90: kpmg_pulse-of-fintech-h2-2024.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 91: pwc_business-standard-budget-impact.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 92: pwc_bs-power-infra.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, time, data
+
+Document 93: pwc_indian-pe-in-2012-outlook-2013.txt
+  Word count: 595
+  Sentence count: 62
+  Top 5 words: usd, investments, year, billion, deals
+
+Document 94: pwc_leading-industry-practices-in-security-and-privacy.txt
+  Word count: 5099
+  Sentence count: 425
+  Top 5 words: security, privacy, information, organisations, compliance
+
+Document 95: kpmg_related-party-transactions-minimum-information-for-review.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 96: kpmg_cyber-considerations-2025.txt.coredownload.inline.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 97: kpmg_third-party-risks-in-the-pharmaceutical-supply-chain.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 98: pwc_india-manufacturing-barometer.txt
+  Word count: 2512
+  Sentence count: 198
+  Top 5 words: manufacturing, india, growth, companies, sector
+
+Document 99: kpmg_a-new-age-of-cybersecurity-culture.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 100: pwc_r-and-c-merger-and-acquisition-paper.txt
+  Word count: 1069
+  Sentence count: 110
+  Top 5 words: need, wili, deals, market, business
+
+Document 101: pwc_manufacturing-sector.txt
+  Word count: 231
+  Sentence count: 11
+  Top 5 words: manufacturing, sector, tax, india, key
+
+Document 102: kpmg_intelligent-retail-report.txt.coredownload.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 103: kpmg_outbound-secondments-tax-and-regulatory-considerations.txt.coredownload.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 104: kpmg_emerging-trends-in-infrastructure-and-transport-2025.txt.coredownload.txt
+  Word count: 7
+  Sentence count: 1
+  Top 5 words: error, extracting, content, pycryptodome, required
+
+Document 105: pwc_north-east_summit-2013.txt
+  Word count: 4618
+  Sentence count: 548
+  Top 5 words: region, india, development, wili, north
+
+Document 106: pwc_digital-engagement-for-inclusive-governance.txt
+  Word count: 2207
+  Sentence count: 177
+  Top 5 words: service, delivery, public, customer, government
+
+Document 107: pwc_msme.txt
+  Word count: 7353
+  Sentence count: 575
+  Top 5 words: credit, capitai, loan, scheme, inr
+

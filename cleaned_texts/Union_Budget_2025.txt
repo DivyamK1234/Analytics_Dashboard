@@ -1,0 +1,32 @@
+Title: Union Budget 2025
+Date Published: 
+Source: https://www.pwc.in/budget/union-budget-2025.html
+Word Count: 36
+Sentence Count: 4
+Average Sentence Length: 14.75
+
+--- TOP 20 WORDS ---
+agriculture: 4
+sector: 2
+allocation: 1
+inr: 1
+lakh: 1
+crore: 1
+towards: 1
+year: 1
+budget: 1
+builds: 1
+vision: 1
+could: 1
+get: 1
+fillip: 1
+dhan: 1
+dhanya: 1
+krishi: 1
+yojana: 1
+districts: 1
+along: 1
+
+--- CLEANED CONTENT ---
+
+Agriculture With the allocation  INR .  lakh crore towards agriculture, this year  budget builds  the long-term vision for the agriculture sector. The sector could get  fillip through the Dhan Dhanya Krishi Yojana for 1oo districts, along with crop-specific initiatives  productivity enhancement and crop diversification. Shashi Kant Singh Partner, Agriculture and Food, PwC India

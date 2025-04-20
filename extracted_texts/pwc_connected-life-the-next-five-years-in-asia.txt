@@ -1,0 +1,758 @@
+Title: pwc_connected-life-the-next-five-years-in-asia
+Date Published: 2013-06-28 09:47:46+05:30
+Source: pdfs/pwc_connected-life-the-next-five-years-in-asia.pdf
+
+--- CONTENT ---
+
+www.pwc.in
+June 2013
+China: mAutomotive  05 | India: Smart Cities  08 | Japan: mHealth  11 | South 
+Korea: mEducation  14 | Methodology  17 | References  18
+Connected Life
+The next five years in Asia
+2 PwCShashank Tripathi
+India Leader, Strategy and Research, PwCMohammad Chowdhury
+India Leader, Telecom, PwCForeword
+Asia is witnessing a significant technological shift with the proliferation of connected mobile devices. With 
+the growing affordability of mobile devices and the widespread roll-out of 3G and 4G technologies, it is only 
+natural that a Connected Life enabled by machine-to-machine technologies (M2M) is the next big frontier of 
+growth and innovation.
+We believe that the pervasive nature of the Connected Life will have far-reaching socio-economic impact, often 
+leapfrogging old approaches. In this report, we have tried to explore four such high-impact ‘mXtensions’ that 
+could positively benefit China, India, Japan and South Korea over the next five years.
+We have explored trends and needs emerging from these countries and how mobile technologies can help 
+address them. The overall theme that emerged was that in a continent that holds the majority of the world’s 
+population, these technologies have a direct and positive impact on human wellbeing. Whether it is reducing 
+the cost of elderly care or education, easing traffic congestion, or preventing power theft, mobile technologies 
+are helping us move towards a better, more humane and efficient society.
+The GSMA and various stakeholders around the world have provided valuable inputs for this report. A number 
+of additional data sources and subject matter experts were consulted too. We aim to generate a dialogue among 
+policy-makers within the government, civil society, corporations and individuals on the implications and 
+possibilities of the Connected Life. Foreword by GSMA
+This report was commissioned by the GSMA and put together with inputs from the GSMA Connected Living programme
+Connected life          3Executive Summary – The Impact of the Connected Life
+ Asia to be the most connected region by 2020.
+“The mobile industry continues to develop at an unprecedented pace and nowhere is this more evident than in Asia, a 
+region that continues to experience tremendous growth and by 2020 will lead the connected devices and M2M market, 
+both in terms of the number of devices as well as revenues,” says Michael O’Hara, Chief Marketing Officer, GSMA.
+In Asia, this wave of mobile growth will enable key socioeconomic advancements. By 2017, mobile will have the power 
+to add up to 22 billion USD in economic productivity in China by reducing traffic congestion.
+• The introduction of mobile vehicle telematics could significantly reduce traffic by reporting critical data such as 
+location, driving speed and direction headed and help Chinese commuters reclaim nearly two hours each of their time 
+every week.
+• Time saved by reducing traffic will help add as much as 22 billion USD of economic productivity.
+• Reducing congestion is a key challenge with 106 million people in the 10 biggest cities in China expected to spend over 
+80 minutes commuting per day.
+By 2017, mobile will have the power to help power 10 million homes in India by cutting power theft and improving 
+efficiency.
+• Installing smart meters in India could save enough electricity to power more than 10 million homes by 2017.
+• India loses 24% of the electricity it generates every year, costing the country 17 billion USD and power theft accounts 
+for around half of this loss.
+• Mobile enabled smart meters provide the wireless connectivity that allows utilities to detect and record theft as well as 
+help users optimise consumption.
+By 2017, mobile will have the power to save 10 billion USD in healthcare costs in Japan.
+• The adoption of mobile technologies for remote monitoring, disease management, and preventive medicine for the 
+elderly could reduce Japan’s healthcare spend by 10 billion USD in 2017.
+• By 2017, almost 28% of the Japanese population is expected to be over 65 years old. 
+• mHealth services for the elderly could result in sufficient savings to cover the medical expenses of one million senior 
+citizens each year.
+By 2017, mobile will have the power to reduce education costs for students in South Korea by up to 12,000 USD.
+• Technology-enhanced learning, including a major contribution from mobile, could save South Korean families between 
+8,000 to 12,000 USD over their children’s school lives by complementing traditional after-school private classes.
+• In 2012, South Korean parents spent around 17.5 billion USD, or 1.5% of GDP, on private after-school education.
+• Replacing private English and Mathematics classes with technology-enhanced learning for the equivalent of two days of 
+tuition sessions a week could help South Korean students and their families save enough to cover half the cost of their 
+higher education tuition.
+“Beyond connectivity, mobile operators will play a crucial role in working together with a range of industry partners 
+in health, automotive, education, smart cities and a range of vertical industries to accelerate the launch of valuable 
+connected services,” says Ana Tavares Lattibeaudiere, Head of Connected Living, GSMA.
+4 PwC2 hours a week 
+for every 
+commuterChina
+India
+JapanAsia: The difference the Connected Life could 
+make in five years
+South KoreaPower to 10 
+million homes
+10 billion USD 
+saved annuallyTime saved commuting 
+by reducing traffic congestion
+47 billion kilowatt-hours saved by 
+reducing power theft and improving 
+usage efficiency
+Equivalent to the healthcare 
+costs of a million senior citizens
+8,000 to 
+12,000 USD 
+Potential savings in after-school private 
+education over a student’s lifetime
+Connected life          5
+The number of cars in China may surpass 200 million 
+by 2020
+China’s strong economic development over the last decade and its burgeoning 
+middle class has created a very high demand for automobiles, unlike any 
+other country in the world. The Chinese automotive market is now the biggest 
+in the world. According to the Ministry of Public Security, car ownership had 
+reached 120 million in 2012.
+The growth in infrastructure will struggle to keep up with urban migration 
+and the growth in consumer wealth. Even though China has developed 
+639,000 km of new roads in the past five years, the infrastructure is still 
+struggling to contain the surge in traffic or ‘jiāo tōng du sai’ . An example of 
+this is the ‘China National Highway 110’ traffic jam that occurred in 2010. 
+This traffic jam spanned over a 100 kilometres, lasted over 10 days and is 
+considered to be the longest traffic jam in history. This was a highway where 
+traffic had increased by 40% every year, while the roads themselves could 
+only be widened to a limited extent.
+Today, the average urban commute (both to and from work) in the biggest 
+Chinese cities is already in the range of 80 minutes a day. The OECD estimates 
+that between now and 2030, an additional 300 million rural Chinese will 
+migrate to the cities, thereby exacerbating the demand on infrastructure. The 
+Chinese government has taken this to be a serious challenge stating that it will 
+support the development of eco-friendly urban transport networks, offering a 
+wide range of tax breaks and fuel subsidies for mass transit.
+Vehicle telematics could help address traffic congestion 
+in Chinese cities
+It is estimated that between 20% and 25% of commute time in China is 
+spent in delays simply due to traffic jams. According to a 2009 study by the 
+China-based Horizon Research Consultancy Group, in cities such as Beijing, 
+the economic losses per person due to traffic congestion was in the range 
+of 54 USD a month. The results of another study released by IBM in 2011 
+indicate that over 85% of respondents in Beijing and Shenzhen stated that 
+traffic was a key inhibitor to work or school performance. These are cities 
+where the Chinese government is investing heavily in infrastructure to ease 
+commuter burden. This enhancement of infrastructure requires the infusion 
+of additional intelligence such as telematics and smart traffic management to 
+maximise benefits to commuters. 
+The introduction of vehicle telematics could reduce traffic congestion and 
+related economic losses by enabling every vehicle to function as a traffic 
+probe and anonymously report critical data such as location, driving speed 
+and direction headed. Technologies such as big data analytics and cloud 
+computing will enable the aggregation of this data and offer real-time, as well 
+as predictive, traffic solutions. These intelligent navigation systems will go ChinaChapter 1Traffic telematics could help Chinese commuters reclaim nearly 
+two hours each of their time every week
+Estimates indicate the economic benefits of the resulting increase 
+in productivity could add over 20 billion USD to the Chinese GDP 
+each year.
+6 PwCbeyond conventional GPS systems in that they will constantly make adjustments 
+to driver routes by judging real-time conditions at all points of the route. We 
+estimate that the implementation of vehicle telematics in the 10 largest Chinese 
+cities could potentially save drivers up to 20 minutes a day1. When we consider 
+the fact that these cities house over 76 million people of working age, the 
+amount of productive hours reclaimed could translate to economic gains of 
+around 22 billion USD by 20172.
+Roll-outs of successful vehicle telematics pilots are 
+already taking place across the globe 
+Within China, global auto players such as BMW, Ford, GM, and Toyota are 
+already offering vehicle telematics services. Most local manufacturers are 
+expected to launch such services in the near future as well. Additionally, there 
+are a wide range of third party players entering this space to provide telematics 
+add-ons to existing car owners.  
+Cisco estimates that vehicle telematics can reduce time wasted in traffic 
+congestion by 7.5% and lower costs for vehicle fuel, repairs and insurance by 
+4%. A 2012 study conducted by MIT, Central South University in China, the 
+University of California at Berkeley and the Austrian Institute of Technology 
+demonstrated that cancelling the trips of a select 1% of drivers from specific 
+neighbourhoods based on data gathered from mobile phones can reduce travel 
+times for other drivers by as much as 18%. 
+A number of European telematics pilots already indicate the potential that can 
+be achieved in China: 
+• Turin (Italy): 20% reduction in travel time for private cars and 19% 
+reduction for public transport. 
+• Paris (France): A prediction tool using vehicle telematics provided 94% 
+accurate urban traffic forecasts. 
+• Helsinki (Finland), Gothenburg (Sweden), Scotland (UK), Eurodelta 
+(Netherlands), Paris and Ile de France (France) and Bavaria (Germany): 
+70% of test users were satisfied with vehicle telematics devices which helped 
+them with travel and traffic information enabling easy access to information 
+and improved decision-making. 
+1. The overall impact on commute times has been calculated by considering the impact of connected cars in 
+the city. The impact of strategic reduction of drivers from critical neighborhoods and benefits achieved from 
+carpooling, etc is expected to reduce commute times via public transit proportionally. Estimates indicate 
+that the overall impact of commute time reduction can range from 25%-33% in 2017.
+2. Economic gains estimates have been adjusted downwards with an adjustment factor of 20 -25% per city 
+to account for commuters using railway and transit networks. Estimates do not include savings in fuel 
+consumption and maintenance costs.
+
+Connected life          713 mn 
+cars on the road13.6 mn  
+cars sold in one year
++ =120 mn cars 
+on the road today165 mn 
+cars expected
+718 mn 
+107 mn The 10 largest 
+Chinese cities...
+mAutomotive will help each commuter save...Over 80 
+minutes a day805 mn 87 mn 
+people live in urban 
+centres today
+people will live in the ten 
+largest cities
+will be spent commuting per person
+through 
+reduced 
+commute timeaddition to 
+annual economic 
+productivityurban residents by 2017 rural people are 
+expected to migrate 
+to urban centers2003 2009 2012 2017
+In 15.5 mn
+Privately owned cars
+$2 hours
+weeklyx 76 mn 
+commuters22 
+bn=China is the largest automotive market in the worldmAutomotive in China
+8 PwCChapter 2
+India’s transmission and distribution losses are among 
+the highest in the world at 24%. The majority of these can 
+be directly attributed to power theft 
+The rapid growth of the Indian economy has created a surge in demand for 
+electricity that cannot be met by the existing power situation. As recently as 
+2011, 15% of those with access to electricity were still suffering power outages 
+regularly. This supply-demand disparity is likely to worsen, considering that 
+while the GDP grew at an average of 8% over the last five years, annual capacity 
+addition of power was only around 6.8%. 
+The magnitude of stress that this puts on existing power infrastructure can be 
+seen from the fact that in July 2012, India’s blackout was the largest power 
+outage in history and affected over 620 million people (nearly a tenth of the 
+world’s population), spreading across 22 states.
+According to the Ministry of Power, India’s  Transmission and Distribution losses 
+stand at 24%  and it is estimated that these losses cost the country over 17 billion 
+USD every year (i.e.) 1.5% of India’s GDP. Fortunately, technical losses within 
+transmission and distribution only represent a third of the total power losses 
+across India. The remaining two thirds of the losses, a majority of which is power 
+theft, can be reduced without major infrastructure changes.
+Mobile enabled smart meters can help reduce power theft 
+without overhauling existing infrastructure
+The theft of power or ‘kundi’  as it is called in some parts of the county is an 
+unfortunate practice which is so common that even police officials have been 
+caught stealing power for personal purposes. While power theft can occur in 
+many ways, such as via the tapping of power lines, tampering or slowing down of 
+meters, or bribery, the common element continues to remain human.  
+Mobile enabled smart meters dissuade consumers from stealing power by letting 
+them know that the utility has the tools to detect and record theft. In conjunction 
+with analytics tools, unusual activity such as meter bypassing or the tapping of 
+live wires can be easily tracked as mobile enabled smart meters provide them 
+with widespread real-time visibility of consumption and distribution points. 
+Mobile enabled smart meters are highly tamper-resistant as they are able to 
+alert utility providers almost instantaneously during unauthorised access. 
+Additionally, their built-in mobile connectivity allows them to circumvent  
+the need for meter reading staff and therefore eliminates issues such as bribery 
+and intimidation.
+IndiaReducing power theft and increasing usage efficiency via mobile 
+enabled smart meters could save enough electricity in India to 
+power more than 10 million homes.
+Power theft alone contributes to over half of India’s electricity losses and 
+costs the nation between 8 billion to 9 billion USD every year. Mobile 
+enabled smart meters are expected to be the most critical element in 
+bringing down these losses over the next five years.
+Connected life          9Mobile enabled smart meters are cheap and easy to install as independent 
+modules that sit atop existing meters. Besides helping utilities reduce power 
+theft, they help consumers optimise their usage by providing regular updates on 
+their energy consumption patterns and associated costs. The Indian government 
+plans to deploy smart meters for all new connections by 2017. Based on the 
+government’s stated objectives and expected rollout, we estimate that all these 
+smart meters would be mobile enabled and could save upto 4.5%3 of total 
+electricity consumed by reducing power theft as well as consumption.
+The government as well as private players are pushing 
+for the adoption of mobile enabled smart meters
+• In May 2010, the Ministry of Power launched the ‘India Smart Grid Forum’ 
+roadmap outlining the roll-out of a smart grid throughout the country. 
+It shortlisted 14 pilot smart grid projects that will cover close to 300,000 
+high usage, industrial and residential customers who account for 2% of the 
+total energy consumption in the country. The key focus areas of the project 
+include the reduction of both technical as well power theft related losses.
+• The Restructured Accelerated Power Development and Reforms Programme 
+(R-APDRP) was launched by the Indian government with the objective 
+of reducing network losses to 15% (a number that requires at least 
+halving power theft). Bharti Airtel, an Indian telecom service provider, is 
+implementing mobile enabled smart meters across three Indian states using 
+M2M technology in partnership with the R-APDRP programme.
+• The North Delhi Power Ltd (NDPL) in partnership with GE has initiated a 
+pilot project involving the installation of mobile enabled smart meters in 
+500 households across selected areas in Delhi. The aim is to help the utility 
+provider reduce power outages and increase reliability.
+3. The year 2017’s supply and demand estimates have been calculated based on the following assumptions: 
+The state-wise per capita electricity consumption is expected to grow based on published government 
+estimates.The components of T&D losses will remain constant and the actual losses will reduce for all 
+states and union territories in accordance with the Planning Commission’s estimates over the next five 
+years. Average household size of each of the states will not change considerably over the next five years.
+
+10 PwC$ $$
+$$
+$$
+$$
+$$
+$$ $$ $
+$$ $ $
+$ $$ $
+$$of electricity is lost 
+every yearis the economic 
+cost of these lossesof these losses are due 
+to power theft
+How does power theft 
+happen?
+Directly tapping power lines
+Mobile enabled smart 
+maters can reduce power 
+theft and improve energy 
+efficiency
+• Tamper-resistant
+• Real time visibility  
+for utilities
+• Consumer education  
+on usage habits
+• No need for meter  
+reading staffMeter tampering
+Bribery24% 
+10 mn 17 bn USD 1/2 
+Indian households can be powered from mobile 
+enabled smart meter energy savings in 2017Mobile enabled smart meters in India
+Note : Numbers indicate households per state$
+Connected life          11By 2017, almost 28% of the Japanese population is 
+expected to be over 65 years old 
+According to Statistics Japan, the number of people aged 65 and above 
+increased from 25.6 million in 2005 to nearly 29.8 million in 2011. By 2025, 
+nearly one in three Japanese will be over the age of 65. 
+Two reasons for this rapid shift in demographics, referred to locally as  
+‘kōreikashakai’ , are that fertility rates are at a record low and life expectancy 
+of the Japanese population (men: 79 years, women: 84.2) is one of the 
+highest in the world. 
+Despite the Japanese elderly being among the healthiest in the world, they 
+still pose serious challenges to sustainable Japanese healthcare, with over half 
+of Japan’s annual healthcare spend of 540 billion USD being allocated to the 
+elderly. This number is expected to increase by around 4 to 5% each year. 
+The frequency and duration of hospital visits accounts for these high costs. 
+The average length of stay for inpatient care is 32 days (two to three times 
+that of patients in other developed countries) and this rises sharply to around 
+45 days in case of senior citizens. Additionally, the average Japanese person 
+visits a physician between 13 to 14 times a year and this rises considerably 
+for seniors.  As a result, healthcare expenses for people over the age of 75 
+typically tend to be 4.6 times more than their younger counterparts.
+Remote patient management could be a cost-effective 
+alternative for ageing patients to manage chronic 
+conditions while staying at home
+Inpatient and outpatient costs account for 77% of total healthcare spend 
+in Japan, with chronic conditions accounting for 80% of fatalities. 
+According to the Japanese Ministry of Health, Labour and Welfare, elderly 
+patients accounted for 46% of outpatients and 68% of inpatients in 2010.  
+Additionally, the average length of each stay for long-term care patients is 
+nearly 176 nights.
+mHealth can play a significant role in relieving the strain on Japanese 
+healthcare as it provides a unique set of benefits. mHealth based services 
+such as remote patient monitoring and management can reduce the need and 
+duration of hospital stays post medical procedures. Mobile enabled disease 
+management tools are relatively simple to implement and are particularly 
+effective in treating long-term conditions as they tend to help improve 
+adherence and self-evaluation. This is especially relevant in the case of the 
+elderly population where chronic conditions tend to be easy to recognise, 
+track and treat, given good patient adherence.JapanChapter 3Adoption of mHealth for elderly care in Japan could result in  
+savings equivalent to the medical expenses of 1 million senior  
+citizens each year
+The use of mobile technologies for remote monitoring, disease  
+management, and preventive medicine for the elderly could reduce  
+Japan’s healthcare spend by 10 billion USD in 2017
+
+12 PwCBesides the obvious benefits, mHealth has notable applications in optimising the 
+storage and recovery of medical records and can help reduce administrative costs 
+as well as processing times. With continuous monitoring and early diagnosis, 
+mHealth could reduce re-admission rates substantially. Even with an adoption 
+rate of only 20% by  2017, savings enabled by mHealth could be as much as 10 
+billion USD per annum4, sufficient to cover the cost of treating 1 million senior 
+citizens each year.
+A range of studies and pilots support the benefits of 
+mHealth   
+• One of the most widely cited studies on mHealth by Meyers, Kobb and Ryan 
+reports that an adoption of technology enabled remote care can lead to a 40% 
+reduction in emergency room visits, a 63% reduction in hospital admissions 
+and a 60% reduction in hospital bed days of care.
+• Since 2012, NTT Docomo and Omron Healthcare have teamed up to provide 
+wireless access to various Omron devices. These include blood-pressure 
+cuffs, sleep monitors and body composition scales that support remote health 
+management. This follows NTT Docomo and Fujitsu’s 2009 line of  ‘RakuRaku’  
+phones for seniors that worked with Omron medical devices.
+• Qualcomm in partnership with Medical Platform Asia (MedPA), has provided 
+300 3G enabled medical devices as part of their Wireless Reach™ initiative to 
+allow Japanese remote local residents to send critical health information to 
+doctors through a 3G wireless network. These devices track information such 
+as blood pressure, weight and distance walked and shares it with participating 
+physicians. 
+• Scotland is witnessing a shift in its demographic that is similar to Japan where 
+over 20% of the population now belongs to the senior citizen category. An 
+evaluation of 32 pilots funded by the Telecare Development Plan (TDP) across 
+Scotland reported savings of 17.8 million USD due to reduced admissions to 
+care homes, a fall in unplanned admissions in hospitals, quicker discharges 
+from hospital and fewer home check visits. Overall, it was found that the 
+telecare service could generate elderly care savings of about 25%.
+• A global study by the Telenor Group has indicated the potential of mHealth for 
+reducing elderly care cost by 25%.
+4. In order to arrive at the estimated impact of mHealth, we have made the following assumptions:  The per 
+capita spend on the elderly, as a ratio of the national average remains constant over the next five years,. 
+The proportion of health care spends based on conditions and functions do not change considerably over 
+the next five years. The reduction in healthcare costs based on pilots conducted in various OECD nations 
+can be replicated in Japan. Strength of evidence of each pilot has been taken into consideration to scale 
+down cost reduction estimates by a range of 25 to 50 %.
+
+Connected life          13Japanese will be over the age of 65 by 2025
+On average, senior citizens spend almost 
+5 times as much money on healthcare as 
+compared to their younger counterparts1 in 
+every 3  
+51%
+10 bn 
+USD78%
+84.2 yearsAverage life expectancy
+79 years$ x 4.6 $ 
+of Japanese healthcare is spent 
+on senior citizens
+can be saved 
+through mHealth 
+for elderly care 
+in 2017of elderly care is spent on inpatient 
+and outpatient care
+COPD: 
+Pulmonary
+6.7 bn  USD
+2.7 bn USDCHF: 
+CardiacDiabetesChronic 
+wound Digestive Musculoskeletal Nervous
+17%
+8%42%
+49%4%
+6%21%
+7%4%
+12%3%
+17%10%
+2%Outpatient47%
+31%3%15%5%Inpatient
+Outpati entDentalPharma
+cy Disp
+ensing
+Ot
+he
+r admi
+nmHealth for elderly care in Japan
+Potential 
+Outpatient 
+savingsPotential 
+Inpatient 
+savings
+14 PwC
+South Korea 
+According to Statistics Korea, South Korean parents 
+spent around 17.5 billion USD or 1.5% of GDP, on 
+private, after-school education in 2012
+In a country known to produce among the best students in the world, and where 
+education is viewed as being crucial for success, competition is fierce. Outside 
+school hours, an overwhelming majority (around 70%) of children attend 
+supplementary, private classes. These after-hours schools, known as ‘hagwons’, 
+charge around 2,550 USD a year and can typically run for up to three to five 
+hours a day, six days a week. 
+The average spend on education in South Korea can range from 9 to 17% of 
+household income, often more than spend on basic necessities such as food and 
+beverages (which account for around 12 to 13%). This high cost of education 
+can have a knock-on effect. Today it is considered to be a major contributor to 
+the steep drop in fertility rates in the country. The average number of births 
+per woman in South Korea is about 1.2, so low that by 2050 nearly 45% of 
+the population could be senior citizens. The government recognises this and 
+has taken steps to offer after-school programmes, providing additional classes 
+and extracurricular activities to students, and has set aside 1.5 billion USD to 
+provide parents with free child care up to the age of five.
+Technology enhanced learning could save these families 
+between 8,000 to 12,000 USD on private tuition for each 
+child
+English and Mathematics are the two subjects on which parents spend the most, 
+as much as 65% of total spend on private tuition. Annually, this amounts to 
+around 1700 USD outside of regular school. Despite government initiatives, the 
+demand for these classes appears to be increasing. Over the last five years, the 
+cost of these classes has gone up at a rate above South Korea’s average annual 
+inflation which is less than 3% (an increase of over 3% for English and 6% for 
+Mathematics, each year).  
+Our February 2013 report ‘The impact of the Connected Life’ over the next five 
+years indicated that the adoption of technology enhanced learning (both online 
+and via mobile) could reduce the cost of education by as much as 80%. In some 
+cases, this number could be even higher when we include transportation related 
+savings. South Korea is uniquely placed to promote mainstream digital learning 
+amongst younger students considering that by 2012 nearly 90% of South 
+Koreans between the age of 12 to 29 had smartphones. The usage of these smart 
+phones is high with three out of five smartphone users spending more than two 
+hours a day on these devices. Additionally, the penetration of tablets nearly 
+doubled to touch 7.5% in just one year and this number is expected to grow 
+steeply in the near future.Chapter 4Technology enhanced learning (including mobile) could save South 
+Korean families between 8,000 to 12,000 USD on private tuition for 
+their children.
+The use of Technology enhanced learning (including mobile) to complement 
+traditional after-school private classes could help Korean students save 
+enough to cover half their university or higher education tuition.
+
+Connected life          15
+If students were able to replace two of the six days5 they go for these extra 
+classes with technology enhanced learning, they could save around 8,000 
+to 12,000 USD over their school lives6. The savings could be as high as 
+14,000 USD if students attend compulsory military service for 2 to 3 years 
+before entering higher education7. South Korea has the third highest average 
+university or higher education fees among OECD countries, with annual 
+average tuition costing up to 7,000 USD. Savings from the adoption of 
+technology-enhanced learning could halve this tuition burden.
+Mobile initiatives are already being rolled out across the 
+globe to provide access to technology-enhanced learning
+• In 2011, South Korean (SK) Telecom launched the T Smart Learning Service 
+which is a mobile education platform that offers interactive education and 
+enables students to create a ‘smart learning’ environment. Additionally, the 
+service allows downloading and sharing of educational content and lets 
+parents track their children’s academic performance. 
+• Indian operator, Bharti Airtel has launched the ‘3 Pack Education Portal’, 
+a mobile learning platform for its Indian customers. The Airtel ‘Exam 
+Preparation Service’ helps students prepare for various entrance exams like 
+the GMAT and GRE using mobile devices. Additionally, it also offers English 
+learning and campus search tools for its subscribers.
+• In 2009, Mobile Operator Turkcell launched the Mobil Egitim (Mobile 
+Education) initiative which enables users to get podcasts or text-based 
+education programmes via mobile tools.
+• Nokia launched its Life Tools application in 2009 and used an interesting 
+approach for distributing content related to agriculture, education, 
+entertainment and healthcare. Individuals can obtain content either 
+as a combined package (including the price of the device) or as a paid 
+subscription. The application has over 48 million subscriptions today.
+• Qualcomm’s Wireless Reach™ initiative ‘WE Learn’ is empowering 
+third-grade students at Nan Chiau Primary School in Singapore to use 
+3G-enabled smartphones to transform learning from a traditional, teacher-
+centric model to a student-centric, inquiry-oriented, collaborative model.
+• According to the research firm, Ambient Insight, the global market for  
+mobile learning products and services is expected to grow to 9.1 billion 
+USD by 2015. 
+• The South Korean government is in the process of providing digital 
+textbooks to all students by 2015 in order to help reduce the cost of 
+textbooks and make traditional education more affordable.
+5. Based on primary interviews and discussions with education experts and mEducation service providers. 
+6. Average savings have been estimated based on the 450 – 600 USD that students can save each year. The 
+average length of schooling is 12 years. Total Savings have been estimated with a nominal interest rate of 
+4.5% a year.
+7. For estimates in the case of compulsory military service, an additional 2 - 3 years have been added to 
+account for the service period. Nominal interest of 4.5% has been used in this case.
+16 PwCaround 1.5% of GDP is spent on 
+private, after-school education
+students go to private after-
+school classes
+annual cost of these classes 
+per student
+around 1,550 USD is spent on 
+English and Mathematics classes
+3 hours
+93%
+90%
+8000 to 
+12000 
+USD1 to 2 
+years7.5% 60%1 hour2nd rank
+=17.5 bn USD 
+70% 
+2,550 USD 
+67%  
+The average 
+Korean student...
+additional time spent 
+studying everyday 
+when compared to their 
+OECD counterparts
+of Korean parents want 
+their children to enroll in 
+higher educationstudents get less sleep 
+daily compared to other 
+developed countries
+over their 
+school livesof university 
+or higher 
+education costsin Pearson’s Global Index 
+of  Cognitive Skills and 
+Educational Attainment
+of South Koreans between 12 
+to 29 years own smartphones7.5% of them 
+own tabletsusers spend more than two 
+hours a day on these devices
+Technology-enhanced learning can help students save...Technology enhanced learning (including mobile) in South Korea
+Initial short listing of country-specific interventions and 
+their key areas of impact
+This research report aims to capture the socio-economic  impact of Connected 
+Life services in Japan, China, South Korea and India. As part of our research, 
+we looked at the four services of the Connected Living programme: mHealth, 
+mEducation, mAutomotive and SmartCities. 
+We shortlisted a series of potential country-specific interventions based on the 
+following filters:
+• Address key burning needs that affect the country on a large scale
+• Have a measurable impact by 2017
+• Have some degree of adoption in the existing market 
+• However for South Korea, we have not used adoption rate for population and 
+estimated savings for each student
+Based on our filtering criteria, we arrived at four interventions for the four 
+countries.
+Capturing data and developing impact models
+We created a master pool of data to capture relevant data points for each of the 
+four countries from the respective country statistics database (e.g. MHLW, CEA, 
+Ministry of Power, Ministry of Education) and globally recognised knowledge 
+sources (e.g. WHO, UN and World Bank). We then identified a series of case 
+studies, research outcomes, and pilot programmes that have been able to arrive 
+at quantifiable conclusions on the impact of each of the mobile interventions in 
+the respective countries. 
+Based on the impact evidence, the respective country studies have been clustered 
+(Japan: Disease type, India: State-wise energy losses) and organised to provide 
+specific impact data metrics. Clusters with similar impact levels based on current 
+conditions and mobile penetration levels are adjusted to similar impact levels. 
+These clusters and the impact of these interventions were consolidated to arrive 
+at the first set of conclusions. These conclusions were then tested by altering 
+impact metrics to arrive at optimistic and pessimistic scenarios. Another series 
+of tests conducted involved the introduction of error variables to determine the 
+sensitivity of these models.
+Arriving at projections
+The models have been designed such that the impact of each intervention is 
+estimated on existing projections of impact areas. For instance, in case of our 
+SmartCities–India study, we used the Planning Commission report as the basis 
+for analysing our impact on projected energy losses. Based on this impact, we 
+have arrived at our conclusion for each of the four topics of research.
+Master data Need for mobile 
+interventionMicroanalysis Impact evidence Scenario analysis Output
+Identifying relevant 
+data pointsData analysis to 
+establish realityIdentifying cluster 
+criterion Finalising case 
+studies and 
+impacts deliveredParameters varied 
+to identify various 
+scenarios Example: 
+Power theft is a big 
+challenge in India that 
+can be reduced using 
+mobile enabled smart 
+meter technology, 
+which can also help 
+save enough electricity 
+to power more than 10 
+million homes.National statistics 
+and global 
+knowledge source Places where 
+possible mobile 
+interventions can 
+create a positive 
+impact were 
+identified.Each country study 
+first identifies the 
+methodology of 
+clustering and then 
+impact evidences 
+are staggered 
+accordingly. Identify relevant 
+case studies and 
+pilot programmes 
+utilising mobile 
+technologies for 
+each relevant topic. Develop impact 
+parameters based 
+on case studies 
+and pilots. Develop 
+the impact model 
+and identify impact 
+of outcomes.Methodology
+Methodology to identify socioeconomic impact for each Connected Life service covered 
+mHealth 
+• Japan Statistical Yearbook (2012)
+• Ministry of Health, Labour and Welfare
+• National Institute of Population and Social Security Research
+• “How Ageing (Demographic change) affects Health care expenditure in Japan?” by Takashi Ando
+• Palliative Care for the Elderly: A Japanese Perspective by Yoshihisa Hirakawa 
+• The current situation and the future direction of the Long-term Care Insurance System in Japan
+• Projection of Social Burden of the Elderly in Japan using INAHSIM by Tetsuo Fukawa 
+• Health and long-term care expenditures of the elderly in Japan using a micro-simulation model by 
+Tetsuo Fukawa 
+• From Silver to Gold: The implications of Japan’s ageing population- General Electrics (in association 
+with EIU)
+• Vital signs via broadband: remote health monitoring transmits savings, enhances lives by Robert Litan 
+• Impact of Home-Based Monitoring on the Care of Patients With Congestive Heart Failure by Myers et al
+• Intel Health Guide and Chronic Diseases by Medd/Rowell
+mAutomotive
+• Chinese Academy of Sciences report on Traffic congestion
+• IMF and China National Bureau of Statistics Data on population indicators 
+• World Bank data on vehicle per capita indicators 
+• Cisco study on urban traffic congestion
+• Study by Massachusetts Institute of Technology and University of California, Berkeley on traffic congestion
+• QUARTET PLUS Project: Journey times for cars and public transport vehicles reduced
+• PROMISE Project: Improved access to information
+• CAPITALS project: Improved traffic forecasting and traffic information
+mEducation
+• Statistics Korea indicators on private education
+• The Worldwide Market for Mobile Learning Products and Services: 2010-2015 Forecast and Analysis by 
+Ambient Insight 
+• WEF report on mEducation
+• Transforming learning through mEducation (2010) by McKinsey and GSMA 
+• Mobile education landscape report (2011) by GSMA 
+• UNESCO & Nokia: Turning on mobile learning > Illustrative initiatives and policy implications (2012)
+• Verizon Foundation pilot on use of mobile education for students in US (2012)
+• Qualcomm’s Wireless Reach initiative for 3G-enabled learning for grade three students (2012)
+• Integrating technology in the classroom (2012)- Vodafone initiative in South Africa
+Smart Cities
+• The Working of State Power Utilities & Electricity Departments: Annual report (2011-12)
+• Energy Statistics 2012-Central Statistics Office, India
+• Central Electrical Authority, India: Annual Report 2011-12
+• Determining T&D Losses in India, their Impact on Distribution Privatisation and Regulation by  V Ranganathan 
+• “The Performance of State Power Utilities for the years 2008-09 to 2010-11” by Power Finance Corporation Ltd
+• “Feedback on household electricity consumption: a tool for saving energy?” by Corinna Fischer
+• Results from recent real-time feedback studies by Ben Foster and Susan Mazur-Stommen 
+• Smart meter roll-out for the domestic sector by DECC (Great Britain) 
+• Reducing Technical and Non Technical Losses in the Power Sector- World Bank Group Energy Sector Strategy 
+• “Distribution loss of electricity and influence of energy flows: A case study of a major section in Kerala” by P R 
+Suresh, Shanavas ElacholaReferences
+Shashank Tripathi
+India Leader – Strategy and Research
+Phone:+91 9819678900
+Email: shashank.tripathi@in.pwc.com
+Mohammad Chowdhury
+India Leader – Telecom
+Phone:+91 9167665544
+Email: mohammad.chowdhury@in.pwc.com
+David Wijeratne
+Associate Director – Strategy and Research
+Phone:+91 9818966775
+Email: david.wijeratne@in.pwc.com
+Madhu Varshitt YS
+Principal Consultant – Strategy and Research
+Phone:+91 9769721412
+Email: madhu.varshitt.ys@in.pwc.com
+Mayank Sankar Nayak
+Consultant – Telecom
+Phone:+91 9867464488
+Email: mayank.s.nayak@in.pwc.com
+Tanushree Srivastava
+Senior Consultant – Strategy and Research
+Phone:+91 9930821238
+Email: tanushree.srivastava@in.pwc.comContacts
+About PwC  
+PwC* helps organisations and individuals create the 
+value they’re looking for.  We’re a network of firms in 
+158 countries with more than 180,000 people who are 
+committed to delivering quality in assurance, tax and 
+advisory services. 
+PwC India refers to the network of PwC firms in India, 
+having offices in: Ahmedabad, Bangalore, Chennai, 
+Delhi NCR, Hyderabad, Kolkata, Mumbai and Pune. 
+For more information about PwC India’s service 
+offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to 
+the PwC network. Each member firm is a separate legal 
+entity. Please see www.pwc.com/structure for further 
+details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+
+www.pwc.in
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or 
+estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are 
+advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this 
+publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained within it or for 
+any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability 
+company in India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+AK17 - June 2013 Connected Life.indd
+Designed by: PwC Brand and Communications, India

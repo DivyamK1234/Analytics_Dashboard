@@ -1,0 +1,479 @@
+Title: pwc_it-print
+Date Published: 2013-02-04 16:25:28+05:30
+Source: pdfs/pwc_it-print.pdf
+
+--- CONTENT ---
+
+Leveraging IT
+Transforming the T&L sector
+www.pwc.in
+
+2
+PwCIndian transportation and logistics (T&L): An overview                     04
+IT interventions in the sector                                                                          07
+Key initiatives undertaken by the government                                        13
+Leveraging emerging technologies                                                               14Table of contents
+3
+Leveraging ITIn recent years, great emphasis has been laid on enhancing the supply chain 
+efficiency on road as well as off road. The government has also taken key initiatives 
+to support the transportation and logistics sector in order to ensure that this sector 
+contributes to the growth of the economy. 
+Before investing in the country, foreign investors assess the infrastructure, most 
+importantly the transportation and logistics sector. In addition, the user community 
+of the sector has expectations from service providers in terms of order management, 
+material handling, real-time tracking and tracing, automated workflow based 
+documentation, warehousing, material delivery and the electronic payment facility 
+by service providers. 
+PwC believes that IT has a big role to play in improving the efficiency of the supply 
+chain and also meeting the ever-rising expectations of the user community. Though 
+the penetration of IT in the Indian transportation and logistics sector has been 
+quite low, there are huge opportunities to leverage it for the benefit of not only the 
+logistics companies but also the consumer.
+In an increasingly technology-driven environment, transportation and logistics 
+companies need to adopt technology solutions that not only align themselves to the 
+organisation’s business needs but also help them achieve growth and efficiencies. 
+To achieve competitive advantage, these companies need to leverage emerging 
+technologies and best practices. They also need to adopt innovative ways of 
+analysing data and tracking business performance parameters. It is important to 
+manage organisational changes to create a culture that motivates employees during 
+the implementation of these technologies.
+PwC as a knowledge partner with CII is proud to publish this thought leadership. 
+Rachna Nath
+Executive Director
+IT Effectiveness
+
+4
+PwCThe growth in T&L is primarily dependent on 
+the growth of goods across different sectors 
+within the country and goods traded with 
+other countries. The figure shown above 
+provides the total trade in rupee terms over 
+the last five years.  As such, the index of 
+industrial production (IIP) is a good indicator 
+of the level of domestic industrial activity. 
+India’s manufacturing sector supported by a 
+consuming population of more than one billion 
+has shown robust growth over the past decade. 
+The logistics performance index ranking 
+provided by the World Bank ranks India 46th 
+among 155 countries . The main indicators 
+of the LPI are the efficiency of the clearance process (speed, simplicity and predictability 
+of formalities) by border-control agencies, including customs, the quality of trade- and 
+transport-related infrastructure (ports, railroads, roads, information technology), the ease of 
+arranging competitively, priced shipments, the competence and quality of logistics, services 
+(transport operators, customs, brokers) and the ability to track and trace consignments. 
+India ranks behind China at rank 1 and Brazil at rank 45 among the BRIC group.
+There is a long way to be covered by this sector to reach global standards which would include 
+excellent infrastructure and highly technology driven seamlessly integrated supply chain.Indian transportation and logistics (T&L)
+An overview
+The Indian logistics market has evolved from traditional transport companies to a 
+full-fledged logistics service provider, offering various supply chain services such as 
+transportation, warehousing and other value additions. 
+In comparison to other developing 
+and developed countries, Indian 
+logistics competitiveness has been 
+low primarily due to the following:
+ -Poor infrastructure
+ -Low technology penetration
+ -Low regulatory effectiveness
+ -Fragmented industry 
+participation
+5
+Leveraging ITLogistics service providers
+PwC views the logistics industry in two verticals where one vertical provides transportation 
+solutions through various modes and the other provides complete supply chain solutioning 
+with facilities like 3 PL, inventory management, and other value-added services.
+Road transport has emerged as the dominant segment in India’s transportation sector  
+with a share of around 5% in India’s GDP in comparison to railways which has around 
+1% share in the GDP in 2010-11 . Easy accessibility, flexibility of operations, door-to-door 
+service and reliability have earned road transport an increasingly higher share of both 
+passenger and freight traffic vis-à-vis other transport modes .
+The 3 PL market which demonstrates the consolidation and advancement of logistics 
+players in terms of breadth of service is still nascent in India. It makes up for more than 
+50% of the logistics market in developed markets, but is still at a growing stage in India . 
+Today, Indian 3 PL service companies often do not possess sufficient capabilities to provide 
+services beyond conventional transportation contracts. Many are not able to respond to 
+the increasing demand for value-added services such as customs clearance, cross docking, 
+reverse logistics, labelling or packaging.
+Sector challenges
+• A road carrier has to stop at numerous locations for the physical verification of documents. 
+The checks are essentially made to ensure that taxes in the state of destination have been 
+paid, trucks are not overloaded, comply with safety stipulations and carry valid papers. This 
+issue is more amplified by the presence of segregated sales tax administration, multiple 
+laws and a manual and segregated vehicle registration system. 
+• T&L and in particular warehousing, is a capital-intensive sector characterised by low 
+margins. This has its effect in the expansion plans of the numerous logistics players.  
+• There is acute shortage of trained manpower in the T&L sector. The present workforce 
+does not have the requisite skills to handle the entire supply chain and training of 
+personnel will be key to the success of players.
+6
+PwC• The unorganised nature of the industry (especially in road transport) and skill shortage 
+has further led to non-standardised operating procedures with its inherent inefficiency.
+• Paucity of funds discourages operators from investing in technological upgradation of 
+vehicles, including adopting energy efficiency standards as well as IT tools like vehicle 
+and consignment tracking using Global Positioning System (GPS) and Radio Frequency 
+Identification (RFID) technologies.
+T&L is mired with many such issues and overcoming these is key for its next stage. 
+Technology has the potential to solve some of these challenges and help the sector leapfrog. 
+Technology and business
+Technology adoption is driven by two primary factors--increasing internal efficiency which 
+is the operational aspect and increasing external business responsiveness dependent on a 
+complete supply chain based on business strategy and long term planning.
+Technology can bridge the business vision with real-time operational activities of business. 
+It can help enable the following:
+• Synchronisation, thus increasing the effectiveness of strategic decisions and improving 
+the efficiency of operations
+• Agility, which helps increase flexibility with strategic decision-making and  
+standardisation of operational  applications
+Source: PwC Technology Forecast
+7
+Leveraging ITIT interventions in the sector
+Technology in the logistics and supply chain industry is a blend of delivering global 
+business solutions to local geographies.  With businesses crisscrossing across private and 
+public houses, the user community of the sector perceives this business as a combination 
+of infrastructure and operations where technology plays the role of glue.  
+We believe that organisations have started looking at the transportation and logistics 
+function as critical and differentiating rather than a business-enabling or support function. 
+While the larger players with deep pockets have made steady inroads in investment in 
+this function, the smaller, family or proprietor-driven firms as in India are yet to make 
+significant investment around technology and talent in this function. 
+Given the global challenges, rising fuel prices and the constant demand for near-perfect 
+delivery, the role of information and how it can assist a leaner and smarter logistics 
+function has never been more important than now. 
+Therefore, what should be the role of the CIO in the logistics and supply chain industry? 
+We view this role in three dimensions:
+•	Accelerate  the efforts to help optimise operations and improve customer connect 
+•	Adapt  emerging technologies to drive continuity and costs
+•	Action  the people agenda
+In order to make the transition from the current state to the desired state, transportation 
+and logistics organisations will go through the following stages of evolution on the 
+technology roadmap.
+Increase in IT adoption has provided a boost to the growth and maturity of logistics players 
+in India wherever it is not only implemented but also institutionalised in daily activities. 
+India’s T&L technology market is growing steadily, with the upswing in demand from 
+the thriving logistics, retail, pharma, agri and manufacturing sectors, as well as through 
+government promotion.
+The growth of India as a major sourcing nation for the world’s 
+leading retailers is also ramping up demand for appropriate 
+information technology intervention. This  ensures seamless flow 
+of information across the complete supply chain and also provide 
+relevant data for business analytics.
+Some of the other key benefits observed with IT intrusion are detailed in below section. 
+These benefits have driven the companies to implement relevant IT in their organisation 
+are reaping the fruits with IT as differentiator in their sustainable growth plan.
+8
+PwCIT plays multiple roles in the Indian logistics sector. However, its primary objective is to 
+enforce and cleanse internal hygiene and manage operations with increased efficiency. 
+IT also plays conventional roles such as increasing productivity and standardisation of 
+information management. 
+Other key benefits of IT as envisaged by the CIO of the T&L companies are as follows:
+• Increasing customer account management, relationship and accessibility 
+• Integration of off-road and on-road movement of consignment and vehicle
+• Real-time tracking and tracing of consignment and vehicles off-road and on-road
+• Standardisation of processes and improving process efficiency
+• Reducing labour costs and handling fuel and sales management costs
+• Increasing transparency and accountability within the organisation
+• Quick response and access of informationBenefits of IT interventions
+Key IT interventions
+With this view, PwC suggests the  indicative target operating model for cargo 
+transportation and logistics company as  shown below. It maps key users, communication 
+mechanism, and the widely used and accepted technologies by the industry in order to 
+achieve the objectives defined above. We understand that to optimise operations and improve customer 
+interactions , IT needs to focus on some of the following aspects :
+• Making systems flexible to allow implementation of business 
+transformation easier
+• Increasing the efficiency of key value points across the supply chain to 
+reduce costs and delays 
+• Integration of key stakeholders in the value chain so that information 
+can be consolidated and shared across the value chain for better 
+visibility and execution  
+9
+Leveraging ITIndicative IT  target operating model for cargo transportation and logistics companies
+Enterprise	resource	planning	(ERP):	 PwC considers ERP as a hygiene factor. ERP not 
+only integrates the corporate and business functions of an organisation enabling them 
+to communicate and share information, but also provides  great opportunities to the 
+companies to redefine their internal processes with global best practices. 
+Warehouse	management	system	(WMS):	 This is an end-to-end solution for warehouse 
+management that links different systems such as computerised vehicle routing, scheduling 
+packages and integrated supply chain systems to monitor incoming goods, customer 
+orders and stock levels. Efficient storage and movement of goods can be accomplished by 
+such a system. The implementation of this system depends on the number of integration 
+points, size and complexity of the supply chain.
+The need for WMS is completely dependent on the complexity (in terms of size and volume) 
+of warehousing operations and throughput efficiency (in terms of operational productivity):
+• For service providers with small warehouses in cities or towns that cater to  local 
+distributors and suppliers, traditional ways of managing operations and tracking 
+inventory is preferable.
+
+10
+PwC10 PwC• For service providers operating at a regional level,  who have significantly large 
+operations with considerable volumes mini WMS solutions are available that are good 
+in managing inbound and outbound operations. They also help manage and track 
+inventory levels. Organisations using various ERPs can also extend their ERP systems 
+and use a WMS module that will help resolve integration challenges. Such solutions 
+can be customised and are also easy on the pocket.
+RFID:	 Tracking and tracing  vehicles, consignments, containers and other equipment at all 
+locations i.e, on or off road is very important for transportation and logistics companies. 
+The people who use their services have also started demanding real time tracking of 
+the movement of their consignments. The radio frequency identification devices (RFID) 
+address this need. For timely delivery of consignments, RFID along with vehicle tracking 
+systems  track the location of vehicles. These RFID readers and tracking devices can be 
+integrated with ERP and WMS as required. NHAI and the ministry of road transport 
+and highways are also working in this direction to manage toll collections with the 
+implementation of RFID to ensure faster movement of vehicles at toll gates. 
+Fleet	management	system:	 This is being slowly accepted by the transporters for 
+managing their fleet of vehicles and other material handling devices including cranes. 
+Such systems help the companies  track and control the maintenance cost of their vehicles 
+and equipment. Some of the companies have initiated building profit and loss sheets per 
+vehicle using this system. These systems can also be integrated with ERP and RFID systems 
+for seamless flow of information.
+Scheduling	systems:	 Manual vehicle planning and routing has been a challenge for  
+transport companies. Few companies have implemented computerised vehicle and 
+scheduling systems with complete data pertaining to consignee and consignor. This has 
+resulted in the accurate and efficient scheduling along with better vehicle utilisation on 
+road. It is observed that this automated routing has tremendously increased the service 
+delivery efficiency resulting in higher customer satisfaction. 
+Few of the other technologies useful for transportation and 
+logistics companies are as follows: 
+• Hand held devices for managing proof of delivery
+• Satellite navigation systems to accurately locate the 
+consignee or  consignor locations
+• Scanners and other security devices
+All these technologies can be integrated with ERP and other IT applications for 
+managing their core operations.
+11 Leveraging ITKey barriers to IT adoption
+This sector is generally perceived to be reluctant in investing in IT. Several factors like the 
+unorganised and fragmented nature of the sector, lack of regulatory compulsions and the 
+view of the business leaders on IT as an expense rather than an investment are said to have 
+contributed to the low penetration of IT in this sector. 
+Some of the other factors that act as barriers to smooth IT adoption in transportation and 
+logistics sector are as follows:
+•	Unavailability	of	a	perfect	fit	system:	 The transportation and logistics operations are 
+quite complex and needs specific functionalities in the IT systems. Fitment of an off 
+the shelf product that satisfies the end-to-end needs of this sector is still questionable. 
+Base ERP products, available in the market  require high levels of customisation and 
+implementation time, thereby increasing costs. 
+•	Technology	costs	and	affordability:  The transportation and logistics industry has 
+perceived technology and solutions as expensive and at times unaffordable. Since 
+the companies have evolved with their unique legacy processes, their IT system or 
+applications need to be customised to the company’s requirements. This results in 
+tremendous increase in end product cost. 
+•	Low	allocation	to	IT	in	the	budget:	 Most warehousing firms do not have a formal 
+IT budgeting process and hence don’t plan for their IT investments. Majority of the 
+logistics market comprises small and medium-scale players who due to increased 
+competition in the sector work on wafer thin margins. This results in little or no 
+allocation to IT in their budgets. 
+•	Limited	IT	benefits	perceived:	 Most logistics firms are managed by small 
+entrepreneurs who do not have a good understanding of IT and its benefits. 
+•	Restricted	support	from	end	customers:  Transportation and logistics companies 
+have been wary of the fact though their customers desire real time information, online 
+tracking of consignment and faster resolution of their grievances with IT intervention / 
+e-ticketing systems, they are unwilling to pay for these investments in IT.  Players find it 
+difficult to manage these expectations and maintain costs, resulting in their reluctance 
+to spend in IT.
+•	Skilled	resources:  This sector in India lacks skilled talent that has IT and logistics 
+knowledge.These resources are required to run and maintain the application so that the 
+intended benefits that the application provides can be realised. Very few logistics sector 
+employees undergo IT training during the course of their employment. 
+•	Standard	business	processes:	 Standardised business processes are not defined across 
+all internal and external functions. This causes high levels of individual customisation 
+in systems. Transformation of such business processes becomes difficult because the 
+systems are not flexible enough to incorporate the changes within a reasonable time 
+and cost.
+•	Cultural	barriers:  Traditionally transportation and logistics businesses have been 
+operated by unskilled or semi-skilled resources. This makes it difficult for the 
+employees to accept change and transform their organisation through IT intrusion.
+12
+PwCThere are several transportation and logistics companies in India who have invested in 
+excess of 0.8% (as an average percentage of the capex) into IT but even they are facing 
+several challenges. Key among them is that they are unable to capitalise on their IT 
+initiatives to maximise business opportunities. However, we believe that these challenges 
+are different when the organisations moves up to the maturity curve. 
+Some of the reasons for challenges are as follows: 
+• The IT department is usually  headed by a non-IT resource and the IT manager is seen 
+only as a procurer and supplier of IT goods/ services.
+• There is rarely any long term IT vision and roadmap in transportation and logistics 
+companies. Mostly the implementation of IT is sporadic and need based leading to 
+stack of standalone applications/ systems creating silos.
+• Inability to measure the success and utilisation of current or envisaged IT systems.
+• Ever changing business processes and business requirements 
+• Indecisiveness to invest further in major IT initiatives as it is not the priority of 
+the management
+• Business processes partially continue to be manual, while some are upgraded to the 
+IT system
+• Unwillingness to discard current systems and move to new ones. 
+• Ongoing decisions required during implementation are not taken seriously
+• Inadequate internal stakeholders expectations and change management 
+PwC is of the view that for the transport and logistics industry to benefit from IT, 
+this function needs to have a systematic organisational structure and the roles and 
+accountabilities need to be redefined.  We believe organisations need to recognise the 
+fact that the roles of  the chief information officer (CIO) and the  head of technology 
+are fast evolving . If the CIO or the head of technology has to make IT relevant and a 
+key prominent of business change,then he/she has to constantly innovate and drive the 
+experiential delivery aspect. This must be done irrespective of  whether the customer is 
+internal or external. 
+CIOs and technology heads need to start focusing on benefit management more than 
+programme management during and after the IT implementation. Adopting new age 
+technology has to be a part of the daily routine. Given the margin pressures of this 
+industry, every penny will be questioned. This makes it imperative for the CIOs and CTOs 
+to have the list of non-negotiable and relevant technology interventions for stakeholder 
+expectation management.
+13
+Leveraging ITKey initiatives undertaken by the government
+People continuously expect the logistics service providers to provide world class delivery 
+services.  This propels the companies to rely more on IT for efficient and smooth flow 
+of their consignments. PwC believes that government policies and initiative could also 
+prove to be a catalyst in the faster penetration of IT in transportation and logistics 
+companies. The government is also sensitive of this fact and has been working directly 
+and indirectly in this direction. Some of the interesting initiatives taken by government 
+are as follows:
+	Implementation	of	freight	operation	information	systems	(FOIS):  This is a 
+computer network based information system that has been designed to give strategic 
+advantages to both Indian railways and its customers. The network links various 
+freight handling points, traffic control and rolling stock maintenance depots with 
+the railways administration. FOIS will provide continuous cargo visibility and enable 
+freight customers to have instant access to information regarding the current status of 
+their consignments in transit and the expected time of arrival at its destination. This 
+will help the industrial customers to achieve just-in-time inventory levels. Once it is 
+fully implemented, FOIS will facilitate acceptance of customers’ orders for wagons and 
+rakes (full length train formations), billing of freight charges by the railways and its 
+payment by the customer electronically, and along with the introduction of e-commerce 
+will make the entire business chain seamless. FOIS consists of two fully computerised 
+modules, namely rake management system for handling the freight movement portion 
+and terminal management system (TMS) for managing the commercial transactions 
+with the customers.
+Implementation	of	electronic	toll	collection	on	India’s	highway	network	to	ease	
+delays	and	traffic	congestion	at	toll	collection	points:	 The ETC system would 
+enable a smoother thoroughfare of traffic at toll plazas by facilitating automatic vehicle 
+identification (AVI) and electronic collection of toll. As per CRISIL Research, currently, 
+there are close to 525 toll plazas, operating on national and state highways in India. 
+Over 20,000 vehicles cross these plazas daily, each queuing up for approximately 5-10 
+minutes awaiting their turn to pay the toll fare. Each vehicle consumes almost 0.5-1.0 
+litre of fuel in an hour. Collectively, these vehicles spend around 1,800-3,600 hours at 
+toll plazas.
+14
+PwCLeveraging emerging technologies
+Gains in operational efficiency can be credited to a more expansive use of IT that helps 
+businesss run faster and more effectively. We believe that adapting emerging technologies 
+to drive low cost and create scalable and flexible systems will be key to the overall success 
+of the IT function. 
+Few companies outside the pure web space have become truly digital in which information 
+and the ability to act on it creates significant economic and competitive value. Leading 
+companies are capitalising on digital ecosystems that are expanding due to the confluence 
+of social networks, mobile computing, analytics, and cloud computing (SMAC). SMAC 
+challenges enterprises to take advantage of the positive disruptions it portends, while they 
+operate at the rapid pace of innovation and change that demands. 
+SMAC and other emerging technologies create the possibility for new ways to develop 
+products, interact with customers, partner with others, compete and succeed. 
+More than strategy for any individual technology trend or for combining more than one 
+of them, companies needs a systematic approach to engage with these technologies. 
+Companies that have the most success engaging with SMAC are rethinking their business 
+and enterprise architectures and emphasising three fundamental changes.
+• They acknowledge that SMAC trends are the strongest signal yet that business 
+ecosystems are becoming more digitised, where information content accounts for a 
+rising proportion of the entire value of any product or service. 
+• They understand that successfully tapping the new drivers of value requires a digital 
+operating model, a model attuned to participating in or integrating with expanding 
+digital ecosystems.
+• Successful companies are adjusting their business and enterprise architectures to allow 
+easy digital connections. 
+The confluence of SMAC trends is driving this shift in business value. 
+PwC anticipates that information associated logistics services will increasingly account for 
+a rising share in the customer’s experience of value delivered, as illustrated below.
+Customer’s experience of value delivered
+15
+Leveraging ITScaling integrations requires a digital operating model
+While each SMAC technology has its own unique impact, the technologies are 
+complementary in support of work getting done. 
+The cloud increasingly contains more of the information and applications that people use. 
+Mobile devices give people access to the cloud, to other data sources, and to each other. It 
+empowers the authorized users to be more efficient with data on his finger tips
+Analytics help them make actionable sense of all that data. 
+Social media helps people find colleagues / service providers with whom to collaborate 
+and co-create. 
+The collective impact of SMAC on the enterprise operating model is so broad that it helps 
+to think about the SMAC technologies as an integrated whole from a strategic viewpoint as 
+illustrated below.
+Strategic view point of SMAC
+Trends Relationship with work 
+Social Who we work with 
+Mobile How we get to work 
+Analytics What we work on, the meaning of work 
+Cloud Where we do the work 
+Emerging trends and business process improvementEmerging technology embarked on a journey to adopt high-quality 
+innovative IT and business process improvement solutions
+16
+PwCWe recognize that SMAC is very relevant to the transport and logistics sector and many 
+of the challenges pertaining to IT barriers could be addressed with the adaption of these 
+technologies. Few of the transportation and logistics companies have effectively initiated 
+hosting of sales and contract related workflow based application on cloud. This has helped 
+them  reduce cost on application and infrastructure heads.
+On similar lines, mobility solutions could be used for managing the delivery status 
+through SMS and could add value if integrated with automated hand held devices for POD 
+management. Invoice management, payment outstanding and collection reconciliation are 
+general challenges which could be addressed with these mobility solutions if integrated 
+with ERP or other related IT applications.
+We also believe that social media could be  a game changer for the organisations providing 
+complete supply chain solutions to their end customers. With e-commerce emerging as a 
+strong marketplace, the supply chain solution providers would need to stay engaged with end 
+users online through social media. This medium would be an effective mechanism to gather 
+relevant feedback and also emerge as a strong branding agent. Though the direct clients of 
+transportation and logistics companies have started building strategies around using social 
+media technology, it is yet to take any concrete step towards an effective usage of this platform.
+
+17
+Leveraging ITNotes
+18
+PwCTo address the need of sharpening India Inc’s competitive edge through better Logistics 
+and Supply Chain practices, CII Institute of Logistics (CIL) was established in 2004 by 
+the Confederation of Indian Industry as a Center of Excellence in Logistics and Supply 
+Chain. 
+At CII Institute of Logistics we create a platform for the Industry to gain more insights 
+into the emerging trends, industry specific problems of national importance and global 
+best practices in logistics & supply chain management. We enable the industry to cut 
+down the transaction cost, increase efficiency, and enhance profitability and enable to 
+sensitize and bring solutions to macro level issues. 
+The	Vision
+CII Institute of Logistics to become an International Centre of Excellence in Logistics 
+and SCM and to facilitate Indian industry to be referred in Global Business for its Best 
+Practices in SCM and Logistics.
+The	Mission
+CII Institute of Logistics to be a platform to create and share intellectual capital for 
+reducing transaction cost and improving competitiveness, in the process nurture the 
+skills of Logisticians and ensure adoption of Best Practices in Logistics and SCM through 
+online and offline activities.
+For over four years now, CII Institute of Logistics, the country’s premier Centre of 
+Excellence in logistics and SCM, has enabled a number of exemplary success stories 
+in logistics.About CII
+19
+Leveraging ITPwC* helps organisations and individuals create the value they’re looking for.  We’re a network of 
+firms in 158 countries with more than 180,000 people who are committed to delivering quality in 
+assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, Bangalore, 
+Chennai, Delhi NCR, Hyderabad, Kolkata, Mumbai and Pune.  For more information about PwC 
+India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member firm is a 
+separate legal entity. Please see www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_INAbout PwC
+Rachna Nath
+Executive Director
+Direct: +91 (0) 22 6669 1539 
+Mobile: +91 (0) 9820865684
+Email: rachna.nath@in.pwc.com
+Dilraj Singh Gandhi
+Managing Consultant 
+Direct: +91(124) 4620272
+Mobile: +919818215814
+Email: dilraj.singh.gandhi@in.pwc.com
+Aditya Rath 
+Managing Consultant 
+Direct: +91 (22) 6669 1408
+Mobile: +91 99203 41779 
+Email:  aditya.rath@in.pwc.com Reach out to us
+www.pwc.in
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability 
+company in India), which is a member firm of PricewaterhouseCoopers Inter national Limited (PwCIL), each member firm of which is a separate legal entity.
+MS 447 - February 2013 IT-T&l.indd 
+Designed by: PwC Brand and Communications, India

@@ -1,0 +1,32 @@
+Title: Income Tax Flyer_v1
+Date Published: 2025-01-31 17:49:24+05:30
+Source: pdfs/pwc_simplification-of-tax-law.pdf
+Word Count: 302
+Sentence Count: 25
+Average Sentence Length: 18.84
+
+--- TOP 20 WORDS ---
+tax: 14
+provisions: 10
+act: 6
+litigation: 4
+taxpayers: 4
+budget: 4
+compliance: 4
+review: 4
+language: 4
+reduction: 4
+etc: 3
+simplification: 3
+relating: 3
+returns: 3
+key: 2
+unintended: 2
+expectations: 2
+efficient: 2
+system: 2
+disputes: 2
+
+--- CLEANED CONTENT ---
+
+Key roadblocks and issues Difficulty  simplifying provisions with  history  litigation . . proceedings for reassessment, search and seizure, etc. whilst retaining the essence and integrity  the provisions Balancing the interests  the revenue authorities and taxpayers while ensuring that settled positions are not unjustly overturned Given the diverse nature  taxpayers, simplification  way   one-size-fits-ali approach may not  conducive. Possible unintended creation  additionai loopholes  undertaking simplificationKey expectations from Budget 2o25 Key tax expectations from Union Budget 2o25 Our perspectiveA bird  eye view Overview  the existing Income-tax Act  simplified Income-tax Act  imperative for fostering  more transparent and efficient tax system. Simplification can significantly ease the burden  compliance  taxpayers  removing ambiguities  tax provisions and reducing the scope for disputes varied interpretations. This shali facilitate greater compliance and reduced litigation, thereby promoting tax certainty for the taxpayer, and making the process  tax collection more efficient and less prone  errors  delays. Comprehensive review  the Income-tax ActUnion Budget 2o25  the budget for  2o24-,  comprehensive review  the Income-tax Act, 1961 was proposed  make the law more concise and lucid,  order  reduce disputes. The review was proposed   completed within six months. The Government had set   internai committee  review the Act and the committee had invited suggestions for four categories: simplification  language, litigation reduction, compliance reduction, and redundant and obsolete provisions.  Source PIB  https: pib. gov.  PressReleasePage. aspx? PRID 2o62861134 rules  the Income-tax Rules, 1962 298 sections  the Income-tax Act, 1961 More than  income tax forms14 schedules and  chapters  the Income-tax Act, 1961Simplification  language Simplify language  the provisions relating  Significant Economic Presence, faceless assessment and appeals, with the objective  making the language simple and easy  understand. Simplify provisions relating  valuation  perquisites, enhancement  thresholds limits etc. Litigation reduction Introduce  process  mediation can  non-mandatory non-binding  the time  assessment  the appellate stage  expedite fair resolution  cases. Removai  obsolete provisions Consider removai  provisions wherein the sunset clause has expired . . deduction for investments  plant and machinery, especially  backward areas 32AC and 32AD, tax holiday benefits for newly set  Speciai Economic Zone units, provisions relating  capitai gains tax exemptions which are  longer  force etc. Compliance reduction Consider introducing  consolidated single master form system  replace the multiple event-based forms that are currently filed. This would ensure that taxpayers are not unnecessarily penalised  there   unintended non-compliance merely due  the multitude  forms. Facilitate reai-time tracking and automatic update  tax deducted collected  source, advance tax and self-assessment tax payments  income tax returns. Clarify  provide clear monetary thresholds for filing  returns  overseas entities claiming tax treaty benefits. Extend exemption from filing  returns  transfer pricing compliances  weli  for transactions where taxes are withheld  per domestic tax law provisions. 

@@ -1,0 +1,404 @@
+Title: Impact on domestic businesses: Key budget changes and analysis
+Date Published: 2025-02-03 11:59:52+05:30
+Source: pdfs/pwc_budget-2025-impact-domestic-companies.pdf
+
+--- CONTENT ---
+
+February 2025Budget 2025 - Impact on 
+Domestic Companies
+PwC  |  Budget 2025 - Impact on Domestic Companies2
+Preface 
+The Union Budget 2025–2026, presented by the 
+Finance minister Nirmala Sitharaman, highlights 
+the Government of India’s commitment to fostering 
+economic growth and enhancing the global 
+competitiveness of Indian enterprises. With a 
+focus on inclusive development and ease-of-
+doing business, the budget introduces a series 
+of transformative reforms and initiatives aimed 
+at bolstering key sectors such as agriculture and 
+Micro, Small and Medium Enterprises (MSMEs) 
+and emphasizes innovation. These measures are 
+designed to stimulate private sector investments, 
+uplift household sentiments and enhance the 
+spending power of India’s burgeoning middle 
+class. 
+For domestic companies, the budget brings 
+significant enhancements in credit availability, 
+particularly for MSMEs, with the credit guarantee 
+cover being doubled to facilitate an additional 
+credit of INR 1.5 lakh crore over the next five 
+years. The introduction of customised credit 
+cards for micro enterprises and a new Fund 
+of Funds for start-ups further highlights the 
+government’s support for entrepreneurial ventures. 
+Additionally, the budget proposes substantial tax 
+reforms, including a new income-tax bill aimed at 
+simplifying the tax structure and reducing litigation, 
+thereby fostering a more business-friendly 
+environment. 
+The budget also emphasises investment in 
+people and innovation, with initiatives such as the 
+establishment of National Centres of Excellence 
+for skilling, expansion of medical education and 
+the launch of a Deep Tech Fund of Funds. These 
+efforts are complemented by sector-specific 
+measures, including support for clean tech 
+manufacturing and the promotion of exports 
+through the Export Promotion Mission. Together, 
+these initiatives aim to reduce compliance and 
+create a robust ecosystem for Indian companies 
+to thrive, innovate and contribute to the vision of a 
+Viksit Bharat. 
+PwC  |  Budget 2025 - Impact on Domestic Companies3Towards simplified 
+tax laws
+In the Union Budget 2024–25, the Indian 
+Government initiated a comprehensive review 
+exercise to make the Income-tax Act, 1961 (the 
+Act) concise and easy to understand. Public inputs 
+and suggestions were invited in four categories, 
+namely, simplification of language, litigation 
+reduction, compliance reduction and removal of 
+redundant or obsolete provisions. In line with the 
+announcement, the Finance Minister has stated that 
+the new Direct Tax Bill is to be tabled in the coming 
+days. However, a slew of amendments are also 
+introduced under the current Act under the Finance 
+Bill, 2025. These amendments aim to achieve 
+rationalisation, reduction of disputes and clarify tax 
+laws. A snapshot of the key amendments impacting 
+domestic companies in India is provided in the 
+ensuing paragraphs. 
+The income-tax rates applicable for a domestic 
+company remain unchanged for previous year 
+2025–26, as tabulated below. Stability in income-tax rates
+Category Tax rate
+Companies opting section 115BAB of the Act 15% plus 10% surcharge plus 4% cess
+Companies opting section 115BAA of the Act 22% plus 10% surcharge plus 4% cess
+Companies not opting for sections 115BAA or 
+115BAB of the Act and whose total turnover in 
+previous year 2023–24 does not exceed INR 
+400crores25% plus surcharge** plus 4% cess
+** 7% surcharge, where total income is between 
+INR 1crore and INR 10crore; 
+12% surcharge, where total income exceeds INR 
+10crore.
+Other companies 30% plus surcharge** plus 4% cess
+** 7% surcharge, where total income is between 
+INR 1crore and INR 10crores; 12% surcharge, 
+where total income exceeds INR 10crores.
+
+PwC  |  Budget 2025 - Impact on Domestic Companies4Safe Harbour Rules are currently applicable to 
+identified specific categories of eligible transactions 
+such as Software Development Services, 
+Information Technology-Enabled Services (ITES), 
+Knowledge Process Outsourcing (KPO) Services, 
+Contract Research and Development Services, 
+Manufacture and export of Core Auto Components, 
+Specified Financial transactions. All of these classes 
+have defined limits and defined arm’s length prices 
+which are accepted by the tax department thereby 
+providing tax certainty. 
+During the budget speech, the Hon’ble Fin Min 
+mentioned that the scope of the existing Safe 
+Harbour scheme will be expanded. The details are 
+expected to follow.Towards certainty – Expanding 
+the scope of the Safe Harbour 
+Scheme
+The government continues the effort to promote 
+domestic manufacturing and value addition by 
+increasing the Basic Customs Duty (BCD) on the 
+import of goods and reducing or exempting BCD  
+on components, parts and capital goods. This 
+budget focuses on the following key products:
+1. Interactive Flat Panel Display (IFPD) BCD is 
+increased from 10% to 20%; and 
+Parts and Components of IFPD BCD is reduced 
+to either 5% or nil.
+2. Certain capital goods used for manufacture 
+of electric vehicle battery and mobile phone 
+battery are exempt from immediate effect. This 
+will reduce the capex cost and promote local 
+manufacturing in India    Promote domestic manufacturing 
+and value additionTime limit prescribed for finalising provisional 
+assessment under Customs: Currently, Customs 
+law does not specify a time limit for finalising 
+provisional assessments. The Union Budget 2025–
+26 proposes to introduce a two-year timeline, with a 
+one-year extension (for sufficient reasons) and few 
+exceptions. This proposal ensure that assessment 
+will be finalised within the prescribed timeline.  
+Pending Special Valuation Branch investigations 
+are likely to be completed faster due to this 
+amendment.  
+Conditions and compliances for import of goods 
+at concessional rate of Customs duty relaxed: 
+Currently, goods imported at concessional rate of 
+Customs duty for use in the manufacture of final 
+product are required to be used within six months 
+of the date of import. Given the bulk procurements, 
+companies had to pay the Customs duty along with 
+interest for use beyond the prescribed timeline.  The 
+Union Budget 2025–26 increases the timeline from 
+six months to one year and relaxes the monthly 
+filing requirement to a quarterly filing. This is a 
+beneficial amendment for the industry and saves 
+cost and time. Whether the said amendment would 
+be applicable to goods already imported is to be 
+assessed. 
+Voluntary revision of import and export 
+documents: The industry has been struggling 
+to amend bills of entry and shipping bills after 
+the clearance of the goods in case of a mistake, 
+error or other legal requirements. The request for 
+amendments to rectify the mistake was earlier made 
+to the Customs authorities, and the entire process 
+was time consuming and prone to interpretation and 
+litigation. This budget’s proposals insert a provision 
+for the voluntary revision of entry post clearance 
+of the goods. The timeline and other procedural 
+aspects are expected to follow the enactment 
+of this provision. This is also a significant trade 
+facilitation measure.  Simplification and facilitation of 
+trade
+The landmark decision of the Supreme Court in 
+the case of Safari Retreat allowed GST input tax 
+credit on goods and services received by a taxable 
+person for the construction of an immovable 
+property, which qualify as plant or machinery. The 
+Union Budget 2024–25 proposes a retrospective 
+amendment with effect from 1 July 2017 to section 
+17(5)(d) of the CGST Act 2017, by replacing the term 
+‘plant or machinery’ to ‘plant and machinery’. This is 
+expected to have a significant impact on the credit 
+availed by taxpayers on immovable property in 
+specific scenarios treating it as plant or machinery. 
+The applicability of the Supreme Court ruling after 
+this amendment is to be evaluated.Key amendment based on the 
+GST Council recommendations  
+PwC  |  Budget 2025 - Impact on Domestic Companies5
+PwC  |  Budget 2025 - Impact on Domestic Companies6Industry-specific 
+measures
+India has actively been pushing towards fostering 
+a robust start-up ecosystem since 2016 as a part 
+of ‘the Start-up India’ initiative and is now home 
+to the world’s third largest start-up ecosystem. 
+Eligible start-ups enjoy a three-year tax holiday on 
+their profits out of ten years, provided the start-up 
+company is incorporated within the specified time 
+limit. While the said tax provision was about to hit 
+its sunset, the government has been extending the 
+benefit on a yearly basis during recent budgets. 
+The Union Budget 2025 further extends the benefit 
+of a tax holiday to all eligible start-ups which are 
+incorporated before 1 April 2030. As India continues 
+its journey towards becoming a global leader in 
+innovation, this extension is expected to foster a 
+vibrant entrepreneurial ecosystem.Incentivising start-ups 
+A separate chapter XII-G was brought in vide the 
+Finance Act, 2004 to promote the Indian shipping 
+industry, by introducing a tonnage tax scheme 
+for Indian shipping companies satisfying specific 
+conditions. This scheme provided for a presumptive 
+taxation for sea-going ships. To promote inland 
+water transportation in the country and to attract 
+investments in the shipping sector, the budget 
+proposes to extend the benefits of the tonnage 
+tax scheme to inland vessels registered under 
+the Inland Vessels Act, 2021 with effect from 
+Assessment Year (AY) 2026–27.Boost for shipping industry
+Carry forward of losses in case of merger 
+or succession
+Amendments are proposed to provisions related 
+to the carry forward and set off of accumulated 
+losses in cases of amalgamation or business 
+reorganisation, wherein the successor entity would 
+be eligible to carry forward the accumulated 
+losses, for the balance unexpired period of eight 
+AYs alone. The proposed amendment aims to 
+prevent the practice of ‘evergreening’ of losses, 
+where losses of the predecessor entity are carried 
+forward for a period of more than eight years 
+through amalgamation(s), thereby ensuring a more 
+disciplined and time-bound approach to loss 
+carry forward. These changes are proposed to 
+be applicable for any amalgamation or business 
+reorganisation effected or brought into force on or 
+after 1 April 2025.M&A measures
+
+PwC  |  Budget 2025 - Impact on Domestic Companies7Rationalising 
+compliances
+The basic thresholds above which TDS is applicable 
+has remained unchanged for several years. With 
+effect from 1 April 2025, the following changes are 
+proposed to the threshold for TDS applicability:TDS and TCS – Easing the rigours
+Provisions of the Act/ Nature 
+of incomeCurrent threshold** Proposed threshold**
+Interest on securities  
+(section 193)Nil INR 10,000
+Income from mutual funds 
+(section 194K)INR 5,000 INR 10,000
+Commission or brokerage 
+(section 194H)INR 15,000 INR 20,000
+Rent (section 194-I) INR 2,40,000 INR 50,000 per month or  
+part of a month
+Fees for technical services, 
+professional services, royalty etc. 
+(section 194J)INR 30,000 INR 50,000
+**Annual limits, unless specified otherwise
+TCS on sale of goods is proposed to be abolished, 
+bringing about significant relief from compliance burden 
+on transactions. Moreover, sections 206AB and 206CCA 
+of the Act were introduced to penalise taxpayers who do 
+not file tax returns, by mandating the payers of income to 
+deduct higher rates of taxes at source. Pursuant to the said 
+provision, the payers of income were required to verify the 
+payee’s tax return filing status at the instance of complying 
+with TDS. Moreover, the Central Board of Direct Taxes 
+introduced a tool on the reporting portal for such exercise. 
+However, considering the compliance burden involved, the 
+said provisions are proposed to be abolished with effect 
+from 1 April 2025. The above measure aims to reduce the time and resources 
+embroiled in compliance and increase ease-of-doing 
+business in India.
+PwC  |  Budget 2025 - Impact on Domestic Companies8To encourage voluntary tax compliance, the Indian 
+Government, vide the Finance Act, 2022, allowed 
+filing of ‘Updated return’ within a period of 24 
+months from the end of the relevant AY , on payment 
+of additional income tax. Vide Budget 2025, the 
+Finance Minister proposes to extend the time 
+limit to file the updated return from the existing 24 
+months to 48 months from the end of the relevant 
+AY , with 60% additional income tax payable, if filed 
+between 24 to 36 months and 70% payable, if filed 
+between 36 to 48 months.
+It is also proposed to allow the taxpayers to file the 
+updated return, even if re-assessment proceedings 
+are initiated after 36 months, but dropped later. This 
+is expected to further facilitate voluntary compliance 
+by taxpayers and also reduce potential disputes 
+with tax authorities. The conditions relating to filing 
+an updated return (cannot lead to increased losses, 
+claim of refund etc.) continue to apply. Facilitating voluntary compliance
+Similar to the specified financial transaction 
+reporting, crypto-asset transactions are proposed 
+to be brought in within the reporting framework with 
+effect from 1April 2026. Income-tax rules are to be 
+notified to define the ‘reporting entity’, the nature 
+of information to be maintained and due diligence 
+procedures to be carried out by the reporting entity 
+for identification of any crypto-asset user or owner. 
+As a step towards the implementation of the 
+Crypto-Asset Reporting Framework brought in 
+by the Organisation of Economic Co-operation 
+and Development, the Government’s proposal of 
+introducing a domestic reporting framework can 
+be seen as a push for transparency in crypto-asset 
+transactions, enabling tax authorities to monitor and 
+address gaps in existing tax framework.
+The definition of Virtual Digital Assets is 
+expanded to include any crypto-asset, which 
+is a digital representation of value that relies on 
+a cryptographically secured distributed ledger 
+or a similar technology to validate and secure 
+transactions.Bringing crypto under the net
+
+PwC  |  Budget 2025 - Impact on Domestic Companies9Dispute resolution 
+measures
+One of the key agendas of the Indian government 
+in the recent past has been to reduce tax litigation 
+and provide certainty to taxpayers. Accordingly, the 
+time limit for imposing penalty is now rationalised 
+to mean expiry of six months from the end of the 
+quarter in which the connected proceedings are 
+completed or receipt of the relevant order by the tax 
+authorities. Additionally, penalties are to be levied by 
+the Tax Officer (TO) as against Joint Commissioners 
+under the existing law. 
+Moreover, the existing law provides for the taxpayer 
+to apply for immunity from penalty and prosecution 
+within one month from the end of the month in 
+which the relevant order was passed. The taxpayer 
+is to represent the case before the TO, who will 
+dispose of the application within a period of one 
+month from the end of month in which application is 
+received. The period for processing the application 
+is increased from one month to three months with 
+effect from 1 April 2025. 
+Additionally, relief is provided from prosecution in 
+respect of failure to deposit TCS by the taxpayer, 
+provided the same is deposited on or before the 
+time limit prescribed for filing the TCS statement .Rationalising penalty provisions
+Taxpayers engaged in international transactions 
+or specified domestic transactions are currently 
+subjected to annual transfer pricing assessments in 
+India wherein these transactions are scrutinized for 
+adherence with arm’s length principle for each year 
+even if the transactions are similar and there is no 
+change in facts. 
+The Union Budget 2024-25 has proposed to 
+introduce an option to taxpayers to undergo transfer 
+pricing assessments for a block of three years in 
+order to ease the burden of annual transfer pricing 
+assessments.  
+It is proposed that the taxpayer shall be provided 
+with the option by the transfer pricing officer 
+during transfer pricing assessment to get the arm’s 
+length price (“ALP”), determined in relation to an 
+international transaction or a specified domestic 
+transaction for any previous year, applied to a 
+similar transaction for the two consecutive previous 
+years immediately following such previous year. The 
+option of block assessment shall not be available 
+for search cases.Block transfer pricing 
+assessment scheme
+Search cases 
+The concept of block assessment was re-
+introduced vide the Finance (No. 2) Act, 2024 for 
+search cases. The following changes are proposed:
+•	Undisclosed income, as found during the course 
+of the search, is proposed to include crypto-
+assets. Changes in block assessments•	Along with the assessment proceedings, re-
+assessment, recomputation, reference or order 
+relating to any AY will abate, upon the search 
+being initiated.
+•	Computation of income for the purpose of 
+section 158BB(1) of the Act is clarified to provide 
+appropriate treatment for income based on 
+books of accounts. 
+•	The time limit for the completion of block 
+assessments is to be 12 months from the end of 
+the quarter (as against the end of the month) in 
+which the last of the authorisations for search or 
+requisition is executed.
+10
+These changes are to take effect from  
+1 April 2026. 
+While the form, manner and time limit to opt for 
+block TP assessment are yet to be prescribed, this 
+rationalisation measure is intended to be in line 
+with global best practices to ease the compliance 
+and administrative burden on the taxpayers and tax 
+authorities alike.
+PwC  |  Budget 2025 - Impact on Domestic Companies
+About PwC
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of 
+firms	in	151	countries	with	over	360,000	people	who	are	committed	to	delivering	quality	in	assurance,	
+advisory and tax services. Find out more and tell us what matters to you by visiting us at www.pwc.com.
+PwC	refers	to	the	PwC	network	and/or	one	or	more	of	its	member	firms,	each	of	which	is	a	separate	
+legal entity. Please see www.pwc.com/structure for further details.
+© 2025 PwC. All rights reserved.
+pwc.in
+Data Classification: DC0 (Public)
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate 
+Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited 
+(PwCIL), each member firm of which is a separate legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or derived from 
+sources believed by PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this 
+information is accurate or complete. Any opinions or estimates contained in this document represent the judgment of PwCPL at 
+this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice 
+before taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. 
+PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information 
+contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved. 
+KS - February 2025 - M&C 

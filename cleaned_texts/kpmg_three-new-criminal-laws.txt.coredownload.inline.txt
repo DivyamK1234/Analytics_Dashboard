@@ -1,0 +1,19 @@
+Title: kpmg_three-new-criminal-laws.coredownload.inline
+Date Published: 
+Source: pdfs/kpmg_three-new-criminal-laws.pdf.coredownload.inline.pdf
+Word Count: 7
+Sentence Count: 1
+Average Sentence Length: 9.0
+
+--- TOP 20 WORDS ---
+error: 1
+extracting: 1
+content: 1
+pycryptodome: 1
+required: 1
+aes: 1
+algorithm: 1
+
+--- CLEANED CONTENT ---
+
+Error extracting content: PyCryptodome  required for AES algorithm

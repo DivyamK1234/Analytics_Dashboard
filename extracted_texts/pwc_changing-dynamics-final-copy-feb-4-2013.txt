@@ -1,0 +1,1725 @@
+Title: pwc_changing-dynamics-final-copy-feb-4-2013
+Date Published: 2013-02-04 12:40:08+05:30
+Source: pdfs/pwc_changing-dynamics-final-copy-feb-4-2013.pdf
+
+--- CONTENT ---
+
+Indian aviation: 
+Spreading its wings 
+www.pwc.in
+Aero India, February 2013  
+Foreword  p2/Opportunities and challenges p6/Tax and regulatory framework p22/
+Building a domestic aerospace industrial base p28
+
+PwC2The year 2012 marked a decade of full-fledged entry of the private 
+sector in defence production with 100% equity and 26% foreign direct investment.  The decade also witnessed India emerge as one of the most attractive defence markets and an even more lucrative aerospace market in the world with a steady increase in the Ministry of Defence’s budget for modernisation of the armed forces.  Besides, the size of the defence market in India, the government’s defence budget, the 30% offset clause, the Defence Production Policy espousing indigenisation and self-reliance—these avenues seem promising for the private defence industry as well. 
+However, the lack of level playing field for the private sector vis-a-
+vis the DPSUs and the foreign original equipment manufacturers (OEMs) continue to be a dampener on the enthusiasm and efforts of the private sector to be able to contribute meaningfully to the Indian growth story.   India at this juncture is uniquely equipped to create a vibrant defence manufacturing base in the country with the right utilisation of its budget and modernisation spree. Yet we are losing the battle even before it has started. 
+The Defence Offset Policy announced last year lists fostering 
+development of internationally competitive enterprises, augmenting capacity for research, design and development related to defence products and services and encouraging development of synergistic sectors such as civil aerospace and internal security. FICCI has welcomed the intent of these objectives creating a manufacturing base and augmenting R&D related to defence products and services. However, it will be desirable to have an offset policy which has creating capability and value addition as its corner-stones. 
+One cannot over emphasise the importance of self-reliance in 
+defence production in the strategic interest of the nation. Here it is also coupled with the fact that the defence and aerospace industry can act as a force multiplier for the economy given India’s capability in frugal engineering together with jobs and export opportunities like it has happened in the auto and IT sector.  Also, since defence is a tiered industry, the MSME sector can get a huge impetus through a strong defence industry set up. This will also build national defence capability followed with integration of the Indian industry in the global supply chain of spares and sub-systems followed by platform integration. In due course, India can emerge as an outsourcing hub for global defence players. This sums up our vision for the defence and aerospace manufacturing in India, which the FICCI Defence Committee has been taking forward with the Ministry of Defence
+We would like to thank our knowledge partners - PwC for their 
+support and hard work in making this report.
+Dr A Didar SinghSecretary General FICCIForeword
+
+Spreading its wings Indian aviation3In the last decade, India initiated a modernisation and acquisition 
+programme for its defence forces. To utilise the huge acquisition budget and to build a domestic industrial base, the government made radical policy changes, allowing private and domestic investment in the defence sector and moving from depending upon a single country for the supply of equipment to global bidding. The offset policy was launched in 2005 to encourage investments in the nascent domestic industry. Based on the learning and feedback from domestic and foreign participants, the Defence Procurement Policy (DPP) and offset policies have been revised several times. These changes reflect the government’s commitment to put in place a transparent and proactive policy regime. 
+Over the last 10 years, a number of big-ticket acquisitions have 
+taken place and offset proposals exceeding 4 billion USD have been approved. To assess the growth and development that have taken place in the past four years (since our first such study), PwC conducted a review of the sector. To deal with limited company data available in the public domain, we relied on interviews and our insights derived from advising a large number of clients and anecdotal evidence.
+Defence and aerospace companies face a new intensity as a result 
+of the economic slowdown and consequent defence spending cuts, particularly in the US and Europe where governments have started cutting, re-profiling and reducing programmes and platforms. Though the US is still the largest military spender, the Asia-Pacific region with China, Japan and India, leads the race in arms purchase, with a major chunk of these budgets going into the military aviation sector.
+The Indian Air Force (IAF) has inducted a wide range of new 
+platforms and equipment with many more purchases in the pipeline. Hindustan Aeronautics Limited (HAL) has dominated the sector and along with other defence public sector undertakings (DPSUs), it has supported the private sector in enhancing their capabilities through outsourcing and vendor development. The industry is still at a nascent stage of evolution. However, the good news is that the results of the liberalisation and proactive policies in the last decade, for example through the  ‘make’ programme and the defence offset policy, are beginning to bear fruit as several large domestic private sector groups such as Tata and L&T and a large number of smaller companies have entered this sector. The defence offset policy is expected to catalyse this process. Most of the leading global OEMs from the US and Europe have also established their presence in India including through joint ventures with Indian companies.Foreword
+PwC4Regulatory regime
+The government has tried to encourage private and foreign 
+investment in both civil and military aviation through several proactive policies. Yet there is much to be done. The 26% cap on foreign direct investment (FDI) in defence needs to be reviewed as this policy has failed to attract foreign investment. The country has received a paltry 4 million USD in the 10 years since FDI has been allowed in the defence sector as compared to over 180 billion USD in the entire economy. There is no clear definition of defence equipment delaying receiving licences for manufacture as well as exports and imports. There are inconsistencies among the various policies and their interpretation by different arms of the government which creates uncertainty and discourages investment. 
+The complex and multi-tiered tax structure in India makes domestic 
+manufacturing uncompetitive. The defence sector has an inverted duty structure as imports of final equipment by the Defence Ministry are duty-free but component and sub-assembly imports and domestic value-add by the private sector is taxed.
+Spreading its wings Indian aviation5The way forward
+The Indian aerospace and defence (A&D) market is among 
+the most attractive globally and the government is keen on promoting investments. Yet, doing business in India remains a challenge both from demand as well as supply perspectives. In the military sector, there exists uncertainty related to the regulatory regime and an unpredictable demand with frequent cancellation of tenders. The civil sector, where private airlines have now created a large and growing market, is still struggling with issues of profitability. The expansion of the aviation industry into the fabric of the country through the creation of smaller airports is still in its early stages, while the MRO industry where India could take a lead, is suffering from a lack of competitiveness relative to Singapore, Dubai and Sri Lanka. Reducing the time lag for general aviation aircraft clearances, lack of tax incentives, lack of manufacturing capabilities and skill sets, are some of the other challenges which the industry needs to deal with.
+As the industry matures, more can be done through 
+policy-making and streamlining regulations to allow the industry to accelerate its growth. Our recommendations for overcoming these challenges and key learning from market leaders are as follows:
+• The medium and long-term perspective plans for the 
+military, homeland security and aviation sectors should be shared with the industry in a transparent manner, without compromising national security to provide the industry information and confidence to invest in a production process that is measured in decades rather than years. 
+• Recognise that exports are essential for developing competitiveness, removing lumpiness of domestic orders and building global quality and competitiveness. At present, there are many grey areas around the licensing requirements due to poor definition of defence items.
+• A key argument against raising the FDI limit in the defence sector is national security. Creating a security policy will free the debate on FDI limits of this bogey. There is abundant international experience to learn from.
+• We need to bring clarity on the definition of defence equipment.• We need to create MSME clusters with high quality infrastructure and common facilities for building capabilities.  
+• It is essential to increase the FDI limit, align policies and rationalise the tax structure to create synergies and encourage foreign and domestic investments.
+• The procurement process and governance structure for programmes have to evolve and lessons from more developed markets such as the US and UK will help streamline these processes and reduce delays and cancellations.
+• The high cost of capital, particularly for MSMEs needs to be addressed.
+Our interviews with industry leaders bring out the following lessons for those who are looking to enter and grow in the industry:
+• Build capabilities and help key stakeholders, including 
+the government
+• Realise that you are here for the long haul
+• Aim to be part of a global supply chain
+• Consider acquisition and partnering to benefit from proven technology,
+• Engineering design and IT areas are good entry points
+We would like to thank our clients, senior officials in the government, DPSUs and other stakeholders for their valuable insights. We are also grateful to FICCI for inviting us to be their knowledge partner. We trust that you will find this report useful and look forward to your valuable feedback.
+Dhiraj MathurLeader, Aerospace and Defence PracticePricewaterhouseCoopers Pvt Ltd
+
+PwC6Opportunities and 
+challenges
+The US has planned to reduce its defence 
+expenditure by approximately 500 billion USD for the next 10 years. The threat of 
+sequestration still looms until the March 
+2013 deadline, pushing the regular budget for 2014 (usually completed by early February)as far as April. In Europe, defence ministries have responded to 
+budget cuts by cutting, re-profiling and 
+reducing programmes and platforms. The focus has been towards capability and cost-sharing between nations. The 
+outlook towards defence spending 
+is clouded and the industry needs to respond to the challenge by improving productivity and by cutting costs. 
+Trends in developed nations have not 
+deterred defence spending in the Asia-Pacific region where China, Japan and 
+India lead the race in arms purchase, 
+with a major chunk of these budgets going in the military aviation sector. The Chinese defence spending increased by 11% in 2012 to reach 106 billion USD. 
+According to the US Department of 
+Defence’s 2012 report on Military Power of the People’s Republic of China, total defence related spending in 2011-12 was in the range of 120 billion to 180 billion 
+USD. The Indian Union Budget 2012-13 
+outlays 40.44 billion USD for defence spending, an increase of 17.63% over the previous year.Military aviation
+The global security scenario over the last decade has maintained the 
+momentum for sustained high defence spending worldwide. Only recently, as a result of the economic slowdown, has defence spending 
+come under closer scrutiny. The defence expenditure of developed 
+economies pegged at 1,738 billion USD in 2011 shows a flat growth over the 2010 spend. 
+Indian military aviation 
+market
+Massive modernisation and acquisition 
+programme
+Source: PwC analysis
+India ranks among the top 10 countries 
+in the world in terms of military expenditure and is one of the largest 
+importers of conventional defence 
+equipment as it strives to modernise its forces and replace obsolete equipment. The air force accounts for the largest share of the defence capital budget 
+—5.54 billion USD in FY 2012-13, which 
+represents approximately 15% of the total defence allocation. India’s shopping cart 
+Source: SIPRI arms transfer databaseIndia’s defence budget 
+(Figures in billion USD)2011
+2010
+2009Revenue
+Capital
+Spreading its wings Indian aviation7The IAF has completed the first phase 
+of its 15-year modernisation plan that began in 2006. It was divided in the 
+three Five Year Plans namely, the 11
+th, 
+12th and 13th to be completed by 2022. In 
+the previous plans, the IAF procurements 
+were around 27.43 billion USD and it 
+is envisaged that it will procure assets 
+worth more than 38 billion USD over the next two plan periods, thereby completing approximately 75% of its modernisation programme by 2022. In 
+FY 2012 -13, a sum of 5,229 million USD 
+has been allocated in the defence budget for purchase of helicopters, aircraft  and major aero assemblies for the Indian 
+Army, Navy and Air Force, under the 
+head ‘aircraft and aero engines’. This has been receiving large proportions of the defence budget allocation and has grown from 2,780 million USD in 
+FY 2009-10 to 5,229 million USD in FY 
+2012-13, thereby representing a CAGR of approx 28%. This amount is expected to increase to approximately 13,000 million USD by 2017, thus, achieving a CAGR 
+of 20% from 2013 to 2017. However, 
+when accounting for India’s inflation rate, the real growth in procurement under this head is expected to be 8,000 million USD. In addition to hi-tech 
+fighters, the IAF is completely revamping 
+its transport and surveillance fleet to achieve larger reach within the decade. The defence services are poised to induct 
+over 800 rotary wing aircraft in the 
+coming decade, some of them being built indigenously.India’s big-ticket procurements
+Category Name Quantity Induction likely from
+Combat 
+aircraftMedium multi role combat aircraft (MMRCA) 126 2016
+Fifth generation fighter aircraft (FGFA) 214 2019
+Advanced medium combat aircraft (AMCA) 250 2020
+Tejas light combat aircraft (LCA) 264 2013
+MIG 29K 29 2013
+ Sukhoi 30 Mk 1 fighters 42 2014
+Transport 
+aircraftMulti role transport aircraft (MTA) 45 2022
+C17 Globemaster 10 Induction commenced
+Medium lift transport aircraft 56 2020
+Trainer 
+aircraftPC -7 Pilatus trainer 75+ 75 2014
+Hawk advanced jet trainer (AJT) 20 2016
+Multi role tanker transport (MRTT) 6 2015
+SpecialistP-8I Poseidon 12 (8+4) Induction commenced
+Airborne warning and control systems AWACS 2 2018
+Source: Media reports and PwC analysis
+India’s rotary wing aircraft procurement
+Type of helicopter Quantity To be procured from
+Mi-17 V-5 139 Russia
+Heavy lift helicopters 15 CH-47 Chinook (most likely)
+Medium attack helicopters 22 AH-64 Apache (likely)
+Utility twin-engine helicopters 159 HAL (Dhruv Mk III)
+Naval twin-engine helicopters 50 Global market
+Naval medium and multi-role 91 Global market
+Weaponised utility helicopter 76 HAL (Rudra) 
+Light combat helicopter 179 HAL (LCH) 
+Light utility helicopters  197 Global market
+Light utility helicopters 187 HAL
+Source: Business Standard 
+ 2011
+20102009
+
+PwC8Evolution of the industry
+Prior to 2001, the aerospace and defence 
+industry was exclusively reserved for DPSUs which have grown tremendously, 
+in part because of the protection, 
+but in large measure by developing and acquiring new technologies and by entering into the manufacture of indigenous aircraft. In 2001, the 
+government allowed 100% domestic 
+private investment in the defence sector upon obtaining an industrial licence and FDI of up to 26% with conditions.
+The introduction of the Defence 
+Offset Policy in 2005, with its several 
+revisions (the last in 2012), has provided 
+significant opportunities for Indian companies. New players are aggressively building capabilities and their attractiveness for potential Tier I and Tier 
+II supplier partnerships. Leading OEM’s 
+have not only established their presence but are actively starting to participate in programmes of the Indian government and even forming joint ventures with 
+Indian companies.Select aerospace majors in India 
+EADS •	Leading supplier to Indian commercial aviation sector (market share of 70% for Airbus 
+and 95% for ATR)
+•	Products such as the C-295 transport aircraft and the A330 MRTT in-flight refuelling aircraft shortlisted in several programmes of the Ministry of Defence (MoD)
+•	MBDA, an EADS affiliated company, has supplied air-to-air and air-to-surface missiles to the Indian Air Force and Navy
+Boeing •	Government of India purchased eight Boeing P-8I long-range maritime reconnaissance 
+and anti-submarine aircraft in Jan 2009
+•	MOD signed an agreement with the US government to acquire 10 Boeing C-17 
+Globemaster III airlifters in June 2011 (largest defence contract signed by the Indian 
+government with the US)
+•	On the verge of winning contracts for AH-64D Apache attack helicopters and CH-47F Chinook heavy-lift helicopters
+•	Dynamatic Technologies and Tata Advanced Materials Limited (TAML) have  delivered P-8I components
+Eurocopter •	Led the market with 65% of new aircraft deliveries in 2011
+•	Is expanding its support and services network in major cities to provide proximity 
+services to customers across India
+Lockheed 
+Martin•	C-130J Super Hercules (first major military contract between the US and India in more than 40 years) is their largest programme in India
+•	Formed a joint venture with Tata Advanced Systems, Tata Lockheed Martin  Aero-structures, to manufacture airframe components for the C-130J
+Finmeccanica •	Significant industrial presence in India, is represented by the Ansaldo STS subsidiary in 
+Bangalore (established in 1996), supplies signaling automation and control systems to 
+South Asian markets
+•	Over the last five years, have received on an average 250 million euros of orders per year from India. Forecast for 2010-2014 is about 500 million euros per year
+•	Has been establishing partnerships with key public companies (BEL, BHEL, HAL and 
+BDL) as well as with recognised private groups
+•	AgustaWestland and Tata Sons established a JV for the final assembly in India of the single-engine AW119 helicopter for India as well as worldwide markets
+Source: Company websitesTata Power SED
+Tata Power’s Strategic Electronics Division (Tata Power 
+SED) is involved in the indigenous design, development, manufacture, supply and lifecycle support of mission-critical defence systems and a large-scale system integrator for strategic programmes. 
+Since 1974, Tata Power SED has partnered with the 
+MoD, the armed forces and the Defence Research and Development Organisation (DRDO) in the development and 
+supply of state-of-the-art systems. 
+Tata Power SED has emerged as an established prime 
+contractor by winning the modernisation of air field infrastructure (MAFI) programme. 
+Rahul Chaudhry, CEO, Tata Power SED: “There are a number of reasons for the poor 
+progress made towards indigenisation. Some of them are rooted in the policy structure–
+both in terms of inconsistencies as well as a lack of a pro-active approach to involve the private sector. Other reasons, such as the inverted duty structure where imports are at zero duty and component, sub-assemblies and domestic value-add is taxed makes defence procurement an import-friendly regime. Further, the government of India gives 
+exchange rate variation on the entire import content (directly or through DPSUs) but 
+does not extend the same level playing field to the Indian private sector despite clear direction to do so in the DPP. In the last six years, the   ‘real’ indigenous content, i.e. the true value of indigenisation versus imports has progressively deteriorated from 45 to 
+36% due to a lack of a review mechanism at the Department of Defence Production and 
+at the Defence Minister’s level. Indigenisation of defence production and creation of jobs in India has been a recurring theme in seminars but has never been implemented on the ground. With the Planning Commission and National Manufacturing Policy now clearly targeting indigenous defence production as an integral part of the creation of 
+manufacturing jobs in India in the 12
+th  Five Year Plan, hopefully the intent of the Defence 
+Production Policy (DPP) will now see on-ground implementation”  Efforts to indigenise
+The government has initiated a process 
+of transformation in the military aviation sector through two key decisions. First, 
+it diversified its sources of purchase 
+of aircraft beyond USSR or Russia to OEMs from across the world through a transparent global bidding process. The Defence Ministry released its first 
+DPP in 2002 that laid down detailed 
+guidelines for all procurement. In 2005, it introduced a Defence Offset Policy as a part of the DPP. Second, the government 
+opened up the manufacturing of defence 
+equipment to domestic and foreign companies to build a domestic industrial base in the aerospace and defence sector and thereby reduce dependence 
+on imports. Progressive revisions in the 
+DPP clearly highlight the gradual shift in focus towards indigenisation as the government attempts to utilise Indian industry’s cost advantages, availability of 
+a talent base, manufacturing capabilities 
+and IT competitiveness. 
+Spreading its wings Indian aviation9The global recession and significant 
+margin pressures have forced OEMs and Tier I suppliers to undertake 
+major restructuring and cost-cutting 
+exercises. In such a scenario, emerging economies are in a position to provide significant cost benefits. Hence, some defence manufacturing related work 
+is being increasingly outsourced to 
+these economies. Efforts by domestic suppliers to move up the value chain is encouraging foreign companies to 
+outsource manufacturing related work, 
+rather than outsource only components and low-value IT assignments. Auto companies such as TVS-Sundaram Clayton, RICO and Mahindra and 
+Mahindra (M&M) are also foraying 
+into the aerospace sector in the field of manufacturing mechanical, electrical, electronics and composites. Select Indian aerospace companies
+Hindustan 
+Aeronautics 
+Limited (HAL)•	Pursuing strategic business alliances through partnership and joint ventures with OEMs 
+to gain access to technology and the global market 
+•	Plans to create new divisions and facilities as strategic business units (SBUs) for the implementation of new programmes such as Medium Multirole Combat Aircraft 
+(MMRCA), FGFA and Light Utility Helicopter or Medium Lift Helicopters
+•	Manufactured 12 types of aircraft with in-house R&D and 14 under licence 
+•	Till recently, manufactured over 3,550 aircraft, 3,600 engines and overhauled over 
+8,150 aircraft and 27,300 engines
+•	Current projects include the following:
+ -Dhruv (Advanced Light Helicopter-ALH)
+ -Tejas LCA
+ -Intermediate Jet Trainer (IJT)
+ -Various military and civil upgrades
+Bharat Elec-
+tronics
+Limited (BEL)•	Delivered components for the following Boeing products:
+ -Sensor technology for the P-8I
+ -Cockpit sub-assembly for Super Hornets 
+ -Cockpit sub-assembly for Growlers
+•	Part of the global supply chain
+DynamaticTechnologies•	Known for development of complex aero structures such as wing, rear fuselage, aile-rons flaps, fins, slats, stabilisers, canards and air brakes
+•	Largest infrastructure in the Indian private sector for manufacture of exacting air frame structures and precision aerospace components 
+•	Partner closely with agencies such as the MoD, HAL and other defence establishments on key projects
+Samtel Avionics 
+and Defence 
+Systems•	Key Indian player in high-technology products for avionics and military applications in both domestic and international markets
+•	Moving towards its goal of becoming India’s first complete avionics firm in the private domain
+•	 Offers a repertoire of state-of-the-art avionic displays and advanced systems to meet customised requirements of the aerospace industry
+•	JV with Thales of France
+Larsen  and Toubro(L&T)•	Provide design, manufacture and supply of components, subsystems and systems for aerospace applications
+•	Their Precision manufacturing facilities are geared to meet the exacting demands of 
+aerospace manufacture
+•	Have the capability to achieve high accuracy levels in the manufacture of systems 
+and subsystems of satellites and launch vehicles in metals and advanced composites through their state-of-the-art facilities
+Tata Advance 
+Systems Lim-
+ited (TASL)•	Fully-owned subsidiary of Tata Sons 
+•	Synergising capabilities across the group, offers design-to-manufacture and build-to-print solutions to Indian and global aerospace customers
+•	Established several joint venture companies, with Lockheed Martin, Sikorsky, ELTA Systems and AGT International
+Source: Company websites Thales
+Thales has joint venture agreements with BEL and 
+Samtel, besides having a software development company in Chennai for its global customers. 
+Presently, India accounts for only 1.5% of the total global 
+defence business. However, the company is expanding rapidly in the transport segment with a target of at least 50% of Indian revenue from the transport segment.
+Thales has a major stake in India with the ongoing 
+upgradation of the Mirage fleet in France, the share of 
+electronics in the manufacture of Scorpene submarines and the forthcoming MMRCA project.Eric Lenseigne, Country Head and Managing Director, 
+Thales India: “Almost 90% of the company’s 260 million USD business in India comes from the defence sector. We expect the military aviation market in India to sustain double-digit growth through the decade and we are confident that the commercial aviation market in India, where Thales has a major share of in-flight systems and avionics, is going to consolidate and bounce back soon. Thales will play a major role in future acquisitions in the domain of sensors, surveillance and air defence equipment. Presently, almost every combat aircraft in India has a bit of Thales in it.”
+PwC 10Challenges in the military aviation sector and the way 
+forward
+The aerospace industry continues to face the following key challenges:
+Access to technology: Availability and access to cutting-edge technology is the most 
+critical challenge faced by Indian companies. The country needs to keep pace with the increasingly high use of technology across the design lifecycle. 
+Access to funding and high interest rates: The aerospace business is highly capital-
+intensive. In the initial phase, capital needs to be injected continuously for longer periods without quick returns. Lending rates have been very high over the last three 
+to four years. 
+Training and capability building: Companies have to invest significantly in in-house 
+training programmes lasting eight to 10 months to make fresh recruits ready with the 
+right kind of skills to hit the shop floor.   
+Tax and regulatory framework: There is an urgent need to rationalise the inverted 
+tax structure and regulatory policies to create a level playing field and facilitate domestic and foreign investment  
+Availability of raw material: There has been a significant shift in the type of raw 
+materials that are being used in airframe structures. Composites are extensively used and there is limited domestic availability and manufacturing capability.
+Multiple platforms and poor vendor development: Unlike the navy, the air force 
+has over 45 platforms in use, making it extremely difficult to build and grow a strong vendor base as low volumes and diverse technologies make it difficult for private 
+Indian companies to invest in equipment and capability. 
+Rockwell Collins
+Rockwell Collins provides 
+communication solutions for the aerospace and defence market. The company’s solution portfolio includes audio management and controls, communication radios, modems, networks, flight information solutions, data links and surveillance. 
+Rockwell Collins has invested close 
+to 40 million USD in its design and research centre in Hyderabad which currently employs 500 engineers and has aggressive plans in India. It is collaborating with HCL Technologies Ltd as an offshoring partner for its engineering works and with ECIL for ECCM modules. The company has also 
+tied up with Tata Power SED to bid for 
+IAF’s software defined radios contract. 
+Rockwell Collins seeks to boost its 
+sales in the Asia Pacific and Latin America in order to offset curbs in US military spending.Ram Prasad, Managing Director, Rockwell 
+Collins: “We foresee market potential worth 800 million USD in the defence communication and avionics space in the next five years. We are partnering 
+with both DPSUs as well as small and big 
+private sector players. However, the long 
+acquisition cycles and delayed decision-making remains a challenge in the defence 
+sector in India. We expect the market for 
+Rockwell Collins’ products and services in the commercial aircraft segment to be around 200 million USD. We will participate in a number of ‘make’ projects such as TCS, BMS, FINSAS and FICV. 
+Commercial aviation
+There is a strong correlation between 
+the gross domestic product (GDP) and the aviation industry. As a country’s per 
+capita GDP grows, so does its residents’ 
+desire and ability to afford travel, and this desire in turn fuels the demand for aircraft. It is now well-acknowledged that economies outside North America and 
+Europe are expected to lead the world in 
+GDP growth. By 2030, more than 50% of the top 10 economies are expected to be outside the Western Europe and US 
+region. Countries of Asia-Pacific, Latin 
+America and Russia, where long-term GDP growth is forecast above average are expected to have a profound impact on commercial aviation. 
+Global GDP expressed in terms of PPP
+Rank in 2011 Country GDP billion  
+USD(2011)Projected rank in 
+2030Country Projected GDP billion 
+USD (2030)
+1 US 15094 1 China 30634
+2 China 11347 2 US 23376
+3 India 4531 3 India 13716
+4 Japan 4381 4 Japan 5842
+5 Germany 3221 5 Russia 5308
+6 Russia 3031 6 Brazil 4685
+7 Brazil 2305 7 Germany 4118
+8 France 2303 8 Mexico 3662
+9 UK 2287 9 UK 3499
+10 Italy 1979 10 France 3427
+Source: World in 2050,  PwC reportGlobally, airline revenues have increased throughout the period of economic recovery, from 476 billion USD in 2009 
+to 597 billion USD in 2011, representing 
+a 9.3%
+2  year-on-year increase. In terms 
+of the total net profits too, airlines have recovered from a net loss of ~26 billion 
+USD in 2008 to a net profit of ~7.9
+3 
+billion USD in 2011. The International 
+Air Transport Association’s (IATA) 
+Director General Tony Tyler was recently 
+quoted in a press report, “The industry has reshaped itself to cope by investing in new fleets, adopting more efficient processes, carefully managing capacity 
+and consolidating.” IATA has increased 
+its profits forecast for global airlines in 2012 to over 4 billion USD. From an Indian perspective, a global recovery will 
+not only encourage foreign interest but 
+also help in strengthening alliances and joint business agreements that might have been put on hold earlier owing to the industry downturn. 
+1 Aviation Benefits Beyond Borders report by Air Transport Action Group (ATAG)
+2 Bombardier commercial aircraft market forecast 2012-2031
+3 IATA annual review 2012 Global business and tourism rely heavily 
+on air transport. It facilitates world trade and helps to increase access 
+to international markets and allows 
+globalisation of production. According to a recent report by the Air Transport Action Group (ATAG), the total value of goods transported by air represents 
+35%
+1 of the world trade. With increasing 
+liberalisation across the world in 
+emerging economies, trade is expected 
+to increase at an accelerated rate 
+with India, China and other emerging countries giving further boost to the commercial aviation sector in these countries.
+Spreading its wings Indian aviation 11
+
+PwC12Total net profits and losses posted by airlines 
+globally
+Source: IATA annual review 2012
+Indian commercial aviation 
+sector
+The Indian aviation sector has continued 
+to experience high passenger growth over the last few years. 
+Growing passenger numbers in domestic 
+market
+Source: DGCA, PwC analysis
+Between 2009 and 2011, the total 
+domestic passenger traffic in India has grown at a CAGR of over 17% and if this growth were to continue, India is 
+estimated to be among the top three 
+aviation markets in the world by 2020. Freight traffic is expected to increase six-fold over the next decade. This is consistent with the emergence of low-
+cost carriers such as Indigo, Go Air and 
+SpiceJet, besides freight players such as Blue Dart and Deccan Express Logistics which has provided an impetus to air and freight traffic. Indian carriers have placed 
+orders for an additional 436 aircraft 
+to cater to increasing domestic and international travel demand. However, due to lack of proper infrastructure and training facilities, other than growth in 
+terms of traffic, aircraft and MRO, there 
+is little scope for creating a supply chain in India.Year-wise break-up of total number of 
+domestic passengers
+ 
+Source: DGCA, PwC analysis
+Currently, six domestic carriers operate 
+in the Indian aviation space with a total fleet of over 369 aircraft
+4. 
+Domestic carriers’ market share as of Nov 
+2012
+Source: DGCA, PwC analysis
+Note:  The market share of Kingfisher 
+Airlines as per November 2012 is depicted 
+as zero per DCGA statistics owing to the 
+suspension of its licence by the DGCA. Challenges in the sector
+With the exception of Indigo, all major 
+airlines have posted losses on a consistent basis over the last few years. 
+Consistent losses posted by major carriers 
+Source: Annual reports of companies, media reports, 
+PwC analysis
+4 DGCA website
+Spreading its wings Indian aviation13The airline industry is faced with 
+numerous challenges which can be broadly classified into three heads:
+Global challenges: 
+Volatility in fuel prices has been the foremost challenge for airlines. Aviation turbine fuel (ATF) represents the single 
+largest expense for airlines, on an 
+average amounting to about 34% of the operating costs
+5. IATA estimates that a 
+1 USD increase in the average price of a barrel requires the industry to recover 
+an additional 1.6 billion USD in revenue. 
+From an average price of 80 USD a barrel in 2010, oil prices rose by 20 USD per barrel in 2011 and by another 10 to 12 USD by the end of 2012. The airline 
+industry’s fuel bill rose to 177 billion 
+USD in 2011. The situation has been exacerbated by the steep depreciation of the rupee versus the US dollar (~18.7% 
+depreciation in FY11, although partly 
+recovered in FY12) adding further burden on the Indian airlines.
+.National policy related 
+challenges:
+India has among the highest tax on 
+ATF imposed by state governments (3 to 30%). This along with the social 
+obligation to fly uneconomic routes deals 
+a double whammy on airlines. The high interest rate regime has particularly hit airlines with a large debt. Poor infrastructure at the airports resulting 
+in delays in take-off and landing, high 
+airport charges, interference in pricing, imposing a five-year track record requirement for international flying, 
+etc. have all contributed to stifling 
+growth, raising costs and making airlines unviable. As per the IATA estimates, many countries including India earned an increased 2.2 billion USD in tax 
+revenues in 2011 from the aviation 
+sector on account of taxes imposed in various forms. This is ironic considering most domestic airlines made losses that year. The government has in the last six months addressed some of these 
+concerns. Airlines have been allowed 
+direct imports of ATF, FDI by foreign carriers in domestic airlines has been allowed, but this has been clubbed with FII investment, thereby diluting the 
+impact of liberalisation (this is discussed 
+in detail in the section on regulatory regime). Airlines have also been allowed to raise working capital through cheaper overseas borrowings.Company-specific challenges: 
+Lack of focus, faulty M&A decisions and failed mergers are perhaps the top three reasons for poor performance of Indian 
+carriers. In 2007, Kingfisher acquired Air 
+Deccan at 550 crore INR, Jet acquired Air Sahara at 1,450 crore INR and the national carriers (Air India and Indian Airlines) were forcefully merged. What 
+followed was a sequence of largely 
+unsuccessful attempts to integrate the merged entities. Attempts to run two different kinds of services, full-cost 
+carriers  as well as low-cost within the 
+same airline created serious problems as there were differences in costs, the turnaround time of aircraft and the distribution models. In essence, each  
+had a different DNA. 
+5 Bombardier commercial aircraft market 
+forecast 2012-2031, IATA annual review 2012
+6  IATA annual review 2012
+
+PwC14
+Future outlook
+The Indian market is severely 
+underserved with less than 3% of its population utilsing the air route. The 
+growing passenger numbers and a 
+burgeoning middle class indicate the possibility of healthy passenger load factors (PLFs) for all airlines in the future. Experts believe that the strong 
+market growth rate coupled with the 
+expansion of infrastructure will help the Indian civil aviation space in rebounding as the Indian economy recovers. The 
+latest quarterly results indicate that Spice 
+Jet has also made a profit and is the second airlines after Indigo to become profitable. Therefore, this is a good time for global players to enter the Indian 
+market to target not just the busy trunk 
+routes but also explore the potential of the large unserved market through creating a hub-and-spoke model using smaller aircraft. There are media reports 
+of a potential joint venture between Jet 
+Airways and a foreign airline. But it may be premature to say that these are green shoots of recovery.
+Spreading its wings Indian aviation15General aviation (GA)
+The GA market, which includes business 
+jets and non-scheduled charter services by fixed and rotor wing aircraft,  
+provides services for  diverse operations 
+ranging from business, agriculture,  law enforcement, fire and rescue services, to varied government, educational, non-profit and business organisations. 
+Servicing and supporting the aircraft 
+companies is an entire value chain including fixed base operators (FBOs), maintenance technicians, suppliers and 
+service providers. Individuals who use 
+GA aircraft realise numerous competitive business advantages, particularly in saving time and improving productivity of key personnel. While business aviation 
+has generally stayed under the shadow of 
+the scheduled commercial aviation, it is a key segment of the civil aviation sector.  
+The industry downturn of 2009-10 had 
+a massive impact on the GA aircraft manufacturing industry. The global production of GA aircraft dropped a staggering 52.8% from 4,276 aircraft in 
+2007 to 2,020 in 2010. From 2010, the 
+aircraft production has been relatively flat year-over-year. Apart from the poor economic environment, the other reasons for the major decrease in sales could 
+be that the average price per aircraft 
+worldwide almost doubled since 2007 along with the increase in fuel costs. The business jet market has completed four tough years and may have to face another 
+difficult year before demand begins to 
+improve. However, sustained growth is likely to return from 2014 as the jet fleet replacement cycle begins in USA and Europe. Global business jets delivery (2003-2012)
+Source: PwC analysis
+Despite a decline in the total business jet deliveries to traditional markets such as the US and Europe, these economies 
+remained the world’s largest markets in 
+2012.  During this period, the markets grew in Brazil, Mexico and China. In 2013, growth will be seen in the Asia-Pacific and Middle East. While the 
+share of global deliveries to emerging 
+markets such as China, India, and Russia are likely to grow at a steady rate in the next decade, inadequate airport 
+infrastructure, burdensome regulations 
+and high tariffs will be barriers restricting growth.Rishi Malhotra, General 
+Manager, Bell Helicopters, India:  “India represents a significant growth opportunity for both sales and manufacturing and Bell Helicopter is committed to investing further in India’s growth.  The Indian helicopter sector witnessed a slowdown between 2010 and 2012, but we expect a recovery in 2013. MoD has taken significant steps in improving the procurement process and additional improvements will need to evolve as the processes mature.  Contracting issues, retendering unforeseen programme delays and uncertainties which accompany such programmes are risks that all parties will like to see mitigated.”BS Singh Deo, Managing Director, Bell Helicopters, India: “Another area of great potential is in the helicopter tourism segment besides applications in emergency medical services, fire-fighting and law enforcement. However, in order to witness growth, a friendly regulatory environment is the need of the hour.” 
+Bell  
+Helicopter
+Bell Helicopter holds nearly 40% share in India’s civilian helicopter market.  
+Textron, the parent company of Bell Helicopter, 
+has opened a new facility at the global technology centre in Bangalore with more than 130 engineers supporting their global operations. It has also signed a MOU with Dynamatic Technologies for manufacturing helicopter cabins. The commercial production for airframe components is scheduled to start in the last quarter of 2013.
+PwC16Opportunities in the Indian 
+market
+The Indian GA market is small and 
+under-developed as compared to its global peers. The US has around 5,110 
+active airports (the largest in the world) 
+and the largest number of GA aircraft approximately more than 255,000. On the other hand, India has only around 150 active airports and approximately 
+700 GA aircraft. The movement for GA 
+comprised a meager 15% of the total aircraft movement in the country.
+However, India is an emerging market 
+for private jets with its strong economic growth, expanding business interests 
+and increasing number of billionaires. In 
+2012, it has the second-largest business jet fleet of 165 (up from 26 in 2005) in the Asia-Pacific region, after China’s 220. 
+Business jets fleet operating in India
+Source: CAPA, Ascend Worldwide, PwC analysis
+The helicopter market in India is equally promising, with growing requirements in tourism, mining, corporate travel, 
+air ambulance, homeland security, etc. 
+However, this market is contingent on development of heliports in the country 
+and standardisation of route operating 
+procedures for helicopters. There was an overall slowdown in the Indian helicopter sector from 2010 to 2012, but Bell Helicopter expects a recovery in 2013 
+with an annual growth rate of about 10 
+to 15 %. This is expected to grow at 12% a year. This is higher than most countries worldwide and in the short-term, second only to China.  India already has about 
+270 helicopters operating in various 
+parts of the country. A sharp rise in helicopter sales in the Indian market is in the offing because of an increase in 
+awareness of the potential uses of rotary 
+wing aircraft. The Indian GA market is on the threshold of catapulting itself into the global 
+arena. It is expected to grow at 10% 
+per annum to cross 4.5 billion USD by FY17.  It is estimated that around 120 business jets, 150 small aircraft and 180 
+helicopters will be added by then. As per 
+the report by the Working Group on the civil aviation sector, a total investment of over 40 billion USD is expected in GA during the 12
+th Five Year Plan period. 
+The key drivers of the growth are a growing economy, rising revenues of 
+Indian companies, an increasing number 
+of high-net-worth individuals, poor connectivity to smaller towns in the hinterland and the businesses need to save time and increase productivity. In 
+anticipation of the growing opportunities 
+in GA, manufacturers such as Cessna, Gulfstream and Bombardier are either setting up offices in the country or 
+expanding their existing businesses.
+Challenges and the way forward
+In India, the GA sector has been the most 
+neglected sector in the civil aviation industry. It has remained in the shadow 
+of commercial scheduled aviation which 
+has constrained its growth. Despite the imminent opportunities for growth, India does not have any guidelines for the GA sector, let alone a policy. 
+The current airport infrastructure in 
+India is grossly underdeveloped for 
+the GA market. There is also a serious 
+shortage of trained manpower to service GA aircraft operations. Besides, there is limited parking and hanger space and 
+charter clearances often take up to seven 
+days time.   Therefore, a friendly regulatory environment is the need of the hour. The sector urgently requires focussed 
+attention, capital investments to create 
+dedicated facilities and infrastructure, a separate regulatory and monitoring mechanism and simplification of the complex regulatory and tax procedures 
+for importing, owning and operating 
+aircraft. 
+Airport infrastructure
+The rapid development of commercial aviation in the last few decades has created a significant pressure to upgrade 
+the country’s airport infrastructure. 
+Responding to the challenges of financing these upgrades, the government had opened up this sector for private participation, beginning in 
+the 10
+th Plan (2002-07). While Delhi 
+and Mumbai, the marquee gateway 
+airports to country were privatised on 
+a brownfield basis through competitive 
+bids, Hyderabad and Bangalore became the country’s first greenfield PPP airports.  The private sector investment in the above four airports alone has been over 30,000 crore INR. While 
+there have been several roadblocks and 
+controversies in the journey towards private participation, it is fair to say that the user experience at these airports have taken a quantum leap, shaping 
+expectations for the next generation of 
+airports. On its part, the state-owned Airports Authority of India (AAI) has also continued its effort to modernise and redevelop several other airports in the 
+country. In the 11
+th Plan, the AAI invested 
+about 13,000 crore INR, which included 
+the modernisation of the Kolkata and 
+Chennai airports besides up gradation 
+of about 35 non-metro airports in the country. 
+Mahindra  
+Aerospace
+Mahindra Aerospace is delivering aircraft, aero-structure components and aircraft development services. 
+The acquisition of the aero 
+component manufacturer Aerostaff Australia and Australia-based aircraft manufacturer Gippsaero, gave the company an instant capability in manufacturing of aero components and an entry into the 2-20 seat aircraft segment. The company is setting up a large aero-structure facility in Bangalore. Arvind Mehra, Executive Director and 
+CEO, Mahindra Aerospace: “Anything which enhances our infrastructure and connectivity creates a huge impact on overall economic growth. GA is a developing industry in the country and offers a massive opportunity. We will continue to look at various opportunities for growth-organic and inorganic and we are on the verge of announcing a JV with a large Tier I for manufacturing aero-structures. On the global scene, we visualise a slow but steady recovery driven by the aircraft replacement market, considering the large number of aging aircraft in service today.” 
+Spreading its wings Indian aviation17Current project pipeline
+The Working Group for the 12th Five Year 
+Plan on civil aviation has envisaged a 
+further investment of about 67,500 crore 
+INR in airports over the next five years. 
+About 25% of this investment is expected to be made by the AAI (17,500 crore INR) and the remainder of about 50,000 crore INR is expected to come through private 
+participation.
+1Airport expansion and up gradation projects
+Airport Project Timeline
+Bangalore Expansion of current terminal, construction 
+of second terminalFirst phase of completion in 2013
+Mumbai Development of an integrated terminal 2 End of 2013-14
+Delhi Second phase of commence First phase of completion 2016
+Chennai (AAI) Redevelopment of the airport Early 2013
+Kolkata (AAI) Redevelopment of the airport Inaugurated in early 2013
+27  non-metro airports Up gradation and modernisation (AAI) 2013
+Source: DGCA, PwC analysis
+Greenfield airports in various stages of 
+completion
+Airport Current status
+Mopa, Goa Tender process to commence soon
+Dabra, Madhya Pradesh Under evaluation
+Navi Mumbai, Maharashtra Land acquisition in process
+Sindhudurg, Maharashtra Promoters (IRB Infrastructure Developers) have obtained environmental 
+clearance
+Bijapur, Karnataka MoU signed with Marg Developers in 2010, project currently on hold
+Gulbarga, Karnataka Airport construction expected to be complete in 2013
+Hassan, Karnataka Project plan being revised
+Shimoga, Karnataka Airport construction expected to be complete in 2013
+Kannur, Kerala Under feasibility study
+Gangtok, Sikkim Punj Lloyd is developing the project and is expected to be completed in 
+2013
+Itanagar, Arunachal Pradesh Under evaluation
+Kohima, Nagaland Under evaluation
+Kushinagar, Uttar Pradesh RFQ for developers 
+Karaikal, Tamil Nadu Expected to be operational by 2015
+Source: DGCA, PwC analysis
+
+PwC18Investment gap
+Despite the strong push towards 
+increased investments, recent studies on passenger traffic growth by the 
+Centre of Aviation point to the fact that 
+current capacities may not be able to meet the demand in the next 10 to 12 years. Airports at most of the metros in the country will have to either 
+undergo significant capacity expansions 
+or develop second airports. Further, investment in infrastructure has been inequitable and restricted to larger 
+metros and cities. The interiors of the 
+country have not yet benefited from the economic multiplier effect created by the aviation industry due to limited penetration of air transport in these 
+regions.  
+The above figure compares the state-
+wise population vs the total number of 
+flights operating from those regions, thus illustrating the gap in penetration levels. Large states such as Uttar Pradesh, Bihar, Madhya Pradesh and Rajasthan, forming nearly 60% of India’s population account 
+for a much smaller share in terms of 
+passenger numbers passing through the state airports. 
+On the other hand,  ~80% of the current 
+passenger traffic in India is handled by the top 10 major airports in the country, of which five airports have already 
+been privatised and three others are in 
+phases of redevelopment or developing a secondary airport. The remaining annual passenger traffic of 36 million, outside the top 10 airports is highly fragmented 
+and dispersed over 45 different airports 
+in the country. 
+Therefore, future airport investments 
+need to be targeted at areas which form a miniscule proportion of the 
+current traffic, but holding significant 
+potential for the future. These regions have traditionally been some of India’s most underdeveloped with low industrialisation and disposable incomes. 
+Consequently, road and rail have been 
+preferred modes of travel for a large section of the population. As these hinterland regions begin to participate in the overall economic development in the 
+near future, demand for air travel is also 
+expected to grow. State-wise representation of % of total flights vs % of the total population
+Source: Ministry of Civil Aviation
+Airport-wise passenger traffic 2011-12 (in million)
+Note: Airport in Goa is a civil enclave
+Source: Airports Authority of India
+However, poor quality infrastructure will 
+continue to constrain the development of air connectivity, unless addressed 
+through timely investments.  The 
+challenge for policymakers is to plan for asset creation and upgrades for realising the long-term potential, while keeping in mind the need to make these investments 
+commercially sustainable in the short 
+and medium terms.
+Spreading its wings Indian aviation19Policy recommendations for the 
+future
+Need for new business models in 
+regional airports
+Continued private participation will 
+be necessary to bridge the investment gap and also to guide the airport 
+sector towards greater commercial 
+sustainability. However, given the differences in the base demand profiles in various airport types, we see that the next set of airports for development 
+will create specific policy issues around 
+commercialisation and viability. To incentivise the private developers foray into the regional airport development, a 
+paradigm shift has to take place across 
+the industry value chain and not just airport development. The following measures need to be taken:
+Alternate development and business 
+models: Private investors will want the 
+government to mitigate their demand risks through alternate concession models. Modular and functional 
+development models, similar to several 
+low cost airports around the world such as the Dallas Love Field, the London Stansted Airport and the Gold Coast 
+Airport, Australia are good examples to 
+emulate. Government support through development subsidies may further help to finance these developments. There is also a need to develop innovative 
+approaches to commercialisation of these 
+assets. Some of the options that are being discussed include packaging of these airports with opportunities for city-side development and township planning 
+around the assets, and development of 
+airport cities and aerotropolises to cater to industrial development. Catering to 
+GA and smaller aircraft operators to 
+agglomerate traffic at nearby hubs for onward movement is also an opportunity area for the future.
+Incentive to airline operators: In 
+addition to developers, airlines have to be encouraged to fly more on these routes. 
+Some of the steps that can be taken are  
+underwriting seats by the governments that can help airlines meeting some of their cost obligations (this has been done in MP); special sales tax incentives or 
+reduction of tax on the ATF (latter done 
+in AP) and lower airport charges for aircraft and incentives to operators for including smaller aircraft in their fleet to 
+operate in remote locations.Review of the Route Dispersal 
+Guidelines: Policymakers should also 
+look to overhaul the Route Dispersal 
+Guidelines (RDG) policies, in a way that recognises the importance of profitable competition. An affirmative policy that provides the right signals for operating 
+on underserved routes through targeted 
+subsidies may be required. The type of subsidy and amount should periodically be calibrated to the current level of aviation development in areas that are 
+served. 
+Need for an active role in evolving a 
+hub-and-spoke model: In the long-term, 
+close integration of airports in metros and regional nodes will happen if the hub-and-spoke model is successfully 
+implemented. For legacy reasons, India 
+has lacked a credible hub-and-spoke model for domestic airline operations, leading to lopsided competition in different routes and sectors. While 
+creating an environment for judicious 
+asset investments and incentivising airline operations are partial solutions, policy measures can also help to bring down demand uncertainties in the 
+short-term. Some options that may be 
+considered include a more active role in demand allocation at regional nodes, encouragement of code-sharing between airlines and regulations on deployment 
+of the right capacity and aircraft choices 
+across routes. It is important to ensure that these regulations are dynamic and reviewed at periodic intervals to 
+benchmark against achievement of 
+targeted goals.
+MRO
+The global airline MRO business in 2012 slowly emerged from one of its worst periods. According to TeamSAI, 
+an aviation consulting firm, the global 
+aviation MRO market grew 5.7% in 2012 to reach 49.5 billion USD from 46.9 billion USD in 2011. It is expected to grow by 3.3% per annum over the next 
+decade to reach a value of 68 billion USD 
+by 2022.
+Global civil aviation MRO spend (in billion 
+USD)
+ 
+Source: PwC analysis
+Increase in MRO spending will be 
+driven by increase in fleet size, which is expected to grow at an annual rate 
+of 3.2% globally. Other factors that are 
+expected to drive MRO revenue are increased aircraft utilisation, deferred replacement of ageing aircraft and higher labour rates. However, the 
+MRO revenue growth is expected to 
+slowdown. New aircraft technologies such as fuel-efficient aircraft are driving down maintenance costs. Further, the 
+MRO business is moving east because of 
+rapid growth of fleets in Asia. China has already become the largest MRO market in APAC and is expected to grow 9 to 10% annually to reach 70 billion USD 
+by 2015. Along with other major MRO 
+markets in the region, the Asian MRO market is expected to reach parity with the Americas and Europe by 2021. 
+In the midst of defence budget cuts 
+in USA and Europe, the global MRO market is expected to remain stable 
+through the next decade as countries will 
+look to increase military aircraft MRO spending to maximise the value of legacy aircraft platforms. Lifecycle extension of many older and ageing legacy aircraft 
+platforms puts greater emphasis on 
+effective maintenance provisions, while new aircraft developments in fighter and transport aircraft will create an 
+opportunity for investment in advanced 
+technological MRO support. In billion USD
+PwC20Indian MRO industry
+ India has seen a consistent growth in air 
+traffic–both passenger and cargo in the post liberalisation years. This boom in 
+air travel combined with higher capacity 
+utilisation has led to an increased demand for MRO services. 
+The manpower costs in India are lower 
+than the leading industrialised nations and range from 35 to 45 USD per hour.  It also has a robust supply of talent, 
+available at relatively cheaper rates and a 
+large and able population of engineering graduates. India also has over 55 aircraft maintenance training schools to ensure a 
+steady supply of suitable talent.
+Manpower costs
+Source: Centre Oliver Wyman-Lean MRO, Infosys- 
+Tenets of MRO strategy
+MRO in military aviation
+MRO for the Indian Air Force is carried 
+out by the maintenance office which is attached to each of the 47 Wings and 
+by the nine base repair depots (BRDs). 
+The maintenance office carries out A and B level checks while the BRDs are responsible for the C and D level checks. In addition, HAL provides MRO services 
+to the IAF through its overhaul, engine 
+and helicopter divisions. At present, there is no direct involvement of the 
+private industry for maintenance in 
+the IAF. However, we believe that the defence sector is now viable for private participation. There are several key drivers for outsourcing defence MRO to 
+private players. Some of these include 
+the following:
+•	The IAF possesses a large mixed 
+ageing fleet. 
+•	The IAF has in the past been unable to expertly support spares management and provisioning.
+•	The current captive MRO facilities are constrained.
+•	The IAF is in the midst of a large acquisition.
+The recognition of MRO as a qualified avenue to discharge offset obligations has seen a renewed interest by OEMs 
+to partner with existing private MRO 
+players. Challenges in the Indian MRO 
+sector
+Tax and regulatory environment
+•	In the last budget, the government 
+made relaxations that addressed some longstanding bottlenecks for the growth of the industry. Customs 
+duty was waived on parts imported for 
+MRO of aircraft, subject to conditions. In other cases, the importer needs to pay full customs duty (upto 28.85%) at the time of import and applicable 
+value-added tax (VAT) (upto 15% 
+based on the state VAT rate) on its subsequent sale in India. Further, there may be additional levies in the 
+form of entry tax or octroi in some 
+states and municipalities.
+•	The service tax regime in India has undergone a paradigm shift effective 1 July 2012. Presently, all services except those mentioned under the negative list or otherwise exempt from 
+payment of service tax are leviable 
+to service tax at 12.36%. Services in 
+the nature of MRO have neither been 
+covered under the negative list nor are exempt from service tax. They are therefore chargeable to service tax at 
+12.36%. In addition, in terms of the 
+Place of Provision of Supply Rules, 2012, specified parameters need to be fulfilled for such services to qualify as export of services and hence not be 
+charged to service tax. Thus, servicing 
+an aircraft in India entails a service tax of 12.36%. This burden is reduced to the extent of service tax credit admissible to MRO customers.
+The MRO industry believes that the tax regime in India is the main factor holding 
+back its growth.Land allotment processes
+Shortage of land at India’s major airports 
+and the lack of clarity in land allotment are issues that continue to deter potential 
+MRO players. This issue has been 
+addressed by reserving land for MRO at new airports such as the Bangalore International Airport and the Hyderabad International Airport.
+The way forward
+K V Krishnan, VP Engineering of Airworks believes that while India has the ability to excel in MRO, regulations, 
+taxes and lack of middle management 
+skills are the biggest hurdles holding back the industry. Global defence companies are looking for Indian partners with strong local presence. 
+Airline operators are simplifying their 
+supply chain and optimising on costs by 
+tying up with fewer MRO providers that 
+can provide a host of integrated services. These services include the traditional MRO checks such as engine and airframe 
+maintenance and also newer services 
+such as third-party aircraft remarketing, lease management and technical and general consultancy services.
+There is an urgent need to recognise 
+the MRO sector as a separate industry and give it a strong impetus. Companies 
+such as Airworks Engineering have done 
+well, given the above challenges but the government needs to take further proactive measures to encourage the growth of MRO. Including MRO as an 
+avenue to discharge offsets, exemption of 
+basic customs duty on certain parts such as spares, retreaded tires, etc. are steps in the right direction. 
+Spreading its wings Indian aviation21MSMEs
+Much of the growth of MSMEs in the 
+aerospace sector is expected to take place in lower cost emerging economies such 
+as India and China. MSMEs involved 
+in the R&D of niche technologies and products may drive high long-term growth within the industry, as they tend to be relatively insulated from offshoring 
+and have the potential to grow into large 
+suppliers over the long term.
+PwC’s Global A&D practice conducted 
+an extensive survey consisting of 217 SMEs (companies with less than 500 employees) and 70 large companies 
+(companies with at least 500 employees) 
+to assess the role, contribution and emerging trends of SMEs in the global aerospace industry. The following trends emerged:   
+MSME performance: Out of the 217 
+MSMEs, component and equipment 
+manufacturers and MRO providers 
+exhibited high growth rates in revenue in the last five years. Looking ahead, MSMEs that manufacture standard components in developed countries with a mature aerospace market are most at 
+risk of being replaced by SMEs of lower 
+cost countries. Additionally, MRO activity will be easier to outsource to lower cost centres emerging in the Asia-Pacific and Latin America. MSMEs vs large companies: Between 2008 and 2011, MSME revenue and employment generally grew at a faster pace than larger companies. This seems reasonable as smaller companies tend 
+to be more responsive to the business 
+environment and the global economy has been recovering from a financial crisis-induced recession. However, the large 
+decline in MSME employment in 2009 
+provides a good reminder that smaller companies tend to be less capable of withstanding downturns than their larger industry brethren. 
+Global MSME performance 2008 t0 2011
+Source: Capital IQ, PwC analysis
+Cost pressures and supplier base optimisation: Global OEMs and Tier I suppliers have agreed to lower costs in 
+the range of 30 to 40% over the next 15 
+to 20 years and therefore, outsourcing more component manufacturing to low-cost countries such as India, China, Mexico, Poland, etc. This trend is likely 
+to continue and exert additional stress 
+on MSMEs in developed nations even as MSMEs in low-cost nations move up the technology value chain. In addition, 
+OEMs are increasingly seeking long-
+term partnerships with small groups of Tier I suppliers to develop and integrate better turnkey systems solutions. This has a cascading effect down the value 
+chain. Consequently, Tier I suppliers 
+are assuming greater responsibility for supply chains and the selection of Tier II and Tier III suppliers. So, as the larger firms move into aerospace system 
+integration, MSMEs have little choice 
+but to globalise themselves to remain competitive.TAAL
+TAAL successfully manufactured 
+its own six-seater general aviation aircraft, the P68C, and the 11-seater Vaitor aircraft in collaboration with Partenavia, an Italian aircraft manufacturer in the 90s. TAAL’s Hosur facility consists of 270 acres of land and an airstrip on which the Airbus A 320 and Boeing 737 series of aircraft can land comfortably. S M Kapoor, CEO , TAAL: “There is 
+certainly more hope and optimism in the past six to eight months than there was about two years ago. This can be attributed to the positive intent and direction that has been provided by the Defence Offset Guidelines announced by the government in August last year. Even though growth of manufacturing over the last one year has been flat, global aerospace majors are now approaching Indian companies with a much more focussed intent to move forward in various programmes. This will have a positive impact on manufacturing. In anticipation of growth, we have increased our headcount to 450 from about 200 personnel four years ago but business has not grown correspondingly. Therefore, while maintaining our core competencies and strengths, we plan to diversify our product portfolio into non airborne peripheral aerospace businesses such as ground and test equipment, armour and simulators in the near term. However, the momentum in the last few months is encouraging and we are confident of seeing upward movement for the industry in the medium term.” Nash  
+Industries
+Nash Industries is a new entrant in the aerospace sector. The company has plans to increase its present 2.5% of revenue from aerospace to about 10% in the next five years and foresees availability of skilled talent as its major challenge.Sandeep Wadhwa, Director, Nash Industries: 
+“Given the high entry barriers characteristic 
+of this sector, besides the long gestational 
+periods involved, only companies who have 
+the wherewithal and patience should consider entering the sector especially at a time when the global markets have slowed down. Our 
+quest to operate in niche technology areas 
+along with our diversification strategy in a 
+sector with high entry barriers led us to invest in the aerospace sector. We import 100% of the raw materials because they are not 
+available in the domestic market. Therefore, 
+it would help if the government considers 
+minimising import duties which will consequently reduce cost of the end products.” 
+PwC22Offsets: Offset requirements of certain 
+high-growth countries which include aspects such as transfer of technology 
+and multiplier of offset credits for 
+collaboration with MSMEs have forced OEMs and other suppliers to source more components from local suppliers. OEMs and top-tier suppliers are increasingly 
+engaging with smaller players in these 
+countries by establishing partnerships or JVs and in the process, playing a part in the growth of MSMEs in these countries.
+Funding and adopting new 
+technologies: Availability and access to 
+funds continues to remain the biggest 
+challenge faced by small players. Programme delays and accelerated ramp-ups in large programmes require financially robust MSMEs 
+that can cushion such fluctuations. 
+Also, the aerospace sector is in the midst of a tremendous change in the use of advanced materials and newer technologies. This is both a threat 
+and an opportunity, and it is forcing 
+companies to keep innovating to remain competitive. R&D investments are generally considered high risk because it can take 10 to 15 years for a new aircraft 
+to move from conception to test flight to 
+sales and a higher portion of aerospace suppliers have to make R&D investments upfront. Private sector sources of 
+financing are not always receptive to 
+accepting such risks. AAN Engineering 
+Industries The 400-million-USD Rico Auto Group has set up a defence and aerospace subsidiary, AAN Engineering Industries, to exclusively cater to its venture in these sectors.  
+AAN has established a separate line 
+for aerospace manufacturing and has initiated the process of getting the required certifications. The company is in talks with prominent A&D players such as Rockwell Collins and Marshall Aerospace besides DPSUs such as HAL to discuss support options. They have a manufacturing facility in Chennai which can also form part of the aerospace cluster developing in Tamil Nadu. RS Kundi, Director, AAN Engineering: 
+Aluminium casting are going to stay in the sector. Our basic strength is in our 30-year experience in aluminium and ferrous castings. Besides having an independent R&D centre and state-of-the-art design, analysis and testing facilities, we are one of the largest machining facilities outside the DPSUs. Rico subsidiaries in the US and Europe are always available to assist. AAN is also open to joining hands with an international company to develop a facility in a niche technology in the sector.
+MSMEs in the Indian aerospace sector
+The Micro, Small and Medium 
+Enterprises Development (MSMED) Act, 2006 has provided a clear definition 
+of MSMEs and based on their turnover 
+classified them in two categories–manufacturing and services.
+The large defence acquisition budget 
+and proactive policy measures by the government discussed earlier have attracted a number of small and big 
+private companies to enter the aerospace 
+sector. According to the Society of Indian Aerospace Technologies and Industries (SIATI), there are roughly 500 MSMEs 
+in the aerospace sector in India involved 
+in supplying components to DPSUs, ordnance factories, DRDO and the armed forces. MSME cluster
+Globally, aerospace hubs have emerged due to the presence of MSME clusters in close proximity to OEMs. The Indian 
+aerospace MSME clusters are fragmented 
+and yet to evolve. The cluster which has emerged in and around Bangalore has been driven by the presence of HAL along with other DPSUs. The Karnataka 
+government is taking various initiatives 
+to project the state as a global aerospace hub including creating an enabling policy and business environment. This would 
+include incentives and concessions for 
+MSMEs. The state has created a 1,000-acre aerospace park co-located with the Bangalore International Airport and is also setting aside at least 30% of land 
+for allotment to MSMEs. However, much 
+remains to be done at the central level to create policies that will provide a boost to MSMEs to work as clusters.
+Maini  
+Aerospace
+Bangalore-based Maini Group entered the aerospace sector seven years ago with a strategy to further diversify by utilising the competencies in the other group companies by way of the a wide product base which could be aligned to the aerospace sector, their deep management skills and the exposure to international markets and partnerships.  Maini supplies indigenous battery operated eco-friendly tow trucks and utility carts for use in airfields. Naresh Palta, CEO, Maini Aerospace : 
+“The focus of Maini Group will be in the aerospace industry in the medium-to-long-term. Maini’s aerospace activity has grown at 30% on a year-on-year basis over the last three years. Such growth rates are achievable if companies are able to relentlessly innovate and build their products and services up the technology value chain of the sector.” 
+Gautam Maini, Director, Maini Group: 
+“The aerospace business takes a lot of patience and time to build, but once that is done as in our case, we will start to see exponential growth in the future.” 
+Spreading its wings Indian aviation23MSME challenges and threats 
+Arunakar Mishra, CEO, Genser 
+Aerospace, feels that even though the government is taking numerous 
+initiatives, the effects are not percolating 
+down to the MSMEs and the main reasons for this could be that policies are not being implemented well. Air Commodore (Retd) Joseph Varkey 
+of SIATI observes that there is a trust 
+deficit between different layers of the industry. He believes that given the stringent requirements expected in this 
+sector, large players do not have the 
+confidence in Indian MSMEs. If this is the case, the onus is on large players to take greater interest in helping MSMEs build capabilities.   
+Indian MSMEs face the following 
+challenges:
+•	Nature and cost of business: 
+MSMEs are sensitive to a highly 
+capital-intensive aerospace business 
+characterised by long gestational periods and cyclical growth. These factors make small players highly risk-averse affecting R&D spends and hence their ability to build innovative 
+technologies. As a consequence, most 
+MSMEs struggle to provide sustained and high quality support to larger players. 
+•	Capital and payment issues: While availability and access to funding remains one of the biggest hurdles 
+faced by MSMEs, the terms for 
+accessing capital pose an even bigger challenge. Delay in payments from buyers to suppliers is another issue which adversely affects cash flows. 
+•	Quality and L1 issues: While 
+Indian manufacturing has improved 
+significantly in quality control over time, a mature supplier base is still in an early stage of evolution. Add to 
+this, accreditation is time-consuming 
+and expensive in this low tolerance industry in which buyers expect the highest quality of products and services at the lowest possible price. Government initiatives 
+The Indian government has announced the following measures in the last two years to address the challenges faced by 
+MSMEs: 
+•	Two MSME exchanges are being set up 
+to facilitate easier access to capital. 
+•	India Opportunities Venture Fund worth 5,000 crore INR is being 
+created through the Small Industries Development Bank of India (SIDBI).  
+•	To create greater market access for MSMEs, the Public Procurement Policy has made it mandatory for ministries and central public sector enterprises 
+(CPSEs) to procure a minimum of 20% 
+of their annual procurements from MSMEs. 
+•	To incentivise research, weighted deduction of 200% for in-house R&D expenditure has been extended by five 
+years, i.e, up to 31 March 2017. 
+•	The turnover limit for compulsory 
+tax audit of account and presumptive taxation of MSMEs has been raised 
+from 60 lakh INR to 1 crore INR 
+with no capital gain on the sale of residential property. 
+•	Within the Defence Offset Guidelines, a multiplier of 1.5 for sourcing from MSMEs has been announced.
+•	The problems with delayed payments and corresponding liquidity issues being faced by MSMEs have been 
+addressed to some extent by the 
+Factoring Regulation Act. 
+Besides these initiatives, the Planning Commission in its 12
+th Five Year Plan 
+2012-17 draft has set about examining 
+the below measures which could provide 
+further impetus to MSMEs: 
+•	Creating a National Aeronautics 
+Commission and formulating a national aeronautics policy
+•	Strengthening certification organisations (e.g. CEMILAC, DGCA, etc.) 
+•	Facilitating certification of MSMEs
+•	Promoting PPP model with participation of MSMEs 
+•	Creating aerospace clusters and earmarking aerospace special economic zones (SEZs) to include 
+common infrastructure facilities for 
+MSMEsRecent performance of MSMEs 
+and future outlook
+The offset experience brings some good 
+news for MSMEs. Out of the 17 contracts signed in the A&D sector amounting 
+to 4.28 billion USD since 2008, almost 
+26% have been received by MSMEs. It is pertinent to note that these have been received by only a handful of companies. 
+India ranks high as an outsourcing 
+destination. Besides, the MoD has set itself a goal of sourcing 70% of all 
+equipment from Indian companies–
+(public and private sector) by 2020 which could provide further boost to MSMEs in the aerospace sector. 
+PwC24Tax and regulatory 
+framework in India
+Regulatory regime
+A domestic or foreign company wishing 
+to do business in the Indian aerospace and defence industry has to comply with 
+the following policies: 
+• The Industrial Licensing Policy
+• The Foreign Trade (Export/Import) 
+Policy
+• The FDI policy and Foreign Exchange Management Act (FEMA)
+• The Civil Aviation Regulations
+• The Defence Procurement Procedure and the Offset Policy (specific to defence acquisitions)
+Industrial Licensing Policy
+Under the Industries (Development and Regulation) Act 1951, an industrial licence is required for manufacturing 
+defence equipment. The applicant must 
+be an Indian company or partnership and has to apply to the Department of Industrial Policy and Promotion (DIPP). The application is considered by an inter-
+ministerial committee and the process 
+takes about six months (currently, it is taking almost a year). There are a number of conditions and there is little 
+clarity on the definition of ‘defence 
+equipment’. The list of defence items for licensing is currently under preparation by a joint committee of the Department of Industrial Policy and Promotion (DIPP) and the Department of Defence 
+Production (DDP).
+Key note: No clarity on the definition of the 
+term ‘defence equipment’ requiring IL and 
+no clarity on ‘dual-use’ items for civil and defence application.
+Foreign Trade Policy
+The export and import of goods and services in India is presently governed  by the Foreign Trade Policy 2009-14 
+(FTP). An export or import can be 
+made by any person only against an import export code (IEC) number unless specifically exempted.  
+Exports and imports are ‘free’ except 
+where they are specifically regulated by the FTP or the ITC (HS).  The ITC (HS) 
+(i.e. Indian Trade Classification based 
+on Harmonised System of Coding) is adopted in India for regulating import-export operations. The ITC (HS) has two 
+schedules that provide the rules  
+and regulations for importing and exporting respectively. The ITC (HS) contains lists of items prohibited or restricted (i.e. subject to export or import licence) or freely exportable and importable (subject to conditions laid down against 
+the respective entry (items) in the 
+schedules). 
+The Director General for Foreign Trade 
+has made significant improvements in the approval process. Yet the ambiguity in defining defence equipment creates delays. Export of dual use items and 
+technologies is governed by Appendix-3 
+(SCOMET
+1 List) of Schedule 2 of ITC 
+(HS)2. There are practical challenges 
+in understanding which items require licences and which approval process  will apply.
+Key note: The definition of licensing 
+requirements need to be clarified to  
+iron out the practical challenges in 
+obtaining licence, specifically in the case of software exports. The government continues to encourage private investment 
+in both the civil and defence aerospace sector with the 
+goal of encouraging technology transfers and achieving 
+indigenisation. However, the ambiguity in the definition of defence equipment,  inconsistencies in multiple regulations, 
+compounded by varying interpretations by different arms 
+of the government pose significant barriers to investment.
+1 Special Chemicals Organisms, Materials, Equipment 
+and  Technologies
+2 Indian Trade Classification based on Harmonised System of Coding
+Spreading its wings Indian aviation25Private participation in the Indian 
+defence sector
+Hundred percent domestic investment 
+is permitted in manufacturing defence equipment, subject to industrial 
+licensing by the DIPP. FDI (including NRI 
+investment) up to 26% is allowed in an Indian company manufacturing defence equipment subject to the company obtaining an IL from DIPP. There are 
+other restrictions of a minimum lock-in 
+period for investment with management and control of the company in Indian hands. Detailed guidelines with respect 
+to the FDI and licensing policies are given 
+in the consolidated FDI policy revised annually and press notes issued by the DIPP. The latest policy is contained in press note 1 of 2012. There is a point of 
+view that this cap has constrained foreign 
+investment in this sector. In the decade since FDI was allowed in the defence sector, a paltry 4 million USD has been invested as compared to over 180 billion 
+USD in the entire economy. 
+Key note: The objective of the Indian 
+government is to achieve increased 
+indigenisation. The key enablers for indigenisation are capital and transfer of technology The OEM has the full liability for supply in a  defence contract. It is 
+unlikely that an OEM will agree to assume 
+full liability but only a 26% control in an entity to which it would transfer technology and execute supply. 
+Civil aviation
+Recognising the need for policy overhaul 
+to bring efficiencies in economic and 
+operational aspects of the civil aviation industry, the Ministry of Civil Aviation is in the process of formulating a Civil 
+Aviation Policy and examining the 
+proposal of having a new Civil Aviation Act and Civil Aviation Rules to replace the present Aircraft Act, 1934 and  the Aircraft Rules, 1937 framed under 
+the Act.FDI in civil aviation
+By foreign airlines into domestic 
+scheduled and non-scheduled air 
+transport services
+FDI up to 49% was permitted for 
+scheduled air transport services or domestic scheduled passenger airlines under the automatic route. However, 
+investment by NRIs was permitted up 
+to 100% under the automatic route but foreign airlines were prohibited to invest in this segment. As a result of this 
+restrictive policy, air transport (including 
+air freight) attracted FDI worth of only ~446.70 million USD (~2,000 crore INR) during April 2000 to October 2012 (0.24% of all FDI inflows during 
+this period).In September 2012, the 
+government liberalised the FDI policy and allowed foreign airlines to buy up to 49% stake in Indian scheduled and non-scheduled carriers  under 
+the government approval route. The 
+liberalisation has been made to open additional avenues of finance for Indian carriers which are currently stressed by huge operating costs and mounting 
+debt. However, the limit of 49% is 
+imposed on the aggregate of FDI and foreign institutional investors (FII).  FDI is a primary market transaction where 
+a strategic long-term partner invests in 
+a company and brings not only capital but industry expertise along with it. However, FII investments are primarily secondary market transactions where 
+large financial institutions and hedge 
+funds trade in the shares of the company through stock markets. Therefore, this reduces the scope of strategic investment in Indian carriers that have FII 
+investments. Therefore, there is a need to 
+review this provision.
+Another positive initiative by the 
+government was to allow domestic scheduled passenger airlines to raise foreign currency debt (ECB) under the 
+approval route for meeting their working 
+capital needs. Such ECB needs to be raised within 12 months from the date of issue of circular. Other services
+The following depicts FDI policy for other 
+segments of the civil aviation sector, 
+which is fairly liberal:
+• Hundred percent FDI is permitted 
+under the automatic route for MRO, flying training institutes and technical training institutions. Helicopter 
+services or sea plane services and 
+setting up of greenfield airport projects require the approval of the DGCA. However, existing airport 
+projects will require the FIPB approval 
+for FDI beyond 74%.
+• FDI up to 74% permitted (automatic up to 49 %, beyond 49% under approval route) and NRI investment up to 100% under the automatic route is permitted for ground-handling 
+services, subject to regulations in the 
+sector and security clearances,  as well as in non-scheduled air transport services.
+Key note: Subsuming FDI and FII with in the 49% limit for foreign airlines’ investment into domestic carriers may not 
+result in substantial increase in foreign 
+investment and may hence defeat the objective of increased foreign inflows, global best practices, technology, etc.
+PwC26Defence Procurement Policy 
+Defence procurement is governed by 
+the DPP. First enumerated in 2002, the latest policy was released on 6 
+January 2011 (DPP 2011). It lays out 
+a transparent procedure for capital acquisitions by the MoD. The DPP includes the Defence Offset Policy. This policy was revised in July 2012 and has 
+significantly liberalised and enlarged the 
+avenues and products for discharging offset obligations, including allowing multipliers.
+Defence Offset Policy: Revised 
+guidelines
+• Effective from 1 August 2012
+• Mandatory offset requirement of 
+minimum 30% for the procurement 
+of defence equipment in excess of  3 billion INR
+• Categories of schemes in which offsets are applicable: ‘Buy (global)’ and ‘buy and make’ with transfer of technology 
+(ToT)
+• Vendor free to choose Indian offset partner
+• Indian offset partner to comply with only licensing requirements/
+guidelines issued by the DPP
+• The vendor to allow his Tier I sub-vendors under the main procurement contract to discharge offset obligations, to the extent of their work share (by value), on behalf of the 
+main/prime vendor
+• Offset obligations to be discharged within a timeframe that can extend 
+beyond the period of the main procurement contract by a maximum period of two years
+• Offsets obligations can be discharged by any combination of the following methods:
+- Direct purchase of, or, executing 
+export orders for eligible products 
+manufactured by, or services provided by Indian enterprises
+- FDI in joint ventures with Indian enterprises for manufacture or maintenance of eligible products 
+and provision of eligible services
+- Investment in ‘kind’ in terms 
+of ToT to Indian enterprises for manufacture and/or maintenance 
+of eligible products and provision 
+of eligible services (through joint ventures or through the non-equity route). Offset credit for ToT shall be 10% of value of buyback to the 
+extent of value addition in India. ToT should be provided without 
+licence fee and there should be no restriction on domestic production, sale or export.
+- Investment in ‘kind’ in Indian enterprises in terms of provision of 
+equipment through the non-equity 
+route for the manufacture and/or maintenance of eligible products and provision of eligible services. 
+Vendor to buy back minimum 40% 
+of eligible products and services.
+- Provision of equipment and/or ToT to government institutions and establishments engaged in the manufacture and/or 
+maintenance of eligible products 
+and provision of eligible services, including the Defence Research and Development Organisation (DRDO)
+- Technology acquisition by the DRDO in areas of high technology
+ Note: Minimum 70% of the offset 
+obligation shall be discharged by (a) to 
+(d) above.
+• Multipliers of 1.5 permitted where MSMEs are Indian offset partners and 
+a multiplier of up to three permitted for high technology acquisition by the DRDO.
+• The Defence Offset Management Wing (DOMW) has now replaced the erstwhile DOFA and will be 
+responsible for all matters related 
+to offsets management, monitoring, policy formulation and banking.
+• Banked offset credits to be valid for a period of seven years from the date of acceptance by the DOMW.
+• Transfer of credits is allowed between an OEM and its Tier I supplier within the same programme, with a 50% cap on using banked credits.
+• List of products eligible for the discharge of offset obligations has 
+been enlarged and includes defence, 
+inland and coastal security, civil aerospace products and services related to eligible products.
+• Offset implementation reports to be submitted every six months during the implementation stage.
+• Overall penalty capped at 20% of total offset obligation.
+• Re-phasing and change in offset partners or offset components is 
+allowed by DOMW in exceptional 
+circumstances provided the overall value of the offset obligation remains unchanged.
+
+Spreading its wings Indian aviation27Tax policies
+Corporate income tax
+• Permitted business presence in India 
+for a foreign company includes project office, branch office, liaison office and subsidiary or JV company. Limited 
+liability partnerships (LLPs) can also 
+be incorporated for carrying out activities where 100% FDI is allowed, through the automatic route (such as rendering marketing or other similar 
+services).  
+• Effective corporate tax rate for domestic companies is 32.445%; 
+30.9% for LLPs and 42.024% for foreign companies. 
+• While dividend income received from a domestic company is exempt in the hands of the shareholder, dividend 
+distribution tax (DDT) at 16.22% is 
+levied on the companies declaring dividends. Presently, LLPs are not subject to DDT.
+• Minimum alternate tax (MAT) or alternate minimum tax (AMT) is applicable at 20.01% (companies) 
+and 19.05% (LLPs) of book profits 
+when tax liability under normal tax provisions of the domestic tax code is less than 18.5% of book profits. 
+• India has entered into comprehensive treaties for avoidance of double taxation (tax treaties) with over 
+82 countries. Tax treaties can be 
+invoked by taxpayers, wherever their provisions are more beneficial over the domestic tax laws of India. However, in order to obtain any benefit under 
+a tax treaty, it is necessary for the 
+non-resident taxpayer to furnish a tax residency certificate containing prescribed particulars from its 
+government.
+• India has also entered into tax information exchange agreements 
+with over 21 countries.  
+• A well-established withholding tax regime exists in India. The payer is required to withhold tax on all payments to non-residents, taxable in India. Further, certain payments 
+made to residents also attract tax 
+withholding provisions.
+• Fees for technical services and royalty are taxable in India on source basis and attract a tax withholding of 10.506% under the domestic tax code. 
+• Tax losses can be carried forward for eight years, while tax depreciation can be carried forward indefinitely.• The Finance Act, 2012 introduced General Anti Avoidance Rules (GAAR) 
+provisions in India. However, based on 
+expert committee recommendations, these provisions have been deferred till 2015 (FY 2015-16). 
+• The Direct Taxes Code, proposing to revamp the existing legislation, is under consideration. However, there is 
+no clarity on the date of its enactment.
+Key note: Foreign companies, especially those in the aerospace and defence 
+(A&D) sector, should carefully structure their Indian operations and crossborder movement of personnel, to mitigate chances of constituting a permanent 
+establishment. Domestic tax laws now 
+also require the LOs of foreign companies in India to provide comprehensive details regarding the transactions undertaken by them in India, resulting in closer 
+monitoring by the relevant authorities.
+Corporate tax incentives
+• Units set up in an SEZ get 100% tax 
+holiday on profits on exports for five years and 50% tax holiday for the next 10 years (subject to specified 
+conditions), but they are subject to 
+MAT provisions.
+• Income earned by a foreign company by way of fees for technical services or royalty, pursuant to an agreement with the central government, for 
+providing services on projects 
+concerning the security of India is exempt from tax, provided it is notified in the official gazette.
+• Undertakings manufacturing specified goods located in notified states enjoy 100% tax holiday up to March 2017.
+• Deduction of 200% is available for scientific research expenditure 
+incurred by a company engaged in 
+the manufacture or production of any article (subject to certain exceptions), on in-house R&D facility (up to 31 March 2017).
+• Any sum paid to a national laboratory, a university, an Indian Institute of 
+Technology or an approved scientific 
+research programme qualifies for a weighted deduction of 200%. A weighted deduction of 125% is also available in respect of any sum paid 
+for scientific research to a domestic 
+company, if such a company fulfils some prescribed conditions.
+
+PwC28Transfer pricing
+The Indian TP regulations prescribe 
+that income arising from ‘international transactions’ between ‘associated enterprises’ should be computed 
+with regard to the ‘arm’s length price’ 
+(ALP). The expressions international transactions, associated enterprises and arm’s length price have been defined by the new enactment.
+Recent developments in transfer pricing
+Advance pricing agreement
+With a view to address the large scale 
+litigation in TP, the government has introduced advance pricing agreement (APA) in the Finance Act, 2012 with 
+effect from 1 July 2012.
+The Central Board of Direct Taxes 
+(CBDT) has been empowered to 
+enter into an APA with any taxpayer undertaking international transactions to determine the ALP or specifying the manner in which ALP shall be 
+determined. The APA so entered shall 
+be binding on the taxpayer and the tax authorities in respect of the transaction covered under the agreement. Such 
+agreement shall be valid for a period not 
+exceeding five years. 
+The CBDT, by notification in the official 
+gazette, has introduced the detailed rules providing the procedures and necessary forms for application/administration of the APAs.
+Application of TP to specified domestic 
+transactions
+Before the last budget, Indian TP 
+regulations were applicable only to 
+international transactions entered 
+into with associated enterprises. The application of transfer pricing regulations has now been extended to specified domestic related party transactions as 
+well. Specified domestic transactions 
+(SDT) essentially include expenditure in respect of which payment has been made or is to be made to a person referred in section 40A(2)(b) of the Act, and 
+transactions referred in sections 80A, 
+80IA(8) and 80IA(10), chapter VI-A, and section 10AA of the Income Tax Act, 1961.
+Accordingly, the taxpayer will be 
+required to undertake annual TP 
+compliance in respect of the SDT. This 
+amendment will take effect from 1 April 2013 and will, accordingly, apply in relation to the assessment year (AY) 2013-14 (corresponding to FY 2012-13) 
+and subsequent years. Indirect tax
+•	 Customs	duties:	Effective customs 
+duty rate on the import of goods is 28.85% based on peak rate of 
+customs. Exemption from customs duty is available for a majority of goods imported in relation to defence and commercial airlines, subject to 
+fulfillment of conditions. For instance, 
+customs duty is exempt on imports of aircraft and parts imported for maintenance, repair and overhaul of aircraft subject to specified conditions.
+ Key note: With respect to the defence sector, these exemptions are typically 
+available where MoD or its contractors 
+(private companies) are importers of goods and are not available where goods are imported by Indian offset partners 
+for further processing and delivery 
+to MoD, which militates against the indigenisation policy. 
+•	 Excise	duty:	Effective excise duty rate 
+is 12.36% (inclusive of education cess) on manufacturing activity. Exemption from excise duty is available for aircraft if sold to the government or to commercial airlines engaged in 
+specified activities. 
+ Key note:  Goods supplied against international competitive bidding (ICB) 
+are exempt from excise duty, subject to conditions. The challenge on the ground is to ensure that these benefits actually accrue.
+•	 VAT/CST:	While inter-state sale of 
+goods is subject to the levy of central sales tax (CST), intra-state sale of goods is subject to the levy of value 
+added tax (VAT). The CST rate is 2% 
+if the prescribed statutory form (i.e. Form C) is issued by the purchaser, whereas if no forms are provided, the VAT rate applicable in the originating 
+state of the seller will be applicable. 
+For most goods, the VAT rate ranges from 4 to 15%, depending on the nature of goods. Sale of spares under 
+the MRO operations is charged to VAT 
+which ranges from 4 to 15% across the states. Typically, airline operators do not have the option to buy it at concessional rate of CST against usage 
+of Form C as they do not meet the 
+eligibility criteria for issuance of  Form C. Key note: No general exemptions 
+or concessions are available on the 
+sale of goods to commercial airlines. Accordingly, the relevant state VAT legislation should be examined and the possibility of special dispensation 
+if required from the state government 
+should be explored. Participants in India’s MRO industry believe that the tax regime needs to change in order to enable India in positioning itself as an 
+MRO hub to the world.
+•	 Service	tax:	With effect from 1 July 
+2012, the service tax regime in India 
+has undergone a significant change 
+whereby service tax has been made 
+applicable on all services provided in India unless specified otherwise. The term ‘service’ has been defined as any 
+activity carried out by a person for 
+another for a consideration. Generally, the liability to pay service tax is on the provider of the service. However, for a few specified services including 
+the import of services, liability to 
+pay service tax shifts on the service recipient. Service tax rate is 12.36% (inclusive cess). In addition, in terms of the recently introduced Place of 
+Provision of Service Rules, 2012, MRO 
+services may not qualify as export of services from India since the aircraft would need to be in India for repairing purposes. 
+ Key note:  Under the service tax regime, there is an exemption for services 
+provided to the government in relation 
+to repair or maintenance of a vessel or an aircraft. Therefore, MRO services provided to the government would 
+be exempt from service tax. However, 
+there is no similar exemption for these services if provided to non government service recipients.  However, the burden gets reduced to the extent of service tax 
+credit admissible to MRO customers. In 
+addition to the above, various categories of services when provided to the government, e.g. servicing an aircraft have also been exempt from payment of 
+service tax.
+Spreading its wings Indian aviation29Way forward 
+• Rationalise the tax structure to promote greater value-add in India 
+as the current tax and duty regime makes the Indian manufacturer uncompetitive and directly works against the indigenisation policy 
+of the government. There is an inverted tax and duty structure. 
+Direct imports by the MoD are duty- and tax-free but the Indian offset partner and industry face duties and taxes for imports of components as well as local value-add (VAT alone ranges from  4 to 15%).  The following model illustrates the differential burden 
+to be faced in building a domestic supply chain compared to direct 
+imports by MoD.
+• Allowing foreign airlines to contribute to the capital base of Indian carriers is a welcome move as it opens the sector to foreign equity, global best practices, management expertise, training and code 
+sharing, etc. However, combining FDI and FII and restricting overall 
+investment within the 49% limit has diluted the intent and may not get too much traction from foreign investors as existing Indian players already have some FII investment.  
+• The limit of 26% FDI in defence manufacturing should be increased to meet the stated objective of increased indigenisation of defence manufacturing. 
+• Technology transfer to government institutions has been allowed for offset credits. Building consensus on the valuation of technology 
+between government institutions and foreign OEMs will continue to 
+be a challenge.
+• Eligibility of a wholly owned subsidiary in India of a foreign company to be an offset partner requires clarity.
+• There is a need to reconcile multiple and often contradictory policies and their interpretation by different arms of the government. This acts as an entry barrier for OEMs.Taxes levied on domestic manufacturing and direct imports
+Particulars Domestic value-add Direct imports by MoD
+Customs duty Conditional customs duty 
+exemption available on case-to-
+case basisCustoms duty exemption 
+available since imports by MoD
+Excise duty Excise duty exemptions available to specified projects   Excise duty not applicable
+Central sales 
+tax (CST)No exemption. CST payable @ 2% CST not applicable
+Value added 
+tax (VAT)No VAT exemption. VAT is payable @ 4%-15% VAT not applicable
+Service tax Service tax applicable on 
+inputs services like payment 
+on technical knowhow and 
+engineering services. No 
+exemption availableService tax not applicable as 
+services to government have 
+been specifically exempted • The states are also authorised to 
+levy other local taxes such as entry tax. Further, local authorities and 
+municipal corporations impose local 
+taxes.
+• Research and development cess is applicable on import of technology into India by an industrial concern under a foreign collaboration. Presently, cess is applicable at the 
+rate of 5%. However, the cess can be 
+adjusted against service tax liability accruing under certain service categories.
+• Indirect tax incentives are available to SEZ units for its authorised 
+operations.
+PwC30Within India, the next five years will see 
+considerable change in the dynamics of the industry. Historically, the industry 
+has been dominated by DPSUs, chiefly 
+HAL. The infrastructure to support this industry in terms of educational institutions, regulatory policies and the nature of demand was also oriented 
+towards strengthening the public sector 
+and was orchestrated by the government. 
+The industry is still in a nascent stage of 
+evolution but the good news is that the results of liberalisation and proactive policy decisions by the government in 
+the last 10 years are beginning to bear 
+fruit. Several large private sector groups such as the Tatas, L&T, Mahindra and Mahindra and a large number of smaller companies have entered this sector 
+and are supplying limited parts and 
+equipment to the armed forces, DPSUs and Tier I and Tier II foreign companies.Building a 
+domestic aerospace industrial base 
+An overview of the different market segments starting from military 
+to civil and general aviation demonstrates that both the global and 
+the Indian scenario for aerospace industry are changing rapidly. 
+While developed markets of North America and Western Europe continue to dominate the industry in terms of a manufacturing 
+base and have a significant market size, growth is occurring in the 
+Asia-Pacific region. This is prompting a number of global OEMs to re-consider their market position and their strategies. Technology, 
+manufacturing capacity and skills continue to reside largely in North 
+America and Europe, while considerable re-tooling is taking place in the Asia-Pacific region to build capabilities for the future.
+Select joint ventures/collaborations in the aerospace sector
+Company name Foreign partner Product
+HAL •	United Aircraft Corporation
+•	Rolls Royce
+•	BAE•	Fifth generation fighter 
+•	Aircraft engine components
+•	Avionics
+Tata Group •	Sikorsky
+•	Augusta Westland
+•	Thales 
+•	Lockheed Martin•	Helicopter cabin
+•	Helicopter components
+•	Airborne optronics 
+•	Aero-structures
+L&T •	EADS
+•	Pratt & Whitney •	Radars, avionics, and electronic 
+warfare equipment
+•	Aircraft engine components 
+BEL •	Thales •	Electronic systems 
+Samptel •	Thales •	Electronic systems 
+Spreading its wings Indian aviation31India potential
+The fact that India is one of the fastest 
+growing aerospace markets in the world has been well amplified in the earlier 
+chapters of this report. The procurement 
+pipeline of military as well as civil aircraft is going to be enormous over the next two decades. In addition to this, there exists a large MRO market 
+opportunity as well as potential for high 
+value R&D in engineering outsourced services and avionics. 
+However, doing business in India remains 
+a challenge both from a demand as well as a supply perspective. From a demand 
+perspective, while the overall size of the 
+market remains big and is anticipated to grow, there is uncertainty related to the regulatory regime. The nature of demand particularly in the military sector 
+remains highly unpredictable. The civil 
+sector, where private airlines have now created a large and growing market, is still struggling with issues of profitability. The expansion of the aviation industry 
+into the fabric of the country through 
+the creation of smaller airports is still in its early stages, while the MRO industry where India could take a lead is suffering from a lack of competitiveness relative to 
+Singapore, Dubai and Sri Lanka. From a supply perspective, aerospace 
+companies are taking their first steps in setting up a private industrial base. While HAL continues to meet the needs of the 
+military aviation sector, acquisitions by 
+private companies is pointing to greater participation in segments of the civil aviation industry. The acquisition and development of key technologies and 
+manufacturing skills related to setting up 
+a comprehensive industrial base is in its early stages of evolution. In this respect, countries like Malaysia and South Africa which are much smaller than India both 
+in terms of geographic and aerospace 
+size have created a much more robust industrial base. 
+Both domestic players and international 
+entrants need to lay emphasis on setting the foundations of their businesses so that they are able to capture value as 
+the Indian aerospace market matures 
+over the next five years. In doing so, stakeholders need to understand the nature of the market, their participation 
+in key sectors of the value chain, making 
+investments in building capabilities for those parts of the value chain and executing for the long run. 
+In this context, Jayant Patil, EVP 
+Defence and Aerospace, L&T commented, “Other arms of the defence sector like the Indian Navy took early steps in indigenising the defence production process, and have benefitted from close partnership with the private sector. The aerospace sector is starting down this path. We believe using expertise from the private sector in myriad technologies and industrial processes can help accelerate the development of this important sector.”
+The next five years will see a maturity in 
+the market that has to be assessed and understood by key industry players as they craft their strategies.
+PwC32Growth of companies in aerospace
+•	 Access	to	technology:	Participation 
+to the standards needed for aerospace 
+OEMs will lead to a huge boost in 
+private sector domestic players who 
+will get a quantum leap due to access and support around technology, systems and practices to make this venture a success. 
+Aerospace value chain 
+participation potential
+As we look at the future of this industry, 
+and as companies look at entering or strengthening their position in the 
+industry, they need to examine the 
+aerospace value chain and find their area of growth and competency. 
+The aerospace value chain comprises 
+six key components. Each of these components, with the exception of weapons systems, exists in civil and 
+military applications. Understanding this 
+value chain and ensuring that companies are positioned to specialise and exploit their part of the value chain will be 
+crucial for success in this market.
+Overall, given the capacity pressures on 
+the global and nationalised domestic 
+players, there appears to be a compelling case for greater presence of domestic private sector players across the value chain.Aerospace value chain 
+The Indian industry has already made inroads in the IT and engineering design parts of the value chain. As described 
+in the MRO section, limited MRO 
+success is also beginning to show. In order to excel in the entire value chain serviced from India, companies need to focus on areas related to the R&D 
+and manufacturing parts of the value 
+chain while strengthening areas where there is an existing presence. Only by doing so will Indian players create a 
+comprehensive industrial base for the 
+aerospace industry. In executing their strategies, companies 
+and stakeholders will have to build a 
+strong ecosystem for collaboration. This will happen between OEMs and Tier Is, DPSUs, emerging large and MSME private Indian companies, industry 
+associations and think-tanks. The future 
+success of the aerospace industry in India, we believe, will depend in large measure on this collaborative effort.
+In addition, the government has 
+created a strong offset policy which is helping create an impetus for local manufacturing and transfer of 
+technology, resulting in an increase in 
+the revenue from this sector. These will be critical to strengthening the industry.
+•	 Increase	in	revenue	and	GDP:	
+Domestic value addition in parts of 
+the aerospace supply chain will lead to increased revenues and will contribute 
+to the overall economic activity in 
+aerospace. 
+•	 Job	creation:	Increase in orders 
+to private sector and capability development will lead to increased job opportunities across multiple sectors 
+from design to manufacturing to MRO 
+segments. The indirect multiplier of these jobs will also increase overall employment opportunity created.We see companies in the Aerospace industry going through a three phased entry and growth cycle
+Spreading its wings Indian aviation33Key challenges  
+In understanding the challenges for 
+the industry, we have used the value chain for a view both from a demand 
+perspective, on the right end of the value 
+chain, and a supply perspective, on the left end of the value chain. In addition, the Indian value chain has to recognise that for a number of companies in this 
+industry it should seek to be part of the 
+global value chain, recognising the core competency of the industry currently and where it can stretch itself over the next 
+five years.
+a. Demand-side challenges:
+•	Difficulty	in	selling	to	the	market:	
+The lack of internationally  
+recognised products by domestic 
+players has created a situation where OEMs are waiting for Indian companies to demonstrate capability. Indian companies are handicapped  by their need for support from OEMs 
+to deliver. 
+•	Lumpiness of the defence sector: The defence sector is the driver of 
+offsets currently expected to support the development of the aerospace sector in India. The inherent nature 
+of this space (delays, lumpiness, 
+poor future visibility, etc) creates challenges in planning investments and returns which makes fund sourcing increasingly difficult. •	Sales complexity: The aerospace market from DPSUs to OEMs to private and smaller companies has to build capabilities to sell in a market 
+with long procurement cycles and 
+complex and constantly changing procurement dynamics. This will require a generation of sales leaders who understand both the technical 
+and economic complexity of an 
+aerospace sale process. 
+b. Supply-side challenges:
+•	Low rates of market acceptance: The absence of international 
+certifications and lack of material 
+incentive to drive sales have led to minimal uptake from the market. With the offset policy changes and reducing 
+capacities across primes and supply 
+chain participants, this could change in the near future. 
+•	Lack of manufacturing capabilities: The aerospace industry requires complex quality requirements backed 
+by certificates. Primes have rigorous 
+standards to test and measure the quality of manufacturing and service. Currently, the Indian manufacturing industry has not tooled up to such 
+quality standards, which require 
+capital-intensive equipment, training and supporting infrastructure that can meet these stringent demands. •	Skill sets for servicing the industry: DPSUs have traditionally provided the managerial and technical skill sets for the industry. As the industry 
+grows at a rapid pace, the number of 
+skilled personnel who can be inducted through these DPSUs is limited. This is both at the managerial level as well as the shopfloor level.
+MRO faces its own challenges,  which are as follows:
+•	Lack of access to land: MRO 
+facilities by necessity need to be located near airports. However, one of the key challenges with India’s 
+rapid urbanisation has been that 
+now most airports are situated inside heavily populated regions. This leads to reduced efficiencies for MRO operations driving up costs and 
+reducing competitiveness. 
+•	Tax and regulatory structure reducing competitiveness: The tax 
+framework in India attracts multiple 
+incidences of tax which drives up costs for MRO players. This dilutes the value proposition of a lost-cost 
+hub and instead increases reliance on 
+geographical proximity as the driver.Aerospace value chain
+PwC34Recommendations for 
+overcoming challenges and 
+key learnings from market 
+leaders
+As the industry matures, more can 
+be done through policymaking and streamlining of regulation to allow the 
+industry to accelerate its growth. In 
+addition, as companies seek to enter and grow in this market, we see key patterns that differentiate the successful players from others. 
+a. At a macro level there are key 
+learnings for the industry as a 
+whole:
+Benchmark against other countries
+A number of countries, including smaller 
+countries like Malaysia have created a robust supply chain for the aerospace industry and are seen as credible parts of global value chains of international 
+OEMs. Israel and South Africa are 
+creating a fast-growing military aviation industry while Brazil has shown leadership in general aviation. These countries can provide lessons for the 
+Indian aerospace industry.
+Create	a	clear	demand	profile	and	
+streamline procurement
+The medium and long-term perspective plans for the military and homeland security aviation sectors have been 
+framed but not shared with the industry. 
+Sharing equipment requirements over the long term in a transparent manner, without compromising national security, will provide the industry with 
+information and confidence to invest in 
+a production process that is measured in decades rather than years. In addition, procurement learnings from more mature aerospace markets will allow the 
+procurement process to be streamlined, 
+lowering cost for the buyer and seller in this industry.
+Remove ambiguities in licensing and 
+export policiesWe need to recognise that exports are essential for developing competitiveness, 
+removing lumpiness of domestic 
+orders and building global quality and competitiveness. At present, there are many grey areas around the licensing 
+requirements due to poor definition of 
+defence items. Establish a robust security policy A key argument against raising the FDI limit in the defence sector is national 
+security. Creating a security policy will 
+free the debate on FDI limits of this bogey. This is essential if the private sector is to be involved in strategic defence programmes. Many advanced 
+countries have done so and we need to 
+learn from their experience. 
+Bring	clarity	on	the	definition	of	
+defence equipmentThe problems relating to licensing and export clearances are rooted in the fact that there is no clarity on what defence 
+equipment constitutes. The government 
+has been trying to arrive at a consensual definition for the past three years and this process must be completed soon.
+Focus on limited platforms to build a 
+vendor base
+The Indian Air Force has over 45 
+platforms in use. This makes it difficult to build a vendor base as they have been provided by OEMs from several countries and work against building economies 
+of scale. By limiting the number of 
+platforms in use, providers can focus and scale up production. 
+Policy incentive and clustering for 
+MSMEsThe industry will mature if the supplier base starting from Tier III and below is 
+encouraged to improve its quality and 
+manufacturing prowess. As supply chain infrastructure is also a key factor in the provision of timely and high quality service, clustering of MSMEs with the 
+provision of high quality infrastructure 
+will enable these smaller players. Align policies to create synergiesAn Indian or foreign company that 
+wishes to work in this sector has to 
+comply with multiple polices that are often contradictory. These need to be aligned and the tax framework 
+rationalised to encourage the use of local 
+resources to build the country’s skills and expertise across the aerospace value chain. 
+Procurement and governance 
+improvementsThe procurement process and the 
+governance structure for government 
+programmes have to evolve to take into account greater participation of the private sector. Currently, the DPSUs are often close to the procurement process 
+which leads to a perception that the 
+process is not fair to the private sector. As the industry structure moves towards private sector orientation, this needs to be re-examined and improved. Lessons 
+from more developed markets like the UK 
+will help streamline these processes.
+Cost of capital to compete
+A key finding from our interviews is the high cost of capital in the Indian context, both for servicing large infrastructure 
+investments for large programmes as 
+well as MSME promotion. As this is a capital-intensive industry, there could be a more pro-active assessment if the overseas borrowing norms can be relaxed 
+for these segments.
+Goodrich Aerospace 
+(UTC Aerospace  Systems)
+UTC Aerospace Systems was formed by merging Goodrich and Hamilton Sundstrand in 2012. 
+Goodrich is primarily engaged 
+in the manufacture of aircraft components and rendering engineering design services. 
+It manufactures and exports 
+cargo products, aircraft lighting parts, actuation systems, evacuation systems, engine control and electronic power systems, sensors and integrated systems. Chris Rao, Vice President, UTC: “When 
+Goodrich started in Bangalore more a decade ago, there was practically no vendor base in India and everything had to start from the ground. Over the past 13 years, Goodrich has been able to success-fully build a handful of quality vendors, in and around Bangalore, through constant training and involvement to bring them to a certain standard. Today, we source 22% of our raw materials from India and this is likely to increase to 70% over the next 10 years. While raw material costs account to 50 to 60% of the final product, even today, most raw materials are imported. Also, big Indian players have a crucial role to play. In a highly capital-intensive sector, they should bring in greater synergies and be more forthcoming in collaborating rather than competing. As far as military aviation is concerned, UTC will consider JVs for offsets only if the investments are justified.”
+Spreading its wings Indian aviation35b. At a company level, the following 
+are key learnings from industry leaders:
+While these are relatively early days, companies who have created initial 
+leadership provide important lessons for 
+those who are looking to enter and grow in the industry.
+Build capabilities for the long haul
+A number of leading companies are investing gradually to build capabilities for a 15- to 20-year time horizon. 
+Companies who thought that the Indian 
+aerospace market would yield rapid results have been disappointed, but those who understand the nature of the 
+industry, its typical buying cycles and the 
+complexity of the procurement process in India have been more gradual and foundational. Their strategy is to scale up around an anchor programme or order.
+Build capabilities for the global supply 
+chain
+While the Indian market will remain 
+the key catalyst for scaling up the industry, the lumpy nature of the market, particularly the military, demands that companies wanting to enter this market 
+also link themselves with the global 
+supply chain of aerospace. This will build and test capabilities before a significant Indian programme is executed from the industrial capability created.Acquisition and partnering to enter and growA number of companies have acquired 
+technology through an acquisition or 
+entered into a partnership where their manufacturing capability in India gets the benefit of proven technology. Tata’s acquisition of a one third stake in Piaggio 
+Aero, an Italian aircraft manufacturer, is 
+an example of such strategic acquisitions. Tata Lockheed Martin Aero-structures Ltd is a JV between Tata and Lockheed 
+Martin for a similar reason.
+Lead with the engineering design and 
+IT areas to build 
+International OEMs as well as Indian companies are trying to establish their presence in the international supply chain by entering using India’s 
+engineering talent pool. There are 
+significant cost and skill gains from engineering design and IT services areas. This is therefore a good entry point given that engineering talent is in high demand 
+in the more developed economies.
+Axis Aerospace
+Axis Aerospace offers solutions in the areas 
+of engineering services, avionics and testing, manufacturing and life-cycle support. With a global footprint across India, Europe and the US, Axis is one of the emerging companies in the aerospace sector. 
+Last year, Cades, an Axis group company, was selected 
+by Airbus to set up an offshore development centre on fuselage after a rigorous evaluation of 21 companies.  CADES is one among a select few companies globally with E2S preferred supplier certification to EADS and its group companies. This certification provides access and ability to do work with various EADS group companies including Eurocopter, Cassidian, etc.
+CADES has recently opened an offshore development 
+centre adjacent to the Airbus facility at Toulouse.Sudhakar Gande, Vice Chairman, Axis Aerospace and 
+Technologies : “A series of deals and transactions have been closed in the recent past and overall, the sector is showing a positive trend. This could be attributed to the need to modernise, upgrade and replace and acquire aircraft and related systems and equipment. After a series of DPPs, the government has done a commendable job in issuing a reasonably good set of policy framework and guidelines for offsets which is more balanced and has brought in greater clarity on various issues. We have grown over 40% in the last two to three years which is well above the market average. We are confident of maintaining this growth over the next four to five years.”Become a fabric of the industry
+A number of private companies, international OEMs in particular and 
+DPSUs as well are looking at investing 
+into this sector for the long haul. The leaders in this sector are creating a culture that moves away from ‘sales’ to understanding the entire dynamics of 
+this industry. This is to give assurance 
+to key stakeholders, including the government that they are here for the long haul. This softer ‘licence to operate’ 
+is a crucial ingredient of success in this 
+market.
+PwC36Sources
+Websites, articles and reports
+http://www.gbta.org/Lists/Resource%20Library/General%20Aviation%20Options%20for%20Business.pdfhttp://www.bga-aeroweb.com/General-Aviation.html
+PwC Report - General Aviation – Unfolding Horizons
+http://www.rediff.com/business/slide-show/slide-show-1-8-most-expensive-private-jets-owned-by-indian-
+billionaires/20111230.htm
+http://www.frost.com/sublib/display-market-insight-top.do?id=246211874http://www.flightglobal.com/news/articles/in-focus-indian-business-aviation-snagged-by-constraints-368757/Harris Interactive’s The Real World of Business Aviation: A Survey of Companies Using General Aviation Aircrafthttp://www.usitc.gov/publications/332/pub4314.pdf
+http://msme.gov.in/MSME-Annual-Report-2011-12-English.pdf
+http://pib.nic.in/newsite/erelease.aspx?relid=81107http://eprocure.gov.in/cppp/sites/default/files/gos/imsme_FinalPressorder.pdf http://www.airbus.com/company/worldwide-presence/airbus-in-india/
+http://articles.economictimes.indiatimes.com/2012-04-07/news/31304874_1_defence-ministry-cabinet-secretary-
+commerce-ministry
+Spreading its wings Indian aviation37Acknowledgements
+We are grateful to the following participants in India’s Aerospace industry who generously provided us with 
+their time, thoughts and expertise:
+1. Eric Lenseigne, Country Head and Managing Director, Thales India 
+2. Ram Prasad, Managing Director, Rockwell Collins
+3. Rahul Chaudhry, CEO, Tata Power SED
+4. Arvind Mehra, Executive Director & CEO, Mahindra Aerospace
+5. Chris Rao, Vice President, UTC
+6. Rishi Malhotra, General Manager, Bell Helicopters, India
+7. BS Singh Deo, Managing Director, Bell Helicopters, India
+8. K V Krishnan, Vice President MRO Operations, Airworks
+9. Sandeep Wadhwa, Director, Nash Industries
+10. S M Kapoor, CEO , TAAL
+11. Naresh Palta, CEO, Maini Aerospace 
+12. Gautam Maini, Director, Maini Group
+13. RS Kundi, Director, AAN Engineering
+14. Sudhakar Gande, Vice Chairman, Axis Aerospace and Technologies 
+15. Arunakar Mishra, CEO, Genser Aerospace
+16. Air Commodore (Retd) Joseph Varkey, Secretary General, SIATI
+17. Jayant Patil, EVO, Defence and Aerospace, L&T 
+Special thanks to the following members of PwC for their tremendous contribution in the finalisation  
+of this report: 
+1. Lakshminarainan R
+2. Manish Agarwal
+3. Mehul Kain
+4. Prashant Gupta
+5. Tejasvi Gupta 
+6. Nidhi Jain
+7. Rahul Trivedi
+8. Ashwin Bhatnagar
+9. Akash Gandhi
+10. Siddharth Pai 
+11. Mugdha Narayan
+12.  Ashwini Dash
+About FICCI 
+Established in 1927, FICCI is the largest and oldest apex business organisations in India. Its history is 
+closely interwoven with India’s struggle for independence, its industrialisation, and its emergence as one of the most rapidly growing global economies. FICCI has contributed to this historical process by 
+encouraging debate, articulating the private sector’s views and influencing policy.
+A non-government, not-for-profit organisation, FICCI is the voice of India’s business and industry.
+FICCI draws its membership from the corporate sector, both private and public, including SMEs 
+and MNCs. FICCI enjoys an indirect membership of over 2,50,000 companies from various regional 
+chambers of commerce.
+Team 
+Geethanjali Nataraj
+Director FICCI Defence and Aerospace
++91 11 23487331
+geethanjali.nataraj@ficci.com
+Vidhi	Upadhyay 
+Senior Assistant Director 
+FICCI Defence and Aerospace 
++91 11 23487213 Vidhi.upadhyay@ficci.com 
+Amit Kumar 
+Assistant Director 
+FICCI Defence and Aerospace +91 11 23487583 Amit.kumar@ficci.com
+About PwC
+PwC* helps organisations and individuals create the value they’re looking for.  We’re a network of firms in 
+158 countries with more than 180,000 people who are committed to delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, Bangalore, Chennai, 
+Delhi NCR, Hyderabad, Kolkata, Mumbai and Pune.  For more information about PwC India’s service 
+offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member firm is a separate 
+legal entity. Please see www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+PwC India Aerospace and Defence Team Dhiraj Mathur
+Executive Director 
+Leader, Aerospace and Defence Practice +91 124 3306 005dhiraj.mathur@in.pwc.com
+Rajiv Chib 
+Associate DirectorAerospace and Defence Practice +91 124 3306 026rajiv.chib@in.pwc.com
+Gautam Khattar 
+Associate Director Indirect Tax +91 124 3306 528
+gautam.khattar@in.pwc.com
+Kamal Abrol 
+Executive Director Corporate Tax 
++91 124 3306510 
+kamal.abrol@in.pwc.com
+Rajeev Singh
+Executive Director
+India Advisory, Operations
++91 124 330520rajeev.singh@in.pwc.comShashank TripathiExecutive Director Leader, Strategy and Research Practice 
++ 91 22 6669 1002
+shashank.tripathi@in.pwc.com
+Arunkumar BS
+Executive Director  
+Financial Advisory Services
++91 80 4079 7004arunkumar.bs@in.pwc.com
+Narendra Soorabathula
+Executive Director
+PwC PRTM Consulting+91 80 4010 0900 narendra.soorabathula@in.prtm.pwc.com
+Chetan Anand
+Senior ManagerTax and Regulatory Services+91 80 4079 6030chetan.anand@in.pwc.com
+Nidhi Kansal 
+Senior Manager Aerospace & Defence Practice+91 124 330 6124
+nidhi.kansal@in.pwc.com
+pwc.in
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers 
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication 
+represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before 
+taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in 
+India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+NJ 448 - February 2013 AviationReport.indd
+Designed by: PwC Brand and Communications, India

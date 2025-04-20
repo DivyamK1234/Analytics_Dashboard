@@ -1,0 +1,7 @@
+Title: kpmg_global-tech-report-enrc
+Date Published: 
+Source: pdfs/kpmg_global-tech-report-enrc.pdf
+
+--- CONTENT ---
+
+Error extracting content: PyCryptodome is required for AES algorithm

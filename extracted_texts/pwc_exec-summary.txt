@@ -1,0 +1,403 @@
+Title: pwc_exec-summary
+Date Published: 2013-02-06 16:37:48+05:30
+Source: pdfs/pwc_exec-summary.pdf
+
+--- CONTENT ---
+
+PwC4Executive 
+summary“The future lies with those companies 
+who see the poor as their customers.” 
+C K Prahalad 
+Background
+The ‘global emerging middle’ already 
+accounts for 2.3 billion people 
+globally and is expected to represent 
+a combined annual market in excess 
+of 6 trillion USD by 2021. Presently, 
+470 million people in India belong to 
+the ‘emerging middle income’ group, 
+earning 1 to 5 USD per day16, and 
+about 40% of the households are 
+financially excluded1. In India, this 
+market is expected to cross 1 trillion 
+USD by 202116. Organisations which 
+build capabilities in this segment can 
+go beyond their country’s borders 
+and compete in other such markets. 
+The way forward
+For India to be 100% financial 
+included, all the constituents need 
+to play their part. The government, 
+through policies must protect 
+customers’ interest along with 
+helping financial institutions 
+build profitable business models. 
+Banks need to move from looking 
+at inclusive markets as a ‘cost to 
+business’ to ‘growth opportunity’. 
+New and innovative small 
+enterprises addressing inclusive 
+financial markets must be supported 
+and those with a strong distribution 
+network need to partner with banks 
+to help deliver financial services. Today is the ‘future’ that CK Prahalad referred to, as organisations 
+innovate and try to make available goods and services to the inclusive 
+markets, defined as the middle to lower economic market segment. 
+Providing a bouquet of financial services to these markets is a profitable 
+business opportunity waiting to be realised. 
+
+DNA model for inclusive financial services5Government policies for 
+inclusive financial markets
+The government has the keys 
+to unlock the inclusive financial 
+market through policies, mandates, 
+regulatory requirements, subsidies 
+and taxes. Joseph E Stiglitz, Nobel 
+laureate said, “Even though market 
+forces help shape the degree of 
+inequality, government policies 
+shape those market forces.” 
+Governments cannot achieve their 
+objective of financial inclusion only 
+through diktats. They need to help 
+financial institutions create viable 
+business models, whilst protecting 
+the interests of the poor. They have to foster innovation by allowing 
+small and new players to participate, 
+be flexible in allowing more banks to 
+operate in this segment, incentivise 
+banks to create a different operating 
+model for this segment and allow market forces to operate. 
+The Indian government has taken 
+many positive initiatives recently, 
+through its various departments – the Ministry of Finance, the RBI, the UIDAI, the Department of IT and the state governments. Transfer of 
+welfare subsidies (overall estimated 
+at 3000 billion INR of which 1500 
+billion INR is presently cash based), 
+called ‘cash transfers’ to bank 
+accounts through ‘Aadhaar’ will 
+provide the much-needed impetus 
+for banks to open accounts and 
+treat this customer base seriously. 
+While this is expected to happen 
+over the next few months, it will 
+impact only 43 districts out of the 
+600 in the country. The reality 
+is that there are no established last-mile delivery channels at the 
+ground level. It is estimated that 
+more than 40% of the 120,000 
+outlets are inactive and 10 to 40% of 140 million ‘no-frills’ account are 
+inactive.  Only organisations which 
+have an already established network 
+have the capability to deliver the 
+last mile for financial services, in a 
+sustainable way. The government 
+needs to foster collaboration 
+between banks and organisations 
+that have the distribution network, 
+through a tiered partnership model-telecom and consumer companies 
+for villages of larger population, and 
+postal departments, microfinance 
+companies and co-operatives for 
+villages with lesser population. 
+Merely opening accounts and facilitating welfare benefits 
+electronically are not enough. The 
+usage of accounts and other financial 
+services needs to be ensured. One 
+way of doing this is by providing 
+incentives for a short period for the 
+usage of ‘no frills accounts’. On new 
+policies issued by the government, 
+clarity needs to replace ambiguity. 
+Innovative programmes like the 
+pilot of the UIDAI’s e-KYC and the 
+RBI’s ’meaningful financial inclusion’ 
+in Ernakulum district in Kerala 
+are good, but not enough. The 
+government needs to encourage 
+innovation through smaller 
+enterprises, i.e. regional banks like 
+Krishna Bhima Samruddhi Local 
+Area Bank, Business Correspondents 
+(BCs), enterprises with technologies 
+for low-cost Core Banking Solutions 
+(CBS) and last-mile innovations. Some of this will be possible with 
+the passing of the Banking Laws 
+Amendment Bill 2011. 
+The ‘priority sector’ lending target 
+of 32 to 40% for agriculture, SMEs, education and housing, while good on intention needs to be reviewed 
+to be in line with the contribution 
+of the agriculture sector and 
+infrastructure required. The needs 
+of the agricultural community are 
+more than just financial credit, and 
+these needs have to be addressed 
+concurrently. Support is required 
+more for creating producer groups, 
+sorting, grading and cold storage 
+facilities near the farm-gate. The 
+large Kisan Credit Card portfolio 
+that banks are holding needs to be 
+closely reviewed for non-performing 
+assets (NPA). Affordable insurance 
+and pension financial products 
+through reduced distribution cost 
+are required by the community. 
+Banks -shift in DNA required 
+for profitable business in 
+inclusive financial markets
+Banks, till recently, did not focus 
+on the inclusive market segment, 
+as there was no incentive to do so. 
+Growth objectives could be achieved 
+by servicing the urban, economically 
+advantaged segment. Today, with 
+some segments of this market showing signs of saturation, and 
+stringent regulatory requirements, 
+banks need to be more strategic 
+in the inclusive markets business 
+and move from ‘cost to business’ to 
+‘growth opportunity’.
+PwC6To build a profitable business serving 
+the underserved requires banks to 
+make a paradigm shift in their DNA.
+Different DNA
+New org. structure & products 
+Align new partners 
+D: Different DNA 
+Low-cost airlines and Walmart were 
+created with a different DNA, and 
+similarly banks need a different 
+DNA to address the lower economic 
+segment. New ways of doing things 
+will drive the ‘low cost high volume’ 
+business. This may mean carving 
+out a completely new subsidiary 
+as changing the DNA is not a small 
+task. The profile of people has to be 
+different, and customer needs have 
+to be satisfied in completely new 
+ways. Products have to be designed 
+for high volume and each element 
+of cost has to be brought down to a 
+fraction of the original. The main 
+elements of costs are as follows:
+• Nearly, 40- 60% of costs for a 
+rural branch and indirect cost 
+of a customer service provider 
+(CSP) impacted by high attrition 
+rates of 25 to 45%.
+• Present CBS costs which 
+range from 80 to 200 INR per 
+account per annum is too high 
+for such large numbers of ‘no frills’ accounts. There are few 
+technology providers who offer 
+a low-cost CBS for this segment 
+of the market. Innovative enterprises can explore this 
+unmet need for low-cost CBS 
+at 8 to 12 INR per account per 
+annum.• The cost of rent which can be 
+reduced through shared services 
+and a hub-and-spoke model with 
+Business Correspondent (BC) 
+outlets
+• The cost of customer acquisition 
+is 50 to 150 INR per customer 
+and can be brought down to a 
+fraction, if the CSP is already 
+servicing the customer through 
+re-selling pre-paid airtime or 
+similar services.
+N: New organisation structures  
+and new products 
+Private sector banks have different 
+units taking care of the liability and 
+asset segment of the business i.e. 
+loans to microfinance companies 
+through the ‘financial institutions’ 
+unit, gold loans and smaller value 
+loans through different units, and 
+no-frills account through a different 
+unit of the bank.   Public sector 
+banks have a financial inclusion 
+unit in the head office and the 
+‘circles’ or rural branches are not 
+accountable to them for business. 
+These disaggregated organisation 
+structures do not serve the needs 
+of the bank for the inclusive 
+market segment. New organisation 
+structures to get operational 
+leverage will help banks address this 
+segment. 
+For financial products to be a success, 
+it is important to understand the 
+needs of the customer. Is it the need to have money to send their 
+children to college, or to take care 
+of them in their old age? What are 
+the cash cycles that the sugar farmer 
+goes through versus the cotton farmer? For the purchase of financial 
+products, there is a ‘price-trust 
+inversion’. In the beginning, trust is 
+critical for adoption, demonstrated 
+by customers who are prepared to 
+pay prohibitive prices to the ‘hawala’ 
+to transfer money, primarily because they trust him. Initially, banks, BCs 
+and CSPs must focus on building 
+trust, as price is not a consideration. 
+Once there is trust in a new product 
+and CSP, usage will increase and 
+over a period the product gets 
+commoditised. This is when price 
+sensitivity starts coming into play.
+ Insights on the middle to lower 
+income market segment and 
+designing innovative products 
+to meet their needs is critical 
+for success. Learnings from 
+successful traditional financial 
+products like ‘chit funds’ 
+and gold loans are valuable. 
+International examples of 
+innovation are the ‘Jipange 
+Kusuve’ of M-Pesa which is a 
+‘lend to save’ model.
+DNA model for inclusive financial services7A: Align new partners for this 
+market 
+Banks find it difficult to reach the 
+last mile due to staff constraints 
+and expenses. They have been 
+partnering with many BCs. In 
+fact, some banks have 5 to 25 BC 
+partners. Managing a large number 
+of partnerships is a challenge and 
+banks will have to optimise to 
+manage better. A scientific basis for 
+growth in Tier V and Tier VI villages 
+(population of less than 10000) must 
+be based on a tiered partnership 
+model. Partnerships have to be made 
+with BCs who have a viable business 
+model themselves. E.g. re-seller of 
+pre-paid airtime can add financial 
+services to their bouquet of products, 
+and make the business model more 
+viable. Organisations with a strong 
+distribution network and the skills 
+to manage this network can deliver 
+financial inclusion. Banks must also 
+partner with telecom and consumer 
+companies for villages with a higher 
+population, and postal departments 
+and microfinance and co-operatives 
+f o r  v i l l a g e s  w i t h  l e s s e r  p o p u l a t i o n .                                                
+Telecom operators seem to have a 
+natural advantage as partners with 
+banks for mobile financial services, 
+as they have the technology and 
+access to customers and data. We 
+believe that mobile financial services 
+will take off more in developing 
+economies rather than developed economies, as M-Pesa has proven. In 
+the developed economies, internet 
+banking using computers is already 
+ubiquitous and there is no real 
+motivation to change this to mobile 
+banking unless there is a completely new way of managing money. In 
+developing economies on the other 
+hand, internet banking is not an 
+option and mobile banking will give customers what mobile phones gave 
+people who could not get a fixed 
+telephone line. 
+Telecom operators must seize 
+this second opportunity to drive 
+innovation by providing mobile 
+finance, leveraging on their vast 
+network and proven strengths to manage this network. Telecom 
+operators can make a profitable 
+business of financial services for 
+inclusive markets by adopting the 
+following:
+• Use their experience and access 
+to data to drive innovative 
+financial products  
+• Represent the bank for not 
+just remittances and savings 
+products but the entire bouquet 
+of banking products  
+• Sell the concept of financial 
+services, to educate the retailer 
+and customer
+• Manage the distribution channel 
+aggressively for financial services, 
+just the way the telecom channel 
+was managed by marketing 
+schemes for customers and  
+trade promotions
+This is a time to for the government, 
+financial services organisations, 
+telecom companies, and grass-root 
+organisations to make history by 
+providing financial services in a 
+sustainable way to the inclusive 
+market segment in India. Examples for inclusive 
+financial services markets
+The Central Bank of Philippines - 
+Bangko Sentral ng Pilipinas - has set 
+up a dedicated unit that specialises 
+in new technologies. “While we 
+allow the market to lead, we cannot afford as regulators, to get left 
+behind, we have to stay very close 
+to the innovators just to make sure things don’t go out of hand. The target market are people who may 
+not have had extensive experience 
+of use of financial services and 
+are also in that regard potentially 
+vulnerable,” said the Deputy 
+Governor
+30.
+The percentage of population who 
+have bank account (for the bottom 
+40%) in some of the Asian countries 
+is comparatively high, i.e. ranges 
+from 50 to 60% for Malaysia, Sri 
+Lanka and Thailand, whereas  it is 
+only 27% for India.
+Banks such as the SBI, Yes Bank 
+and BCs such as Eko and Suvidhaa 
+have proved that domestic 
+remittances are a profitable 
+business. At Yes Bank , total value 
+of remittance between August and 
+December 2011 is 800.0 million 
+INR approximately and fee income  
+is  8.0 million INR approximately27. 
+New products must take learnings 
+from the successes of traditional 
+products such as chit funds, postal 
+savings and newer innovations  
+like the lend-to-save model in 
+Kenya of ‘Jipange Kusave’ (M-Pesa)’.
+Non-bank financial institutions 
+(NBFCs) with gold loans, vehicle 
+loans and now low-income  
+housing loans has shown the way to  
+build profitable and low risk assets 
+for the inclusive  markets.
+The ‘Sarva Shakti Suraksha’   
+of Bajaj Allianz Life Insurance, 
+is a customised insurance cum 
+savings product for members of 
+co-operatives. 1
+2
+3
+4
+5
+6
+PwC34Contacts 
+Jamuna Rao Verghese
+Advisor, Inclusive Market
+Financial Services jamuna.r.verghese@in.pwc.com 
+Harsh Bisht 
+Executive Director, AdvisoryPwC India 
+harsh.bisht@in.pwc.com
+

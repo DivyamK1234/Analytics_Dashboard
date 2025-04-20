@@ -1,0 +1,403 @@
+Title: pwc_multichannel-strategy
+Date Published: 2013-06-03 10:50:13+05:30
+Source: pdfs/pwc_multichannel-strategy.pdf
+
+--- CONTENT ---
+
+Multichannel 
+strategy
+The right balance 
+between customer 
+experience and contact 
+centre operations
+ June 2013
+
+In the increasingly competitive business scenario, 
+the end-to-end customer experience and delight has 
+become a new area, which no one can afford to neglect.  
+It is of paramount importance to deliver superior 
+services with differentiated experience, while aligning 
+with the ever-changing customer preferences and 
+needs. Thus, a multichannel strategy comes into play in 
+this information-rich age. 
+Leading businesses, today, are harnessing both 
+traditional and new service channels (i.e. physical 
+outlet, field service, web, mobile, etc.) to cater to both 
+the segments of changing demographics across all 
+geographies. This is also providing customer access to 
+new channels, while enhancing flexibility in delivering 
+value to the customer. Customers expect to be treated 
+as multichannel buyers, empowered to use the web 
+to research information about products, to purchase 
+them and negotiate returns through any number 
+of outlets. They, typically, examine products more 
+than once, through multiple channels. For instance, 
+they can research online, view in store, peruse a 
+catalogue at home, access a mobile application, and 
+then go online to do further research before making 
+their purchasing decisions. With these sophisticated 
+multichannel strategies, many firms are enjoying 
+strong bottom and top line growth in their businesses.  
+Companies applying best practices strive to offer a sales 
+experience that is uniformly consistent, convenient, 
+relevant and responsive to customer needs across all 
+channels, to effectively execute demand generation in 
+a multichannel environment.The same wave was witnessed at the service part of 
+the business value chain, wherein the customer could 
+contact the service provider through a variety of service 
+channels. The services were then offered in both 
+traditional and new service channels (over-the-counter, 
+telephony, emails, web portals, chat, co-browsing, 
+social media and mobile). These channels were utilised 
+by industries extensively for servicing customers of 
+different demographics.
+Over-the-
+counterSocial media, 
+self-service and 
+kiosksEmail Web
+Phone ChatNext generation contact centre
+The emergence of new channels has enabled a 
+new mix of service channels, which as a package 
+can be more efficient.  At the same time they also 
+increased the scope of confusion, thus, evolving 
+the need of service channel optimisation. Though 
+a lot of has been done in this direction, it is too 
+early to conclude that the issue of multichannel 
+mix optimisation has been fully addressed and 
+tackled successfully. These practices still remain in 
+the growth stage and significant opportunities lie 
+ahead for businesses that can identify and exploit 
+them to the fullest.
+With time these channels have matured and 
+customer behaviour has also become demanding 
+towards these services. An unhappy customer 
+can air his or her grievances on a company’s 
+webpage as well as social media channels. This can 
+adversely affect brand value. 
+Under these circumstances, an integrated 
+customer relationship management (CRM) system 
+is required to give a 360-degree view of the 
+customer and also provide analytics to optimise 
+various service channels. 
+Traditional Web-enabled assisted serviceOver-the-counter
+Web portalsTelephony
+ChatEmail
+Co-browsing
+Social media
+MobileThough expensive and resource-intensive, over-the-counter and telephony are highly 
+effective channels and are well-exploited by traditional users. 
+Email is an easy, well-understood, and effective service channel, but a lot depends on the 
+type of service, as complex service enquiries can lead to multiple email interactions and 
+may unnecessarily increase the cost. Email is best used for follow-ups with the customer.  
+Web portals have been successful in a few industries, e.g. banking, insurance, telecom, 
+etc. They have radically reduced the cost of service. For most standard service 
+requests, effective FAQs and guided navigation on portals have been very effective.
+While web chat and co-browsing has gained popularity in some industries (e.g. travel 
+portals, realty, etc.), it must be used with caution. It is resource-intensive and lacks 
+adequate human touch.
+The social and mobility channels have great potential is pitched to be the next wave 
+of CRM 2.0 (social CRM). This is yet to integrate seamlessly with the legacy CRM to 
+enhance customer view.
+
+Evolution of customer 
+contact centre
+Technology has changed the way organisations manage 
+their relationships with their customers. While many may 
+argue this new reality, the consumer is increasingly in a 
+position of power, as comparison-shopping on a wider-
+scale becomes the norm. Currently, a strong relationship 
+with the customer is of utmost importance, and the 
+modern contact centre can facilitate this. A contact centre 
+equips an organisation to create a two-way dialogue with 
+their customers. Every ‘contact’ with the customer is an 
+opportunity to understand the customer and upsell or 
+cross-sell products. The customer interaction over issues 
+(positive or negative) are documented and tracked on an 
+individual basis, for future action.
+Contact centres were established to reduce cost. However, 
+given the transfer of power from business organisations 
+to the customer, cost reduction with effective customer 
+satisfaction has become the priority for business 
+organisations. Nevertheless, it became necessary to 
+carefully determine which channels are effective at 
+meeting the needs of a particular customer. 
+Not surprisingly, the amplified use of channels through 
+which customers interact with organisations has resulted 
+in increased expectations across all channels. The 
+customers are not merely satisfied with access to multiple 
+channels but are also expecting the same level and quality 
+of service across all channels. In addition, due to the 24 
+x 7 online accesses of e-commerce businesses customers 
+expect similar service from other businesses. The failure 
+to offer such a support can act as a trigger to migrate to a 
+competitor. The multichannel 
+environment
+The contact centre has become a key organisational 
+stakeholder addressing customer needs, while constantly 
+gaining knowledge about customers and influencing 
+their perceptions. Its role in delighting customer has 
+grown steadily with faster service and its availability 
+across multiple touch points. The past decade has 
+brought many emerging technological advancements in 
+customer relationship management altering customer 
+behaviour by equipping them with additional tools to get 
+serviced. Businesses were also aware of this change and 
+started focussing on listening and engaging customer 
+across multiple channels. 
+A research by the Aberdeen Group states that a 
+multichannel customer care strategy can achieve more 
+than twice (9.7% vs 3.9%) year-on-year improvement in 
+customer satisfaction, as compared to their peers using a 
+single channel. Though this justifies the need to migrate 
+towards multichannel contact centres for delivering 
+enhanced customer delight, it does not mean that simply 
+adding a channel can improve performance results. 
+Driving the incremental performance gains through the 
+add-on channels requires a well-defined strategy. 
+Multiple channels contact centres are the 
+organisations which use multiple channels 
+(email, OTC, telephony, web chats, 
+social networks, etc.) to deliver services 
+pertaining to the business.•	Contact centre
+•	Live chat
+•	Social media
+•	Mobility solutions•	Service centre
+•	Kiosks
+•	Door –to-door service•	Web self -service
+•	IVR systems
+•	FAQ
+Increasing overlap of 
+service channels
+The concept of multiple channels mix such as field 
+services, self-services, and assisted services was 
+introduced to target different segments of customers. 
+These were targeted towards the elderly population 
+and non-tech savvy customers, whereas the self-service 
+was targeted at technologically advanced customers to 
+reduce cost. The addition of service channels always 
+overlaps with the existing channels. 
+Key decision parameters for selecting appropriate 
+service type
+Customer value:  Is the customer worth live assistance 
+and/or field service?
+Customer capabilities:  Does the customer have access to 
+the channel? 
+Service complexity:  Is it a complex service issue? If 
+so, live assistance and/or field service may prove less 
+expensive overall.These overlaps shall always be effectively managed to 
+enhance the in-house systems and processes. An analysis 
+of key KPI can also help organisations to define the service 
+channel mix and gauge channel utilisation. The field 
+servicing, self-servicing and assisted servicing channels 
+work in tandem and an effective customer service strategy 
+includes the option for the customer to switch the mode 
+of service as required. Also, multiple factors must be 
+considered when deciding the appropriate service mode 
+and choice of channel for a customer segment.
+The world of any time, any where, and any channel
+
+Self-service
+In an effort to gain a competitive edge in the market, 
+many companies have implemented self-service 
+solutions to deal with business pressures. The two forces 
+driving companies to implement this are operating cost 
+and competition. Companies are getting their customers 
+to do as much as possible on the web, and move away 
+from the high cost contact centre. 
+The key benefits of self-service include the following: 
+1. Cost reduction:  The self-service approach can slash 
+the cost of a customer interaction from as much as 
+35 USD on the phone to 0.75 USD online (a potential 
+savings of 98% percent on just one transaction, 
+Forrester Research). 
+2. Enhanced adaptability:  It is highly adaptable to 
+increase in workload.
+3. CRM 2.0:  Integration with social network sites, 
+forums and competitor sites can act as feedback and 
+works as an efficient marketing tool.
+4. Downtime planning:  It works 24x7, 365 days and 
+downtimes can be planned. 
+5. Multilingual system:  It can support more than one 
+language at reduced cost.
+6. Device interoperability:  It can be used on more than 
+one device such as phones, laptops, PC, mobiles, 
+tablets, etc.
+7. Build credibility:  It provides better mode of building 
+credibility, i.e., awards, affiliations, recognitions, 
+forum rankings, visitor counter, testimonies and 
+reviews, list of guest or clients, etc.Self-service is a type of electronic support 
+that allows customers to access information 
+and perform routine tasks over the web, 
+without requiring any interaction with a 
+representative of an enterprise. It is widely 
+used in CRM and employee relationship 
+management (ERM).
+KPI Definition Benchmarks
+Self-service rate Number of visits to the support site that do not result 
+in an email, chat, or any assisted online support 
+channel into the contact centre >80%
+Percentage of positive knowledge base 
+responses from customers Percentage of customers that positively responded 
+to the question of  ‘was this answer helpful?’ on a 
+knowledge base article 30% to 40%
+Percentage of returning visitors to the 
+support pages New vs returning unique visitors to the support pages More the better 
+Percentage of visits from third party 
+search to the online support site Visits that originate from search engines such as 
+Google or Bing as questions, and end up on the 
+support page >30%
+Voice of the customer satisfaction data Data from pop-up surveys to visitors on the site that 
+ask the question of ‘how satisfied are you with the 
+overall support experience?’ Positive data from the surveysKPI of self-service and its benchmarks
+Optimisation of service 
+channels
+A multichannel contact centre operates in complex 
+interactive environment. The road towards a dream 
+contact centre involves capturing customer feedback to 
+find relevant channels, seamless integration of channels 
+with existing systems and back-end systems ensuring 
+optimal channel performance. 
+We propose a four-stage strategy to optimise the service 
+channel mix involving analysis and optimisation of 
+existing channels, redefining channel strategy and its 
+implementation. We aim to generate few savings during 
+the second stage and reinvest it as a part of the revised 
+strategy for more returns. The direct saving will be in 
+terms of improved first call resolution (FCR), increased 
+customer satisfaction, reduced cost to serve, reduced 
+customer churn and call deflation due to self-service 
+channels. The indirect savings will be mainly through 
+higher customer knowledge.
+The first step involves a thorough analysis of services, 
+customer and channels. The key analysis in this step 
+involves knowing service characteristics, customer 
+segmentation and preferences and channel suitability. 
+Once this is established a selection of channels can be 
+made. The key factors which drive the selection are the 
+volumes, extend of standardisation, service complexity, 
+human intervention needs and customer’s propensity to 
+self-service.Phone
+Web
+Email
+Social Media 
+Chat
+CRM
+Phone
+Survey 
+Spee ch Non-Speech Other Keywor ds and topics
+Emotion detection
+Talk over analysis
+Call flow analysis
+Web interaction analytics
+Keywor ds and topics
+Sentiment analysis
+Chat response time
+Desk top analytics
+Customer demographics
+Interaction history
+Customer feedbackCustomer satisfaction 
+Misinformed
+Mislead
+Frustration level 
+Happiness
+Percentage of second 
+time callersSuite of analytics for different service channels
+Many might feel that these solutions are fit for large-scale businesses. Adoption of these 
+technologies and practices is not determined by the size but by the organisation’s focus on 
+adopting best practices to achieve success through multichannel contact centre initiatives.
+Strategic framework 
+for service channel mix 
+optimisation
+The three dimensions of service, channel and customer 
+results in optimisation plan for service, thus, redefining 
+channel strategy. One of the major activities in this 
+whole process is channel integration, as a customer 
+these days switches channel even in a single transaction. 
+The best solution for this problem will be to generate 
+a single view of a customer which gets updated by 
+each channel. The problem discussed in one of the 
+early examples in this document can be addressed 
+only through a single view. Ensuring success of the 
+redefined strategy depends on how well the company 
+can incentivise its customer to migrate to a more 
+efficient and effective service channels. This switching 
+not only requires process reengineering and technology 
+to execute them, but persuasive tactics to encourage 
+people to move, where effective training and change 
+management comes into the picture.
+Though, technology is the key enabler in this initiative 
+to equip agents with ability to manage multichannel 
+customer interactions but contact centre analytics 
+also help businesses to analyse the effectiveness of 
+each channel in increasing customer satisfaction, 
+while reducing contact costs. These analytics include 
+speech analytics, non-voice analytics and various other 
+analytics. Every customer contact gives a lead about 
+customer expectations and satisfaction. It is up to the 
+level of analytics an organisation deploys for gauging 
+these characteristics and then reorienting its channels to 
+maximise customer satisfactionAnalysis of ex isting channels
+Optimisation of ex isting channels
+Redefining channel strategy
+Implementing the revised strategyAnalysis of service Analysis of chann el Analysis of customer
+Customer 
+experience 
+improvementRouting 
+optimisationChannel  
+integration and 
+data exchangeIVR optimisation Channel optimisation based 
+on customer profitabilit y1
+2
+4Deployment of IVR, 
+CTI, WFM and QMAdvanced CC 
+analytics Single 
+customer viewChange management 
+and training aspectsIncentivising 
+channel  
+switchingSocial media 
+monitoringRoot cause 
+analysi s3
+Campai gning Incentivising Cross-referring Forcing shifts TrainingRepeated services
+Periodic services
+Fault services
+SOS servicesSegregate customer 
+Interactions across channels 
+FCR analysi s
+Load analysi s
+Satisfaction index analysi s
+Cross-channel analysi s
+Scope for self-help servicesDemographic factors
+Switching incentives
+Propensity of customer to self-serve
+Customer profiling and multi-criteria 
+based segmentation for channel  
+usage and preference
+IVR: Interactive Voice Response
+CTI: Customer Telephony Integration
+WFM: Workforce Management
+QM: Quality Management
+About PwC
+PwC* helps organisations and individuals create the value they’re looking for.  
+We’re a network of firms in 158 countries with more than 180,000 people who 
+are committed to delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: 
+Ahmedabad, Bangalore, Chennai, Delhi NCR, Hyderabad, Kolkata, Mumbai and 
+Pune.  For more information about PwC India’s service offerings, please visit 
+www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each 
+member firm is a separate legal entity. Please see www.pwc.com/structure for 
+further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+       youtube.com/pwc
+www.pwc.in
+This publication has been prepared for general guidance on matters of interest only, and does not constitute professional advice. You should not act upon the information contained in this publication without obtaining specific professional 
+advice. No representation or warranty (express or implied) is given as to the accuracy or completeness of the information contained in this publication, and, to the extent permitted by law, PwCPL, its members, employees and agents 
+accept no liability, and disclaim all responsibility, for the consequences of you or anyone else acting, or refraining to act, in reliance on the information contained in this publication or for any decision based on it. Without prior permission of 
+PwCPL, this publication may not be quoted in whole or in part or otherwise referred to in any documents.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in India), which is a member firm of PricewaterhouseCoopers 
+International Limited (PwCIL), each member firm of which is a separate legal entity.
+AK 490- April 2013 Multichannel Strategy.indd
+Designed by: PwC Brand and Communications, India

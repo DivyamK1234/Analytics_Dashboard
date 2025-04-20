@@ -1,0 +1,32 @@
+Title: pwc_telecom-trends
+Date Published: 2012-12-26 14:45:39+05:30
+Source: pdfs/pwc_telecom-trends.pdf
+Word Count: 418
+Sentence Count: 53
+Average Sentence Length: 13.28
+
+--- TOP 20 WORDS ---
+wili: 13
+pwc: 10
+telecom: 6
+publication: 6
+network: 5
+india: 5
+limited: 5
+trends: 4
+industry: 4
+growth: 4
+pricewaterhousecoopers: 4
+pwcpl: 4
+service: 3
+long: 3
+new: 3
+stili: 3
+start: 3
+services: 3
+decisions: 3
+ali: 3
+
+--- CLEANED CONTENT ---
+
+PwC view Five trends  watch  telecom during 2o13 www. pwc.  Before  move  2o13,   worth revisiting our predictions for 2o12.  find that  scored  tad higher than  . Here  what  predicted and what actually happened. . . The  trends PwC predicted for Indian telecoms  2o12Was PwC right? What   think now? o1Consolidation  the mobile service provider spaceThe number  players per circle reduced from  dozen-odd  -, but there   long way  . o2Data wili drive new sources  revenue growthWe got  wrong here.  expected more momentum from the industry. The pressure  stili . o3More consumers wili start using tabletsTablet sales have risen dramatically  2o12, but they are stili   low base o4Cloud coverage for the enterprise marketMost enterprise segment service providers are working  cloud services. o5Established players wili start reinventing their operating modelsOperators have started work  areas such  acquisitions, retaii and distribution, but there  much  . The best-laid plans for the industry were punctured  the Supreme Court decisions  February, and  much  the agenda for 2o12  unfinished.  for 2o13,  could have been boring and chosen the same five trends again. However,  the long term,  believe further regulatory developments wili open the way for reforms  gather more pace with  few stumbles too.    had     fresh set  trends  look out for  2o13. . . o1Slowdown  subscriber growth: growth  already down   million subscribers per month, compared   million  week two years ago. With rurai network expansion stili slow and disconnections increasing due  operators ridding their bases  dormant accounts,  expect  reai slowdown  overali subscriber growth. o2The network comes back  life: The next few years wili  underlined  intense network planning, rollout and innovation. Every operator has spectrum challenges and opportunities, and most are looking for ways  manage scarce network resources  deliver better quality  lower cost. This   long process, but 2o13 wili see the start   new phase  activity. o3Focus  return  capitai:  headline revenue growth slows , CFOs wili knuckle down hard  departments  justify investments and expenditure, especially  the network, product development and . There wili   constructive tension between the need  contain costs and the desire  increase activity  new areas such  innovation. o4Excite the customer: Data services disappointed   2o12, and rather than predicting that 2o13 wili change ali  that,  think operators wili refocus their efforts  engaging customers through services and experience.    put our money  one niche service launching this year that may make  impact: mobile advertising, and  one operator opening  exciting retaii store somewhere  Mumbai  Delhi. o5Litigation, litigation:   not believe that ali  the regulatory decisions that wili  taken  the next few months wili  easily accepted. The industry wili take positions, sometimes united and sometimes divided,  spectrum, -farming and liberalisation. Telecom  2o13 Our forecast Mohammad Chowdhury India Telecom Industry Leader   6669 156omohammad. chowdhury . pwc. comIf you would like  discuss our findings further, please contact our telecom leaders: Sandeep Chaufla India Telecom Tax Leader  124 33o 65o6sandeep. chaufla . pwc. com Avijit Mukerji India Telecom Assurance Leader  124 462o 515avijit. mukerji . pwc. com www. pwc.  This publication does not constitute professionai advice. The information  this publication has been obtained  derived from sources believed  PricewaterhouseCoopers Private Limited PwCPL   reliable but PwCPL does not represent that this information  accurate  complete. Any opinions  estimates contained  this publication represent the judgment  PwCPL  this time and are subject  change without notice. Readers  this publication are advised  seek their own professionai advice before taking any course  action  decision, for which they are entirely responsible, based  the contents  this publication. PwCPL neither accepts  assumes any responsibility  liability  any reader  this publication  respect  the information contained within   for any decisions readers may take  decide not   faii  take. 2o12 PricewaterhouseCoopers Private Limited. Ali rights reserved.  this document, PwC refers  PricewaterhouseCoopers Private Limited  limited liability company  India, which   member firm  PricewaterhouseCoopers Internationai Limited PwCIL, each member firm  which   separate legai entity.  429 - December 2o12 TelecomTrends. indd Designed : PwC Brand and Communications, India

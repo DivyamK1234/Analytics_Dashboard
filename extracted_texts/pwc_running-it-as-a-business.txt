@@ -1,0 +1,2032 @@
+Title: pwc_running-it-as-a-business
+Date Published: 2013-12-13 14:08:56+05:30
+Source: pdfs/pwc_running-it-as-a-business.pdf
+
+--- CONTENT ---
+
+Running IT  
+as a Business 
+Breaking 
+boundaries with emerging 
+technologies
+www.pwc.in
+Contents  
+Foreword p2/ Social media p4/ Mobility p8/ Big data analytics p14/ Cloud computing p24/ 
+CIO interviews   p38
+
+2 PwCForeword
+Effective technology, which can drive innovation so as to help enterprises meet 
+the current challenges of the disruptive business environment, cannot exist in vacuum. Within his or her changing role, a CIO also has to collaborate with the 
+other members of the C-suite, in order to understand and analyse the risks and 
+opportunities while developing a technology roadmap.
+The convergence of four technologies, namely social media, mobility, analytics 
+and big data, and cloud computing (SMAC), can potentially address the CIO’s 
+current needs. Though each of these technologies has a unique impact, they 
+complement each other to foster innovation and enable business transformation through new ways of product development, customer service and interaction, and partnerships, thereby creating value and stimulating success. In addition to SMAC, the internet of things (IoT) and DevOps are amongst the other emerging 
+technologies that the IT world has to offer. 
+While it is pertinent that these emerging technologies will impel innovation, 
+enterprises will have to develop a comprehensive strategy around the manner in which they wish to organise their innovation as well as ways to achieve the best 
+possible results from it.
+This joint CII-PwC report covers the rising phenomenon of SMAC not from a ‘what 
+is it’ perspective, but from a starting assumption of ‘yes, SMAC will be the backbone of enterprise IT in the future’.  It focuses on what CEOs, CIOs and CFOs should do beyond making IT perform better. It also includes in-depth interviews 
+with notable CIOs who have provided their perspective on the adoption of these 
+technologies. 
+Varun Sood
+Co-Chairman, National CIO Forum and Head – Information TechnologyFortis Healthcare Group
+Rajesh Uppal
+Co-Chairman, National CIO Forum and Executive Director & CIO Maruti Suzuki India Ltd 
+
+Breaking boundaries with emerging technologies    3Introduction 
+Changes in the current economic scenario and market structure are exposing 
+businesses to a host of uncertainties, and are pushing business leaders to think of newer ways of addressing problems and issues at hand, so as to stay ahead in the 
+competition. Today, a chief information officer (CIO) must also be a strategist, and 
+focus on enterprise growth and profitability through innovation, a shift from the traditional role of being responsible for business operations support and cost containment. 
+With an aim to highlight this change in role and to focus on building an awareness on 
+technologies as well as  policy compliances for the large and micro, small and medium enterprises (MSME), the Confederation of Indian Industry (CII) had set-up the National CIO Forum earlier this year. This forum intends to share the best practices and case studies on information technology (IT) adoption, and formulate an IT 
+Maturity Level Framework for CII members across different industry verticals.
+This joint report is therefore an attempt to look into and analyse the transformational 
+role of the CIO in running IT as a business, and the role emerging technologies can play in making organisations agile and adaptive within the current market scenario.Debdas Sen
+Executive Director/PartnerRegional Managing Partner (East) and Technology 
+Consulting Leader
+PwC India
+
+4 PwC
+Social media
+Reaping the rewards  of social outreach 
+Breaking boundaries with emerging technologies    5Organisations 
+are beginning to effectively use social media and other digital avenues to get closer to their customers. Their numbers are growing and more are likely to follow suit as the competition for customers continues to heat up.Social media is flourishing. Leading 
+companies know that ‘participation is no longer a choice, but a requirement’. 
+Successfully entering into the realm of 
+the social media requires adequate planning, resources and support. 
+While social media need not replace 
+face-to-face communication, it can be useful in enhancing the overall customer experience as well as in creating new 
+sales and servicing opportunities.
+Social media is offering organisations a 
+scalable way to co-create and engage 
+with their customers. More importantly, social media is no longer an emerging technology. In fact, it has arrived and is 
+here to stay. 
+While many individuals use social  
+media on a daily basis, the challenge  
+for organisations and their leaders is  
+that they may not know how to optimally 
+utilise it for the benefit of the enterprise. Understanding the various applications 
+in social media and how they can be  
+used to achieve business benefits is the 
+first step. Social media, when utilised well, can create a collaborative dialogue with a very large, but very specific audience, one person at a time. And, it’s successful 
+because it breaks down formal barriers. 
+It provides an opportunity for 
+instantaneous communication and 
+promotes collaboration across functional groups and geographic regions. In its most powerful phase, it can bring out the 
+full weight of millions behind identified 
+ideas and actions within days.
+To anticipate customer needs and 
+determine how to server them in the best possible way,  majority of  organisations today are investing to obtain better data on customer behaviours and needs, as 
+well as better analysis of the same  data. 
+The ultimate goal is to improve customer experience.
+Line of sight 
+Delivering the promise of social engagementSource: Social Customer Engagement Index 2012, NM Incite State of Social Customer Care 2012, Satmetrix worldwide Study, May 
+2012
+Social marketing
+Builds brand advocates and delivers better 
+traffic, conversation and sales results than other vehicles 
+Social customer care and support 
+Delivers a better customer experience and 
+drives down service costs, while capturing rich, expert content from both customers and trained agents 
+I want word-of-mouth marketing for my 
+product and services I want to create a deeper customer engagement and raise brand awareness
+I took the first step in social marketing 
+presence. Now what? I want to measure and improve social presenceI want to attract more buyers and increase product sales and reduce costsWhat does the customer have to say 
+about me?Social commerce
+Drives sales by using peer reviews and 
+answers to attract more customers and increase buyer confidence 
+Social innovation
+Crowd-source innovation to beat the 
+competition and brings better products to market faster. Invite customers to share and debate the best ideas
+6 PwCIn order to ensure social adaption or 
+marketing success, having in place a marketing presence on the major social 
+media platforms is not enough for an 
+organisation.  As social media usage has grown and matured, the impact it can have on brands, positive or negative,  
+is enormous. 
+Consider how the social media is used 
+today: traditional media uses social 
+media as a source for news stories, 
+celebrities and individuals repost and retweet the posts that they like, customers post their service experiences 
+and some even make videos and spoofs, 
+messages now ‘go viral’ resulting in instant wide, uncontrolled distribution. 
+In some cases, regulators are even using 
+consumer complaints on the social media to detect unlawful practices. 
+Unchecked, customer dissatisfaction 
+issues that may have previously gone unnoticed become major disasters in  
+the public realm. This possibility  
+makes social media monitoring and management necessary in order to  
+avoid any potential damage to the  
+brand equity.
+Social intelligence takes a finer view by 
+focussing on specific challenges involved in proactively using social media data to make better informed marketing and business decisions. 
+Even before the explosion in social media 
+customer data, companies struggled to 
+leverage other forms of semi-structured 
+and unstructured content, including call notes, email text, and audio files. They neglected these sources of customer data, focussing instead on the more 
+straightforward task of integrating their 
+structured customer data.
+With the advent of social media, 
+organisations with a strong brand identity began to address their customers online by searching related content.
+What does an enterprise hope to gain by 
+listening to what is said about its 
+organisation? 
+It hopes to understand the consumer 
+sentiments better by seeking the answers 
+to the following questions:
+• How does the customer feel about the 
+organisation?
+• Has the customer experienced any service problems?
+• Is this customer influencing other consumers?
+According to the PwC’s 5th Digital IQ 
+Survey 2013, strong collaborators are four times more likely to be the top performers than those with less collaborative leadership.  Social media: CEOs are listening
+Strong collaborators expect social media to increase over the next 12 months54% 
+of US CEOs say 
+social media 
+influences their 
+business strategy
+Source: PwC’s 16th Annual Global CEO Survey, 2013
+Source: PwC Digital IQ, 2013Do you expect the usage of social media channel in your organisation for business purposes to 
+increase, decrease or stay the same in the next 12 months? % saying increase
+Breaking boundaries with emerging technologies    7“Today, social 
+media isn’t edgy. 
+It’s mainstream 
+and it is business.”  
+Alec Ross, US government 
+Senior Advisor for 
+Innovation, 21 March 2012 Making the most of social media: 
+What’s in it for businesses?
+Eighty-two percent  of the world’s online 
+population uses social media.  
+According to a PwC research, 
+“Demystifying the Online Shopper: 10 
+Myths of Multichannel Retailing”, only 37% of companies have invested in social media tools in order to understand their 
+customers. Rather than merely making 
+them pressing the obligatory ‘like’ button on their web page and calling it a day, private entrepreneurial companies are seizing on social media’s ability to get the closer to their customers. While any organisation, publicly listed or privately 
+held, can utilise social media tools to serve 
+this purpose, the latter is leading the process. Businesses have begun to realise the potential of social media. If tapped 
+optimally, it can help improve their 
+strategy, structure, processes, technology and people to harness the desired benefits. 
+Many organisations do have a strong  
+focus on their customers, which makes social media a natural fit for them. Increasingly, organisations are adopting social media for marketing, internal collaboration, R&D, product development, 
+communication, and HR. The most 
+commonly used social platforms are Twitter, Facebook, Google+, YouTube, blogs and other community forums. Several industry leaders have adopted 
+social media technologies and augmented 
+their benefits. Verticals such as retail and consumer goods, healthcare, pharmaceuticals, telecom, manufacturing, 
+energy, transportation and education have 
+benefitted from this shift. Their needs vary according to their nature.Businesses can unlock following aspects using social media:
+• Brand awareness
+• Customer retention and acquisition
+• Customer care and service
+• Marketing
+• Product development
+• Crisis management
+• Internal and external collaboration
+• Recruiting
+• Business process supportBroadening brand awareness
+Increasingly, online shoppers are discovering and following brands via social media
+17%  
+49%  27%  
+59%  
+Discovered brands via social media 
+Followed brands and retailers on social media 
+Source: Demystifying the Online Shopper: 10 Myths of Multichannel Retailing, PwC, 2013
+8 PwC
+Mobility
+Rise in the use of mobile devices
+Breaking boundaries with emerging technologies    9
+In a country like 
+India, where mergers and acquisitions with industry giants from developed countries are frequent, it is essential to transform the way Indian markets execute business operations. Consumers are no longer buying smartphones for basic communication.The technological landscape is evolving 
+faster than ever. The utility of mobile devices has surpassed all legendary 
+predictions and has penetrated into almost 
+every avenue of the world. 
+Indian as well as global consumers are 
+increasingly spending more time and money on digital data consumption. With the advent of new mobile devices and platforms with advanced connectivity 
+capabilities, accessing digital content has 
+become convenient. With an increasing per head income rate, consumers are increasingly switching to smartphones, 
+with the smartphone sales beating the 
+feature phone sales for the first time ever in the second quarter of 2013. 
+What is enterprise mobility?
+Enterprise mobility enables the enterprise 
+to support operations based on mobile 
+devices and empowers the workforce with 
+such devices so as to seamlessly execute their day-to-day activities .
+Why should an enterprise go 
+‘mobile’?
+Following are the reasons for an enterprise 
+to embrace mobility:
+• Access to critical business data in 
+real-time
+• Executing critical business operations 
+anywhere, anytime
+• Edge over competition
+• Contextual information on the move
+• Reaching out to mobile customers
+• Location-specific information
+• Remote business task execution 
+• Notifying and alerting specific business groups about critical events
+How does mobility add value to a business?
+It provides the business with contextual 
+intelligence. This is how it works:
+• With the advent of new technology 
+device capabilities,  information gathered from users are contextual
+• Information gathered is intelligent as it 
+carries attributes such as  geolocation, 
+user activity, connectivity and availability 
+• Contextual information enables contextual intelligence with inputs 
+from the user, device and the 
+environment• Pushing the precise and contextual enterprise data to a mobile user anywhere, anytime, transforms the way users execute their tasks
+What challenges are faced by an enterprise implementing a mobile solution?
+The following challenges are faced by 
+enterprises that are new to mobile implementation:
+• How to identify the business processes 
+that should be mobilised first in order 
+to increase revenue and reduce cost? 
+• How to innovate around the workforce 
+and consumers to enhance user experience?
+• How to implement app distribution and device management to create an agile, compliant and secure mobile enterprise eco-system? 
+• What is the governance, risk and 
+compliance an enterprise should care 
+about, while mobilising their enterprise system?
+On the other hand, challenges faced by enterprises who have already initiated the process are as follows:
+• Isolated mobile app implementations in 
+certain segments of the enterprise
+• Random development and enterprise 
+system integration creates additional 
+complex service layers 
+• Insecure over-the-air data transmissions  without implementing industry grade compliances 
+• Less intuitive  or poorly designed apps and solutions
+These challenges are supposed to be identified and fixed by the mobile service 
+providers in the initial design phase of a 
+mobile solution roll-out. This is a phenomenal error made due to the lack of vision and without understanding the 
+needs of the customer’s customer: the  
+end user. 
+In invariable 
+economic conditions, mobile OEMs have given the developer community and enterprises the power to create mobile apps to enhance business operations much faster for gaining a competitive edge.
+10 PwCTransforming business with better 
+user experienceDesign driven innovation
+To understand the changing user and 
+market needs, it is necessary to constantly improve upon the products, services or offerings. The recent introduction of smart 
+devices helps us execute and get things 
+done faster and better.  The market adoption rate of technology has a different perspective to offer, wherein consumers require devices that provide them with  
+an enhanced experience and make their lives easier. 
+In the context of an enterprise, the 
+day-to-day activities of employees can be perfected by providing them with real-time tools and applications on the move.  
+A mobile application delivering instantaneous information from the  
+cloud is an example. 
+How can there be value addition in the 
+above instance? By understanding how a user needs data and what is the intended experience to be created for that user in 
+that particular environment and device. 
+How do we find this out? We see a strong 
+need for innovation and an in-depth 
+understanding of the processes involved. This will lead to new and improved ways to create everlasting end-user experiences. This simple design process is a mixture of 
+right-brained thinking and left-brained 
+thoughts. All products are designed and created to serve a purpose, if you design it well, you create it better.The ugly truth
+For instance, designing a mobile 
+application for maintaining travel expenses or a sales force app may sound simple, but in reality, it is a complex 
+process. These applications are designed 
+with functional flow in mind which though enables an employee to achieve a task faster, does not provide him with any sense of accomplishment. 
+ A mobile device does give a lot of leverage 
+over a desktop, but is it leveraged to the 
+most optimal levels to improve the 
+business processes execution experience? 
+While there can be lot of such basic 
+scenarios analysed, enterprises today are not equipped with tools and insights to find these answers from their providers.
+Know your users and their intentions in 
+advance
+Users can be customers, consumers, 
+workforce or an executive team, however, knowing the user and researching their needs will help the business to understand 
+what a user wants currently as well as in 
+future. This thought leadership gap between the customer’s need and an organisation’s deliverables makes profitable growth a distant possibility.  
+The quintessential innovation process
+ The whole process is based on keen 
+listening and observation. Every innovative product or solution is designed to serve a purpose.  These two inputs along with a thorough knowledge about the 
+transformation trends will play key role in 
+creating an innovative solution or product. Effective innovation entails the following five steps: 
+• Observe
+• Empathise
+• Define
+• Ideate
+• Build
+This design process is usually followed in a 
+sequence, but may vary a little depending upon the case. 
+Consumers are increasing looking 
+for an advanced user experience. Have you managed to make the necessary provisions?Most of the providers today get  business process, supply chain, enterprise resource planning (ERP) and customer relationship management (CRM) enterprise applications installed on their smart devices. These are re-creating the same functional flow of your business  process onto a smart device. This cannot be called transformation. If you think you know your customers, without extensive research and analysis results, you may have to think again.Experiencing the experience
+The digital revolution has made our lives 
+fast-paced. A majority of the population in the developed and the developing countries is utilising the latest technologies 
+such as mobile phones, tablets, touch-
+enabled kiosks, smart watch, smart glass, proximity sensors, etc. These devices, when used effectively, become the transformation agents in our lives. 
+Once a user likes a particular technology 
+for its utility and service, he tends to use it 
+more often and shares this experience 
+with more people. This is what is called a complete cycle of a successfully demonstrated user experience.
+In a product development environment, 
+user experience is all about enhancing and 
+encouraging a user with a new or modified 
+experience to enjoy using it and getting better results.  A satisfactory user experience is absolutely necessary for the success of a product or service. A 
+disgruntled consumer is highly unlikely to 
+return to the same provider.
+These activities, in one way or the other 
+are a part of most of our lives. We use one or more gadgets or applications to execute them. A lot of times we do not even realise how dependent we have become on the 
+convenience provided by these gadgets. 
+There are companies which have made 
+fortunes out of their understanding of the 
+consumers’ needs and modifying their products accordingly. Companies that have not been able to do so have faced the consequence and realised the importance 
+of this understanding of consumer 
+behaviour. 
+
+Breaking boundaries with emerging technologies    11Observe
+Observation is first part of the design 
+process. The focus is on observing current usage behaviours, system and user pain points, and purpose. The user’s purpose 
+for mobile app is observed, the current way 
+in which they perform their activities and the inconvenience they face. This information is then collected and verified with user interviews. Tom Kelly, Partner at 
+IDEO mentions that observation is in the 
+eye of the observe. We see what we have to see, when the observation is masked by various factors such as experience, 
+knowledge, culture, education, emotions 
+of an observer. We do not get to see details, instead the mind rushes for judgements with our pre- conceived thoughts and knowledge. It is both, good as well as bad.
+Outcomes  
+• Observation matrix mapped with the 
+needs and wants of the system 
+• Current difficulties categorised as per 
+user views
+• Scope of the business case definition 
+with identified challenges
+Empathise
+The name itself explains the objective of 
+this step. In a mobile app context, the user 
+demographics and psychographics needs 
+will be accounted for and prioritised. Understanding the different types of users who will be using the system will be identified through the collected 
+ethnographic parameters. This is where 
+the desirability of the solution is measured and mapped along with the business purpose.
+Outcomes• User ethnographic evaluation and user 
+behaviours identification
+• Business case - actors of the system identification
+• Scope of user experience of the solution
+• Redefining the problem statement
+Define
+This phase is all about giving shape and 
+structure to the collected information. User behaviours define their wants as well 
+as the missing pieces in the solution. 
+Empathy analysis will show the user engagement touch points or the user experience required by the actors of the 
+system. Traditional methods were derived 
+by user roles, such as managers, sales executives, etc, but over time this did not turn out to be equally productive. In this process, the business case finds the users 
+and defines the experience for a customer, 
+consumer, an employee or a vendor. Outcomes
+• Persona creation and defining 
+behavioural attributes
+• ‘A day in life’ scenario for the persona created
+• Define business case: experience as a system
+• Measured benefits of business case with return on investment (ROI) and 
+total cost of ownership (TCO) metrics
+Ideate
+Ideation is where the solution is defined. It 
+involves exploring concepts or solutions. Feasibility and viability of the system are constantly checked for all solutions and 
+ideas proposed by the team and mapped 
+with the problem statement or the purpose. There are extensive collaborative sessions where concepts are evaluated and given shape to create business value. 
+Shortlisted approaches are discussed with 
+the industry experts and the users to record their reactions. The final solution will be mapped with user experience factors and simulated with quick 
+prototyping if required. 
+Outcomes
+• Prototypes to check feasibility and 
+viability
+• Functional requirements, and design documents for the building business case
+• Solution approach and infrastructure specification
+• Choice of technology, tools and devices
+Build
+This is the final stage wherein the solution 
+is executed. The solution can be a complete implementation or proof-of-concept implementation depending on the 
+executive management’s call. Testing 
+iterations are always a part of this step and there are re-iterations if required. It also includes constant feedback from the users 
+via the toolkits available. User experience 
+checks and tests are executed and the results are immediately fed into the production environment. Unlike traditional software development 
+methodologies, this development style 
+should enable the engineering and design team with DevOps environment for better and quicker results.
+Outcomes• World-class business case productised 
+• Quick test results or reactions from 
+usersInnovation is an ongoing process and fits best in case of an enterprise or a product and solution development company. As 
+user demands change, experiences also 
+tend to get better urging the service providers to constantly innovate.
+Users today do not need a generic solution 
+any longer. They want a product or a solution that can constantly be at their disposal. Understanding the user 
+sentiment will hence play a key role in 
+transforming business and winning over competition. 
+• How does the customer feel about the 
+organisation?
+• Has the customer experienced any service problems?
+• Is this customer influencing other consumers?
+12 PwCRising threats: Have you secured 
+your enterprise data?
+When the workforce is mobile savvy, the 
+enterprise data goes mobile, it can be easily accessed anywhere, anytime. 
+Presently, mobile devices are equipped 
+with high speed network connectivity, and it is easy to stream a video through a 3G connection. However, is this data secure? While data transfers and data 
+consumption are proportionally 
+increasing, the workforce tends to consume the enterprise data more than usual. They may end up accessing 
+enterprise data unintentionally over an 
+insecure Wi-Fi connection in coffee bar. This may lead to confidential data getting leaked into the public domain.
+Enterprise data and user behaviour
+Mobile workforce is the next generation 
+workforce. Mobile technologies have 
+evolved faster that anyone ever anticipated. Users, in most cases, are not yet aware of the consequences of basic security mishaps. There are a lot of 
+incidents that knowingly or unknowingly 
+happen and even large corporations have been victims of data theft. 
+The good
+• Mobile users prefer to use their 
+personal devices for official purposes.
+• Mobiles and tablets, when secured, can be a good replacement for laptops and desktops.
+• Sales and customer facing professionals can access enterprise data anywhere, 
+anytime.
+• Delivery agents can securely connect to 
+enterprise systems for payment processing or digital signature submission.It’s good to have your 
+workforce connected through mobiles, but it is important to ensure that these transactions are kept safe.  Industries are already moving towards mobiles, which if uncontrolled, can turn out to be a disaster.The bad
+• Mobile apps  do not  follow basic 
+compliance while transmitting enterprise data, thus resulting in leakages
+• Mobile users access restricted websites via corporate Wi-Fi
+• Mobile users use blacklisted apps inside office network
+• Mobile apps save enterprise data locally 
+on the device in the physical memory 
+unit unencrypted
+• Mobile users accessing official emails from open or insecure  public networks
+The ugly
+• Mobile users often leave their devices 
+unattended or  unlocked in public at 
+accessible locations
+• Stolen devices that are loaded with corporate data without a pass-code 
+protection enabled are a major threat
+• Users unintentionally forward a 
+business critical document to personal email addresses
+• Enterprise applications transmit 
+payments or customer signatures over 
+insecure networks
+These errors are due to a flaw in design or the lack of knowledge and awareness. There is a clear indication that employees are interested to execute almost all their day-to-day activities on their mobiles or 
+tablets. This requires enterprises to take 
+extra precautionary measures against data theft. 
+It is not just about securing data in the air, 
+securing enterprise data while on the device is equally important.  
+Computer Tablet Smartphones
+Source: Usage of mobile/tablet devices in a typical week2Usage of mobiles and tablets on a typical week 
+Breaking boundaries with emerging technologies    13The rise of mobile device 
+management solutions
+After personal computers transitioned in 
+the 90s, and networked enterprise grade computers arrived, there was no clear 
+forecast on the possible threats posed by a 
+connected environment that had access to enterprise data. This is when original equipment manufacturers (OEMs) and software application providers came with 
+advanced capabilities such as network 
+administration applications with policy-based access control tools.
+However today, given our experience in 
+technology and threats in the past, we are able to foresee security threats in the 
+future.  This is when a well-defined mobile 
+management and administration applications, also known as mobile device management (MDM) solutions were developed. Mobile OEMs are already 
+bringing in enterprise-specific features 
+within their device platforms. MDM solutions are the future need of an enterprise in order to safeguard  
+enterprise data.
+Now, with the advent of mobile platforms, 
+and with new devices emerging almost 
+every week from various OEMs, the 
+market is already fragmented.  Taking enterprise applications to mobile devices and managing all devices for compliance and security should strike a balance.  Today, while enterprises feel that bringing in their own device policies are a best-fit 
+solution and reduce ownership costs, it is 
+equally important to secure the fragmented devices used by employees. 
+Traditional IT is not equipped with tools to 
+handle this transition, and with the advent of MDM solutions this scenario will keep changing over time.  In India, there are 
+enterprises still evaluating or thinking of 
+deploying MDM solutions. However, western industries as well as enterprises are already making investments on device 
+management solutions. These are proven 
+solutions and the need of the hour.  In India while aspiring for international business standards, we also need the right tools and solutions in place. While there 
+are many MDM solutions available in the 
+market, it is important to analyse what will work best for an enterprise’s current and future needs. 
+To have a cloud-based MDM solution is an 
+optimal choice, since most of the solutions do not capture enterprise data. There are 
+solutions which disclose the data capturing 
+policy upfront. All data captured has to be reviewed before implementation.Benefits of cloud-based MDM solutions are as follows:
+• Reduced deployment and roll-out costs
+• No extensive licencing costs. So, one can choose wisely and pay per device
+• A simple do-it-yourself platform to enrol user device 
+• Easy to understand self or assisted service portal for better configuration and policy roll-outs
+• Zero-day availability of updates for new device platforms
+Shortly, there will be an environment for developed as well as developing nations to have an equal and fair chance to improve and compete in business. Technology will 
+be the key transforming agents within this 
+business environment.   There are smart devices emerging and a whole gamut of connected devices and machines capable of communicating with other machines or 
+humans. These devices can also exhibit 
+threats to enterprises, however, it is about taking proactive preventive measures to safeguard the environment.  MDM is the   first step towards this journey.
+Employee buys mobile 
+devices and OS is pre-installed by sellers
+IT team purchases hardware, OS, anti-virus, firewall and data encryption software licencesThe MDM solution pushes the policies OTA and secures enterprise data
+IT team installs or updates 
+enterprise policies and software periodicallyEmployee gets an email or sms from the MDM solution and he or she enrolls with the MDM solution
+IT team installs or pre-
+configures OS or patches or assigns a laptop or desktop Employee installs or upgrades his or her OS and apps
+Dedicated IT team to support laptop ordesktop usersEnterprise IT: Employee association timeline
+Increased TCOReduced TCO
+Asset management 
+overheadsReduced IT 
+maintenance cost
+High IT maintenance 
+time and costIncreased IT 
+productivity
+Increased TCOImproved employee 
+satisfaction
+Enterprise IT: Employee association timelineEnterprise IT: Employee association timeline
+14 PwC
+Big data analytics
+Fact vs fiction
+Breaking boundaries with emerging technologies    15Increasingly, companies have discovered 
+ways in which  big data can provide deeper insights that drive innovation, 
+strategy, new product development as 
+well as  customer relationships. Big data insights can inform as well as  change a single business decision, a company’s strategy and business model or even an 
+entire industry.It  is not a technology-
+driven change rather it is a business-driven approach facilitated by technology. Capitalising on this opportunity begins 
+with understanding the needs and goals 
+of an  organisation and the potential that new data can bring to improve  the decision-making procedure. Traditional data- driven strategies based on analytics 
+have mostly been performed at the 
+aggregate level in areas such as marketing studies, customer segmentation, driver trees, etc. It is evident that organisations are generating a lot more data, but for most part, data is discarded unless it can be 
+readily analysed. However,  with big data, 
+the cost per terabyte (TB) of storing such data comes down. With improved cycle times through big data, and with additional  sophisticated models, 
+companies can build faster and 
+potentially cost-effective solutions to serve data and information to the business consumers who are  increasingly 
+aware of changes in  technology.
+Companies are finding it difficult to 
+kick-start big data projects partially because of the myths and misconceptions surrounding big data. FictionIt is a 
+replacement for 
+the current BI 
+platform  It is only needed for massive data 
+setsIt is only 
+available from 
+the open-source 
+communityIt is only used for unstructured 
+dataIt is only used for 
+customer 
+analyticsFact We see big data 
+being 
+complimentary to  
+existing business 
+intelligence 
+investments. The analytical techniques used 
+for big data 
+analytics are 
+equally applicable 
+with smaller data 
+sets.There are plenty 
+of major vendors 
+throwing their 
+weight behind 
+commercial big 
+data offerings. Big data tools and technologies can 
+cope with a wide 
+variety of 
+structured and 
+unstructured 
+data. Big data has been 
+used for a wide 
+variety of 
+applications 
+ranging from 
+customer 
+analytics through 
+to search engines and IT operations. 
+However, it can 
+be seen as a 
+disruption to 
+established 
+information 
+management 
+strategies and 
+requires thinking 
+to analyse  the 
+ways in which  it 
+can be best deployed to 
+coexist with the 
+current BI 
+investments.Big data provides an architectural 
+blueprint for 
+storing and 
+analysing large 
+amounts of 
+diverse data. However, these 
+same vendors are 
+lining up behind a 
+few, leading open 
+source players. It can handle 
+mountains of 
+structured data 
+generated by web 
+apps, machines, 
+sensors and  
+enables 
+enterprises to 
+perform analysis 
+on them real-time. Some of the recent areas for 
+big data usage 
+are   IT security 
+analytics, fraud 
+prevention, 
+operations 
+analytics, risk 
+analysis and  
+predictive 
+analytics, etc. 
+16 PwCEnterprises seek to use new sources and 
+varieties of data to gain strategic insight, increase innovation, create new products 
+and services and improve operations 
+across the organisation. Big data holds the promise to deliver insight and intelligence when and where it is needed in order to make and implement both strategic as well  
+operational decisions faster, smarter and 
+more effectively.
+The barrier 
+Companies are challenged as to where to 
+start in order to realise the promise of big data. Faced with the complexity of vast 
+and varied sources  
+of new data, companies often delay the 
+exploration of big data due to a lack  
+of the following:
+• Business justification
+• Access to necessary technologies
+• Access to necessary talent and skill sets
+• Understanding  possible changes to 
+information systems, architectures, people as well as  processes that may  
+be necessary to realise the benefits of big data
+The solution 
+Initial exploration of big data need not 
+require large investments in time or resources.  An effective pilot will provide the direction necessary to determine where to make incremental investments. 
+As selected big data pilots mature into  
+full initiatives, changes will be necessary 
+in people, processes as well as technologies. However, with a clearly articulated big data strategy, investment 
+levels, costs and benefits can be defined 
+and managed effectively.
+An effectively designed and executed big 
+data pilot can quickly and cost-effectively 
+demonstrate the potential of big data and guide the development of the business case to further invest in and implement sustainable big data solutions. In many 
+cases, pilots provide direct as well as 
+immediate insights into pressing business issues, and this result in changes in avenues such as strategy, increased 
+innovation and improved operations.Managing the pilot project may vary 
+depending on the business use case and the organisation profile, but the approach 
+for the big data pilot project is fairly 
+standardised. Key steps involved in the successful implementation of a big data pilot project are as follows:
+• Definition of business use case
+• Identification of the pilot project team
+• Design and implementation of the 
+analytics solution
+• Visualisation of the results
+• Measurement of total cost of ownership (TCO) and return on investment (ROI)
+• Business value proposition
+• Development of expansion plan
+Getting on-board with 
+big data
+
+Breaking boundaries with emerging technologies    17
+PwC’s 5th Annual Digital IQ Survey1 provides insights into what companies are actually 
+doing with big data today
+Opportunities Challenges 
+•	Almost two-thirds (62%) agreed that big 
+data can give the organisation a competitive advantage
+•	Forty-eight per cent of respondents  report actively integrating third-party data into existing internal data sources•	Fifty-eight per cent report that transitioning from data to insight is a major challenge
+•	Forty-one per cent indicate that their current systems cannot process large volumes of data from different sources
+•	Twenty-five per cent indicate that they lack a sufficient pipeline of talent to undertake a deep analysis of big data
+India and global scenario2 in big 
+data adoption 
+Indian organisations are realising the 
+importance of big data.  Our survey  results indicate that around every two out of three 
+The survey also summarises insights 
+gathered after meeting executives from many leading companies.  Certain selected 
+companies have moved big data initiatives 
+beyond a pilot stage after conducting exploratory pilots in areas such as improved understanding of customer preferences and experience, identification 
+of untapped revenue opportunities and 
+improved operational efficiency. To what extent do you agree or disagree with the following statement – Harnessing ‘big 
+data’ will give my organisation a competitive edge
+Rest of the 
+world-5% -6% 38% 23%
+India -5% -10% 27% 43%
+Strongly disagree Disagree Agree Agree strongly Don’t know
+However, our common observation is that 
+a large percentage of companies are actively pursuing methodologies which 
+will help them explore ways in which to 
+apply big data through pilot initiatives. These companies are actively exploring big data pilot projects and are seeking to identify the business challenges and issues 
+that lend themselves to a big data pilot 
+and proof of concept.respondents in India believe that harnessing ‘big data’ will give their organisations a competitive edge. This figure is more than the US (65%), the UK (56%) and the global average (61%).
+1 The PwC’s 5th Annual Digital IQ Survey was conducted in September and October of 
+2012 and surveyed 1,108 senior executives globally
+2 PwC’s 5th Annual Digital IQ Survey - The India Story, May 2013
+18 PwCInternet of things and 
+big data
+The term, the internet of things (IoT) refers 
+to a situation where objects or devices that are connected together and exchange data 
+with each other, without any intervention 
+such as machine-to-machine (M2M) communication. For example, a wearable wrist band connecting to the smartphone through bluetooth technology and 
+uploading the steps count while exercising, 
+calories burnt and sleeping patterns data.  
+Today, the IoT revolution is fuelled by  
+the low-cost sensors, ubiquitous 
+connectivity and common development 
+platform that allow any devices to connect to the internet.
+Such smart devices have been brought to 
+the consumer market to a large extent only 
+in past couple of years, however such 
+devices existed in the other segments such as manufacturing, healthcare, aviation, retail, transportation and logistics for a long time. They have always been 
+generating data in large volumes and in high velocity. However, not all data was 
+processed or utilised to generate intelligence due to the lack of a system that 
+can really handle all of that data.
+For an instance, radio frequency 
+identification (RFID) technology has been in the market for few decades. Until 
+recently, it was mainly used in the asset 
+management, inventory control, shipping and receiving area. Areas such as production tracking, usage patterns and compliance were considered as nice-to-
+have features. However, with the advent of 
+the big data technology, enterprises are increasingly leveraging the big data  to process all of the data generated by the devices and bring out the valuable insights 
+that they were never been  
+able to uncover. 
+Breaking boundaries with emerging technologies    19Key characteristics of big data 
+technologies such as massive parallelisation and rapid scalability allows 
+enterprises to process stream  
+of data from the IoT and transform them 
+from data to information to intelligence at a lower cost. With companies now being able to rent processing power from the 
+cloud in a pay-per-use model, they can  
+deploy more sensors to generate additional data and process not only the existing high volume, velocity, variety 
+and veracity data but also similar data 
+from newer IoT. Companies will understand their enterprise better  
+and increase the utilisation and effectiveness of their resources  
+which will open-up doors for growth, innovation and business opportunities.
+When companies have better tools and 
+more cycle time, data scientists will be able to seek larger data sets and iterate 
+more in order to refine their questions and 
+find better answers. Visualisation capabilities and more intuitive user interfaces will make at  
+least the basic exploration possible for 
+vast majority of the people in the 
+workforce. By then, visualisation and  
+user interface improvements will make it possible to spread ad hoc analytics capabilities across the workplace to every 
+user role.  At the same time, data 
+scientists,  people with a creative ability  
+to generate useful hypotheses to simulate and model a business  have never been in 
+more demand.
+Tight integration between big data and 
+IoT means that companies can avoid difficult situations which mostly occur due to the lack of information and the 
+ability to predict the occurrence of an 
+event. With the help of IoT and big data, 
+businesses will be able to track usage patterns, and plan accordingly, not only 
+for spikes, but also for quite periods as 
+well, thus increasing the operational efficiency.
+To reap the benefits of IoT, companies will 
+have to make a host of changes, both technical as well as cultural within the organisation. Shortly, IoT will become mainstream and when that happens early 
+adopters will be able stay ahead of the 
+curve and the followers will be left behind to catch up with their competitors.Big Data technologies
+Better access to resultsMore data sources
+A broader culture of inquiry,
+increased awareness and better decisions
+Better growth, innovation and new 
+business opportunitiesMore focus on key metrics
+How big data affects IoT adoption for an enterprise
+20 PwCHow to get value out 
+of IoT?After big data, IoT is the next buzz word 
+that is generating a huge amount of attention in many industries today. 
+Considering the amount of traction it is 
+gaining in many leading companies, it is hard to ignore the fact that we are about to witness the rapid evolution of IoT. IoT projects are able to secure investments in 
+many leading companies because 
+information is still navigating through traditional routes such as manual entries, extract, transform and load (ETL) tools 
+and databases, management reports, 
+batch crawlers, and sometimes even one-off purchased data from suppliers. Such methods are sluggish and inefficient for today’s rapidly growing information 
+world. Supported by these traditional 
+methods and systems, companies are unable to keep up with the rate at which trends are evolving these days.A large number of companies are taking IoT beyond the experiment phase, and generating real value out of IoT. Many 
+products manufactures have either built 
+or building new business models that will generate revenue even after devices leave the store shelves. Most of which are through service platforms which are 
+capable of performing subscriber service, 
+integrated development environment, application programming interfaces (APIs) for sharing information, cloud data 
+storage, device management, analytics, 
+security and  privacy. This post-transaction relationship reinvents the engagement with customers by reaching beyond the transaction and focuses on 
+helping customers achieve the personal 
+goals they buy the product for. IoT makes this approach possible with the help of set of emerging technologies such as wireless communications, cloud-based processing, 
+sensors, embeddable computers, and real 
+time big data analytics.
+Allstate insurance company
+Insurance providers have been 
+experimenting with the computer 
+device for the car that monitors 
+customers driving behaviour and reports it back to the provider over a wireless network. The providers use data to adjust insurance rates based on 
+the driving behaviour patterns. 
+Adoption of this telematics technology is relatively slow in the insurance industry because of its post-incident 
+feedback nature. Currently, Allstate 
+Insurance is exploring a more active approach which is real-time feedback to help drivers become safer. A safer 
+driver gets a lower premium and 
+becomes less of a risk, which means fewer payouts by Allstate. Whenever the driver makes a risky move, the device can give immediate feedback 
+using a glowing red light on the 
+dashboard or a sound that says, ‘That was a risky move’. In the trials of the usage-based telematics product with Allstate employees, 25% initially scored 
+in the safe zone, but over the course of 
+the test, that figure rose to 75%
+ 3. “In the long run, insurance 
+companies that really use 
+telematics successfully will use it 
+to change their customers’ 
+exposure to loss.”   
+- Fred Cripe, former executive, vice 
+president of Allstate insurance 
+company.
+3 Allstate Insurance, “Allstate announces crowd 
+sourcing effort to test usage-based insurance 
+product,” news release, July 25, 2012.The value businesses receive is a deeper relationship with and advocacy  
+from the customers
+Trust Achieves Achieves
+Personal 
+goals
+Consumption dataBusiness goals: Monetisable 
+customer advocacy  Personalised, augmented, 
+enhanced value
+$
+The 
+customer
+The 
+company
+
+Breaking boundaries with emerging technologies    21“With the granularity of the 
+information we collect, we have a much richer understanding of the 
+health of the machine and can 
+diagnose much more accurately.”  - Jim Ingrassia, he is the vice president of the solutions support division at Konica Minolta.Konica Minolta
+For about a decade, Konica Minolta has 
+been using digitised consumption of its copiers as a means to improve products, services, and overall value. Originally, 
+they developed remote monitoring 
+capability to provide feedback for product engineering and research and development. Remote monitoring allows the engineers to remotely see every signal 
+in the machine. They can detect low 
+voltages, internal jams, and faulty signals on PCBs, and everything happening in the machine - periodically or on demand. Although developed for engineering and 
+design purposes, that capability has led 
+Konica Minolta to find other ways to use it. Today, they use remote monitoring to enhance their services and their support 
+for their products to their channel 
+partners and end customers. They were 
+able to build significant value-added 
+capabilities with the remote monitoring feature. Today, they offer these capabilities to empower around 7,000 to 8,000 technicians in the US.By going beyond the transaction with its 
+copiers, Konica Minolta improves product 
+designs and makes post-sales support easier on customers and more profitable for the company. Konica Minolta has a highly configurable system for collecting 
+consumption data directly from copiers. 
+End- customers experience fewer problems, faster service, and improved satisfaction. 
+Konica Minolta gains insight into the 
+following areas:
+• Usage patterns
+• Proactive alerts of potential issues that 
+produce fewer service calls 
+• Additional  efficient stockpiling
+• Better information on product 
+vulnerabilities and defects 
+• Appropriate changes to new units that reduce future service costs. 
+ All of this data improves Konica Minolta’s overall processes.
+
+22 PwC
+Studio Roosegarde
+Daan Roosegaarde, an artist, inventor, 
+and entrepreneur whose Studio Roosegaarde consults on interactive design for human space has done several 
+projects that use digital technologies to 
+provide integrated seamless experiences across physical and digital domains. He has proposed reimagining the highway design in a way that exemplifies the 
+concept of an augmented experience. He 
+notes that billions of dollars are spent to make cars smarter, but not the roads that they travel. He questioned the need to use sensors on highways (many already 
+have them for traffic monitoring and the 
+detection of hazardous materials) to interact more intelligently with drivers, based on local conditions.
+The Smart Highway concept 
+4  proposes 
+using signs that are painted on the roads 
+and appear only below a certain temperature to display warnings about 
+icy conditions, or that are connected to wind sensors to display only during high 
+winds. When these warnings appear on static year-round signs, they are more likely to be ignored. Lane markers, such 
+as those designating carpool lanes or 
+express lanes that skip some exits, could also be made digital, so they change with traffic flow and volume. They could be made with photosensitive materials that 
+keep them lit at night and charged via 
+solar power during the day. Streetlights can  have detectors so that they turn on only when cars are nearby.
+The Oaks
+At the Oaks, a senior care facility in 
+Orangeburg, South Carolina, semi-
+independent patients living in care facility settings or residential home settings are monitored with Wi-Fi connected sensors 
+so practitioners can see if someone is 
+immobile for a worrying length of time which could indicate a fall or fainting spell, or if they are moving around in the night, suggesting they are not sleeping. Such assisted care facilities have long had buzzers that patients use to call for help, and their staffs have regularly performed in-person check-ins, but the connected 
+sensors give the facility more immediate 
+context and patterns that can reveal unknown problems.
+There are many potential goals for such a 
+service.  One of them is to prevent 
+emergencies. “We use this technology to 
+try to predict something before it happens,” says James McGee, President and CEO of the Oaks. The direct benefits to the resident are obvious: better, smarter 
+care.  The facility is also digitising the 
+consumption of services to rethink the business process behind a service (healthcare, in this case) as a proactive, 
+preventive service rather than a 
+reactionary, crisis oriented one.
+4 For more information, see http://www.studioroosegaarde.net/project/smart-highway/photo/#smart-highway
+Breaking boundaries with emerging technologies    23
+Conclusion
+With relatively faster adoption of IoT supported 
+by  continuing reduction in the size and price of 
+sensors, and the ability to network every device 
+is propelling companies to  fully engage with customers, going beyond transactions,  to goal 
+oriented,  post-transaction relationships.  
+Digitisation of consumption and the convergence of the physical and digital worlds 
+are creating opportunities to turn single 
+transactions into long standing relationships. 
+The convergence of the physical world with the 
+digital world will put stress on other parts of 
+business and IT operations. In particular, it will increase the burden of data storage, tagging, 
+management, and analysis and related 
+activities. Solutions emerging from mobile and social technologies and big data analytics will 
+address some of these issues.
+Finally, the businesses that fuse digitised 
+consumption with an augmented experience in the service of the customer’s personal goals will 
+find a new level of success.
+24 PwC
+Cloud computing
+Get your cloud  strategy right
+Breaking boundaries with emerging technologies    25
+Cloud computing has moved from a hype 
+to a must-have service model. In 2013, this phenomenon has seen a burst of new 
+services, products, companies as well as 
+entrepreneurs.  It promises lower upfront costs, greater business agility, rapid scalability and a reduced burden on the internal IT management. Therefore, CIOs 
+of several medium and large enterprises 
+are now adding cloud-based solutions to their existing IT services. However, before they can fully-leverage the benefits of 
+cloud technologies, they need to 
+understand the organisational impacts of this move. Moving the infrastructure to the cloud is not an IT change, but a transformational change which needs to 
+be assessed across strategy, structure, 
+people, process and technology.
+As the IT landscape undergoes rapid 
+changes, it might become even more 
+complex in the short-term. This in turn can create significant integration and operational challenges which need to be effectively managed. Though cloud 
+computing brings in business and 
+financial benefits, it also requires to be addressed from a business strategy, finance, compliance, tax, enterprise architecture and most importantly 
+cultural point of view. What is becoming 
+evident in many enterprises is most CIO and chief technology officers (CTOs) have come out of the learning phase to adopt a 
+cloud strategy with a three to five  year 
+roadmap to refresh the enterprise application and infrastructure. However, some of the questions that immediately come up are as follows:
+• In a rapidly changing technology 
+landscape should enterprises look at a short-term (around 18-months) roadmap compared to a long-term 
+(around three years) roadmap?
+• Does the cloud strategy address some 
+key functions such as business or IT strategy, finance, compliance, tax, 
+culture and enterprise architecture?
+The right recipe for a successful cloud 
+strategy is to define the assessment areas, use the right tools and apply the appropriate methodology. Cloud 
+computing is now less about technology 
+and more about business strategy.
+26 PwCExecutive concernAs businesses begin formulating a cloud 
+strategy, some of the key considerations for the C-suite are as follows:
+Considerations for the chief 
+executive officer (CEO)
+• How can cloud help generate new 
+sources of revenue and bolster our 
+competitive standing?
+• How do you need to rethink innovation in a world where cloud 
+infrastructures create instant environments to try new ideas?
+• What transformations could your business undergo with the help of cloud solutions?
+Considerations for the chief financial officer (CFO)
+• How will cloud impact cost 
+structures and data governance? 
+• Are you accounting for how cloud can impact your revenue model or tax structure?
+• How do you analyse and benchmark 
+current IT costs, and how will you 
+benchmark internal IT effectiveness against external cloud providers?
+• What are the implications of moving to external clouds from the accounting and tax management perspective?
+Considerations for the chief information officer (CIO)
+• What new business opportunities 
+will deliver the best return on our 
+cloud investments? 
+• Have you developed a strategy for helping business unit leaders use cloud services without creating security or compliance risks?
+• Which of the CEO’s strategic imperatives can cloud solutions  
+help right away?  Do you have a roadmap to evaluate and deploy the cloud infrastructure, public, private or hybrid? Considerations for the chief operating officer (COO)
+• How are we going to address the 
+challenges of near infinite scalability and highly variable demand?
+• How can cloud-based solutions benefit development teams from product initiation to delivery?
+• How are competitors using the cloud 
+to enhance their offerings?
+Considerations for the chief 
+human resource officer (CHRO)
+• How can cloud computing reduce 
+human capital management costs and 
+become an engine for growth?
+• As your organisation moves to the cloud, how will you support the need for new customer service, technical 
+and marketing skill sets?
+• How can cloud tools transform 
+attracting, recruiting, training, evaluating and retaining employees?
+Considerations for the chief compliance officer (CCO)
+• As we see an increase in cloud 
+adoption across the organisation, how are employees keeping up with 
+various compliance requirements?
+• How will our data be protected? What 
+security assurances does the service provider offer?
+• Does our risk management system address cyber-risks that can derail  
+a new technology-enabled business strategy?
+• How will data governance, risk compliance, tax and regulatory issues 
+be handled in a cloud environment?
+Breaking boundaries with emerging technologies    27Cloud strategyaIn the past year, cloud computing had 
+gained enough traction and has featured in almost every board room discussion. 
+There is a great deal of expectation for 
+cloud computing to deliver the business value and at the same time reduce costs. Enterprises especially in the past two years has tasted moderate to high success 
+as to whether it is subscribing to cloud 
+services or deploying cloud enabled products. They have now started asking complicated questions such as the 
+following: • How can we integrate SaaS 
+applications across multiple providers?
+• How can we leverage low-cost storage for storing archive data?
+• Which framework will help us to characterise workloads and place them across public and private clouds? 
+• How can I leverage and scale my cloud to launch the next generation mobility, social and analytics solutions?
+Stages of cloud strategy formulation
+Opportunities from 
+workshops and assessment 
+of current stateOpportunities from impact 
+analysis and high-level -
+TOM development
+PwC’s assessment and e valuation 
+methodologiesData collection and 
+discussionsInitial business case
+PwC’s cloud 
+adoption strategy High-l evel TOMStrategic roadmap
+StrategyAssessment Trends
+a Cloud computing gets strategic, PwC view issue 13
+28 PwCEssentially, businesses have now 
+transitioned from ‘how’ to ‘what’ with regard to selection and use of cloud 
+services. With consumerisation of IT, 
+rapid growth of mobile computing devices and increased availability of cloud based services to support new technologies, business are feeling 
+empowered to test new solutions. IT 
+departments need to move fast enough before businesses start procuring and consuming cloud services. In addition to 
+this governance of all these services will 
+lead to even more complications. Though cloud is transforming the IT landscape, enterprises are realising that it is more than that. They perceive cloud computing 
+as an engine for business growth.
+By providing the freedom to use a 
+plethora of services, simplified 
+management, unlimited resources, rapid service provisioning cloud computing can provide a strategic role for the businesses. Cloud allows business to say ‘yes’ more 
+often than not. It enables enterprises to 
+focus on innovation by converting ideas into products or solutions by providing a platform where the cost of failure is minimal.  Cloud also provides the ability 
+of rapid service provisioning such as 
+catering to the holiday shopping traffic for a website, providing seamless service integration during mergers and 
+acquisitions (M&A) or integrating 
+applications across two businesses. Situation such as these can induce complexity in the environment. With this cloud computing brings IT and business 
+close to each other and become a true 
+business enabler.
+In its objective to bring the synergies of IT 
+and business together enterprises need to create a comprehensive business strategy for cloud computing. Created for the business and not just for the CIO or CTO, 
+the strategy needs to clearly articulate 
+how cloud computing can support the business and enable them to take informed decisions. 
+
+Breaking boundaries with emerging technologies    29How does cloud affect 
+key business areas?Strategy
+Cloud computing has now 
+become a news lens through which business considerations are 
+viewed. For example, a 
+start-up company can subscribe to cloud services and rapidly roll-out an app which 
+might find quick 
+acceptance with several thousand users when 
+compared to an existing paid app 
+already in the same marketplace. In such 
+cases, supply, demand, competitiveness are constantly challenged, and as more enterprises move into this zone the framework involved in creating the 
+traditional strategy become irrelevant 
+giving rise to an agile way of solving problems. The strategy for the business needs to be nimble. Businesses now need to view strategy through the lens of 
+cloud computing and it is important that 
+the strategy and the vision are in sync with each other.   
+  
+Finance
+Cloud computing will 
+have an impact on 
+finance functions such as financial planning and management, budgeting, governance 
+and risk management. 
+One of the key changes will be in the evaluation of the TCO between the cloud model and the traditional model. With CFOs 
+considerably influencing IT investments, 
+key attributes like depreciation, cashflow, differential savings, Net present value (NPV), pay back period and return on investment are being 
+given an in depth treatment. The 
+financial calculations gets a little more complicated where a business has implemented a private cloud by leasing hardware and software from a service 
+provider. In this case there are bound to 
+be questions on financing the investment, billing model by the provider and charge back by the business to its departments. In all cases for any 
+initiative on cloud a clear financial value 
+proposition holds the key.Security
+Businesses are 
+increasingly inter-
+connected, integrated, and interdependent. Technologies such as 
+cloud, mobility and 
+bring-your-own-device (BYOD) are enabled even before a security strategy is place.  Such 
+an evolved business 
+eco-system also imperils organisations by putting them at the mercy of adversaries who are likely to exploit these technologies and processes to 
+disrupt operations and even destroy 
+businesses. As a result, security threats have become a critical business risk to global organisations.
+In the recent PwC Global State of 
+Information Security Survey 2014,  
+it was found about (47%) of  
+respondents use some form of cloud computing, a healthy gain of 24% from the year before. Among those who use cloud services, 59% of respondents 
+report that their security posture has 
+improved. Hence, it is surprising to learn that many organisations have not seriously addressed the security implications of cloud services. 
+According to the survey, respondents 
+that used cloud services, only 18% say they have policies governing the use of cloud. With the rapid growth of cloud computing, the 2014 survey gauged the 
+respondent’s priorities in preparing for 
+threats across five key categories. It depicts the safeguards that are not in place must be a priority over the next 12 months. This shows that technology 
+investments precede the foundational 
+security strategy.Lack of policies for cloud 
+computing represents a serious security gap for businesses. The 
+proliferation of data being shared, 
+in combination with the increase in the use of mobile devices, creates an environment in which cloud services are more widely used and potentially abused by 
+employees. At the same time, it is 
+essential that businesses ensure that the third-party cloud providers agree to follow security practices”.  
+Joshua McKibben, PwC Director.
+30 PwCCompliance
+Cloud computing 
+provides business and financial benefits but it requires organisations 
+to cede control to a 
+third-party cloud service provider for risk mitigation and management. When an 
+organisation subscribes 
+to cloud services, the controls of the cloud 
+service provider will effectively be the 
+control of the organisation which in turn 
+must fit with the existing defined controls. In regulated industries such as healthcare and financial services there are specific compliance and governance 
+requirements. It is vital that there is a 
+clear understanding on the regulator and agency, compliance, law and standards that needs to be adhered for the cloud deployment and service 
+models. It is important to identify the 
+right cloud service provider that will help the organisation realise its objective while reducing risk and providing the required trust and 
+transparency.
+Companies that do business in the cloud 
+remain concerned about security, and 
+are raising their eyebrows about service availability and data privacy. These are making business decisions based on the 
+cloud providers’ ability to provide a 
+secure, stable environment and at a lower cost. Cloud providers, security vendors, integrators, and consultants  
+all have an important role to play to 
+meet the increasingly rigorous needs  
+of their customers, industry groups,  
+and regulators
+ 5.Tax 6
+Using a cloud 
+particular cloud deployment or service 
+model can have 
+different tax consequences. For example, a business hosting a private  
+cloud on its own premise versus hosting its private cloud on a service provider 
+location (leased 
+hardware or own hardware) can have different tax considerations. With PaaS and SaaS service models, tax considerations can 
+get a complicated. From a cloud 
+provider’s perspective they face material income tax or indirect tax implications depending on the cloud infrastructure and type of revenue 
+model employed. Based on the nature 
+of cloud service and deployment models it can give rise to international tax jurisdiction issues. Cloud purchasers can encounter unforeseen 
+and at times significant income and 
+sales tax variations, depending on the type of cloud services they have contracted for.
+In the quest to achieve these tax 
+benefits, its related implications are 
+often overlooked or ignored by many 
+businesses thereby resulting in unintended consequences. It is therefore recommended to conduct a proper analysis before subscribing to cloud services and these needs to be done before implementing the cloud strategy.
+Culture
+In any organisation, technology 
+adoption happens all the time in some form of other and therefore, a consistent process is the key to enabling people to 
+successfully adopt and use technology. 
+In a recent internal research, PwC gathered the following insights:
+• Managing expectations, anxiety and  
+insecurity, communication and engaging teams are critical success factors 
+• Eight out of 10 technology implementations fail due to lack of 
+effective change management
+• Nine out of 10  significant barriers to achieving successful change are on 
+the people and softer issues 
+Cloud computing brings in a transformational change and it is 
+critical that the change  
+is embedded and sustained in the organisation and to that to happen, culture 
+holds paramount 
+importance.
+Final thoughts
+Cloud computing has 
+transformed the way in 
+which IT services are 
+delivered to the business. It 
+has transformed from a cool technology to a mainstream technology thereby delivering significant financial and 
+business benefits if implemented in the 
+right way.  
+So is cloud computing part of your 
+business strategy?“You can’t fight today’s threats 
+with yesterday’s strategies”  
+Gary Loveland,  principal in 
+PwC’s security practice
+5 PwC thought leadership titled protecting your brand in the cloud - Transparency and trust through enhanced reporting, November 2011
+6 Reference: PwC thought leadership  titled How does one tax the cloud?, January 2012
+Breaking boundaries with emerging technologies    31Investment plans around cloud
+Investment trends in cloud computing
+Source: PwC’s 5th Digital IQ Survey 17
+16
+30
+24
+21
+37
+39
+32
+40 20 0Public cloud infrastructure 
+Public cloud applications
+Public cloud
+Americas Europe Asia-PacificIn 2013, 53% of India’s CEOs are 
+planning cuts. 
+Source: 16th Annual Global CEO Survey - 
+The view from IndiaFuture of ERPCEOs are looking to counter growth 
+elated threats by balancing efficiency with agility. Cost restructuring continues 
+to be high on the agenda. However 
+businesses are instead trying to cut costs without cutting value. In such times, speeding the adoption of key technologies such as social networks, 
+mobile computing, analytics, cloud 
+computing (SMAC) and other emerging technologies will transform businesses, accelerate wealth creation and help 
+achieve the core objectives of fostering 
+growth, meeting disparate consumer needs, reaching out to markets, in order to compete and succeed.
+With cloud computing, businesses are 
+able to avail almost infinite compute power, storage and network in a pay-as-you-go model, without having to invest in any hardware upfront. Apart from infrastructure, cloud also provides cost-effective testing as well as development platforms, backup as well 
+as applications. How long it will be 
+before enterprise resource planning (ERP) systems begin to exploit the full benefits of the cloud? More importantly, 
+is cloud ERP a one-size-fit-all solution 
+for all type of enterprises?
+PwC’s 5th Digital IQ Survey also revealed that the major reasons for investment into cloud computing include increased productivity, increased innovation and reduced costs.
+Americas Europe Asia-Pacific54
+39
+48
+56
+39
+49
+52
+43
+52
+% 40 20 0Public cloud infrastructure 
+Public cloud applications
+Public cloud
+60
+32 PwCWinds of change
+Non-core business processes such as 
+customer relationship management (CRM) and human resources (HR) or payroll have reached a high maturity 
+level in terms of cloud adoption. On the 
+other hand, core business processes such as financial management, supply chain, production planning, scheduling, etc have been slow to adopt cloud. However, 
+business environments are now gearing 
+up for a change.  Most of them have either   indicated high levels of interest or have at least started to consider the option of cloud for ERP.
+On-premise ERP: A challenge
+Enterprises need ERP systems in order to manage day-to-day operations. Today, most ERP systems offer a full range of 
+solutions, catering to every aspect of the 
+business. Hence, it makes more sense for an enterprise to create a disaster recovery 
+(DR) set-up for ERP systems. 
+However, one of the major concerns facing enterprises today is the overall infrastructure and operational costs of on-premise ERP production and 
+secondary environments. Implementing 
+and maintaining an on-premise DR for the ERP system adds to cost, as it implies managing other systems, that may or may not be used at all, but are critical for 
+business. Millions of dollars are spent on 
+the implementation, ongoing support and the operations of ERP systems. 
+Business 
+challengesOperational challenges
+Low agility of traditional IT service delivery in order to meet the changing business demandsConsiderable costs incurred in the maintenance and the support of the ERP infrastructure
+Forty to 60% year-on-year growth of enterprise dataNeed for reliable and cost-effective backup and disaster recovery options
+Ever-changing compliance and regulatory landscapeInefficient service level agreements as well as  operational inefficiencies, thereby reducing performance
+ Solution lies in the cloud
+With a sound cloud business platform in 
+place, enterprises can innovate around new products as well as services in order 
+to generate additional sources of revenue 
+Regardless of whether an IaaS model (with a public or private cloud) or a SaaS-based model is being used, an enterprise can transform IT 
+departments, streamline and scale 
+operations and fuel innovation. A cloud- based ERP strategy enables reduced procurement costs as well as 
+effort in non-core areas of maintenance, 
+continuous upgrade and support.
+Cloud adoption drivers
+• Cost reduction seems to be the 
+major driver for cloud adoption followed by increased productivity and innovation.
+• Twenty-five per cent of companies worldwide feel that the adoption of cloud helps reduce cost.
+• Twenty per cent feel that cloud adoption will fuel innovation and increase productivity.
+Source: PwC’s 5th Digital IQ Survey
+Cloud is shaping up the ERP providers 
+market
+Various signs prevailing in the current 
+business landscape are indicative of the changing ERP market. NetSuite has 
+released its cloud-based software-as-a-
+service integrated business management software. Other newer ERP players such as Workday, Plex Systems, Infor and Epicor, etc have entered the market with 
+their cloud versions of ERP solutions. 
+SAP’s acquisition of SuccessFactor indicates the gravity of threats posed by smaller cloud ERP players. This is forcing 
+larger players to re-think their product 
+strategies. They are responding either by modifying their software, so as to fit the cloud model (e.g. Microsoft Dynamics) or 
+by building separate products from 
+ground up (e.g. SAP Business ByDesign). SAP has certified Amazon Web Services (AWS) for hosting its ERP on AWS cloud. Also, SAP’s recent announcement of its HANA platform-based applications,  
+to be available via cloud and Oracle’s development in enterprise grade ERP cloud solution continue to generate interest.
+Key triggers for cloud ERP adoption
+The key triggers for adoption of cloud-based ERP solutions include the following:
+•	Flexibility and scalability: Highly 
+scalable cloud infrastructure can respond to the changing business 
+requirements, thereby improving 
+business agility. 
+•	Innovation: Offload non-core 
+activities such as maintenance and support activities to the cloud provider, and instead, focus on innovation and business growth. 
+•	Reduced total cost of ownership (TCO): Minimise initial capital 
+expenditure and move to an operating 
+expenditure model. The pay-as-you-go 
+model of cloud ensures payment only for the time duration when the secondary environment is in use.
+•	Accessibility: Ensure seamless 
+connectivity and accessibility.
+•	Security:  Invest in firewall and IPS 
+protection with custom policy 
+management, certifications (ISO 
+27001, BS7799, ITIL, CMM level 5) and stringent security policies.
+•	Regulations and compliances: Comply with Sarbanes-Oxley, the European Union Data Protection Act, the Payment Card Industry Data Security Standard (PCI DSS) and 
+HIPAA, and other industry-specific 
+regulatory compliance requirements.
+Breaking boundaries with emerging technologies    33
+How to approach cloud-based ERP 
+solutions?
+Is cloud-based ERP the solution for all 
+enterprises? There is no one-size-fit-all solution or framework to determine the 
+answer to this question. We believe that 
+the migration to cloud will be a gradual process, and that the cloud will co-exist along with traditional infrastructure. 
+Category Decision-making parameters
+Project type •	First time implementation of ERP
+•	Migration of the existing ERP system
+•	Extension of the current ERP system’s capabilities to include additional functionalities
+Size and type of an enterprise •	Small
+•	Medium
+•	Large
+•	Subsidiaries of larger enterprises
+ERP system landscape complexity •	Configuration of the proposed ERP system
+•	Current technology (infrastructure as well as  applications) landscape, including system 
+software (operating system and database)
+•	Integration requirements
+•	Size of the ERP footprint
+Business requirements •	Number of concurrent users
+•	Input output per second (IOPS) requirements
+•	High availability (HA)
+•	Recovery time objective (RTO) and recovery  point objective (RPO) for disaster recovery systems
+•	Other functionalities
+Risk and compliance •	Industry-specific compliance and regulatory requirements
+•	Data protection and security requirement
+•	Data sovereignty
+34 PwCDevOps: Bridging the 
+paradox of speed and stabilityThe onus is on companies to quickly 
+release their products and services into the market in order to stay competitive 
+with the advent of ‘online’. As a result, 
+the software release cycle is also changing from infrequent and major releases to frequent and small changes. This new approach is called continuous 
+delivery. Continuous delivery ensures 
+that the code is always ready for release whenever required. A code is ready for release once it is built using standard 
+practices, and goes through a complete 
+testing process.
+DevOps (a portmanteau of 
+development and operations) is 
+collaboration between development 
+and operations teams and brings a holistic view to the delivery, thereby reducing time-to-market and stability to the enterprise.
+Waterfall model versus continuous 
+delivery approach
+TimeFrequent and small releases 
+Less riskChange
+Infrequent and large releases 
+High risk
+TimeChangeIntroduction to DevOps
+Continuous delivery
+Traditional software development 
+follows a waterfall model approach which takes into account aspects such 
+as requirement gathering, planning, 
+software code generation, testing,  
+followed by the release. This model is 
+a lengthy process and takes a long time to reach completion. This, coupled with the organisation’s legacy 
+infrastructure and traditional 
+on-premise model, hampers the IT team to rapidly allocate new infrastructure in order to meet the business needs. 
+In today’s rapidly changing 
+environment, organisations, especially web-scale companies, experience rapid changes in their business 
+models. In order to stay competitive in 
+such a dynamic market organizations need to meet the changing demands of their users and stakeholders. Given these challenges, an IT organisation 
+needs to adopt a continuous delivery 
+model   in an environment where business needs are continuously changing within days and weeks, 
+instead of months and years. The 
+continuous delivery approach involves an iterative approach in aligning IT strategy with avenues such as business strategy, planning, development, 
+deployment, monitoring and 
+optimisation, through metrics and user feedback. Agile software development methods adopted within the continuous delivery approach 
+involves various technologies such as 
+the continuous integration tool that automates the code build, test as well as deployment. DevOps is an approach involving the change levers across 
+people, process and technology and is 
+an integral component of an enterprise wide continuous delivery model.
+Breaking boundaries with emerging technologies    35 Continuous delivery framework
+What is DevOps?
+DevOps is an approach which enables 
+collaboration between development and 
+operations teams, and at the same time 
+ensures a consistent IT alignment with the business and also rendering stability to the organisation.  It entails agile methods for software development 
+teams while at the same time, also 
+ensures stability of operations in supporting the rapidly changing production environment. This leads to smoother as well as progressive changes 
+in the application environment vis-a-vis 
+the drastic and random impact of large scale changes in the waterfall model. In order to reap the real benefits of agile development, the underlying 
+infrastructure environment needs to 
+support multiple parallel instances of same applications. On the other hand, the legacy application environment will 
+not support swift application changes. 
+Commercial off-the shelf packaged applications do not support a high level of customisation, and hence, there is a pressing need to look at an open-source 
+code for DevOps.Need for DevOps
+Enterprises are focussed on delivering 
+multiple applications across a variety of devices. In addition, the banking and 
+retail sectors are launching mobile 
+applications to enhance their customers’ experience. Organisations from these sectors have been investing in scalable infrastructure and using agile 
+methodology in software development. 
+Developers are looking to embrace agile software development methods and incorporating continuous as well as frequent changes to the production 
+environment, so that the IT set-up 
+remains aligned with the business, while at the same time assuring high levels of quality. On the contrary, the IT operations team of an organisation always prefers a 
+stable and static environment. 
+The DevOps approach to software 
+development will help in easing out the friction and conflict between the development and operations teams, and 
+will also help both sides in meeting their 
+respective objectives.Best practices and tools 
+For an effective DevOps strategy, an 
+organisation needs to adhere to the best 
+practices adopted, and incorporate 
+industry standard tools within its environment.
+Version control: A centralised 
+development version repository used to be a bottleneck for an enterprise having different groups of people, distributed 
+across multiple locations across the globe. 
+The distributed version control system 
+(DVCS) enables each developer to 
+maintain their local version repositories, and hence speeds up the productivity process. Currently, Git and Mercurial are the best available tools for DVCS.
+Content management: Distributing 
+content through emails leads to enormous duplication and increases the storage requirement. Tools such as Mediawiki can 
+be leveraged so as to create an index 
+structure with detailed pages linked to it.
+Configuration	management:	An 
+automated way of configuration management means that any machine 
+can be provisioned with an application 
+deployed and configured automatically, by using a single command.  In order to test the resiliency of its IT environment, an organisation can use tools such as 
+Chaos Monkey which makes individual 
+components of a system fail in a random manner.  This is particularly helpful in testing in gauging the robustness of a system.
+Continuous integration: Maintaining 
+large scale projects with multiple builds can be a nightmare. Tools such as Teamcity help in automated triggering of builds, and provide holistic reports of all 
+the build tests within the project. 
+Whenever, a developer makes a change, it will be automatically tested through the build environment, so that any failure due to this change can be easily tracked and 
+resolved. This approach ensures a correct 
+working version of end-to-end build at any point in time.
+Business function enablement and collaborationInterface 
+automation 
+Reporting 
+Management 
+Orchestration 
+Platforms Build 
+management 
+Continuous 
+integration 
+Testing 
+Deployment 
+Change 
+managementUser 
+feedback
+Communi-
+cation
+Right skilling
+Collaboration
+Development
+Infrastructure Release 
+managementOperationsTechnology Process People
+Finance Sales and
+marketing Operations Supply chainDevOps - Levers of change
+governance, review, metricsBest practiceAlign
+Strategy
+Continuous 
+deliveryPlan and develop
+36 PwCPackage management and archive:  A 
+package management repository 
+automates installing, uninstalling, and 
+updating software releases. It also helps 
+in tracking changes while reducing the time to build and release. Also, archiving the build is also as important as developing the artifacts. Artifactory is 
+considered to be one of the most robust 
+and secured repositories in the market. NuGet and RPM are examples of package repositories.
+Integrated development environment 
+(IDE) agnostic build: Developers can execute their local builds by using their IDE. However, the master build should be 
+able to run on any platform, and must be 
+compatible with other scripts. Towards this, tools such as Ant and Nant currently drive IDE agnostic builds.
+Testing: Successful implementation of 
+DevOps requires an organisation to adopt 
+a test-driven approach. Since it involves 
+frequent changes, it is essential to plan a 
+robust test strategy in order to ensure that the code changes are thoroughly tested, and chances of failure of the production environment are minimal. 
+The testing starts from the unit level, 
+then moves to the component level and finally goes through the acceptance test.
+At the beginning of the project, the test 
+team starts writing the test code, which is 
+parallel to the code generation phase.
+In addition, the operations team also 
+starts writing the code for automated provisioning. These parallel steps help in reducing time-to-market or the release of 
+a product or a software to days or even to 
+minutes. Release process: Traditional versus continuous delivery
+Application development
+•Manual code generation
+•Manual packagingOperational configuration
+•Manual configuration
+•Manual provisioningTesting
+•Manual test scenarios
+•Manual testing
+Traditional release process
+Time (months or years)
+Application development
+Operational configuration
+Testing AutomatedProduction Production 
+Time (minutes or days)Continuous delivery release process
+In order to aid the test-driven software development approach, automated testing frameworks such as JUnit, Selenium are currently available. These 
+tools provide automated record or 
+playback options for authoring these tests as well as running multiple parallel tests.
+Continuous deployment:   Currently, 
+Chef and Puppet are the most popular 
+tools for auto deployment of build 
+packages or artifacts. Auto deployment 
+lends consistency to the builds within the development, quality assurance, user acceptance testing, pre-production and 
+production environment.Benefits 
+A DevOps approach can transform 
+businesses and can achieve various measurable benefits. They help in 
+increasing the frequency of deployment 
+of products as well as services, and thereby help in gathering valuable customer feedback which serves as a key input to innovation. Increased 
+collaboration is another benefit that has 
+also been observed, which thereby leads to developing the new ideas.
+With this approach, enterprises can not 
+only achieve cost reductions in operations 
+and development, but can also roll-out 
+new software and services into the market, hence creating growth as well as additional revenue opportunities.
+Time-to-market is reduced significantly 
+due to the agile processes, thereby 
+enhancing customer experience. 
+Breaking boundaries with emerging technologies    37Benefits through DevOps
+Collaboration 
+QualityCustomer base
+Time to marketHeadcount
+New software 
+and services
+Development and 
+operations 
+costs 
+Platform reachRevenue
+Deployment 
+frequency
+Short Medium Long
+Time frameLow Medium HighImprovementIncrease
+ReduceIn order to achieve the benefits of this 
+approach, certain factors need to be kept in mind.
+•	Agility:  Always follow a agile 
+methodology to structure the tasks and 
+choosing the technology
+•	Legacy infrastructure: No matter what level of automation is introduced within the environment, legacy 
+infrastructure and applications will 
+continue to exist. Hence appropriate controls or processes need to  be in place
+•	End-to-end automation : One must 
+always aim for complete automation of the delivery pipeline in order to reduce 
+the time-to-market and reduce errors 
+due to manual intervention.
+•	Continuous monitoring:  A constant 
+eye needs to be on monitoring the environment and accounting key metrics.
+•	Right infrastructure:  In order to run the continuous delivery approach, an 
+enterprise needs to invest in the right 
+type of infrastructure, that is, IaaS solutions. An IaaS solution will offer scalability to respond to varying business needs, anytime anywhere 
+access of applications, and also reduce 
+the TCO through the pay-as-you-go model.
+
+38 PwC
+“In future, nobody will 
+buy the cow when they 
+only need milk.”
+Dr Devi Shetty 
+Founder and  Chairman  
+Narayana HealthCIO interviews
+Breaking boundaries with emerging technologies    39In a conversation with 
+PwC India, Srikanth Raman, Group CIO at Narayana Hrudalaya Hospitals, discusses how social, mobile and cloud platforms can enhance doctor-patient interaction delight for the healthcare industry.
+Interview conducted  
+by Ritesh PalPwC India: As the Group CIO of Narayana 
+Hrudalaya Hospital, what is important to you or what are your priorities?
+Sirkanth Raman: So far, all our effort 
+till date has been based towards using 
+IT for the administrative affairs. We 
+have just step out to start on a program where we will get the clinical personnel involved in utilising IT for improving patient care. What we are trying to do is 
+to make available important screens from 
+our existing hospital information system (HIS) on a mobile platform. The idea being that, so far it has been difficult to 
+engage the medical community (doctors) 
+in electronic health record (EMR) effort because they see that this is something that is taking them away from patient care and consider it is an extra work for 
+them to feed data in the way the digital 
+world demand. But with the mobility system coming in and if the important modules of HIS are made available on a smart phone, then it would mean that 
+the medical community will start using it 
+as and when they see the patients. Then data entry will not become a separate activity. Today the antipathy towards the use of technology towards healthcare is 
+because it is been perceived as a separate 
+activity for different purposes and not directly associated with healthcare. The minute we take that mental block out 
+and say that when a doctor comes in to 
+see a patient the mobility piece will help him interact with the patient in such a way that it will have two-fold impact – firstly he will be able to get important 
+information about the patient’s past 
+record, and secondly that this will not impact the time taken for him to attend the patient. Instead if you want him to enter data in a desktop and a laptop  
+it will actually take time away from 
+patient care. 
+Consider a patient has come in today 
+with a file which has about 100 papers. Now with the kind of volumes a centre at Narayana Hrudalaya has to handle daily there is hardly time to read through the 
+file, then attend to the patient and see 
+what is wrong and decide on the next steps. So, with the manual record there is nothing we can do. We can probably 
+look at it as a reassurance for the patient, 
+but there is no distilled information that is making the job of a doctor easy or quick. Compare that to a mobile device in front of the doctor, which can be his 
+own smart phone, where he just enters 
+the patient data and it will synchronise at the backend with the database and give the last treatment details in the form of a graph or other depiction that is easy to comprehend at less time. Imagine  the ‘patient interaction delight’ that 
+it can result in!! We are trying to go 
+towards that. 
+So far IT has been trying to act parallely 
+and independently of what the clinical community need. Our idea is to synchronise this effort and not make data entry a separate chore but as a 
+part of the entire process where the 
+doctors can interact meaning fully with the patient community. I think that will make a big difference in the uptake and adoption of technology in that area.
+I think making the HIS application or 
+at least the most relevant modules of it 
+like e-prescription, laboratory diagnostic 
+viewing, requesting for lab space, viewing the radiology image on a mobile smart phone etc are going to be game 
+changers in the way that the medical 
+community adapts and accepts  the technology.
+PwC India: Why is cloud computing 
+taking on so much importance? What is 
+the big change?
+Srikanth Raman: Basically cloud 
+computing is a better and more efficient way of utilising the same resources. 
+Narayana Hrudalaya today has got 23 
+locations and suppose we are not on a cloud platform and are trying to do everything on a traditional data centre environment, then imagine the effort 
+we have to put in setting up these data 
+centres and the respective disaster recovery (DR) centres. Also in this scenario, since we cannot scale up as and when demand comes in, we would 
+always oversize the requirement both in 
+terms of network and server. So there will be a large element of the sunk cost which will not be utilised. Maybe once in 
+a month for payroll we may need extra 
+processing power, or may be everyday in the evening say between 3-5 pm when we discharge somebody we may need more processing power to process 
+the invoices. So in a normal, non-cloud 
+environment we would have to make all those investment upfront which will be a sunk cost and you cannot really scale on demand also. However, in the cloud 
+scenario we would be able to avail the 
+extra CPU power and pay only for the 2 hours extra whenever we need it. So basically with cloud as soon as people need IT resources they can hire them 
+rather than having to buying them. That 
+is where the cloud concept will be very important.
+
+40 PwCPwC India: How aware do you think your 
+CEO and CFO are about the potential of cloud computing, and in what areas 
+do they need some education? Why do 
+you think a CEO and CFO should care about cloud computing and cloud based solutions?
+Srikanth Raman: Luckily at Narayana 
+Hrudalaya since we did not have too much of an investment in legacy systems 
+when we embarked in this journey 
+about three-and-half to four years ago. Today we have about 23 hospital environments and since we did not 
+have too much investment in legacy 
+systems we were able to quickly move to a cloud or virtualised environment. So the awareness about cloud in the top management team is quite high, because 
+we have already crossed the stage of 
+thinking whether data centre is required or do we have to go to cloud. 
+But may be other hospitals or institutions 
+may not be so lucky in the respect they may have already made significant investment in the past. One of the 
+major problems for the CFOs in those 
+institutions would be to consider what to do with so much sunk cost already gone in the IT infrastructure? How does he do away with it? And this is a very difficult 
+decision to take. 
+That is one aspect. What we can do as 
+CIOs probably is to may be explain and 
+tabulate those ROIs much better and explain to them how the cloud model will ensure that there will be very little 
+capital expenditure (CAPEX) for IT 
+instead it will be more of an operating expense (OPEX). In some of the business model we can even go for the pay-per-use model. There could be some services 
+in future where we would consume the 
+entire HIS and the infrastructure and the network on a usage based model. For example we could come to a model where we can say that for every OPD bill 
+that is generated we would pay a vendor 
+some amount and they will provide the whole thing as a service including the infrastructure, connectivity and the required software. So when we reach 
+that stage it will bring predictability 
+benefits to the business. So as long as they can estimate the number of patients coming in, we will be able to predict the 
+IT cost very easily. There is a great joy in 
+converting CAPEX to OPEX – the finance team always loves that!PwC India: How do you see the role of CIOs changing in the future?
+Srikanth Raman: So far, traditionally a 
+CIO was not really involved in business, he was more of a guy looking after 
+the hardware and network. People 
+remembered him only when there was an outage or a problem. He was not a proactive guy, he was a guy who would react to problems that is put up 
+to him. But the whole way this cloud 
+and social mobility platform engages it will be much of a proactive role that he will have to play. He will become 
+more of a business person rather than 
+an IT person. In the future you will find more and more CIOs coming from non-technology background possibly from finance background or from operations 
+or management background. Because 
+I see that with cloud and mobility platforms taking more precedence most of the drudgery of the IT work is going to get outsourced. So the people who 
+will be running the IT shop within the IT 
+organisation will be business people and management people. They will not be technology people. That will be a major change I can see.
+PwC India: What were your business 
+drivers for investing in cloud computing?
+Srikanth Raman: One of the major 
+business driver is the sheer impossibility 
+for retaining good IT talent. Few years 
+ago we were two hospitals now we are twenty three. Imagine the number of resources we would require if we have 
+to maintain a large IT department 
+including the application part, or if we are only looking at the cloud computing part and the infrastructure side then we would have to maintain all the 
+servers, manage them and ensure a 
+proper DR and retrieval policies. But the kind of people we will need is very difficult to recruit and more difficult to retain. Also the career path we will 
+be able to give them will be limited 
+because we are not in the business of computers as we are in the business of providing medical services. This is one major issue in our mind. Secondly, 
+given the fact govt is building so many 
+SWAN networks across the states the bandwidth cost is going to come down in future and can be a sustaining factor 
+for cloud to move forward in the long 
+run. And the great attraction of having a flexible model with completely opex cost was the third driver. So the most important driver is we feel running IT dept is not worthwhile for an industry like an hospital because we will not be 
+able to either attract or retain the right 
+talent – that is the most important one and having said that cost is also an important factor – we think in the long run in a 5 year scenario cloud will save 
+us substantial cost in terms of what we 
+have spent in capex and opex in the traditional model vis-a-vis cloud.
+PwC India: Cloud has the potential to 
+deliver multiple business benefits, however only a well defined adoption strategy and 
+implementation roadmap formulated 
+after proper due diligence and assessment can help leverage the benefits. What is your view?
+Srikanth Raman: That is very true. 
+What happens is that true cloud service providers are not many and it requires 
+lot of skills to find where the pitfalls are. 
+Also if one is just trying to replicate the hardware environment in a data centre and say it as a cloud environment then they are likely to oversize and therefore 
+lose money on the cloud rather than 
+save. The beauty about cloud is we can consume as and when as we need, so the idea is to design the cloud in such a way that it can save enough for normal 
+purposes but then we should not over 
+engineer. So that whenever you need there is a capability for you to ask for more and get it and pay only for that 
+time. If you don’t have that perspective 
+you are in trouble with the cloud. Also you should have readiness in terms of DR strategy which is becoming very important. You should also take care 
+of your network environment because 
+in cloud if your network goes down you are in trouble. Even if the cloud infrastructure is very strong, but if the network is weak then you are in big 
+trouble. So for all our centres we have 
+not one but two levels of connectivity on the MPLS followed up with one more level of redundancy in terms of the internet VPN. That’s the compelling 
+point.
+Breaking boundaries with emerging technologies    41PwC India: So what we understand is 
+proper design and architecture is a key aspect for cloud adoption?
+Srikanth Raman: Absolutely yes.PwC India: Is cloud security just a matter 
+of people getting comfortable with it over time? How do you think cloud security will 
+evolve?
+Srikanth Raman: I think cloud security 
+has evolved in the western world mainly 
+because of the government mandate. In India may be it is still early time since we don’t have any clear safeguard provided at the government level. But 
+these are bound to come. Security is 
+very important but it is do-able with a good service provider. I do believe that a good service provider will be 
+able to provide better security than 
+individual organisations can provide for themselves. For example, today we do so many financial transactions in the internet, I think there are a lot of people 
+who goes to the railway site to buy a 
+ticket and they use their credit card over the net. So I don’t think there is any problem in terms of the do-ability side of the security side even for the patient 
+data. It’s only a matter of taking time to 
+ensure that your service provider is able to provide those standards and follow those standards. I don’t think it should be an inhibiting factor at all.
+PwC India: Healthcare and 
+pharmaceuticals industry has a number 
+of compliance and regulations. How in 
+you view the compliance issues can be addressed in the cloud?
+Srikanth Raman: The fact remains 
+we need to have very good security standards but then you have to look 
+who can provide that better. Take the 
+example of an individual organisation like Narayana Hrudalaya. Suppose it sets up its own IT infrastructure to serve its own need. Then it can implement 
+a certain level of security in terms of 
+whatever it can invest in security. But instead if you have a service provider who provides cloud services for a living, then it will be able to go up and scale 
+in terms of security needs and provide 
+whatever is the best in the current standards. Also security, compliance and regulatory standards keep on changing and enhanced. So a specialised cloud 
+service provider will be in a much better 
+position to adapt to those changes because they are doing it for a group of clients and not for one single client. 
+Therefore they will be more adaptable 
+and quicker as compared to individual institutions doing it on their own. Therefore security and compliance is not an obstacle, actually these are the prime 
+factors as to why one should move to the 
+cloud quickly.
+PwC India: Where are you seeing 
+new opportunities to deploy cloud based solutions in the healthcare and pharmaceuticals industry?
+Srikanth Raman: Specifically in 
+healthcare most of the mobility and cloud players are looking at patient 
+based solutions on the applications side. 
+However, my recommendation is that they should explore the options from the perspective of the medical community 
+i.e. the doctor himself. If you look at 
+India, the market is skewed in terms of demand and supply. The doctor is still holds the key. Therefore whatever makes the doctors life better and make 
+his patient interaction accurate and 
+faster is what will get accepted fast. So, I think instead of trying to make the applications work from the patient side they should concentrate at the doctor’s 
+side and approach the whole thing from 
+this angle. This will in turn drive that the patient’s needs are met and then everybody will be happy.
+PwC India: Till date, what has Narayana 
+Hrudalaya done in terms of adopting these emerging technologies and what are the 
+future plans?
+Srikanth Raman: If you look at cloud 
+what we can tell you is that in all our 23 
+locations that we run today there are no physical servers other than the domain servers, everything else is running upon 
+a virtualised environment. We have 
+found out that its best to outsource the entire piece of IT in terms of bundling the application to a service provider and bundling the infrastructure and 
+connectivity to another service provider 
+and just trying to manage them on a case to case basis, so we don’t really have to worry about IT infrastructure any more. This has been our model. I think 
+this model has made possible for us to 
+scale up very quickly and has made us very nimble in the market today. It has also brought a lot of standardisation. Now across all the hospitals you see 
+the same language in terms of MIS, 
+I could not imagine this happening in a data centre based model where everything is distributed. These are 
+two big advantages. There are also 
+great advantages that can be achieved in applying these technologies in the clinical area. We have just started on that on that part now. maybe in about one to two years time we should see 
+great benefit in the clinical side too. As 
+of now most of the benefit have been in the administrative arena and few clinical benefits in simple areas like email for patients, one point registration across 
+any of the 23 hospitals which ensures 
+that one patient do not have to register second time in any of the hospitals again. These are small advantages already 
+been available to the patients, but I 
+think in the long run more and more of this doctor-patient interaction delight is going to emerge because of the social, mobility and cloud platform. And I think 
+we are in a good state as early adopters 
+to reap all those advantages.
+42 PwCPwC India:  As the Group CIO what are 
+your priorities and what are the challenges that you typically face today?
+Ekhlaque Bari: Stabilisation of our 
+existing IT set-up is one of my key 
+priorities today. Currently, we face 
+about two to three disruptions (related to IT) every month that tends to have an impact on our business. I would like to reach a stage where  business will  be 
+able to run without any disruption for 
+six months plus. Other priorities include reducing business costs and contributing revenue growth.
+PwC India:  How do you plan to overcome 
+these challenges?
+Ekhlaque Bari: We have set targets or 
+key result areas (KRAs) for the whole 
+team. Currently, the entire team has 
+a set of eight KRAs. Four of which are focussed on growing and transforming the business, and they are   revenue, operational excellence, productivity 
+and innovation (ROPI). In addition, for 
+‘run the business,’  we strive towards compliance and security, availability, responsiveness and efficiency (CARE). Each member in the team owns one or 
+multiple targets out of the eight metrics. 
+One group in the team is focussed on stability, while the other group focuses on reducing cost and growing revenue.In a conversation 
+with PwC India, Ekhlaque Bari, Group CIO at HT Media Limited, discusses the importance of cloud computing and the changing role of a chief information officer	(CIO)	in	the	current business environment.
+Interview conducted by 
+Vivek KhoslaPwC India: In the future, how will the role 
+of a CIO be different from the ones in the past?
+Ekhlaque Bari: Traditionally, the CIO 
+and his or her team spent a huge portion 
+of their time in negotiating, architecting 
+compute, data centre and managing resources. This portion will diminish as compute and storage will become a black box and services will be SLA-
+driven on the cloud. This model will 
+lead to the workforce focussing on the business side (that is, reducing cost, and growing revenue). The emergence of the 
+cloud, will lead to the creation of strong 
+governance and a security team. Another thing that CIOs have to deal with is the support of myriad devices. They will need to bring in more collaboration, and 
+intranet sites will need to have same look 
+and feel as Facebook and Twitter. With the SaaS model, businesses can subscribe services without the involvement of IT, and hence budgets which were earlier 
+allocated for IT, will now move to the 
+business, with the advent of the cloud.
+CIOs will need to be more business savvy 
+and more  people within the business will start taking up the role of the CIO. Also, the overall need for technology know-how will decrease.
+
+Breaking boundaries with emerging technologies    43PwC India: How is cloud computing 
+influencing your strategies?
+Ekhlaque Bari: Cloud is in the centre of 
+everything we are doing today. I believe in the simple rule of following a cloud 
+first policy. With the advent of cloud 
+computing the any compute requirement can be provisioned from the cloud either through a SaaS or public PaaS or public IaaS or ultimately the private IaaS 
+model. Also, cloud is impacting TCO for 
+data centres,  skill sets of people and is changing the kind of processes they are engaged in.
+PwC India: How is cloud changing your 
+conversation with your chief executive 
+officer (CEO) and the chief finance officer 
+(CFO)? Do you think a CEO or CFO should care about cloud computing? 
+Ekhlaque Bari: For a CFO, only two 
+things matter, how much cost can be reduced and how much value are you adding. They do not care about the 
+service models being deployed. In most 
+enterprises, the running cost and TCO on cloud is lower than maintaining traditional data centres. This would interest a CFO and the same is the case 
+with HT Media. With the change in 
+funding model from capital expenditure (CAPEX)  to operating expenditure (OPEX)  I can now rent an infrastructure for 2 lakh INR  for conducting an  
+experiment, whereas earlier  it  used to 
+cost me  approximately 2 crore INR. This is what I highlight when I talk to my CEO and CFO.
+PwC India: What are the key business 
+drivers for investing in cloud computing? What business value you believe can be 
+derived from cloud computing?
+Ekhlaque Bari: The key drivers for 
+cloud computing which in turn can 
+result in significant business benefits include reduction in TCO, shift from a CAPEX to an OPEX model of funding, enhanced agility resulting in quicker 
+time to market, revenue enablement and 
+reduced cost of experimentation thus fostering innovation.
+PwC India: How does cloud computing 
+help with innovation within an enterprise?
+Ekhlaque Bari: I pride myself by saying 
+that technology is not about possibilities, it is about economics. Today with a clap 
+of a hand, a newspaper can be printed.  
+Although that is  technically possible, it is not economically feasible as it might cost billions of dollars. Therefore, by reducing the cost of failure, and fostering the ability to face such failures, helps the innovation process in a huge way, and towards this, cloud helps define new business models.
+PwC India:  What are your final 
+observations on cloud computing? 
+Ekhlaque Bari:  Cloud will change the entire landscape of the IT industry 
+as well as the IT ecosystem. Business 
+to business (B2B) transactions will transform into a B2C transactions, where C will stands for cloud providers.  Due to cloud computing, the role of the CIO will 
+also undergo a transformation.
+44 PwCPwC India:  In your observation, what are 
+the key trends in enterprise IT which will define the future landscape? 
+Vineet Anand : In my view, enterprise 
+IT is in for a big change in all spheres, 
+from a business, technology as well as an  
+operational perspective.  From a business perspective, new models will evolve because of the prevailing social, mobile, analytics and cloud (SMAC) trends. 
+For example, businesses’ that earlier 
+needed a higher degree of compute power upfront cost was a huge entry barrier. Now, with cloud compute power 
+that barrier is non-existent or lowered 
+to a large extent. Hence, established businesses may find new innovative entrants who are going to challenge the existing traditional norms. New 
+models of executing tasks might be seen 
+across various businesses, for example, technical schools or colleges need not have an in-house computer lab, but can have access to the best of the tools as 
+well as the computer lab on the cloud. 
+From a technological point of view, I feel, more of open-source and large scale platforms will evolve that will enable us to use internet more as a compute and 
+a store service, and not just something 
+that allow us to connect. From an operational perspective, IT operational practices might see a huge shift towards 
+automation, since now with cloud, all 
+tools and services are easily available and configurable as compared to few years back.
+In nutshell, what it means is that SMAC 
+will gradually, but will certainly change the way we think about doing tasks and 
+executing them.In a conversation 
+with PwC India, Vineet Anand, Senior Vice President, Information Technology at Macmillan Publishers India Limited, discusses various aspects of Macmillan’s journey to the cloud
+Interview conducted  
+by Kumar KV
+PwC India: What is the significance 
+of cloud computing in the current IT landscape?  Do you think IT infrastructure 
+is now transforming itself into a 
+commodity?
+Vineet Anand: Any trend  that simplifies 
+the way  we do business, either at a lower or a comparable cost is bound to receive due importance. Cloud computing falls within this category. It simplifies the 
+IT infrastructure, cuts down complex 
+processes, and its cost at the same time provides the necessary business agility.  
+To a certain extent, IT infrastructure is 
+now becoming a commodity, but I do believe it will take some time before it 
+will truly be commoditised. 
+PwC India: What role does cloud 
+computing play within your enterprise?
+ Vineet Anand: At Macmillan 
+Publishers India Ltd. we have moved 
+almost everything on the cloud. One hundred per cent of our production services are cloud-based solutions or services, including enterprise resource 
+planning (erp), customer relationship 
+management (crm), interactive voice response (ivr), web platform, email, etc.
+PwC India: Macmillan Publishers 
+India has migrated its entire SAP and BI production environment on to AWS cloud. What were the key drivers behind this 
+decision?
+ Vineet Anand: For a small and medium 
+business (SMB) company it is hard to 
+employ dedicated expert resources necessary to support business critical IT infrastructure. Now, with fully-supported infrastructure services and 
+the DevOps model (tools for automation 
+of infrastructure operations) from the 
+Breaking boundaries with emerging technologies    45cloud provider, it is easy to manage 
+high level of service and with minimal number of staff members. From a cost 
+perspective, our current infrastructure 
+was obsolete and needed a high degree of investment. So instead of  choosing to deploy CAPEX on our IT infrastructure, we opted to use it to drive business 
+value generation projects, and deployed 
+our infrastructure on the cloud service provider, which was calculated to be much cheaper if we compare it with a 
+similar level of service and durability. 
+Also, at the time of considering this infrastructure investment, our business was unsure about the scale and size of the computer  platform required for 
+future endeavours. Hence, flexibility 
+and spending money only on the things that we use was another important factor while considering a cloud-based solution. Presently, IT services are  
+deeply embedded into the  business 
+activities of a company, to an extent that any outage of IT services directly affects  the company’s  ability to perform and deliver services to its customers.  
+Hence, mitigating risk and providing 
+high level of assurance was a  key factor while  choosing between cloud vs an in-house system.
+PwC India: What were the lessons learnt 
+during this exercise?
+Vineet Anand: Key elements of this 
+exercise are similar to any large IT 
+Infrastructure projects. I would say that 
+it is important to engage with a partner who can support the organisation through the entire cycle that is right from architecture building to proof-
+of-concept, deployment, testing and migration. Also, we have learnt that 
+checking all the regulatory, software licences and other compliance issues 
+is crucial. It is important to assess the 
+impact of any negative user experience (due to latency or any other technical issues) by engaging the end-users during the testing process and appropriately 
+addressing the same.
+PwC India: What key parameters did 
+you consider before taking this decision? 
+How did you convince your CEO and CFO about cloud computing as a viable business proposition?
+ Vineet Anand: A business case was built 
+around so as to provide a simplified, 
+long-term sustainable and measurable 
+IT infrastructure model along with substantial return on investment  (ROI) saving. As mentioned earlier, key drivers for cloud adoption were 
+sustainable solution, cost, agility and 
+business risk mitigation.
+PwC India: Security has become a key 
+concern in adopting cloud solutions. From your experience, what have you learned with respect to addressing security issues in the cloud?
+ Vineet Anand: I think a general 
+statement that security is a concern 
+within cloud is not appropriate.  For 
+example, a SMB company with extensive internet exposure might be able to lower its risk profile vis-a-vis  if they would have attempted to do on their own, 
+without adding substantial cost. 
+At the same time, for a large company 
+with operations across multiple geographies that needs to meet various compliance and regulatory obligations 
+and ensure personal identifiable data (PIF) and intellectual property (IR) is always protected might face certain jurisdictional challenges.  
+Handling security is a two-paragoned 
+approach, for which one needs tools 
+and efficient practices (operating, 
+monitoring, collating and analysing practises) in place.  This is valid for  both in-house as well as cloud-based 
+security, hence there is no additional  
+risk on the cloud.
+Lastly, it is important to review the cloud 
+agreements and ensure that all security elements that matters to an organisation most are being considered and managed by the provider.
+PwC India: Do you think private cloud is 
+more secure than public cloud?
+ Vineet Anand: Depends what you 
+want to do with it. Each one has its own 
+place. It all depends on the company’s 
+risk profile and appetite, along with its business and IT architecture.
+PwC India: What are your future plans on 
+cloud adoption?
+ Vineet Anand: Within the Indian 
+business context we are 100% on cloud.
+PwC India: Is cloud the future of ERP?Vineet Anand: Yes, I believe that ERP 
+on cloud is going to be the future. In my opinion, it will be more of an industry-based SAAS model models such as ERP for logistics, ERP for airlines or ERP for 
+publishers, etc.
+46 PwCAbout the Confederation 
+of Indian Industry
+The Confederation of Indian Industry (CII) works to create and sustain an 
+environment conducive to the development of India, partnering industry, Government, and civil society, through advisory and consultative processes.
+CII is a non-government, not-for-profit, industry led and industry managed 
+organization, playing a proactive role in India’s development process. Founded over 118 years ago, India’s premier business association has over 7100 member organizations, from the private as well as public sectors, including SMEs and 
+MNCs, and an indirect membership of over 90,000 companies from around 257 
+national and regional sectoral associations.
+CII charts change by working closely with Government on policy issues, 
+interfacing with thought leaders, and enhancing efficiency, competitiveness and business opportunities for industry through a range of specialised services 
+and global linkages. It also provides a platform for consensus-building and 
+networking on diverse issues. 
+Extending its agenda beyond business, CII assists industry to identify and 
+execute corporate citizenship programmes. Partnerships with over 120 NGOs 
+across the country carry forward our initiatives for integrated and inclusive 
+development, in affirmative action, healthcare, education, livelihood, diversity management, skill development, empowerment of women, and water, to name a few.
+The CII Theme for 2013-14 is Accelerating Economic Growth through 
+Innovation, Transformation, Inclusion and Governance. Towards this, CII 
+advocacy will accord top priority to stepping up the growth trajectory of the nation, while retaining a strong focus on accountability, transparency and measurement in both the corporate and social eco-system, building a 
+knowledge economy, and broad-basing development to help deliver the fruits 
+of progress to many. 
+With 63 offices including 10 Centres of Excellence in India, and 7 overseas 
+offices in Australia, China, France, Singapore, South Africa, UK, and USA, as well as institutional partnerships with 224 counterpart organizations in 90 
+countries, CII serves as a reference point for Indian industry and the 
+international business community.Contacts
+For further details, contact:
+Arunima Sharma,  
+Director, Confederation of Indian IndustryIndia Habitat Centre, Core 4A, 4th Floor,Institutional Area, Lodi Road,
+New Delhi - 110 003 (India)
+T: +91 (11) 41504514-19 • F: +91 (11) 24682228Email: Arunima.sharma@cii.in,  
+info@cii.in 
+Web: www.cii.in
+Membership Helpline: 00-91-11-435 
+46244 / 00-91-99104 46244
+CII Helpline Toll free No: 1800-103-1244www.cii.in
+Breaking boundaries with emerging technologies    47About PwC 
+PwC helps organisations and individuals create the value they’re looking for. 
+We’re a network of firms in 157 countries with more than 184,000 people who are committed to delivering quality in Assurance, Tax and Advisory services. Tell us 
+what matters to you and find out more by visiting us at www.pwc.com. 
+In India, PwC has offices in these cities: Ahmedabad, Bangalore, Chennai, Delhi 
+NCR, Hyderabad, Kolkata, Mumbai and Pune. For more information about PwC India’s service offerings, visit www.pwc.com/in 
+PwC refers to the PwC network and / or one or more of its member firms, each of 
+which is a separate legal entity. Please see www.pwc.com/structure for further details.
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwcContacts
+To have a deeper discussion around 
+emerging technologies and innovation’ and how it can benefit your enterprise, 
+please contact:
+Debdas Sen
+Executive Director/Partner
+Regional Managing Partner (East) and Technology Consulting Leader 
+Email: debdas.sen@in.pwc.com 
+Sandeep Ladda
+Executive Director/Partner 
+Technology Sector Leader Email: sandeep.ladda@in.pwc.com 
+Arnab Basu
+Executive Director/Partner Emerging Technologies LeaderEmail: arnab.basu@in.pwc.com
+Rajesh Rajan  
+Associate DirectorEmerging Technologies 
+Email: rajesh.rajan@in.pwc.comwww.pwc.in
+Data Classification: DCO
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers 
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility 
+or liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in 
+India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member 
+firm of which is a separate legal entity.
+NJ 130 - Dec 2013 Running IT as a Business.indd
+Designed by Brand and Communication, India

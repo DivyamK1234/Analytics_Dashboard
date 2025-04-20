@@ -1,0 +1,1041 @@
+Title: pwc_enterprise-mobility-putting-people-first
+Date Published: 2013-10-25 08:07:08+05:30
+Source: pdfs/pwc_enterprise-mobility-putting-people-first.pdf
+
+--- CONTENT ---
+
+Enterprise mobility
+Putting people first
+www.pwc.in
+Aegis Graham Bell Awards 2013, 25 October 2013, Delhi  
+Introduction  p4/Enterprise mobility ecosystem  p7/Trends  p12/Challenges  p20/
+Experiences  p21/The road ahead p24
+
+We are perhaps living in the best times in terms of connectivity when out of the total seven billion, six 
+billion people are connected to each other through mobile phones. However, the full potential of this power is yet to be explored.
+As the work force is becoming increasingly mobile and the consumers no longer like to wait for what they 
+want, enterprises are gearing up to harness this power for a competitive advantage. They have realized 
+the perks of ‘putting people first’ and they are now not only providing mobile phones to their employees, 
+they are even and making apps for their customers. Enterprise mobility is gaining considerable momentum with the empowerment of both the employees and customers resulting in significant economic gain.
+We at Aegis, first experienced the power of mobile phones in a well connected world when we launched 
+mMBA (which is MBA on tablets) in 2011. It took the learning from the classrooms to the palm of our students which were mainly working professionals in telecom companies. ‘Wherever-whenever’ and ‘my 
+time-my place’ are our two concepts that helped them balance between work and the learning process. 
+They are now able to access their study material on their tablets while travelling which results in an effective utilisation of their time. Within three years we reached from New Mumbai to other Indian cities and countries like  Africa, Maldives, the Middle East,  Afghanistan, Indonesia and Philippine. The 
+mobility of our platform eliminated the location barrier for the faculty members and they were able to 
+teach their students from different parts of the world from the living rooms. This further helped Aegis in addressing the challenges of a growing cost, unavailability of faculty, scale, relevance and effectiveness.
+This year, we saw a good number of amazing innovations in the enterprise mobility area presented at 
+Aegis Graham Bell Awards by Indian as well international companies. These innovations have the power to revolutionise business and bring the customer to centre stage.
+We believe that this joint report of Aegis and PwC will help the Indian enterprises to embrace ‘Enterprise 
+Mobility’.
+Bhupesh Daheria
+Founder, Aegis Graham Bell AwardFounder, mUniversity CEO, Aegis School of Business 
+The game of the future is about employee efficiency, 
+effectiveness and quality—how can my employees react faster, have improved and quicker access to information,  and can demonstrate high level of commitments to their clients wherever they happen to be; all through the power  
+of a computing device in their hands.
+- Sivarama Krishnan, Executive Director, PwC India
+Dear friend, 
+Not far from where my office is in Gurgaon, are the India headquarters of the world’s leading FMCG 
+company. In a casual meeting with the CEO, I asked him what made his company’s businesses in all  geographies  and across every product category, such a huge success.“We really put people first”,he said, and laid special emphasis on the ‘really’. 
+I wonder how many business leaders can make such an emphatic claim on behalf of their organisations. 
+Fortunately, today, more than ever before, this is so much easier. A deeper understanding of the 
+employees, partners and clients, an improved technology and well established processes together enable 
+the organisations to become people advocates. With respect to technology, organisations today are embracing enterprise mobility in more ways than one to ‘really put people first’. In a recent survey by PwC on emerging technologies and their impact, an overwhelming majority of C-suites polled cited enterprise mobility as the most important game changer for their businesses. Through this report, PwC 
+has defined the broad contours of enterprise mobility in India: the ecosystem, the emerging trends, 
+challenges and the overall opportunity for businesses. I wish to remind you that the future of smarter businesses will continue to rest with the smart people; our employees, partners and clients. While the enterprise mobility movement has been evolving around technology, processes, users etc., it is only now 
+that organisations are beginning to adopt an integrated approach towards using enterprise mobility as 
+a tool to enhance employee productivity and satisfaction.
+While technology has been the main stay for the gradual adoption of enterprise mobility solutions 
+by organisations in the country, today they are significantly taking a more people centric view to architecting their enterprise mobility ecosystem. This is a pleasant surprise and implies that we will witness hyper growth in enterprise mobility as it gets dimensioned on need and requirements rather  than capabilities.
+Aptly, this report focuses on the key areas that will inform decision making in the adoption and 
+use of enterprise mobility solutions in the years to come. It provides a comprehensive view on how 
+organisations can leverage enterprise mobility for creating value. 
+Sivarama Krishnan,
+Executive Director, 
+PricewaterhouseCoopers Pvt. Ltd.
+Introduction
+As we publish this report, the Indian 
+economy is going through one of its most difficult times. The downfall of the rupee, 
+challenges with the land reforms bill 
+slowing FDI, shortage of FII money in India’s secondary markets and the changes to the rule books are all responsible for the worsening economic 
+sentiment in the country. 
+Understandably, corporate India is 
+responding very aggressively albeit not 
+always wisely to these developments. Most companies are actively working at taking out costs to improve margins in 
+what is clearly a very challenging market 
+condition. Measures announced by India Inc. include saving on travel and administrative expenses, retrenchment of non performing or under-performing 
+employees, outsourcing the non-core 
+activities, selling off the non-core businesses and operational improvements resulting in efficiency gains, reduction in wastage and a better utilisation of assets.
+These bottom line focused measures 
+clearly demonstrate that the market 
+sentiment for a recovery is low and 
+distant. In the wake of this, organisations are trying to find solutions that will enable improved performance at lower investments. One important area that several leading organisations are focussing on is enterprise mobility. 
+Enterprise mobility, wherein, the 
+organisation enables employees, partners and customers to access and work on organisational technology platforms and 
+where enablers through any device- 
+tablets, laptops (personal) and smart-phones, seamlessly through a secure virtual environment are gaining ground. 
+Technology and market forces are the two 
+important facets of enterprise mobility. Technology is thrusting for ubiquitous 
+computing and consumerisation of 
+technology while the market forces are focussed on exploration and adoption of new business models and being more agile. Technology with key drivers like 
+hyper competition, globalisation, digitised 
+processes and a scarcity of the ‘right skills’ is making a compelling case for enterprise mobility.
+
+The interplay of market and industry forces is driving companies to consider new 
+business models 
+Source: PwC
+Enterprise mobility is not a new thing. In 
+fact, it took its very first fledgling steps way back in the 1980s with the roll-out of 
+the first company-wide telephonic 
+networks. Over the years, the concept has become more encompassing. Three generations of enterprise mobility have been identified. In the 1980s-1990s 
+enterprise mobility came to be identified 
+with voice communication through land line phones in conjunction with the use of facsimiles and telegraphs. In the 
+1990s-2000s enterprise mobility moved to 
+the mobile platform through paging systems followed by early stage of the mobile phones. Application level enterprise mobility is, however, a fairly 
+recent phenomenon. It started in 2007 
+when the improvements in security and technology platforms enabled access to corporate applications.Market Forces Industry Forces
+Mobile
+Computin g
+Ubiquitous
+Computin g
+Consumerisatio n
+of technology Price WarsNew Business
+Models
+Pressure to be
+more agileCloud
+Computin g
+Intelligent
+Devices
+Social
+TechnologiesMaturation/
+Convergence
+Global
+Focus
+Delivery 
+Excellence
+
+Source: PwC analysis
+Interestingly, in its third generation, 
+enterprise mobility has matured to become hardware independent and the 
+focus has come to the front end user 
+interfacing applications. This compares favourably to the focus on back end and middle-ware technological capabilities in earlier generations and is in sync with the 
+times. 
+Application centricity is resulting in agility 
+driving greater adoption of enterprise 
+mobility solutions. Security, which is a major issue impeding adoption, has come to the centre stage. There is a plethora of 
+solutions to provide peace of mind to the 
+users, corporate and individuals alike. Significantly, the third generation of enterprise mobility solutions are successfully generating confidence with 
+the leaders, resulting in quicker adoption.
+In this report, we delve on the myriad 
+components, the challenges and the 
+benefits of enterprise mobility. The report aims to engage and educate our readers on the significance of this movement, its ramifications for organisational culture  
+as well as opportunities available to be harnessed on its account.Gene ration 1st 2nd 3rd
+Technology 
+Development 
+Enterprise 
+Demand 
+Vendor 
+Response 
+FeaturesLandline phones arrive
+Introduction to
+digital cellula rBetter security against  
+eavesdropping and fraud  
+better performance
+Subscriber-based ID  
+and authenticatio nMobile messaging capability emerges on cellular phones 
+Better security and  
+access to corporate  
+messaging server-based  
+PIM applications 
+Introduced enterprise wireless e-mail and  
+calendaring (1099)  
+•End-to-end data  
+encryption 
+•Remote wipe 
+•EAS policy support Application-centric phones arrive (2007)  
+Better security and  
+access to corporate  
+applications 
+Upgraded security 
+(2009-10)  
+Security model derived  
+from the features of the 
+second generation, but on 
+all major OSes (2011-12)  Generations of enterprise mobility
+Understanding the 
+enterprise mobility ecosystem
+An ecosystem is defined as ‘everything 
+that exists in a particular environment’. In case of enterprise mobility it would consist 
+of everything that is required to make it 
+work. There are seven key components in the enterprise mobility ecosystem. These include: •	Users:  The organisations, employees, 
+vendors, partners and customers are the key stakeholders in any enterprise mobility solution. The following are the three key drivers for this 
+component: 
+ –Business need:  Organisations 
+need to provide access to enterprise 
+systems to the internal and external stakeholders to ensure 
+enhanced responsiveness, higher 
+availability, improved performance and overall satisfaction. 
+ –Personal need:  Individual 
+stakeholders need access to the 
+enterprise systems both from the 
+perspective of improved access and round the clock availability. Enterprise mobility is an important tool for enhancing individual 
+engagement and satisfaction 
+within the enterprise.
+ –Experience: Experience is an 
+important factor that impacts the 
+users of enterprise mobility 
+solutions. Organisations have to create a seamless experience based on quality interfaces, low latencies and empowered access to data from within the enterprise.
+•	Security: The safety and 
+confidentiality of data available within 
+and through enterprise mobility 
+solutions is of paramount importance. Following are the three key drivers of this component: 
+ –Authentication:  ‘How do I ensure 
+that the right person is accessing my systems and data therein?’ is a question that most technology officers within companies struggle to 
+answer. The ‘who’, ‘what’, ‘where’, 
+‘when’ and ‘how’ of ensuring fast, accurate and regular authentication is paramount for securing enterprise mobility solutions. 
+ –Encryption: ‘How do I control the 
+accuracy, confidentiality and overall security of my data during transmission?’ is an important question that organisations are 
+besieged with. Multiple technologies 
+for encryption are being tested and deployed to ensure greater stability in securing enterprise mobility 
+solutions.
+ –Security policy: ‘How do I ensure 
+that a culture of security is imbued by all my stakeholders?’ Organisations want employees, 
+vendors, partners and customers to 
+work with them for helping them realise a security oriented culture. The key to this is defining and publishing security policies and 
+monitoring adherence to these.  
+Institutionalisation of security policies governing device use, content, access rights and data privacy are helping organisations 
+enhance sensitivity towards best 
+practices in security for both  
+internal and external stake holders.
+•	Devices:  Devices are an integral part 
+of enterprise mobility solutions. 
+These include all types of devices 
+through which enterprise 
+applications and systems are accessible to both internal and external stakeholders. For instance, desktops, laptops, tablets and 
+smartphones. The selection, 
+procurement, certification, configuration, provisioning and management of devices critical for 
+the success of enterprise mobility 
+architecture within an organisation. Several enterprises are adopting a more flexible approach to devices through the ‘bring your own device’ 
+(BYOD) policies, wherein enterprises 
+are comfortable with providing stakeholders access to enterprise systems through individually owned devices.
+•	Governance:  Smart enterprises are 
+establishing robust governance mechanisms encompassing strategy, best practices and policies for managing the enterprise mobility 
+ecosystem. A clearly articulated strategy establishing the need, the vision 
+and the tactical road map for achieving goals for enterprise mobility is critical to 
+steer the organisation through unforeseen 
+circumstances. Governance model ensures that the boundary conditions for the solutions are well articulated and respected. It also ensures that best 
+practices are adopted, adapted and 
+implemented to custom fit the enterprise. Most importantly, governance models mandate that policies are established to 
+ensure that the organisations’ goals and 
+expectations from such solutions are clearly scoped out and articulated. 
+•	Engineering:  For a robust and 
+responsive enterprise mobility 
+architecture, it is critical to engineer 
+suitable technology platforms (hardware) for the hosting, access, support and disaster recovery at the back end. Organisations need to focus on 
+establishing capabilities for hardware 
+configuration, network management, hardware management and platform support and disaster recovery to create the enabling infrastructure for enterprise 
+mobility solutions. 
+
+Engineering enterprise mobility
+Source: CBDI Forum, PwCSecurity 
+User Identity Employee Guest Customer
+Mobi le Applic ation
+Native Web Hybrid
+Application Profile
+Smart phone Tablet Specialized
+Device Capabilities
+Device Profile
+Connection Point VoIP Streaming
+Mobi le Computing Infrastructure
+Mobile Mobile Rendering 
+Enterprise Enterprise EnterpriseMobi le Device 
+Manage ment
+Content Manage ment
+Fault Manage ment
+Device Lifecycle Manage ment 
+Configuration Manage ment 
+Asset Manage ment
+Location Manage ment
+MEAP
+MDM Server
+System Manage mentApplication Store
+Enterprise Application Stor eMobi le Application 
+Manage ment
+Application Provision
+License Management
+Application Development  
+Application Deployment  
+Enterprise Applications
+HR ERP CRM BI Etc…Device Identity 
+Mobile Security 
+Manage ment
+Enterprise Security 
+Manage mentUsers (Actors)
+Mobi le Applic ation
+Networ k Infrastructure
+Enterprise Infrastructure
+
+The key elements of enterprise mobility 
+architecture include: 
+Mobile device management (MDM): 
+MDM helps in device control and focuses on management of the device as a physical 
+asset and the application of some policy 
+for its connectivity and function. By controlling and protecting the data and the configuration settings for all mobile devices in the network, MDM can reduce 
+support costs and business risks. 
+Some MDM solutions are: AirWatch, 
+BoxTone, Citrix, Fiberlink, Good 
+Technology, MobileIron, SAP or Sybase, Zenprise
+Mobile application management 
+(MAM): MAM is managing the lifecycle 
+of applications from the deployment to the 
+updation and ultimately retirement, while 
+keeping them up-to-date and accessible. This provides application provisioning through a private app store, the management of updates to those 
+applications, and any controls to recall or 
+restrict access to applications from mobile devices. 
+Some MAM solutions are: App47, 
+AppCentral, Apperian, Citrix, Verivo Software 
+Network access control (NAC): NAC 
+provides a set of rules for profiling endpoint devices in order to provide 
+network access. NAC plays a significant 
+role in a mobile by orchestrating the policies for network rights across users’ various devices, whether personal or company owned, and provides access to 
+the autonomous devices in future based 
+on the static device characteristics, like MAC address. Some NAC solutions are: Barracuda, 
+Cisco, Juniper Systems management solutions 
+(SMSs):  SMSs exist in most IT 
+departments as a way to manage 
+company-owned systems, such as servers, 
+desktops, and laptops. These tools provide visibility into the active systems and facilitate patching and updating of those systems. While the latter tasks have not 
+expanded to the mobiles in large 
+proportions, these systems may represent the ‘golden standard’ of visibility for which an organisation should strive for its mobile 
+devices. 
+Some  SMSs are: BMC, Citrix, Tivoli or IBM, Microsoft, Symantec or Altiris 
+•	Applications: Applications are at the 
+centre of the enterprise solutions. CIOs 
+and business managers with organisations adopting enterprise 
+mobility today are faced with decisions 
+around designing, developing and managing applications in a manner that they are available for enterprise platforms for today and tomorrow.  For 
+commercial off the shelf applications, 
+organisations have to consider the issues around license management as well as the corporate and non-corporate applications (for defining 
+content, features and accessibility). For 
+custom application development, organisations have to consider development tools and platforms as 
+well as performance requirements and 
+quality control of applications. 
+Top applications for enterprise mobility
+The enterprise mobility ecosystemSource: CIO Association India (CAI), PwC analysis•	Support: Another key component of 
+the enterprise mobility ecosystem is 
+the support services.  Users of the 
+solution require support for 
+applications and hardware. Organisations, for company owned devices, provide repair and replacement support. For individually 
+owned devices, most organisations 
+provide application level support.
+Source: PwC analysisApplication 
+SupportReplacement
+Repair
+DevelopmentHardware
+SupportSupport
+Performance
+QACustom Apps ApplicationEnterprise 
+Application Store
+Purchase d Apps
+Non corporate Apps
+Corporate Apps
+License
+Manage mentSecurity
+Authentication
+Security PolicyEncryption
+User
+Experience
+Personal 
+NeedBusiness 
+NeedDevice
+Provisioning SelectionManage ment
+ConfigurationBYOD
+CertificationDevice PurchaseProcurement
+Consumer Device
+Corporate 
+LiableRuggedizedTelecommData
+Asset Manage mentPlatform 
+Manage ment
+StrategyVoice PolicyBest 
+Practices
+GovernanceNetwork 
+Manage ment
+Disaster 
+RecoveryPlatform
+SupportPlatform
+Configuration
+Engineering
+Enterprise Mobility+Calendar
+& Cont acts
+Instant
+Messaging
+Customer
+relationship 
+Management
+Enterprise
+telephon y
+ERPEmail
+Sales Force
+Automation
+Business
+Intelligence
+Document
+Management
+Human
+Resources
+Various components of the enterprise mobility ecosystem are coming together in interesting ways to give rise to certain 
+distinct trends. These trends are of 
+interest to the  users, organisations, device manufacturers, service providers, regulators etc. Trends and their interplay in the coming days will ensure exciting 
+times for the adoption of enterprise 
+mobility in the country.
+Trends
+Organisations in India are joining 
+the BYOD movement
+BYOD is a growing mobility trend which 
+allows employees to ‘bring their own devices’ for work and to access company 
+information. BYOD makes it easier for 
+employees to work outside the office and ensures the workers are adequately equipped to do their role. The following are two key drivers for the growth in 
+BYOD:  Rising smartphone penetration: India ranks fifth among the top countries 
+for smartphone users with an estimated 67 million subscribers in 2013, behind China, the US, Japan and Brazil. Annual growth of smartphone subscribers in India 
+stands at 52%, which is expected to be the 
+second fastest after Taiwan at 60%, taking into account the top 30 smartphone markets in the world. With the increasing penetration of smart phones in the 
+country, there has been a significant rise 
+in the adoption of enterprise mobility. This upward growth trend in BYOD adoption is expected to become stronger in the 
+coming years.
+Smartphone penetration
+Source: Informa, KPCB, PwC AnalysisSmartphones subscribers (in millions) 2013
+Smartphones subscribers Y/Y growth (in %age)
+Level of company’s support for BYODGrowing	data	traffic:	India's mobile 
+data traffic is expected to grow four times faster than the fixed IP traffic between 2013 
+and 2017. In 2012, non-PC accounted for 
+10% of the IP traffic in India. By 2017 the non-PC share will grow to 53%. It is estimated that portable devices, such as smartphones and tablets will contribute 
+40% to the IP traffic in 2017 up from 3% in 
+2012. With the launch of high mobile data speed services like 4G LTE, mobile data traffic is expected to grow further. By 2017, 
+4G users would be up from 1% to 9%, and 3G up from 35% to 59%. 2G users, 
+however, will go down from 64% to 32%.It is estimated that India has the highest 
+percentage (69%) of employees who use a 
+mobile device for work. Apart from the US, India has the highest number of connected devices per knowledge worker 2.8 in 2012, and 3.2 in 2013. Interestingly, 
+30% of the Indian companies support all 
+employee-owned devices, second only to the US.
+BYOD is here to stay. Experts opine that about 50% of organisations in India will adopt BYOD as a strategy by 2017. 
+Economics is also driving rapid BYOD 
+adoption in the country. For organisations, 
+the main reason for investing in BYOD 
+policies and supporting infrastructure is to save money. Smaller companies with smaller budgets see this as an opportunity to lessen the equipment expenses, and 
+reallocate their hardware budget to 
+improve software and IT systems. Its adoption also revolves around increasing productivity by providing flexibility. It enables remote working or teleworking, 
+by ensuring that staff has the relevant 
+equipment for their roles.The increasing adoption of BYOD is significant in terms of policies, processes, ownership and jurisdiction ramifications 
+for organisations and individuals alike. 
+Most importantly, organisations are trying to devise ways and means to meet the security challenges posed by BYOD. The following can be possible solutions to 
+these challenges: 
+• Creating boundaries around open 
+content
+• Establishing a comprehensive access 
+policy
+• Securing devices on a regular basis 
+• Undertaking regular audits of devices 
+and data sets 
+• Establishing requisite hardware, 
+software and application led security controls
+Source: PwC analysis
+Growth in the enterprise mobility 
+applications is driving greater adoption and richer experience
+Enterprises are providing applications that 
+enable seamless access to enterprise 
+systems for employees, users and vendors 
+or partners. Some of these are in the form of endorsed platforms, for instance, financial institutions endorsing atom technologies’  ‘atom mobile banking’ for 
+enabling fund transfers. Such endorsed 
+platforms reduce the effort and time required for design, development, installation, support and ongoing 
+maintenance and provides for super 
+specialization. Such platforms, in most cases, are more economical for enterprises. These softwares as service platforms have grown to provide solutions 
+for clients, often enabling and leading 
+transformational capabilities for clients in their specialization niches.
+Businesses are also taking to commercial 
+off the shelf applications for efficiencies and productivity enhancement as part of their enterprise mobility strategy. Take 
+Dropbox, for instance, which is a well 
+recognised name in cloud computing. This app helps users sync their files easily and seamlessly with any device with any operating system. This addresses the 
+problem of making documents accessible 
+at all times with ease and across devices. 
+Several clients also prefer custom built 
+enterprise mobility applications to uniquely support their employees and clients. For instance, the electronic payment capabilities that all leading telecom operators have deployed in the country which provide employees, 
+intermediaries and customers with the 
+facility to make bill payments through any GPRS enabled device. These applications talk directly with the internal pre-paid and post-paid billing platforms. Similarly, 
+leading travel portals have custom built 
+applications for customers to book travel tickets through their mobile devices.
+Interestingly, several ‘mobile first’ 
+enterprise applications have been launched. These apps are built exclusively 
+for the mobile platform first and are later 
+ported to non-mobility platforms.
+Indian companies have moved on from 
+traditional emailing and social networking for enterprise mobility and are today looking at applications and platforms like ERP, CRM, SCM, sales force 
+automation, unified communication and 
+billing.
+Enterprise mobility application universe
+Common smart handheld services 
+Device-
+dependent  
+applications Competitive applications Employee horizontal applications Mass-consumption applications HTML5 only : Content applications 
+(news, books, video...) airline boarding 
+passes, cloud storage
+HTML5 only : Common corporate  
+applications such as ERR, CRM, MRP 
+cloud-based office productivity tool s
+HTML5 +: Mobile payments with  
+device-based native SDKs authentication 
+navigation, visual analytics The big question facing many CIO’s today is how to develop enterprise mobile apps for all the key mobile platforms.  Most 
+CIOs are today trying to deploy a hybrid 
+approach combining HTML 5 with one native deployment i.e. the main platform for which the application was initially conceptualised. As HTML 5 is a browser-
+based technology, it is dependent on the 
+web browsers and actually sniffs the type of phone accessing it. It automatically renders the screen size and optimises the 
+user experience for the end-user based on 
+their handset type. Resultantly, there is no need to build multiple versions coded to specific operating systems requirements and hence saves a massive amount of cost 
+to app development for businesses.
+Source: PwC analysis
+Sales,  marketing, customer service 
+and IT are the early adoptors of enterprise mobility solutions 
+within organisations. The HR, 
+supply	chain	management	and	field 	
+service departments are also keen to follow a similar pattern.
+Not surprisingly, the push for enterprise 
+mobility solutions has come from teams that needed to respond faster to situations. 
+Sales and marketing teams and customer 
+service teams,  which perform client or market facing roles are the first ones to benefit from the convenience and quick responsiveness available with enterprise mobility solutions on their hand helds. Organisations report that these teams 
+report a higher degree of satisfaction, 
+increased productivity and significantly better performance in meeting on ground targets. IT is another department that has made a push for investments in enterprise 
+mobility solutions. This helps this critical 
+support function to effectively respond to complaint calls and to monitor systems and networks in real time. Organisations report 
+improved responsiveness and lower down 
+times on account of enterprise mobility solutions deployed for the IT teams.
+
+Departments making investments in enterprise mobility solutions
+Departments deploying enterprise mobility solutionsInterestingly, other departments have also 
+seen the benefits of deploying enterprise mobility solutions and increasingly 
+investing in applications that help 
+universalise their back end systems. For instance, the human resources teams in several organisations are using enterprise mobility solutions in the following areas: 
+• Employee leave management 
+• Interviewing assistance
+• Learning assistance and tools
+• Time sheet management• Travel expense reporting and expense 
+receipt capturing
+• Manager portal 
+• Employee real time look up 
+These empower employees to complete 
+HR related work flows and requirements 
+whenever and wherever  any of their devices require them. These also help to accelerate the workflows through improved alerting and notification as well 
+as a faster approval processes.
+Finance IT Manufacturing 
+•	Payments approval 
+•	Real spend monitoring
+•	Travel expense reporting 
+and approval
+•	Compliance management•	IT change approval
+•	IT  incident management
+•	User experience management
+•	System monitoring •	EHS safety issues
+•	Quality issues
+•	Operations incidence management
+•	Resource management 
+Supply chain Sales 
+•	PO approval
+•	Sanctioned vendor listing
+•	Transport status notification
+•	Price discovery•	Material availability
+•	Customer and contacts
+•	Order status monitoring
+•	Sales order notification
+•	CRM cycle: lead to order management 65%
+45%42%
+35%
+22%
+18% 17%
+12%10%8%
+SalesM arketing Customer
+Service IT HR ProcurementSCM OperationsFinanceOthers
+Source: PwC analysis
+Adoption of controls for enterprise mobilitySecurity has emerged as the most 
+important concern for enterprise mobility solution deployers and 
+providers alike
+What is the real cost of a lost smart phone 
+enabled with enterprise mobility? 
+Security is undeniably the biggest challenge and the largest opportunity in enterprise mobility today. According to a recent PwC survey called State of 
+Information Security- India, 2014, Indian 
+businesses are starting to move beyond perimeter fencing of mobile devices and internal systems accessed through these 
+devices. Security for enterprise mobility 
+solutions has widened to having a mobility strategy (more than 50% organisations polled), deploying mobile device management software and strong 
+authentication on devices.Interestingly, Indian companies are 
+faring better than their global peers in the adoption of controls for mobility.
+Enterprises in India are increasingly 
+adopting biometric technologies to 
+strengthen safety strategies. Today's 
+smart phones are able to capture the voice, face and even hand geometry biometrics without resorting to add-on scanners or other peripherals. They are 
+being planned to be used for security 
+clearance in organisations, as they can capture enough physical information to authorise personnel.
+Source: PwC analysis
+Organisations in India are more proactive 
+in deploying security for customer facing mobile applications. In the same survey 
+mentioned earlier, more than 40% 
+respondents claimed that they have initiated secure mobile application development and established strong authentication on devices. A significant 
+number also claimed having transport 
+encryption for data security.
+Alarmingly, as organisations in India focus 
+on security for enterprise mobility solutions, only 21% organisations currently have security policies governing 
+the use of mobile devices and an even 
+lesser percentage (19%) have policies governing the use of consumer devices on the enterprise network. 
+Following are key technologies for 
+securing enterprise networks that will find greater adoption in the coming years: 
+• Centralised user data store
+• Behavioural profiling and monitoring
+• Encryption of smart phones
+• Intrusion detection tools
+• Vulnerability scanning tools
+• Asset management tools
+• Security information and event 
+management technologies  Security controls for customer facing applications in India
+47%
+42%
+37%
+36%
+34%
+32%
+29%
+26%
+25%
+19% Isolation of memo ry in the mobile appDedicated intrusion and prevention technologiesMemory is securely cleared when app is closedPenetration testingEncryption of sensitive data in the mobile appA unique set of ne twork and firewall policiesBasic authenticationTransport encryptionStrong authenticationSecure mobile app development
+Source: PwC analysis
+Enterprise mobility is about 
+collaboration and problem solving.
+Employees are already using devices for 
+problem solving. Instead of waiting for answers employees are using the mobile 
+devices to quickly and effectively reach 
+out for advice to solve tricky problems. For instance, in an automobile service station, line workers take photos of difficult repair jobs and share with co-workers to find the 
+right solution.
+Although, today, enterprises are in dire 
+need of help with the information 
+overload, they’ll soon be able to use the collaboration paradox to their advantage. mHealth Ecosystem
+Monitoring
+Healthcare Surveillance
+Healthcare AdministrationHealthcare Practitioner Support Solutions across Patient Pathway 
+Healthcare Systems StrengtheningPreven tionDiagnosisWellness
+Treatment
+Emergency ResponseMobile Service Op erators
+Content Providers
+Device Manufacturers
+Healthcare Service 
+ProvidersPlayers Solution s
+Individuals
+Government
+Healthcare Providers
+Banks are extending their collaboration with the customers through mWallet. Customers are able to make payments, 
+order cheque books, retrieve account 
+information, create fixed deposits and invest in instruments through applications on their phones.  Similarly, retailers are collaborating with their customers 
+through mCommerce and schools with 
+their students through mEducation.
+Interestingly, mHealth is extending 
+enterprise mobility into the realm of the physician and patient relationship. Physicians are today accessing patient 
+records and answering queries with data 
+backed insights from records on the go. Patients are getting reminders regarding medication and vaccination from physicians which is in turn ensuring 
+improved outcomes of the treatment 
+regimen. Devices are emerging as a key platform for social technologies. If these could be suitably channelled through appropriate 
+enterprise applications, organisations will 
+be able to reap immense benefits. The following features may prove to be of considerable value Integration with business critical applications
+• Curation and content organisation
+• IT management functionality to 
+support governance and compliance
+• Social analysis
+Farmers in the country now use their 
+phones to digitally monitor the operation of irrigation pumps. Many of them regularly access everything from crop 
+prices to weather forecast on their phones. 
+In the developing world, mobile-services providers are becoming the de facto colleges, delivering education through  
+the phone.
+Source: PwC analysis
+Several challenges confront organisations 
+wanting to espouse comprehensive enterprise mobility. 
+Computing the ROI of the 
+mobility strategy: Calculating ROI 
+from enterprise mobility solutions is 
+challenging. The impact of mobility solutions is far-reaching and too many variables influence a multitude of outcomes for the organisation. One 
+view is to analyse the performance 
+of the organisation on financial and operational parameters before and after the roll-out of enterprise-wide mobility 
+strategy. Another view is to ascribe direct 
+benefits to enterprise mobility strategy to calculate ROI. Nevertheless, there is no single accurate methodology to measure impact and thus the ROI for enterprise 
+mobility enablement.
+Integration of mobility into 
+overall business and IT strategy: 
+An enterprise-wide mobility strategy has far-reaching people, process and technology ramifications for the organisation. This implies that a mobility 
+strategy needs to be aligned with the IT 
+and business strategy of the company. The key challenge is in embedding mobility as a component of technology, people and process work streams of the organisation’s business strategy. 
+Skill sets for managing a mobile 
+workforce: Several organisations are challenged with skill sets, especially 
+within the IT department. These skills 
+are required to manage the slew of hardware, software, applications and devices that an enterprise mobility solution encompasses. Most importantly, 
+these skills needed to cater to varied 
+devices, mobile operating systems, and application environments are in short supply and difficult for non-IT firms to attract and retain (especially in India).
+Platform and device 
+standardisation: Enterprises are 
+pressed with the dilemma of choosing 
+a single or few mobile platforms in order to enable enterprise mobility architecture versus supporting enterprise mobility on all device types. Tied to 
+this is the question of the ownership of 
+devices. Organisations prefer to provide access on company-owned devices but realise that this is often expensive and 
+works contrary to the bring your own 
+device (BYOD) spirit.Asset management: Key assets used in 
+enterprise mobility need to be traceable, 
+manageable and governed from induction to retirement. Enterprises need to embed mobility asset management into their asset lifecycle management 
+processes. This is significant in terms of 
+the threat they can pose if not attended, accounted and safeguarded. 
+Jurisdiction and ownership: What 
+should be the policies and penalties (in case of breach) for data storage, 
+download and upload for personal 
+devices aligned to enterprise mobility? Who owns the data residing on personal devices--the enterprise or the individual? What are the company’s rights over 
+devices and data not its own? Questions 
+such as these need to be settled through debate and discussion in order to ensure more widespread adoption of enterprise mobility solutions. There are other 
+specific areas that challenge enterprise 
+mobility adoption. For instance, in the medical profession, who can access and see a patient’s medical history and profile from their handhelds has 
+spawned a debate encompassing issues 
+around data transmission and storage, data privacy, etc.Enterprise mobility 
+challenges 
+Policies: Organisations complain that 
+there are no best practices or precedents contextualised to India that govern 
+the enterprise mobility landscape. 
+Enterprises overlook the fact that each enterprise will have to work to establish its own boundary conditions for enterprise mobility. Each organisation 
+will have to create its own reference 
+model to policies, capabilities, roles and responsibilities and maturity model streams and phases.
+Experiences
+the IT team enthused in an era of rampant 
+attrition and mounting work pressure. Yet, it was adamant in not denying this freedom 
+of mobility and having dissatisfied-users. 
+The company aimed at freeing IT team 
+resources from managing non-strategic assets and instead having them focus 
+on high business value initiatives. The 
+company identified the kind of devices users were adopting, for example PCs, smartphones, tablets, etc. It started to identify the platforms users were adopting, 
+for example iOS, Android, Windows, 
+etc. It prioritised critical applications that require support such as email, conferencing, etc. The company as a 
+solution came up with a BYOD policy. It 
+gave users the mobility they were asking for. But the support for different devices brought about standardisation as well as a security challenge for the company. The 
+company therefore adopted virtual desktop 
+infrastructure (VDI). This created two partitions--personal and enterprise--on the BYOD devices. It alienated personal data 
+from enterprise data, thereby quenching 
+enterprise data security apprehensions. The VDI adoption, though expensive, had good ROI and management buy-in as it substituted the need for company-
+owned devices whose refresh cycle was 
+due and involved large capex. To free up IT resources, the company outsourced the support process to a partner with the necessary capability and expertise. 
+The company soon started to reap benefits 
+from its BYOD policy. Its employees experienced more job satisfaction. Their productivity shot up by more than 40%. The security of enterprise data was 
+ensured. And the company made huge 
+savings on account of reduced refresh cycle capital expenditure.
+Enterprise mobility in the farm
+A large Indian company is known for its healthcare products. Chemical X, a key component of its product offering, 
+is derived from marigold flowers. The 
+company’s fortunes depend on the tiny petals of the flower. The company wanted to have a controlled end-to-end process 
+from farming and harvesting the flower to 
+making the final product. It has partnered with farmers to produce and with agents to report the production. 
+The flower needs a well monitored 
+cultivation and harvesting cycle. The 
+company experienced that the farmers were increasingly missing the harvesting cycle and the agents, the inspection cycle. 
+The agents were using excel sheets to enter 
+inspection results. The entire data-feeding process had a significant turnaround time and wasn’t real-time. Also, the sheets were not helping the company’s horticulture 
+scientists to provide suggestions and 
+guidance on the produce. The produce was erratic and wasn’t meeting delivery requirements.
+The company decided to introduce a farm 
+management system (FMS) application. The application was hosted online in order to provide easy access to its partners--the agents. The system would automatically 
+send SMS reminders to the agents to avoid 
+inspection delays. Virtual desktop infrastructure 
+(VDI) creating a win-all paradigm
+A large multinational company has a well 
+diversified portfolio which spans several economic sectors. It has an employee 
+base of more than 75,000 in over 25 
+countries worldwide. The company has been a consistent investor in latest technology in order to drive forward 
+and backward integration in its business 
+and on leveraging synergies between its businesses. It focusses on in-house research and innovation to remain a low-cost manufacturer with high quality 
+products and innovative customer 
+offerings.
+With the ever evolving industry 
+environment, the company started to 
+experience a new wave of employee 
+expectations-- a more flexible working environment, the option to use their home PC or bring their own PC, use of smartphones and tablets,  access to social 
+networking and cloud apps. They wanted to 
+work, the way they wanted to work. 
+This led to more and more personal 
+devices entering the enterprise ecosystem. 
+Every such device was identified to be 
+potentially hostile. As in any organisation, the security of the enterprise data was critical to functioning. This mobility freedom was starting to incur more 
+monitoring effort from the IT team. The 
+company was facing a challenge in keeping 
+As online access to the system from the 
+field wasn’t flexible, data retrieval time from agents was still below acceptable 
+levels. The online access was leading 
+to agents entering data into the system without doing physical inspection. The challenge was to prevent them from this 
+malpractice, yet provide them with an easy 
+interface to feed data.
+The company provided smartphones to 
+farmers and agents. These phones enabled farmers and agents to feed real-time 
+data into the application. Geo-tagging 
+prevented agents from entering data when they were absent from the farms. Farmers provided pictures of the produce using 
+the smartphone and received suggestions 
+as well as weather forecasts from the scientists.
+The company soon started to realise the 
+benefits these efforts and investments. 
+Real-time data was reaching the company 
+system. Information flow was transparent and speedy. Scientists were able to better advise on cultivation practices. Chemical 
+X produce increased drastically. Raw 
+material costs as a result reduced and the company was able to deliver a better quality product.
+Placing power with patients
+A major and renowned government hospital  is considered to be a benchmark for establishing healthcare standards in 
+the industry for years. 
+With a large base of doctors, the 
+management decided to dynamically allocate time-slots to its in-house doctors. 
+These dynamic time-slots created a 
+challenge for its customers--to know the time-slot when their concerned doctor is available. The healthcare industry increasingly faces a challenge of 
+appointment desk staff timing. Customers 
+have to book their appointment during a particular time of the day. Also, with the huge influx of clients and limited 
+appointment slots, there has been a 
+scarcity of available appointments. This has been further escalated with appointment staff offering preference to clients. Therefore, the management was concerned that its customers were increasingly finding it difficult to book 
+appointments. 
+The healthcare industry is increasingly 
+facing the challenge to improve its offerings. Its customers are increasingly looking for mobile options for completing 
+non-critical tasks such as the physical 
+collection of reports, etc. The hospital wanted to provide flexibility to its customers as well as bring about a more 
+transparent appointment system. 
+The hospital introduced a new online 
+hospital service system. Customers could search for the doctor they wanted to book, check for his or her time-slot, check his 
+or her availability and get a confirmed 
+appointment. The system also allowed customers to download their reports, or access them online at a later time.   
+The hospital realised that customers 
+were finding it more convenient to book an appointment online without the requirement or intervention of a third person. The system also allowed the 
+reduction of hospital staff thus leading to 
+reduced operating expenditure. 
+Education for all
+Economic, social and technological forces continue to change our increasingly interconnected world. The adoption of 
+new technologies, the rapid obsolescence 
+of knowledge, the need for just-in-time learning and the search for cost-effective ways to meet the learning needs of a global 
+workforce have redefined the processes 
+that underlie the design, development and delivery of training and education.
+Estimates suggest that as much as 40% 
+of in person training costs actually go to 
+meet travel and lodging expenditures.
+In response, mUniversity is enabling end 
+to end education delivery and providing a unique  marketplace for learners, 
+educators, enterprises and governments.  
+mUniversity provides solution for various stakeholder challenges in the education ecosystem.mUniversity: Solutions for all 
+stakeholders
+Enterprises
+•	Total solution to manage Learning and 
+Development 
+•	Address  challenges around growing cost, trainers, scale, relevance and effectiveness
+•	No Capex better ROI
+•	Adds courses and lets employees pay as they use
+•	Delivers interactive training to employees, partners and customers 
+•	Freedom from Black Box of LMS
+Government
+•	Eradicates the birth penalty
+•	Better & affordable education for all
+•	Equal opportunity for every one
+•	Scalable vocational training infrastructure 
+•	Build a strong knowledge society 
+•	Improve employability 
+•	Reduce the digital divide
+Educators
+•	Buy, sell  and deliver courses online 
+•	No capex,  better ROI
+•	Enroll candidates for online & on campus 
+programs 
+•	Class to web, end to end solutions for education delivery management. 
+•	Use the same mUniversity platform for oncampus LMS needs
+Learners 
+•	Access top educators’ courses
+•	Affordable education, anytime-anywhere 
+for Students & Professionals
+•	One place for applying for on-campus & online programs 
+•	Your budget and your program 
+•	Earn Certificates and Diplomas
+•	Add wings to your career, stay up-to-date in your field
+•	Industry relevent courses
+ 
+India has over 3300 business schools and 
+several amongst  these  are stand alone business schools, which  are no longer  
+viable and sustainable from a  business 
+model perspective. Consequently an 
+increasing number of business schools are closing. Poor quality of product, over 
+supply, poor industry and academia 
+linkage, poor quality of teaching faculty, narrow vision of management are some of the reasons for this collapse. 
+Business schools are struggling to attract 
+and retain good academicians because 
+of non availability of  good quality faculty pool, high cost of full time faculty and faculties unwillingness to move to 
+disadvantaged locations. Alongwith this, 
+the cost of education delivery is growing. This  is passed on to students  making it unaffordable for many.
+Given this scenario,  the mUniversity 
+platform was launched by Aegis School of 
+Business and Telecom.Advantages of Aegis Business School’s mUniversity Model- 
+•	Better faculty from 
+around the world
+•	Total solution to manage Learning and 
+Development 
+•	Addressed challenges: 
+Growing cost, trainers, Scale, Relevance and Effectiveness
+•	No Capex better ROI
+•	Buy, sell and deliver courses online here
+•	Delivering courses to 
+candidates worldwide
+•	Enhanced revenue
+mUniversityContent 
+Authoring
+LMS  
+PlatformDevice  
+SamsungBandwidth 
+Tikona & 
+RComFaculty and 
+StudentmUniversity ecosystem
+The road ahead
+To ensure that enterprise mobility is a 
+success in India, the following are pre-requisites. 
+Making people mobility ready
+Organisations will need to evolve an entire support ecosystem around enterprise mobility. This necessarily includes 
+resources in the technology department 
+adept at the design, development, deployment and maintenance of devices and applications. With the proliferation 
+of devices, the mobility support team will 
+need talent adept on multiple technology platforms, in case organisations choose to support multiple device types. 
+Educating internal users is also critical 
+to the success of any enterprise mobility programme. Adherence to the first principles of design and development 
+and exhaustive user acceptance testing 
+will ensure that to an extent the intended user community is comfortable with these applications. Training will still play an important role, more so in the case of commercial off-the-shelf applications 
+made available to internal users. The 
+partner ecosystem will also need to be trained in effectively using applications made available to them. This will 
+often involve getting the troops in the 
+trenches to be trained to use what may be considered relatively sophisticated applications. For instance, a leading telecom provider has made available an asset barcode scanning application to its physical 
+verification partner for count-taking of 
+active elements at various tower sites in the country. The application is made available on handphones of field staff. 
+The staff has been trained to use the 
+application meaningfully in order to enable two-way communication on the veracity of data on assets on the ground.
+Enterprise mobility will also require 
+a change in the mind-set at the top. 
+To a CIO, mobility at this stage can be frustrating. It may seem a contradiction 
+to lower costs and improve security and 
+controls while simultaneously encouraging the innovation mobility can provide. Patience and a balanced control approach will be the main attributes of the IT 
+leader of mobility. Timing may differ, but 
+eventually mobility will play a significant part of any enterprise information services—both internally to the organisation and externally to customers. 
+Some people see the opportunity to 
+create a speciality position, that of chief information mobility officer.New governance model for greater 
+acceptability
+Enterprise mobility has roots in the 
+personal domain. Organisations need to be cognisant of the fact that unlike other 
+domains of professional life, the extent 
+to which they can influence and impact the relationship between the user and his or her device will always be limited. 
+Organisations have to understand that 
+enterprise mobility calls for a cultural shift in organisation-wide governance. 
+Mobility governance is a tricky 
+business. Excessive controls can stifle 
+creativity and the free spirit that are the 
+underpinning hallmarks of the enterprise mobility movement. On the other hand, being overtly relaxed could result in 
+mayhem and far-reaching undesirable 
+consequences for organisations. Organisations need to strike a balance with policies and processes that nudge and guide users to desirable behaviours 
+without being overtly restrictive. 
+Mobility also encompasses the spheres 
+of the customer and the partners. These stakeholders might be even less receptive 
+to any controls which are in dissonance 
+with their expectation of enterprise mobility. Hence, any governance model will have to be nuanced enough for greater acceptability from all constituents of the 
+ecosystem. 
+For instance, today it is difficult to impose 
+a traditional approach on enterprise mobility users. Users consider the device 
+their property and not a corporate asset 
+unless it is specifically provided for by the organisation. Hence, a centralised approach to security wherein one solution fits all might not work with users in case of 
+enterprise mobility.
+Enterprise mobility has to be the 
+business of business
+The iPhone changed it all. For the first 
+time, employees the world over had a gadget that provided use of ease 
+and experience never seen before. 
+Organisations were forced to port and make available applications that employees could access on the go on 
+their iPhones. For the very first time, the 
+choice of technology and its consequent ramifications was not steered through the offices of the chief information officer or the chief technology officer but by the 
+employees on the field and the office or 
+factory floor. 
+To start, many business leaders still 
+need to come to terms with the fact that 
+their employees are also consumers. As 
+a result of that disconnect, many—if not most—employees today are ahead of their employers when it comes to using mobile devices. Gone are the days when 
+workers passively accepted whatever IT 
+handed them. For the last few years, IT has been struggling to figure out how to let employees use their own phones for work 
+as well as play—without compromising 
+the security or integrity of established business processes. When employees with smartphones can download apps that help them do their jobs better than the tools 
+provided by IT, it‘s all the more important 
+to ensure that mobile strategy gets executed with employees in mind.
+Enterprise mobility continues to be an 
+individual user led phenomenon. The 
+organisation is but an enabler, reacting to the opportunity of gaining greater productivity from and engagement with key stakeholders in a hyper competitive 
+marketplace. However, the differentiator 
+here will rest in how the organisation chooses to react to the evolving mobility landscape. It is imperative that this is led 
+from the top. The senior leadership of the 
+organisation has to ensure that enterprise mobility is embedded in their stakeholder strategy. All three, people, processes and technologies, will need to be considered 
+when incorporating mobility into 
+organisation strategy. The dynamics of the ecosystem will inform and shape strategy and tactics for mobility. Managing legacy systems to 
+support enterprise mobility
+It is unlikely that organisations will be able 
+to rip apart age-old systems and enabling processes to adopt mobility in a single 
+stroke. Enterprises will need to establish 
+a gradual roll-out plan involving the following: 
+•	 Organisations upgrade legacy systems 
+or create intermediate systems in 
+order to enable mobility.
+•	 Organisations change or remove legacy systems that impede mobility and establish new systems.
+•	 Organisations create an alltogether new infrastructure dedicated to mobility and talking with the pre-existing systems.
+The choice of one or a combination of the above will depend on ROI that the organisations feel will be achieved from the mobility platform. 
+Most organisations are today working to 
+port parts of ERP and CRM systems on 
+their mobility platforms. Soon tablets and smartphones will be used to access entire ERP and CRM systems and a host of other 
+systems hitherto inaccessible through this 
+platform.Seamless experience between 
+mobility and reality
+Mobility solutions are being enabled for 
+customers. Organisations are challenged with ensuring that customer experiences 
+with the service or product and the brand 
+are seamless across all channels including the mobility channel. This implies that the brand DNA needs to be adhered 
+to for mobility solutions just the way 
+organisations have transposed the brand experience onto web interfaces. 
+For instance, a leading clothing 
+manufacturer allows customers to buy, 
+change, return, tailor clothes through 
+their mobility application at their brick-and-mortar stores across the country so as to enable a seamless and controlled 
+experience. 
+Similarly, the organisation cannot have 
+two distinct rule-sets for mobility and non-mobility usage for employees. Organisations will need to extend 
+enterprise platforms into their mobility 
+solutions and vice versa, if required. 
+About Aegis School of Business 
+and Telecommunication 
+Aegis School of Business and Telecommunication is run by Aegis Knowledge Trust. It is among the top 
+schools offering Telecom/ Technology Management Program. Aegis was started in 2002 with Bharti Airtel’s support to develop future telecom leaders with cross functional skills. Aegis Graham Bell Awards 
+is an initiative of Aegis for developing culture and eco system for innovation. 
+Aegis offers following programs in Full Time, Part Time Executive, Online and Graduate Certificate 
+model:
+• Masters Program/PGP in Telecom Management
+• Post Graduation Program (PGP ) in Business Administration; Business Consulting; Business Analytics 
+& Big Data; Cloud Computing and Enterprise Mobility
+• Executive short term courses in Telecom, Management and IT
+Aegis is pioneer in research and development in the field of Mobile & Online education. It is the first school to offer the mMBA on Tablet in 2011.  It has incubated the Mobile University (mUniversity) 
+platform which is an end to end digital platform for education delivery for learners, enterprises, 
+education providers and Government. mUniversity’s mission is to eradicate birth penalty by making quality education affordable and accessible to all. 
+About PwC 
+PwC helps organisations and individuals create the value they’re looking for. We’re a network of firms in 
+157 countries with more than 184,000 people who are committed to delivering quality in Assurance, Tax and Advisory services. Tell us what matters to you and find out more by visiting us at www.pwc.com. 
+In India, PwC has offices in these cities: Ahmedabad, Bangalore, Chennai, Delhi NCR, Hyderabad, 
+Kolkata, Mumbai and Pune. For more information about PwC India’s service offerings, visit www.pwc.com/in 
+PwC refers to the PwC network and / or one or more of its member firms, each of which is a separate legal 
+entity. Please see www.pwc.com/structure for further details.
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+Contacts
+Sivarama Krishnan  
+Executive Director 
+PricewaterhouseCoopers Pvt. Ltd. 
+Email: sivarama.krishnan@in.pwc.com
+pwc.in
+Data Classification: DC0: For General use only
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers 
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or 
+liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in 
+India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member 
+firm of which is a separate legal entity.
+NJ 101 - October 2013 AegisReport.indd
+Designed by: PwC Brand and Communications, India

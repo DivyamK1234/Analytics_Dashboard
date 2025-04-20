@@ -1,0 +1,1444 @@
+Title: pwc_retail-reinvention-paradigm-v1
+Date Published: 2025-02-26 14:24:02+05:30
+Source: pdfs/pwc_retail-reinvention-paradigm-v1.pdf
+
+--- CONTENT ---
+
+The retail reinvention 
+paradigm
+How brands could up their game
+Foreword 
+2  |    PwC  The retail reinvention paradigmAmidst unprecedented disruption driven by the meteoric rise of e-commerce and the 
+emergence of quick commerce – more than 280%1 during the last two years – India’s 
+retail sector continues to evolve at a rapid pace. Brands now have a greater number of 
+channels to sell their products across different categories to consumers. However, in order 
+to reap the benefits of the choice of channels available, brands must strategically deploy a 
+combination of channels to enhance consumer engagement and profitability, and capture 
+a larger share of the market by maximising consumer utility.
+To help both consumers and brands achieve this goal, our paper ‘The retail reinvention 
+paradigm: How brands could up their game’ explores the intricate relationship among 
+brands, channels, consumers and retailers in the offline and online space. Insights shared 
+in this report are based on a survey, conducted in collaboration with Hansa Research, of 
+over 1,000 retailers and 800 consumers across metro cities, tier 1, 2 and 3 cities in India. 
+These insights are further complemented with the data collected in a survey, conducted in 
+collaboration with Kirana Club of 508 retailers.
+While several striking findings emerged, one that caught our attention was the continued 
+success of brick-and-mortar retail in tier 2 and 3 cities. Despite the aggressive expansion 
+of quick commerce, brick-and-mortar retail remains a robust channel in these cities, 
+supported by independent retailers’ strong sense of service and engagement with their 
+loyal consumer base. These retailers view the e-commerce landscape as an opportunity 
+to enhance their offerings. What they are seeking is a level playing field in logistics, 
+delivery and technology policies from the government, as well as equitable pricing from 
+brands. Another revelation was the low awareness of and engagement with Open Network 
+for Digital Commerce (ONDC), which underscores a critical gap in outreach, education 
+and incentives pursued at driving retailer participation in the e-commerce ecosystem. 
+Resilience, reinvention and resurgence define the mood of offline retailers, especially in 
+tier 2 and tier 3 cities.
+Both consumer and retail brands can use similar insights from this report. For example, 
+they could seek ways of building a hybrid model in tier 2 and tier 3 cities which can 
+deliver an engaging and personalised shopping experience of a brick-and-mortar retailer 
+while retaining the utilities offered by digital channels. They could also consider actively 
+collaborating with offline retailers to strengthen their technological offerings to make their 
+business more agile.
+1 https://www.businessworld.in/article/quick-commerce-sales-in-india-surge-by-280-over-2-yrs-report-
+534674#:~:text=The%20report%20noted%20that%20while,and%20more%20convenient%20deliv -
+ery%20options
+As the retail sector continues to evolve, brands must visualise how consumer utility is 
+driven based on channel choices across different categories and target consumer cohorts. 
+They need to be cognisant of the geographic nuances which can impact the consumer 
+utility profile and also tailor their channels in accordance with how the target consumers 
+perceive utility. This will help brands become more relevant for their target consumers. It 
+will also facilitate minimising choices and aid optimal resource allocation. To assist brands 
+in this journey we have designed a ‘Retail reinvention framework,’ which helps retailers 
+capture the unique nuances of their product offerings across channels and consumer 
+groups and guides them in prioritising their next actions.
+We hope this report inspires you to reimagine your business strategy and seize the 
+exciting possibilities that lie ahead.
+Ravi Kapoor
+Partner and Lead – Retail and Consumer 
+PwC India  
+Somick Goswami
+Partner and Business Transformation 
+Leader
+PwC India Sanjay Dawar
+Partner and Lead – One Consulting
+PwC India
+Raghav Narsalay
+Partner and Lead – Research and 
+Insights Hub
+PwC India 
+3  |    PwC  The retail reinvention paradigm
+
+1. Navigating disruptions in the retail sector 
+2. Insights from PwC India’s research
+3. Implications of the research
+4. Next moves 
+5 PwC India’s retail reinvention framework
+6 Appendix  Contents
+4  |    PwC  The retail reinvention paradigm
+5  |    PwC  The retail reinvention paradigmNavigating disruptions in the 
+retail sector1
+First they see a product, ask for its rate, and then they open an app online and tell me 
+I am getting this rate online. What can I say to that?
+– Home care store owner | AsansolSometimes, it’s hard to understand 
+exactly what the customer wants. 
+They often show us photos of 
+products they’ve seen online, but it 
+can be difficult to figure out where 
+to source those items from. We have 
+to search because there’s so much 
+variety.I give loans/credit to my customers. I 
+used to do it earlier too, but now it has 
+increased. I give around INR 10,000–
+12,000, in fact I have also raised it to 
+INR 30,000 for a customer. They get 
+30-40 days to return it. I also do free 
+home delivery for online orders.
+Sometimes we think that a product 
+might perform well in the market, 
+but it doesn’t. Similarly, for this quick 
+delivery, we are not sure if the demand 
+would be there and our money could 
+be wasted in keeping these additional 
+stocks.No matter how often we get new 
+stock, we have noticed that customers 
+always come in looking for specific 
+trends. At first, it takes us some time 
+to understand what is popular. By 
+the time we figure it out and try to 
+meet their expectations, the trend 
+has already changed. This makes it 
+difficult to always keep up with what 
+customers want.– Apparel store owner | Amritsar– Packaged food store owner | 
+Bengaluru
+– Beauty and personal care store 
+owner | Bhopal– Apparel store owner | Mumbai  
+It is evident that not all is smooth sailing for the traditional r etailers’ ship. Retailers are 
+batting on a sticky wicket, one that demands maneuvering and good navigation skills, 
+an accurate assessment of the retail landscape and environment, awareness of the 
+potential hazards and essentially, the knowledge and ability to manage grey rhino events, 
+not merely black swans. Therefore, it is time for retailers to reinvent themselves to be on 
+the crest of the digital wave and enable customers to exercise the flexibility of making 
+a purchase virtually or physically based on the cost of the product, ease of access and 
+comfort of the buyer. 
+Statistics indicate that
+• Quick-commerce in India has expanded at an impressive 73% annual growth rate 
+during FY 2023-242 
+• 77% of Indian shoppers prefer to shop from an omnichannel brand.3 
+Overall, the retail market in India is expected to grow to USD 1,892 billion by FY30, at a 
+compound annual growth rate (CAGR) of 10.3%, with e-commerce, the fastest growing 
+channel, notching a CAGR of 22.5% and touching USD 220 billion by FY30.4
+6  |    PwC  The retail reinvention paradigm2 https://www.businessworld.in/article/quick-commerce-sales-in-india-surge-by-280-over-2-yrs-report-534674#:~: -
+text=The%20report%20noted%20that%20while,and%20more%20convenient%20delivery%20options
+3 https://brandequity.economictimes.indiatimes.com/news/research/77-per-cent-of-indian-shoppers-prefer-to-
+shop-from-an-omnichannel-brand-report/101410510
+4 PwC analysis 
+7  |    PwC  The retail reinvention paradigm
+Figure 1: An overview of the retail industry in India (USD billion)
+Source: PwC analysis64 80 98 121 148 181 220 123 1461742072442863358559321,0111,0921,1741,2561,338
+ - 200 400 600 800 1,000 1,200 1,400 1,600 1,800 2,000
+FY24 FY25 (P) FY26 (P) FY27 (P) FY28 (P) FY29 (P) FY30 (P)
+E-commerce Modern Trade General TradeFY25-FY30 CAGR
+E-commerce: 22.5%
+Modern trade: 18%
+General trade: 7.5%
+Overall retail: 10.3%
+On the face of it, this augurs well for the retail industry as disruption in the retail 
+landscape today is more a norm than an exception. Traditional retail has made room for 
+e-commerce by way of reduced cost, and the availability of a wider range of products 
+and convenience. Quick commerce (Q-commerce) has taken that to the next level with its 
+promise of ultra-fast delivery times which is further intensifying competition among retail 
+giants. Omnichannel retailing, with its integration of various shopping channels – online, 
+in-store, mobile, social media – provides a seamless customer experience across multiple 
+touchpoints, giving consumers the flexibility to shop anytime, anywher e. The retail sector 
+therefore is clearly in a state of flux, suffering from Jevons Paradox5 which implies that 
+while e-commerce and omnichannel are leading the charge and facilitating, enhancing 
+and accelerating the shopping experience, they are paradoxically making the competition 
+fierce, prompting traditional retail to reinvent itself to stay the course. 
+8  |    PwC  The retail reinvention paradigmTo understand the current dynamics of the retail sector in India, PwC India conducted 
+a survey between December 2024 and January 2025 to:
+• assess how traditional retailers perceive e-commerce/online shopping platforms
+• understand the shift in consumer behaviour from offline6 to online7 shopping
+• sift out opportunities for brands to be ahead of the evolving retail curve. 
+The survey – conducted across metro cities and tier 1 cities such as Mumbai, Bengaluru, 
+Jaipur, Bhubaneswar, Bhopal and tier 2 and tier 3 cities like Asansol, Amritsar, Gwalior 
+and Karimnagar – included online interviews with several operational and sales heads of 
+retailers and face-to-face interviews with 1,026 traditional retailers. 
+Approximately 120 traditional retailers were covered under each specified category 
+– apparel, white goods, beauty and personal care, fresh produce, packaged foods/
+groceries, home care, fashion and accessories, home furnishing, and sports and 
+fitness. Online interviews with 822 consumers provided a perspective on how shopping 
+experiences were impacting their preferences for physical and virtual environments. 
+5 Jevons paradox is an economic theory formulated by William Stanley Jevons  in 1865. It states that when 
+a resource becomes more efficient, demand for it may increase instead of decrease. This is because the 
+resource becomes cheaper to use, which can lead to more people using it. Jevons observed that more 
+efficient steam engines would not reduce the amount of coal used in British factories, but would actually 
+increase it. As coal became cheaper, demand for it would increase, which would lead to the construction of 
+more engines. The paradox can be applied to other resources including energy-efficient cars, appliances, and 
+light bulbs and, in this instance, retail.
+6 Offline- general trade, modern trade, multi-brand outlet and exclusive brand outlet 
+7       Online- Q-commerce, pure-play marketplace (PPMP), brand websites and category websites
+9  |    PwC  The retail reinvention paradigmFigure 2: Sample coverage of the survey (quantitative+ qualitative)
+Source: PwC analysisConsumer
+Gender
+Geography419 403
+Tier 1 Tier 2/3
+18 261 561
+Tier 1 Tier 2/3
+18 419 607Traditional Retailer
+Geography
+This ushers in opportunities for them to realign and reinvent in accordance with the 
+changing requirements of the retail world. From a growth perspective, capturing 
+mindshare and wallet share across categories and channels demands a laser focus 
+on maximising customer utility. This, in turn, entails finding the optimal combination of 
+channels and categories to deliver maximum utility to an individual consumer at any given 
+time. Importantly, while brands can control the utility to be delivered with their categories 
+and channels, they can also influence the consumer’s decision by engaging the utility 
+levers of pricing, convenience, variety, engagement and experience. Therefore, it becomes 
+pertinent for brands to understand what utility looks like for each consumer cohort across 
+the channel choices that consumers could consider in a product category.Categories of productsChannels through which 
+they sell  Consumers/customers The survey highlights a symbiotic relationship among various elements of the retail 
+ecosystem, where each influences the other. Brands aim to maximise the value they 
+gain primarily from   
+Insights from PwC India’s 
+research2
+10  |    PwC  The retail reinvention paradigmDriving retail reinvention entails focusing on pivotal aspects of the retail ecosystem.  
+Our research underscores the following four overarching themes that could perhaps  
+set the course:
+Is the omnichannel 
+retail success 
+greater than the 
+sum of its parts? Is Q-commerce more 
+common in metro 
+cities and tier 1 cities 
+than in tier 2 and tier 
+3 cities?What is the offline 
+retailer’s recipe for 
+success in the new-
+age digital world?How will the brick-
+and-mortar retail 
+reinvention unfold? 
+Is the omnichannel retail success 
+greater than the sum of its parts?
+Customers don’t want to choose 
+between online and offline. They 
+want both. Some days, they 
+want to shop from the comfort of 
+their homes, and, on other days, 
+they enjoy walking into a store 
+and experiencing the products. 
+We have to be ready for both 
+situations.
+– Apparel store owner | 
+Karimnagar1
+“
+The omnichannel retail experience in India is a work in progress. Though it has led to 
+various levels of success for brands and consumers, the success is often perceived as 
+more of a fragmented journey than a cohesive whole. The personal consumption space 
+has embraced the online shift robustly, offering convenience and a wide array of choices. 
+However, when it comes to family-oriented purchases, consumers still prefer a hybrid 
+approach, blending online research with offline shopping to achieve a sense of tangible 
+assurance and quality. Despite the potential technology has to offer to help them grow, 
+brick-and-mortar retailers are yet to fully harness digital technologies to enhance in-store 
+experiences effectively. The survey’s findings indicate:
+For personal products, online shopping is the preferred choice for more than 50% of 
+consumers, especially in categories such as apparel, beauty and personal care, fashion 
+and accessories, and sports and fitness. On the other hand, family-related products, 
+such as fresh produce, home furnishings, white goods and home care products, are still 
+more commonly made in-store as these purchases often require more tactile and sensory 
+engagement. While the shift to online shopping for personal items is indeed sharp and 
+undeniable in metro cities and tier 1 cities, the overall trend is more nuanced. It is not 
+an across-the-board transition but a segmented shift which differs between consumer 
+categories and geographical areas.   The shift towards online purchase is stronger when making purchases for 
+individual consumption (53%) than for family/group purchases (36%).
+11  |    PwC  The retail reinvention paradigm
+12  |    PwC  The retail reinvention paradigmWhile apparel and beauty and personal care categories are  
+primary drivers of the ongoing shift toward online consumerism, 
+nearly 45% of consumers still prefer a combination of both online 
+and offline channels.34 2739Negative
+Positive
+Neutral422336Negative
+Positive
+Neutral382636Negative
+Positive
+Neutral34 2936Negative
+Positive
+Neutral352441Negative
+Positive
+Neutral
+343135Negative
+Positive
+Neutral3730 33Negative
+Positive
+Neutral312445Negative
+Positive
+Neutral28 2547Negative
+Positive
+Neutral30 2743Negative
+Positive
+Neutral43 63 56 46 46(Base 1026) (Base 124) (Base 132) (Base 114) (Base 85)Overall Apparel Beauty and
+personal careFashion
+accessoriesSports
+and fitness
+Packaged
+foodsWhite goods Home care Home
+furnishingFresh
+produce
+(Base 261) (Base 123) (Base 124) (Base 119) (Base 122)
+41 40 36 33 29Consumer shift to online shopping
+Shopping on categories
+Consumer shift to online shopping
+Shopping on categoriesFigure 3: Impact of e-commerce and online shopping apps (in percentage)
+Retailer
+Source: PwC analysis
+As digital platforms continue to evolve, some categories have capit alised on the inherent 
+advantages of online shopping – increased demand for convenience, personalisation and 
+immediacy. Interestingly though, nearly 50% of the consumers surveyed prefer a hybrid 
+model, a combination of both channels when making purchases – driven essentially by 
+the products to be purchased — thus keeping the tension between the offline and online 
+channels alive. Physical stores still hold an appeal as 34% said they would prefer only 
+offline shopping compared to 21% who said they would prefer only shopping online of the 
+overall surveyed consumers. The primary reasons for shopping offline include the ability to 
+see and try products before buying, the trust in the store/brand, and the in-store shopping 
+experience. This is further corroborated by the fact that some retailers are beginning to 
+personalise the offline experience for each customer, tapping into the hitherto untapped 
+power of unique in-store experiences.  
+13  |    PwC  The retail reinvention paradigmSource: PwC analysisFigure 4: Mode of purchase – offline vs online (in percentage)
+Consumer
+(Base 808) (Base 808) (Base 793) (Base 733) (Base 814)Apparel Beauty and
+personal careFashion
+accessoriesSports
+and fitnessPackaged
+foods/
+groceries
+White goods Home care Home
+furnishingFresh
+produce
+(Base 702) (Base 811) (Base 734) (Base 809)Consumers’ mode of purchase : Offline vs. online
+Consumers’ mode of purchase : Offline vs. onlineBoth
+Offline
+Online56
+24
+2051
+24
+2558
+20
+2253
+19
+2945
+29
+27
+Both
+Offline
+Online37
+43
+2048
+36
+1633
+52
+1527
+58
+14
+14  |    PwC  The retail reinvention paradigm
+Consumers today expect more than just easy access to products — they seek engaging 
+experiences that add value to their shopping journey. In tier 2 and tier 3 markets, demand 
+for immersive retail is rising, particularly in fashion, sports and other tactile categories 
+where in-store interactions considerably shape purchase decisions. On the other hand, 
+metro cities continue to prioritise experiential beauty retail and seamless convenience in 
+everyday essentials such as packaged foods and fresh produce.
+15  |    PwC  The retail reinvention paradigmOverall Metro cities/
+Tier 1Tier 2/3
+Apparel 39 37 42
+Fashion and accessories 38 36 43
+Beauty and personal care 35 36 32
+Sports and fitness 34 33 36
+Overall Metro cities/ 
+Tier 1Tier 2/3
+Packaged foods 42 42 41
+Fresh produce 39 36 40
+Home care 37 38 36
+Overall Metro cities/ 
+Tier 1Tier 2/3
+White goods 40 37 46
+Home furnishing 39 40 38Wearing and looking good
+Eating and consumption
+Functional/tactileFigure 5: Demand for enhanced in-store shopping experience (in percentage)
+Source: PwC analysis
+While traditional retailers clearly acknowledge the potential of technology to lure 
+customers, many stores continue to use digital tools primarily for functional purposes 
+rather than for enhancing the in-store customer experience. This highlights the 
+opportunities arising from the significant digital gap waiting to be bridged. While AI-driven 
+solutions such as recommendation engines and virtual fitting rooms have alleviated 
+common online shopping barriers like sizing and fit, brick-and-mo rtar retailers are yet 
+to leverage similar innovations to optimise the generative experience and facilitate a 
+seamless, engaging customer journey.  Despite the demand for in-store interactions, 53% of retail 
+stores are yet to implement a technology solution in their 
+traditional stores. 
+In the apparel industry, consumers 
+are now more deliberate, particularly 
+with their offline shopping, and 
+expect high-quality experiences. With 
+the convenience of free returns and a 
+willingness to experiment, technology 
+will be crucial in determining which 
+offerings succeed and which do not.
+– CXO | Fashion and lifestyle brand | 
+Mumbai   “
+16  |    PwC  The retail reinvention paradigm
+17  |    PwC  The retail reinvention paradigmHowever, as opportunities to gather insights on consumer profiles and preferences grow, 
+brick-and-mortar stores can enhance their customer centricity efficiently by staying 
+current with the use of technology. As revealed from our interviews, fast moving consumer 
+goods (FMCG) brands are increasingly introducing new products online for quick trials 
+before expanding to offline channels across broader regions. Similarly, apparel brands are 
+leveraging online consumer data to refine in-store merchandising at a local level.
+Therefore, the ability to collect and analyse consumer data allows physical stores to 
+optimise their operations, giving them steam to compete with online brands. Also, by 
+gauging local consumer preferences, retailers can tailor their in-store product selections 
+to better meet the needs of their specific customer base, potentially increasing sales and 
+customer satisfaction. The integration of online insights with offline strategies therefore 
+underscores the importance of an omnichannel approach, where both digital and physical 
+presences complement each other to create a seamless and efficient retail experience.
+53
+26
+24
+20
+19
+15 None
+ Customer relationship
+management (CRM) tools
+ Online ordering or
+delivery platforms
+ Point of sale (POS) systems
+ Chatbots or automated
+customer service
+ Inventory
+management softwareTechnology measures taken by retailersFigure 6: Technology measures taken by retailers (in percentage)
+Source: PwC analysis
+18  |    PwC  The retail reinvention paradigm
+Q-commerce has firmly established itself in India’s bustling metro cities and tier 1 cities 
+driven by the convenience demands of affluent city dwellers. In a study undertaken by 
+Kirana Club,8 508 surveyed traditional retailers reported a drop in frequency of customer 
+visits to stores and a subsequent drop in foot traffic, which is higher in tier 1 markets and 
+across larger store formats. Is Q-commerce more common in 
+metro cities and tier 1 cities than in 
+tier 2 and tier 3 cities?
+FMCG brands in metro cities and 
+tier 1 areas continue to reach the 
+same customer base through 
+various channels. Although 
+Q-commerce has introduced 
+an additional channel, it hasn’t 
+significantly expanded the 
+customer base. The anticipated 
+growth for these brands is likely 
+to come from deeper market 
+penetration in rural parts of India. 
+– Suraj M | Head of Sales | KRBL  2
+“
+8 Note: Kirana stores – the backbone of India’s neighbourhood shopping — are facing a new wave of disruption. 
+To understand how Q-commerce is influencing these retailers, Kirana Club conducted an in-depth research 
+to capture insights directly from a diverse mix of 508 traditional retailers across its platform. Read more about 
+Kirana club in the Appendix.
+19  |    PwC  The retail reinvention paradigmOn the flip side, Q-commerce’s expansion into tier 2 and tier 3 regions, as per our 
+research, reveals a contrasting narrative as non-metro cities’ retailers remain largely 
+unpressured by Q-commerce’s entry. The challenges for Q-commerce in tier 2 and tier 3 
+areas are manifold – delivery costs soar over greater distances and fragmented demand 
+makes inventory management inefficient. Our survey’s findings indicate: Q-commerce’s impact on essential categories is significant, with 52% of retailers 
+reporting a sales decline in food, beverages and confectionery. This is followed by 
+personal care and hygiene (47%) and household cleaning and care (33%).  On the 
+other hand, there is minimal impact on niche categories such as childcare, beauty, 
+and wellness, which remain least affected. 
+Interestingly, prices on notable Q-commerce platforms are at a premium of 
+anywhere between 10% to 20% with a plethora of add-on charges. But that’s a 
+price affluent urban customers are willing to pay for hyper-fast delivery services, 
+prioritising convenience over cost. ` Metro cities (T1) T2 cities and smaller townsPercentage drop 
+in frequency 
+of visit by 
+consumer 
+category type
+Small retailers
+Medium retailers
+Large retailers
+Total (metro 
+cities)
+Small retailers
+Medium retailers
+Large retailers
+Total (T2 cities 
+and smaller towns)
+Food, 
+confectionery and 
+beverages78 57 58 66 51 48 46 49
+Personal care and 
+hygiene44 57 68 54 42 46 29 45
+Household 
+cleaning and care50 37  37 42 29 27 28 31
+Baby and 
+childcare22 20 11 18 16 16 13 15
+Beauty and 
+cosmetics19 7 11 14 13 11 15 13
+Heath and 
+wellness14 10 5 11 6 5 6 6Figure 7: Percentage drop in frequency of visits by consumer category type
+Source: Kirana Club Research 
+In its initial days, e-commerce was driven with pricing as a key utility lever. However, with 
+the rise of Q-commerce, the game has now veered towards convenience and impulse 
+over pricing.
+The quickness of delivery aligns closely 
+with the impulsive nature of the category. 
+In Q-commerce, customers are more 
+focused and intentional, akin to hunting 
+rather than grazing. Due to limited 
+screen space and product variety, they 
+tend to make more decisive choices. So, 
+some categories are expected to thrive 
+more than others.
+– Nissan Joseph | CEO | Metro Brands“
+20  |    PwC  The retail reinvention paradigmIn our survey 42% of consumer respondents from metro cities 
+and tier 1 cities prefer quick delivery for urgent needs, and 
+this rise of hyper-fast delivery services has reduced foot traffic 
+to physical stores by 28%. 
+Q-commerce, understandably so, is synonymous with instant gratification – and 
+the ease of skipping checkout line is aligned with consumer expectations of 
+convenience-on-demand. Certain product categories are trying to live up to that 
+expectation in a nuanced manner. 
+In the fashion industry, which 
+is highly engaging, we must 
+meet customer expectations 
+and provide excellent in-store 
+experiences. Q-commerce offers 
+an opportunity for this industry 
+to present merchandise which 
+prioritises convenience such as 
+a white shirt or black trousers. 
+These are items that don’t require 
+much thought about size or fit 
+as customers already know what 
+they need.
+– CXO | Fashion and lifestyle brand | 
+Bengaluru  “
+21  |    PwC  The retail reinvention paradigm
+22  |    PwC  The retail reinvention paradigmThe shift to Q-commerce in metro cities and tier 1 cities is intensifying with a few 
+prominent e-commerce giants intent on expanding their Q-commerce segment by 
+launching 300 to 500 dark stores within this year.9 However, for tier 2 and tier 3 cities, the 
+number is muted. Lack of clear return policies and limited assortments may turn out to be 
+deal breakers for some consumers. To address these concerns, Q-commerce companies 
+have begun to experiment by splitting the orders to a range of dark stores, which in turn 
+impacts their lightning speed delivery promise. Over 65% of consumers in metro cities and tier 1 use 
+Q-commerce to avail of packaged foods, fresh produce and home 
+care products. Recent reports highlight that e-commerce giants 
+are all set to launch dark stores. 
+What is the offline retailers’ recipe for success in 
+the new-age digital world?
+We have realised that we cannot compete with 
+the low prices and discounts offered online. So, to 
+add value for our customers, we offer free delivery 
+within a 2 km radius until 9pm. Over time, we 
+have built strong relationships with our customers, 
+and many of them now place their orders through 
+instant messaging or phone calls.
+– Packaged Goods | Retailer | Asansol3
+“Reasons for preferring Q-commerce Average %
+Quick delivery for urgent needs (usually within 10–15 min) 42
+Access to a wide variety of products across multiple categories 40
+Convenient for unplanned or last-minute purchases 40
+Easy to use with minimal steps for ordering 39
+Availability of detailed product specifications and reviews 38Figure 8: Consumer preference for Q-commerce in metro cities/tier1 cities (in 
+percentage)
+Source: PwC analysis
+9 The Economic Times
+23  |    PwC  The retail reinvention paradigmIn an era where digital retail seems to overshadow traditional models, offline-first 
+retailers are discovering that their narrative isn’t one of inevitable decline but rather of 
+resilience and adaptation. While 60% of traditional retailers view the rise of e-commerce 
+as a looming threat, a forward-thinking 27% are transforming this challenge into an 
+opportunity, using the digital shift to enhance customer service and diversify offerings. 
+Overall Metro cities/ 
+Tier 1 citiesTier 2/3 
+cities
+Helped increase awareness about 
+products I sell.66 72 56
+Made customers more informed and 
+easier to deal with.66 75 50
+Motivated me to improve customer 
+service and offerings.66 74 50
+Driven more customers to my store 
+for unique/local products.56 68 35
+Made it easier to access trending or 
+fast-moving products.46 47 44
+Wholesalers can make bulk purchases 
+online and increase supply quantity.45 44 47
+Allowed me to partner with online 
+platforms to expand my reach.41 45 34
+Buy online during the sale period and 
+then sell it to consumers at increased 
+prices.30 31 29
+Online platforms enhance the 
+visibility of the latest trends, allowing 
+consumers to purchase similar styles 
+from our store at more affordable 
+prices.29 32 24Figure 9: Impact of e-commerce on retailers (in percentage)
+Source: PwC analysis
+24  |    PwC  The retail reinvention paradigmApproximately 60% of traditional retailers perceive online shopping as a significant threat 
+while 23% believe it has had no impact on their business. However, when assessing 
+the actual impact, only 34% of traditional retailers reported experiencing negative 
+consequences from the rise of online shopping while 39% were yet to see any impact. 
+Thus, the perceived threat may be more of an anticipated risk, rather than one backed 
+by substantial evidence. Our research also indicates that direct-to-consumer brands are 
+looking to go offline to scale up.
+Not all traditional retail stores across categories consider e-commerce as a threat. There 
+are those that perceive it as an opportunity to elevate customer service, diversify their 
+product offerings and leverage online platforms to expand their reach. For instance, 
+28% of apparel retailers and 25% of beauty and personal care retailers perceive online 
+shopping as an opportunity to improve product awareness and customer service. Also, 
+some retailers are of the view that while digital commerce is growing exponentially, on the 
+ground it is not entirely eating into the traditional retail market. Rather, there is a rub-off 
+effect wherein different channels, including traditional and modern trade, and e-commerce 
+are influencing one other.According to the survey, 29% of traditional retailers perceive 
+online shopping as an opportunity. Moreover, 27%  have seen a 
+positive impact of online shopping on their business.Offline retailers, perception of online shopping is more an 
+apprehension than a threat for the time being.  Survey findings indicate: 
+Both Offline Online 45 34 21Perception
+60
+29
+23Threat
+Opportunity
+No impactActual impact
+34
+27
+39Negative
+Positive
+Neutral
+Consumer preferenceRetailers’ perception
+Source: PwC analysisFigure 10: Perception of e-commerce by retailers and consumers (in percentage)
+(Base 1,026) (Base 124) (Base 132) (Base 114) (Base 85)Overall Apparel Beauty and
+personal careFashion
+accessoriesSports
+and fitness
+Packaged
+foodsWhite goods Home care Home
+furnishingFresh
+produce
+(Base 261) (Base 123) (Base 124) (Base 119) (Base 122)Retailers’ perception about online shopping
+Retailers’ perception about online shoppingThreat
+Opportunity
+No Impact
+Threat
+Opportunity
+No Impact60
+29
+2367
+28
+1865
+25
+1867
+28
+2058
+34
+24
+61
+29
+2062
+27
+2355
+28
+3056
+31
+2552
+34
+25
+25  |    PwC  The retail reinvention paradigmSource: PwC analysisFigure 11: Perception about e-commerce/shopping apps by retailers across various 
+categories (in percentage)
+Retailer
+26  |    PwC  The retail reinvention paradigm• 22% of impacted traditional retailers 
+(and those that reported a dip in 
+sales) are using deeper discounts 
+(15% retailers with >10% sales dip, 
+7% with <10% sales dip) to stay 
+competitive.
+• 6% traditional retailers are 
+introducing offers/schemes, with a 
+stronger push from those hit harder 
+(5% retailers with >10% dip, 1% 
+with <10% sales dip).• 15% traditional retailers are doubling 
+down on home delivery, leveraging 
+personal relationships to beat 
+Q-commerce’s efficiency challenges 
+(10% retailers with >10% sales dip, 
+5% with <10% sales dip). 
+• 18% traditional retailers are 
+optimising their product mix and 
+quality to stabilise and grow sales.
+• This is more common among 
+12% retail stores  with >10% dip 
+compared to 6% with <10% dip.• 13% are focusing on customer 
+relationships, ensuring retention 
+and engagement. There is more 
+emphasis in stores with higher 
+impact (9% retailers with >10% sales 
+loss versus 4% with <10% impact).
+• 8% are experimenting with food 
+stalls, credit extensions and other 
+new business ideas to offset losses.Discounts and offers Home delivery 
+Assortment CRM 
+ Other measuresTraditional retailers are gradually adapting — balancing discounts with assortment 
+improvements, strengthening local advantages such as home delivery and customer 
+relationship management (CRM), and exploring new revenue streams. The bigger the 
+sales hit, the stronger the response.Advantage Kirana stores: Highlights of a research conducted by 
+Kirana Club with 508 traditional retailers
+According to the survey,  64% traditional retailers are fuelling their 
+marketing and customer engagement strategies predominantly from 
+their own pockets, relying on internal savings or profits, clearly 
+showing their willingness to engage with the perceived threat.
+27  |    PwC  The retail reinvention paradigmThis trend is even more pronounced in metro cities, where most traditional retailers rely 
+on self-funding, while tier 2 and tier 3 retailers show a higher dependency on informal 
+loans and supplier credit. 44% leverage credit from suppliers or distributors while 55% 
+seek bank loans and turn to financial institutions for support, thus showcasing a mix of 
+resourcefulness and financial partnerships in driving growth. 
+Top five customer engagement activities All Metro 
+cities/tier 
+1 citiesTier 2 
+and 3 
+cities
+Offering personalised customer service 44 57 26
+Stocking products which are not available online 41 47 33
+Offering competitive pricing 41 47 33
+Flexible return or exchange policies 40 50 24
+Ensuring that staff communicates politely and 
+with patience38 49 21
+Top five marketing activities All Metro 
+cities/
+tier 1 
+citiesTier 2 
+and 3 
+cities
+Offering discounts or bundled offers 48 49 46
+Using social media for promotions 43 43 44
+Partnering with local businesses for promotions 41 41 41
+Sending personalised messages (e.g. instant 
+messaging services, email)37 39 35
+Organising in-store promotions and events 32 30 36Figure 12: Top initiatives implemented by traditional retailers to compete with 
+e-commerce (in percentage)
+Source: PwC analysis
+Of the 1,026 traditional retailers surveyed, 10% are currently operating dark stores, while 
+21% plan to soon. With e-commerce continuing to dominate, the concept of dark stores 
+is gaining prominence to expand retailers’ reach by efficiently serving online customers 
+and to save on operational costs. Notably, retailers in the fashion, accessories and apparel 
+sectors, particularly those in tier 2 and tier 3 markets, are more eager to adopt dark 
+stores. 
+Retailers who are operating or are planning to ope rate dark stores 
+10
+21
+69Currently operating
+Plan to operate
+Do not operate or plan to operate
+How will the brick-and-mortar retail 
+reinvention unfold?
+We feel like we’re being left behind. The world is 
+changing so fast, and we’re struggling to keep 
+up. We need someone to guide us about these 
+online apps, to show us how to use technology to 
+grow our business. I wish the government could 
+have been supportive towards us because we are 
+struggling especially on how to go online.
+– White goods store | Gwalior4
+“
+28  |    PwC  The retail reinvention paradigmMoreover, about 21%  of traditional retailers are exploring 
+dark stores. 
+Source: PwC analysisFigure 13: Percentage of traditional retailers operating/planning to operate dark 
+stores
+Survey findings indicate  60%  of traditional retailers believe 
+improved access to technology can empower them to enhance their 
+competitiveness.  The landscape of brick-and-mortar retail is poised for reinvention as digital commerce 
+continues to disrupt traditional models. While the rise of online shopping presents 
+challenges, it also offers a unique opportunity for brick-and-mor tar retailers to level the 
+playing field. Approximately 60% of traditional retailers believe that improved access 
+to technology – particularly chatbots, automated customer service tools, point of sales 
+system, inventory management software – could empower them to compete effectively 
+against digital platforms, highlighting how digital tools can be ha rnessed as powerful allies 
+rather than threats. Amidst this disruption, ONDC remains an under-the-radar revolution, 
+with limited awareness among retailers and consumers. 
+Brands and traditional retailers believe integrating AI-driven analytics and mobile 
+applications can enable them to understand customer preferences better and tailor 
+their offerings, accordingly, making it an interactive experience with human touchpoints. 
+Further, a data-driven approach could also help them enhance their ability to compete 
+with online platforms by offering competitive prices and targeted promotions.
+29  |    PwC  The retail reinvention paradigm
+30  |    PwC  The retail reinvention paradigmCategory Overall Metro 
+citiesTier 2 
+and 3 
+cities
+White goods 68 63 76
+Sports and fitness 64 66 61
+Apparels 62 66 57
+Fashion and accessories 61 62 59
+Beauty and personal care 60 65 51
+Packaged goods and Beverages 60 66 53
+Home furnishing 59 64 53
+Home care 57 57 57
+Fresh produce 49 45 55Retailers are demanding better access to technology 
+59%Figure 14: Percentage of traditional retailers who prefer better 
+access to technology (across categories) 
+Source: PwC analysis
+Flexible return policies (40%), efficient after-sales service (39%), 
+and better payment options (39%) top the list of consumer 
+priorities.
+For consumers, hassle-free shopping and post-purchase support are important. 
+When deciding to visit offline stores more frequently, they often prioritise assortment, 
+convenience and the overall purchase experience over pricing and discounts. After-
+sales service (39%) is important for tier 2 and tier 3 cities (41%), reflecting the need 
+for continued retailer support beyond the initial purchase. Product variety (31%) and 
+availability with improved stock levels (37%) are also important factors. Additionally, 
+running a monthly credit facility (36%) remains an important feature, especially in 
+local markets where retailer-consumer relationships are stronger. Thus, brick-and-
+mortar retailers have an opportunity to outserve their online counterparts by focusing on 
+assortment, convenience and the experience of shopping as a ther apeutic, social activity 
+to be indulged in with friends and family.
+31  |    PwC  The retail reinvention paradigm
+32  |    PwC  The retail reinvention paradigmIt may also be noted that despite ONDC’s potential to empower retailers in competing 
+against e-commerce giants, awareness of the platform remains low. This disparity 
+suggests that the platform has not yet achieved the level of adoption necessary to 
+leverage its full potential. The low awareness and engagement with ONDC underscores a 
+critical gap in outreach, education and incentives aimed at driving retailer participation. Figure 15: Consumer preferences for offline shopping (in percentage) 
+All  Metro 
+cities/
+tier 1 
+citiesTier 2 
+and 3 
+cities
+Easy and flexible return or exchange policies 40 40 41
+Efficient after-sales service and support 39 39 41
+Better payment options 39 39 40
+Opportunity to see and try products before buying 38 38 40
+Exclusive in-store benefits or loyalty rewards 38 38 37
+Improved availability of required products/sizes 37 38 36
+Faster checkout and billing process 36 37 36
+Running a monthly credit facility with the shop 36 36 35
+Availability of home delivery for in-store purchases 35 34 37
+Enhanced in-store shopping experience 34 35 33
+Wider variety of products 31 31 32
+Better discounts and offers 30 31 29
+Assurance of product quality 30 30 29
+Helpful and knowledgeable staff 28 28 29
+More convenient store locations 27 27 27
+Source: PwC analysis
+64% of traditional retailers believe fairer delivery and logistics 
+policies are needed to ensure equitable operations across retail 
+formats besides government subsidies and tax relief.
+Traditional retailers across all categories emphasise the need for government intervention 
+and support to create a level playing field. This includes regulations on online discounts, 
+financial incentives and subsidies to modernise traditional stores along with tax relief. 
+Collaboration with brands for exclusive product lines and better margins are also seen as 
+key enablers for sustaining traditional retail businesses and this is where government’s 
+support can help retailers. ONDC
+1%
+Accept  orde rs through ONDC4%
+Aware about ONDCIs ONDC bridging the gap or lost in the noise? Figure 16: Retailer awareness about ONDC
+Source: PwC analysis
+33  |    PwC  The retail reinvention paradigm
+34  |    PwC  The retail reinvention paradigmImplications of  
+the research3
+The rise of e-commerce has led to an urgent need for retailers to change their 
+traditional ways of operating. Some of the important aspects which retailers must 
+understand in order to adapt to this change are: 
+These findings indicate that the future of retail is about blending the traditional and 
+modern, tactile and digital, natural and artificial. A shift towards generative, immersive 
+and engaging retail experiences is not just inevitable but indispensable, especially when it 
+comes to traditional retail. It is what the consumers are demanding. If traditional retail is to 
+remain relevant, it needs to reinvent itself into a trending service, an immersive experience 
+which is dynamic yet personal, and humanly engaging yet technically elevating. 
+ 
+Social media and influencer culture also have a role to play amidst the tangible value 
+being generated. Influencers spark trends on platforms, share product reviews and create 
+seamless shopping experiences through embedded links. This digital ecosystem fosters 
+two-way conversations making the buyer’s journey more interactive and personalthan 
+ever before.• The omnichannel retail experience in India is a work in progress. For personal 
+products, online shopping is the preferred choice while the offline mode works best 
+for family-related products demanding tactile, sensory engagement. Be that as it may, 
+consumers still prefer a combination of online and offline channels.
+• Proactive technology application could be a gamechanger for traditional retail stores 
+and could increase their competitiveness.
+• With the rise of Q-commerce, the game has now veered towards impulse over 
+pricing, and some e-commerce companies are set to launch dark stores to expand 
+their Q-commerce segment.
+• While traditional retailers perception of online shopping as a threat is higher than 
+the actual threat it may pose, some of them actually perceive online shopping as 
+an opportunity, and 27% have seen a positive impact of online shopping on their 
+businesses.
+• Only 4% of traditional retailers are familiar with ONDC and a mere 1% are actively 
+accepting orders through the platform.
+35  |    PwC  The retail reinvention paradigm
+01
+Omnichannel retail success is 
+greater than the sum of its parts 
+impliesFollowing are some of the implications of the research:
+Consumers crave for the best of both 
+worlds: Nearly half of the consumers who 
+participated in the survey still crave the 
+best of both worlds – the convenience 
+of online browsing and the tactile joy of 
+in-store experiences. For some sectors, 
+consumers prefer to shop on their terms 
+– effortlessly hopping between screens 
+and aisles, but for others click and buy 
+without a certain level of trust fails to work. 
+Here, the in-person experience remains 
+king. Thus, the future entails a hybrid 
+‘offline + online’ model creating a seamless 
+shopping journey in a complementary 
+ecosystem where each channel enhances 
+the other. 
+Retailers who focus on leveraging this 
+relationship will thrive, while those that 
+resist the evolution risk being left behind. 
+They need to carve out experiences which 
+let customers move seamlessly between 
+the virtual and the tangible. Therefore, the 
+perception of online shopping as a threat, 
+rather than a challenge to be leveraged, 
+may soon be a thing of the past. 
+36  |    PwC  The retail reinvention paradigm
+02
+Q-commerce is more common in 
+metro cities and tier 1 cities than 
+in tier 2 and tier 3 cities
+Slow uptick of Q-commerce in tier 2 and 
+tier 3 cities augurs well for the kirana 
+stores: The promise of hyperlocal fulfillment 
+works well in cities with consistent 
+demand. But outside metro cities, 
+Q-commerce becomes a costly challenge. 
+Without a steady stream of orders, the 
+cost of hyperlocal inventory and quick 
+delivery options becomes unsustainable, 
+turning the model into a financial strain. 
+Thus, the demand fragmentation creates 
+significant operational friction — delays, 
+high per-order expenses — and profitability 
+takes a hit. The unpredictability of demand 
+for certain products like fresh produce 
+or essential home care items can create 
+significant challenges in stocking including 
+longer holding times, higher levels of 
+wastage and inefficiencies in inventory 
+planning leaving the model unsustainable 
+outside of metro cities and tier 1 cities . 
+    
+Here is where traditional retailers, which 
+are more than just neighbourhood shops, 
+can be a gamechanger. As the backbone 
+of community retail in tier 2 and tier 3 
+cities, they could soon become digital-first 
+warriors in their markets, offering the speed 
+and convenience that customers demand, 
+but with a personalised, community-
+based touch. Their personal connection 
+with consumers, deep understanding 
+of local needs and the ability to serve 
+small, often overlooked, markets can give 
+them an edge in the era of Q-commerce. 
+Therefore, by digitising inventory and 
+adopting lean, hyperlocal delivery models, 
+these stores can achieve a similar agility 
+and convenience, minus the heavy 
+infrastructure costs. 
+37  |    PwC  The retail reinvention paradigm03
+04Retailers need a well-defined roadmap in the new-age  
+digital world
+Brick-and-mortar retail reinventionRetailers need to move out of their comfort zone and clue into the online trend 
+movements to up their game: While the prevalence of technology is becoming a must 
+in retail, there is still a psychological resistance to integrating advanced technologies in 
+physical stores. Retailers often feel overwhelmed or uncertain about how to implement 
+these tools effectively, especially when the benefits are not immediately clear. A key 
+challenge is the fear of change — many retailers still prioritise traditional customer service 
+methods because they are familiar and perceived as low-risk. The hesitation to adopt 
+innovation comes from a fear of alienating customers who may not be comfortable with 
+too much digital interference.
+  
+Getting rid of that notion is critical as much as understanding that  in the digital realm, 
+trends aren’t just quick — they are lightning fast. So, it is a race against the clock across 
+all cities. The online platforms landscape has become the trendsetter where something 
+can go from obscure to viral in a matter of hours. By the time these trends land in offline 
+stores, they are already seasoned, popular and ready to be sold as the next big thing.
+ 
+Thus, to keep up with the ever-changing trends in the digital space, offline retailers need 
+to be trend catchers, relying on online movements to inform their in-store strategies. This 
+trend underscores the growing reach of e-commerce, as consumers across metro cities, 
+tier 1, tier 2 and tier 3 cities access the same brands at similar pr ices, making online shop-
+ping even more appealing. This would also decrease the pressure offline retailers feel and 
+enable them to up their game to limit the impact of digital disruption.
+Being experiential and tech-centric could be the retailers’ reinvention mantra: 
+Retailers are increasingly diversifying their product offerings to counter competition. 
+However, the variety offered by e-commerce platforms often surpasses their own 
+offerings, thereby limiting the effectiveness of this strategy. Consumer preferences have 
+shifted to larger retail formats and towards high brand consciousness across most 
+categories. This compels traditional retailers to stock both branded and non-branded or 
+less-premium products, impacting their profit margins due to higher inventory costs. 
+As expectations continue to rise from physical retail stores to have larger assortment, 
+convenient delivery, faster checkouts, generative immersive experiences and digital/social 
+engagement, smaller retailers, unable to invest in technology at pace, are likely to look 
+at consolidation to survive and thrive. Such consolidation can enable greater reach and 
+competitiveness, reduce costs by combining resources and boost business capabilities 
+by leveraging strengths of each entity involved.
+Next moves4
+The discussion in the previous section highlights:
+Consumers crave the best of both worlds –  
+seamless digital convenience and in-store immersive experience.
+Retailers and brands recognise that major trends for their categories are now initiated 
+by e-commerce platforms or online marketplaces. As a result, they operate in a reactive 
+‘pull mechanism’, fulfilling demand rather than driving it, marking a significant shift from 
+their earlier ‘push’ strategies. This shift presents both challenges and opportunities. While 
+collaboration with online platforms can drive growth, strategic agility is crucial to balance 
+independence and digital integration in an evolving retail landscape.  The slow uptick of Q-commerce in tier 2 and tier 3 cities  
+augurs well for the kirana stores.
+Retailers and brands need to move out of their comfort 
+zone and clue into the online trend movements to up their 
+game. Being experiential and tech-centric could be an added 
+advantage.
+38  |    PwC  The retail reinvention paradigm
+39  |    PwC  The retail reinvention paradigm
+leverage e-commerce for success
+adopt a flexible, hybrid approach
+leverage ONDC
+flip the script and seize untapped opportunities
+focus on generative customer experiences
+analyse cost-benefit  
+outserve rather than outprice online retailers.What is next for brands and retailers? We outline some actions: 
+40  |    PwC  The retail reinvention paradigm
+Leverage e-commerce for success
+Forward-thinking traditional retailers are finding ways to use digital platforms to their 
+advantage, with retailers in metro cities seeing greater benefits compared to their tier 2 
+and tier 3 counterparts. The largest opportunity comes from increased product awareness 
+(72% in metro cities versus 56% in tier 2 and 3 cities), better-informed customers (75% 
+versus 50%), and motivation to enhance customer service (74% versus 50%). This 
+suggests that metro cities’ retailers are more exposed to digitally savvy consumers, 
+prompting them to improve their offerings, while tier 2 and tier 3 city retailers are yet to 
+fully capitalise on these shifts. 
+However, some opportunities resonate more in tier 2 and tier 3 markets, such as 
+wholesalers making bulk purchases online (47%) and easier access to fast-moving 
+products (44%), indicating that online platforms help these retailers streamline supply 
+chains and stay competitive. Additionally, partnering with online platforms (34%) is lower 
+in tier 2 and tier 3 cities, suggesting a need for better integration and support for smaller 
+retailers in these regions. Meanwhile, trend visibility through e-commerce (32% in metro 
+cities vs. 24% in tier 2 and 3 cities) helps metro cities’ retailers attract customers looking 
+for affordable alternatives.
+Our recommendation
+As digital commerce continues to evolve, traditional retailers who strategically 
+integrate online benefits – whether for supply chain efficiency, brand visibility or 
+consumer engagement — will be better positioned for long-term success.
+Certain categories have a more prevalent 
+consumer discovery in the offline channel, 
+hence, a robust trio of people, processes and 
+technology is extremely important. When the 
+trialist becomes a loyalist, the second and 
+third purchases are where the channels blur, 
+and we need to be present in all platforms and 
+channels with a similar value offering. 
+– Jafar Jawaid  
+Head of Sales | Lotus Herbals  “Adopt a flexible, hybrid approach
+Our recommendationThe retail industry must cater to evolving consumer needs with a flexible, hybrid approach 
+which recognises evolving consumer behaviours, such as the specific demand for both 
+personal and family-related shopping experiences. Consumers also want the flexibility of 
+researching online and then making the purchase in-store or vice versa.
+Several direct to customer or (D2C) companies are also doubling down on their 
+omnichannel strategy.10 They are leveraging insights gleaned from online sales to decide 
+where to open offline stores and then use their physical presence to gain access to 
+a larger consumer base, conduct product trials, have soft launches of offerings, and 
+build trust.
+Retailers and brands who combine fast, reliable delivery with brick-and-mortar 
+shopping experiences can create a strong hybrid model that keeps them relevant in 
+the modern retail world.
+41  |    PwC  The retail reinvention paradigm10 The Economic Times, Offline stores are trending as new set of D2C firms emerge  
+ONDC presents significant opportunities for 
+brick-and-mortar retailers, allowing them 
+to tap into the online market boom once 
+the hurdle of unit economics is cleared out. 
+Retailers with an entrepreneurial spirit can 
+leverage this platform effectively. Many 
+brands are likely to be eager to offer the 
+necessary product support if they can 
+directly reach and serve customers.“Leverage ONDC
+Our recommendationONDC was set up with the aim to redefine India’s e-commerce landscape by ending 
+digital monopolies and creating a level playing field for traditional retailers. However, 
+concerted efforts are needed to enhance its visibility, build understanding and incentivise 
+adoption else it runs the risk of remaining an underutilised resource rather than becoming 
+the transformative tool it was designed to be for the retail sector.
+Stakeholders, including government bodies, industry associations and platform 
+developers need to focus on creating strategies that effectively communicate the 
+ONDC platform’s benefits and encourage widespread engagement among traditional 
+retailers. Failure to do so may result in missed opportunities for the very retailers ONDC 
+is intended to support.
+– Head of Sales  
+FMCG | Mumbai
+42  |    PwC  The retail reinvention paradigm
+Flip the script and seize untapped opportunities
+Our recommendationWhile around 60% of traditional retailers view online shopping as a looming threat, 
+29% are seizing it as a golden opportunity to elevate customer service and diversify 
+their product offerings. Far from making shoppers impulsive, these savvy retailers see 
+e-commerce as a tool for smarter, more informed customers — 66% agreed that the 
+digital shopping experience empowers consumers to make well-researched decisions, 
+ultimately paving the way for stronger, more meaningful engagement.
+Retailers and brands should leverage the advantage offered by some platforms 
+which allow them to onboard their products with ease, enabling them to sell 
+directly through social media platforms and stores. This ensures that brands stay 
+top-of-mind, leveraging the immediacy of social media to engage with customers 
+and drive sales in real-time.
+43  |    PwC  The retail reinvention paradigm
+Focus on generative customer experiences
+Our recommendationCertain product categories have proven that the future of retail lies in creating dynamic, 
+personalised and engaging consumer experiences which combine technology with human 
+connection. However, most traditional retailers are yet to figure out ways to digitise the 
+in-store experience for better product discoverability or brand advocacy. They also have 
+the opportunity to collect insights on consumer profiles and preferences to enhance the 
+customer experience journey. However, integrating data from both online and offline 
+touchpoints can be a struggle for retailers.11 Retailers need to look at adopting advanced 
+technological solutions to navigate this. 
+Integrate technology to offer virtual product demos or interactive tutorials to help 
+customers visualise the product in their homes. This can enhance the shopping 
+experience. Engaging with online reviews and listing products on marketplaces 
+can also give retailers a wider reach and boost credibility. A comprehensive post-
+purchase support system through digital channels can also enhance customer 
+satisfaction and loyalty.
+Besides allowing the customers their first 
+touchpoint with the brand from anywhere, 
+anytime, especially for lower tier regions where 
+offline store viability is a question mark, digital 
+commerce offers brands with aligned values, the 
+chance to collaborate and build a community 
+that enhances customer experiences. 
+ 
+Driving unique product offerings rooted in the 
+right set of values and focus on customer service 
+excellence will continue to bring customers to 
+stores and, in fact, online and offline channels 
+can actually complement each other and grow 
+the overall business pie for the brand.“
+– Amrish Garg
+Head of Strategy and Planning | Fabindia
+44  |    PwC  The retail reinvention paradigm11 ET Retail, Navigating digital transformation: Retail leaders share key challenges in adopting an omnichannel 
+retail strategy
+Analyse cost-benefit
+Our recommendationDriven by the Q-commerce boom, the demand for dark stores in India, which was at about 
+24 million square feet in 2023, is projected to grow at a CAGR of 12% to 37.6 million 
+square feet till 2027.12 The critical question, however, remains whether dark stores are 
+the next evolution of traditional retail or do they represent a step backward in terms of 
+reducing traditional stores’ sales while accelerating the growth of online sales. 
+Stores considering the setting up of dark stores need to weigh the set-up and 
+operational costs against potential benefits. It is also worth explo ring other 
+models that may benefit both the local stores struggling with dwindling customers 
+and the Q-commerce players grappling with a high cash-burn model. 
+45  |    PwC  The retail reinvention paradigm12 Moneycontrol, Demand for dark stores touched about 24 million sq ft in 2023. Here’s a deep dive into the 
+concept
+Outserve rather than outprice online retailers
+Our recommendationAssortment, convenience and purchase experience trumps pricing and discounts 
+in online purchases. Traditional retailers need to outserve online retailers rather than 
+focusing on outpricing them. Instead of jumping on the bandwagon of free delivery 
+and online ordering to replicate digital perks, retailers have an opportunity to stand out 
+by offering one-of-a-kind in-store experiences, tailored services or exclusive products 
+which can’t be found in the online world.
+Offline stores can tap into the therapeutic value of shopping for some 
+customers wherein they don’t just shop for products but consider it to be 
+more of an interaction where they can enjoy the experience and develop a 
+connection. It’s often a shared experience with friends or family which makes it 
+much more than just a transaction.
+Although e-commerce platforms are shifting consumer 
+behaviour from ‘stock up’ to ‘top up’ in urban markets, 
+the brick-and-mortar channel is constantly evolving to 
+maintain its relevance. Emphasis on home delivery, a 
+deep understanding of customer preferences and the 
+right assortment of products are all key factors which can 
+enable the brick-and-mortar channel to reinvent itself.“
+– Anubhav Krishan 
+Sales Director – Consumer Products 
+Division | Himalaya Wellness    
+46  |    PwC  The retail reinvention paradigm
+47  |    PwC  The retail reinvention paradigmPwC India’s retail reinvention 
+framework5
+PwC India’s retail reinvention framework provides brands with the ability to visualise how  
+consumer utility is driven based on channel choices across different categories and also 
+by varying socio economic segment. Brands need to be cognisant of the geographic 
+nuances which can impact the utility profile and also tailor their channel actions in line 
+with how consumers perceive utility. This will not only help brands to become more 
+relevant for their target consumers during decision-making but would also facilitate the 
+narrowing down of strategic choices and aid optimal resource allocation for brands. It is 
+critical for brands to understand how each consumer cohort perceives utility for a product 
+category across the channel choices they make. It is, therefore, important for brands to 
+first factor in the following questions of pricing, convenience, va riety, engagement and 
+experience which gets impacted by the choices made by their target consumer segment. 
+The framework measures the utility level across Low, Medium and High levels for each of 
+these areas and helps brands arrive at an overall utility score for each of their consumer 
+cohorts and channels.
+48  |    PwC  The retail reinvention paradigmD. Engagement 
+�  How well does the consumer know about the 
+brand/category and is willing to advocate it?
+�  How easily can the consumer be influenced by 
+external opinions to induce trials/repeat purchase?
+�  What is the ability of the channel to drive loyalty 
+(with or without programme)?
+E. Experience
+�  Is the consumer looking for a value-added 
+experience in the occasion?
+�  Does the purchasing occasion add social 
+value to the consumers?
+�  Is the purchase decision individual or 
+influenced by friends/family?A. Value for money Online Offline
+� Does the consumer consider the product costly 
+or cheap in their basket of products?
+�  Is buying at the lowest cost a big priority for the 
+customer?
+�  Are there any easy substitutes available?
+B. Convenience
+�  How urgent will be the usage occasion?
+�  Is the product easily discoverable in the channel?
+�  Is there an easy access to alternate retail channels?
+C. Variety 
+�  Will the product enhance the social value of the 
+consumer?
+�  Will the consumer require a large assortment to 
+make a product selection?
+�  How different are available comparative options 
+within the brand and competition?LMH LMH
+LMH LMH
+LMH LMH
+LMH LMH
+LMH LMH
+LMH LMH
+LMH LMH
+LMH LMH
+LMH LMH
+LMH LMH
+LMH LMH
+LMH LMH
+LMH LMH
+LMH LMH
+LMH LMHFigure 17: PwC’s retail reinvention framework
+Source: PwC analysis
+Note: L, M and H denote Low, Medium and High in the table.
+49  |    PwC  The retail reinvention paradigm
+50  |    PwC  The retail reinvention paradigmFigure 18: Illustrative example of PwC India’s retail reinvention framework for a 
+premium chocolate brand The following illustration captures how the utility profile for a premium chocolate brand in 
+the urban geography evolves across channels for different consumer cohorts. 
+ISEC 1-6 ISEC 7-10 ISEC 11-12Q-commerce
+E-commerce
+Local store
+Modern store
+Q Com
+Ecom
+Local Store
+Modern Store
+Q Com
+Ecom
+Local Store
+Modern Store
+A. Value for money
+Does the consumer consider 
+the product costly or cheap in 
+their basket of products?
+Is buying at the lowest cost high 
+priority for the customer?
+Are there any easy substitutes 
+available?
+B. Convenience
+How urgent will be the usage 
+occasion?
+Is  the product easily 
+discoverable in the channel?
+Is there an easy access to 
+alternate retail channels?
+C. Variety
+Will the product enhance the 
+social value of the consumer?
+Will the consumer require a 
+large assortment to make a 
+product selection?
+How different are available 
+comparative options within the 
+brand and competition?
+51  |    PwC  The retail reinvention paradigmSource: PwC analysis
+From the illustration above, one can see that the approach of prioritising online channels 
+with a sharp focus on driving assortment, product discoverability and engagement levers 
+can help the brand in maximising its utility for the Indian Social E conomic Classification 
+1-6 (ISEC1-6) cohorts.13 Focusing on offline trade availability and tactical price points 
+through new packs or offers will induce consumption for the ISEC 11-12 consumers. 
+Brands must recognise that the utility balance between consumer segments, the channels 
+and the categories is dynamic and evolves with changes in consumer behaviour and 
+profile.   The following illustration carries forward the earlier example of the premium 
+chocolate. The illustration shows how utility profiles across consumer cohorts shifts 
+between channels (online and offline) and how each contributing consumer cohorts 
+evolves differently. 
+Brands can also use Retail Price Index (RPI - Price to consumer indexed to volume 
+of product) as an alternate measure of estimating contribution of consumer cohorts, 
+under the assumption that RPI is correlated to the socio-economic demographics of the 
+consumer group.D. Engagement
+How well does the consumer 
+know about the brand/category 
+and is willing to advocate?
+How easily can the consumer 
+be influenced by external 
+opinions to induce trial/repeat?
+What is the ability of the 
+channel to drive loyalty (with or 
+without programs)?
+E. Experience
+Is the consumer looking for a 
+value-added experience in the 
+occasion?
+Does the purchasing occasion 
+add social value to the 
+consumers?
+Is the purchase decision 
+individual or influenced by 
+friends/family?
+13 Note: Indian Socio-Economic Classification system is a standard as per Market Research Society of IndiaLow impact Medium impact High impact
+52  |    PwC  The retail reinvention paradigmFigure 19: Illustrative example of utility profile evolution for a premium chocolate 
+brand 
+-20020406080100
+0 20ISEC 1-6 
+ISEC 7-10
+ISEC 11-12
+40 60 80 100
+Utility score generated by offline channelUtility score generated by online channelSize of the bubble represents 
+contribution of the consumer cohort The illustration represents the three distinct consumer cohorts – ISEC 1-6 represents high 
+income group, ISEC 7-10 represents medium income group and ISEC 11-12 represents 
+low income group. As indicated in the illustration, consumption gradually moves from 
+high income to medium and lower income groups, indicating the changing representation 
+of the income groups’ consumption profile. Additionally, the utility for all three consumer 
+cohorts moves from offline to online channels corresponding with the difference in 
+evolving consumer behaviour  across the three consumer cohorts.
+Change in consumption patterns shown by the size of the bubble 
+(represented by numbers in the circle): the contribution of the high-income 
+group for the premium chocolate category drops from 60% to 50% whereas the 
+consumption of medium income group moves from 30% to 35% and low-income 
+group from 10% to 15%. This is reflective of how with rising income levels and 
+evolving needs, consumption patterns have evolved for brands in the premium 
+space (i.e. premiumisation).
+Change in channel utility: Different consumer cohorts reflect a variation in 
+the propensity to find incremental value in online channels. For instance, high 
+and medium-income cohorts (ISEC 1-10) grow at a much faster pace in online 
+channels compared to the low-income cohort (ISEC 11-12). Therefore, brands 
+must align their actions and investments based on this evolution for these two 
+cohorts (ISEC 1-10) as they still contribute to the majority of the consumption. At 
+the same time, they must recognise that the smallest, yet relatively fast-growing, 
+consumer cohort, the low-income cohort (ISEC 11-12), can behave differently 
+in comparison to the high- and medium-income groups. As seen from the 
+illustration above, inspite of movement towards online channel the utility of low-
+income groups stands maximised with offline channels.1
+2
+Current state Future stateSource: PwC analysis
+53  |    PwC  The retail reinvention paradigmUtility score generated by channel
+ISEC 1-6 ISEC 7-10 ISEC 11-12
+Offline 68 82 94
+Online 32 18 6
+Contribution of consumer cohort (in percentage) 
+ISEC 1-6 ISEC 7-10 ISEC 11-12
+60 30 10Current
+Utility score generated by channel
+ISEC 1-6 ISEC 7-10 ISEC 11-12
+Offline 62 76 91
+Online 38 24 9
+Contribution of consumer cohort (in percentage) 
+ISEC 1-6 ISEC 7-10 ISEC 11-12
+50 35 15Future
+Source: PwC analysis
+Therefore, retail reinvention, is not just about 
+adapting to changes but proactively anticipating 
+them. Brands could stay ahead of the curve by 
+accurately predicting shifting consumer trends 
+and strategically aligning their actions with 
+specific channel-level shifts. An understanding 
+of consumer utility profiles could enable brands 
+to predict how they may move with time and 
+align their actions in line with these predicted 
+changes, These channel-specific actions could 
+enable brands to be relevant to consumers as 
+their buying preferences and expectations from 
+channels evolve. This framework combined 
+with a forward-thinking approach can enable 
+them to meet evolving consumer expectations, 
+enhance their market presence, and, ultimately, 
+drive sustained growth in an ever-changing retail 
+landscape. 
+Appendix
+The survey – conducted across metro cities and tier 1 cities such as Mumbai, Bengaluru, Jaipur, 
+Bhubaneswar, Bhopal and tier 2 and tier 3 cities like Asansol, Amritsar, Gwalior and Karimnagar 
+– included online interviews with several operational and sales heads of retailers and face-to-face 
+interviews with 1,026 retailers.
+Online interviews with 822 consumers provided a perspective on how shopping experiences were 
+impacting their preferences for physical and virtual environments.
+54  |    PwC  The retail reinvention paradigm104
+131
+141
+128103100102101116
+No of respondentsMumbai
+Bengaluru
+Jaipur
+Bhubaneshwar
+Bhopal
+Asansol
+Amritsar
+Gwalior
+KarimnagarFigure 20: City-wise breakdown of the retailer respondents 
+We surveyed multi brand outlets across categories
+ 
+Majority of the surveyed outlets visited were standalone shops and not part of any 
+national/regional modern retail chains in any category.
+55  |    PwC  The retail reinvention paradigmFigure 21: Gender-wise breakdown of the consumers surveyed
+Figure 22: Classification of the consumers surveyed as per the new consumer 
+classification system (NCCS)
+Figure 23: Classification of the consumers surveyed as per their occupation110 96
+18-25 years 26-35 years 36-45 years 46-55 years99 102 105 104 105 101
+Male Female
+18-25 years 26-35 years 36-45 years 46-55 years127 79 123 78 134 75 109 97
+NCCS A NCCS B
+18-25 years 26-35 years 36-45 years 46-55 years25
+1232632
+Owning a business Salaried or working in a company
+Self-employed professionals Others18
+124518
+42
+1154210
+48
+129236
+Notes
+Notes
+Our previous report in this series
+About Kirana Club
+Kirana Club is India’s largest digital community for Kirana store owners, empowering 2.5 million+ 
+retailers with insights, peer discussions and business growth opportunities. As the retail landscape 
+evolves, Kirana Club serves as a vital platform where traditional retailers stay informed, adapt to 
+market shifts and leverage new strategies to stay competitive in a rapidly digitising world.  
+It bridges the information gap between FMCG brands and retailers, fostering stronger collaboration 
+and smarter decision-making – creating a win-win situation for both.This report delves into the key drivers and barriers which are shaping the online shopping 
+behaviour of consumers in metropolises and tier 1- 4 cities in India.How India shops online
+Scan the code to 
+download the report 
+Authors
+Contributors
+Editor
+ContactDesignRavi Kapoor, Raghav Narsalay, Vishnupriya Sengupta, Sudip Gupta, Arun Nair
+Manish Ballabh, Ruchika Uniyal, Raju Gupta, Bhagyashree Bhati, Anshumala Srivastava, 
+Ciril Jose, Sakshi Gupta
+Rubina Malhotra
+Ravi Kapoor
+Partner and Leader – Retail and Consumer
+ravi.kapoor@pwc.comPooja Sharma, Harshpal Singh, Harshit Suneja, Vidhi VaidAbout PwC
+At PwC, our purpose is to build trust in society and solve important pr oblems. We’re a network of 
+firms in 151 countries with over 360,000 people who are committed to delivering quality in assurance, 
+advisory and tax services. Find out more and tell us what matters to you by visiting us at www.pwc.
+com.
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate 
+legal entity. Please see www.pwc.com/structure for further details.
+© 2025 PwC. All rights reserved.
+pwc.in
+Data Classification: DC0 (Public)
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in 
+India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of 
+PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or 
+derived from sources believed by PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does 
+not represent that this information is accurate or complete. Any opinions or estimates contained in this document 
+represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication 
+are advised to seek their own professional advice before taking any course of action or decision, for which they 
+are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any 
+responsibility or liability to any reader of this publication in respect of the information contained within it or for any 
+decisions readers may take or decide not to or fail to take.
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved. 
+PS February 2025 - M&C 44076

@@ -1,0 +1,2584 @@
+Title: pwc_smart-governance-and-technology
+Date Published: 2013-11-13 21:59:11+05:30
+Source: pdfs/pwc_smart-governance-and-technology.pdf
+
+--- CONTENT ---
+
+Smart governance 
+and technology
+www.pwc.in
+
+PwC2
+It gives me immense pleasure to present the first edition of the ‘Smart governance and technology’ 
+publication from the desks of our government technology consultants. The government 
+technology practice in PwC India constantly strives at creating a unique value proposition 
+for the government sector by marrying our technology implementation capabilities with our 
+understanding of how governments operate. This publication is our attempt to delineate the 
+importance of technology in any and every step taken towards achieving good governance in 
+the public sector. I am optimistic that in the coming years, this publication will garner greater 
+participation, include more technology disciplines and become a benchmark within the PwC 
+network.
+Within the technology consulting practice of PwC India, we endeavour to assist local governments
+in South Asia to adapt to the ever-changing technology trends, which are revolutionising the
+channels through which governments across nations interact with their citizens and businesses.
+Our association with the public sector, which had commenced a couple of decades back as
+strategy and policy level advisors, has been augmented manifold over the years by our technology
+implementation skills. Today, we are trusted advisors to governments at different levels, starting
+from the central governments of India, Nepal and Bhutan, the Indian state governments of
+West Bengal, Assam, Arunachal Pradesh, Maharashtra, Chhattisgarh, etc. local governments as
+well as bodies such as the Kolkata Municipal Corporation (managing the municipal affairs of a
+population exceeding six million) and the Kolkata Urban Services For the Poor (governing all the
+non-municipal urban local bodies of the state with assistance from the Department for 
+International Development), in implementing and managing complex technology solutions 
+for automating core business processes and creating unique values. The expertise in providing 
+technology solutions for resolving multifarious government issues, accumulated from this 
+longstanding association, has equipped our Technology Centre of Excellence to assist our 
+colleagues within the network in executing similar transformational engagements in territories 
+such as Jamaica, Sri Lanka, Australia and so on. This publication elucidates our points of view on 
+technology-driven government transformation gathered from our experience of partnering with 
+the public sector in its transformational journey towards ‘building a smart government’.Debdas Sen  
+Partner and 
+Technology 
+Consulting 
+Leader
+Arunava Mitra  
+Managing 
+Consultant and  
+Government 
+Technology CoE 
+LeaderPradip Bhowmick  
+Partner and Government 
+Technology Leader
+Our government technology practice has been working closely with the state and central 
+governments of India and those of neighbouring countries over the last decade. We have been 
+fortunate in partnering with various state governments in India in pioneering ICT initiatives 
+in the country aimed at delivering on ‘the citizen promise’. In countries such as Nepal, Bhutan 
+and Sri Lanka, our association with the governments has started with virtually the birth of 
+e-governance in the respective nations. Through this publication, we have tried to showcase 
+of our experience of working with these government bodies, in a bid to demystify the latest 
+technology trends and initiatives being adopted in governments across countries. We have also 
+incorporated few perspectives from decision makers among our public sector clients across 
+varying geographies to foster a better understanding of the adoption of these trends and the 
+values they bring to the table. We sincerely hope that this publication will aid you in conducting 
+insightful discussions with your clients.
+Smart governance and technology3
+Technology  
+A key pillar of  
+national governance
+PwC India has been the implementation 
+partner of the Royal Government of Bhutan 
+(RGoB) since the last two years, automating 
+more than 100 government as well as citizen 
+services across eight ministries of the RGoB. 
+Phuntsho Tobgay, Director, Department of 
+Information Technology and Telecom, RGoB 
+shares his perspective on the pivotal role of 
+technology in Bhutan’s overall governance, 
+with Sayan Basu, senior consultant from PwC 
+India’s technology consulting teamPradip Bhowmick  
+Partner and Government 
+Technology Leader
+PwC4
+PwC India: Kindly elaborate on the technological initiatives 
+that have been undertaken in Bhutan in recent times.
+Tobgay: As elaborated in the 10th Five Year Plan of Bhutan, the primary focus 
+of the government has been ICT infrastructure development in order to facilitate 
+an effective dissemination of G2C services. Among the flagship technology 
+initiatives undertaken by the government in the recent past, the establishment 
+of the National Fibre Optic Network connecting the 20 Dzonkhags  (districts) of 
+the country deserves special mention. Community centres have been established 
+in each of the 205 Gewogs  (blocks) for increasing citizen access to such services. 
+The National IT Park has been constructed in Thimphu in order to house a 
+shared Technology Centre and Data Centre along with a Centre of Incubation for 
+nurturing new ideas as well as promoting innovation. 
+From a policy perspective, the government has recently completed the formulation 
+of the National e-Governance Master Plan and design of the e-Government 
+Interoperability standards, and the ICT Management Framework. Four centralised 
+data hubs will be created for consolidating nationwide information on citizenship, 
+land ownership, businesses and vehicles. The e-Governance council, comprising 
+the committee of secretaries and e-Governance review committees, consisting of 
+nominated representatives from the Gross National Happiness Commission, the 
+Department of Finance, etc. have been set-up in order to monitor and review all 
+ongoing ICT initiatives of the country.
+In the area of capacity development, the government has already undertaken its 
+ambitious ‘Chipen Rigpel’ project which has a set-up of around 168 ICT labs across 
+different schools in the country, and has already trained around 5,000 people on 
+basic IT enablement curriculums.PwC: Since decades, Bhutan has been the prime advocate of monitoring 
+the gross national happiness (GNH) index in the context of good 
+governance. What has been the impact of technology in improving the 
+GNH index of the country?
+Tobgay: Education and health are two overarching pillars which the GNH index of the 
+RGoB lay significant emphasis. Consequently, the ICT policies of the government have also 
+been aligned along these two verticals. Bhutan has drawn inspiration from ICT practices 
+and governance models followed in the Scandinavian countries, which also manifest a high 
+national happiness index. The first IT park of the country has been constructed with the target 
+of creating 1,000 plus employment opportunities within Bhutan. This park has been erected 
+with the holistic objective of creating an ecosystem of entrepreneurship within Bhutan. It is 
+steadily becoming a site for garnering new ideas as well as encouraging innovation among 
+the youth in the country. Recent statistics reveal that out of the entire population trained in 
+IT and IT-enabled services, 60% are retained within the IT industry, while the remaining 40% 
+seek employment opportunities in diverse industries such as hospitality, tourism, civil sector, 
+etc. This demonstrates the contribution of IT in improving citizen employability and the 
+alignment of IT with the GNH principle of increasing citizen satisfaction.
+Another important pillar of the GNH index is strengthening community vitality. Community 
+centres that have primarily been set-up across the country with the objective of delivering 
+government to citizen services to the citizens in an efficient manner, also have in place, 
+learning facilities for imparting diverse skills among these citizens. These learning facilities 
+provide an interactive platform for a huge population of citizens, and are therefore increasing 
+community fraternity. 
+Phuntsho Tobgay  
+Director, Department of 
+Information Technology 
+and Telecom, Royal 
+Government of Bhutan
+Smart governance and technology5
+PwC India: Emerging technologies such as cloud 
+computing, mobility, software as service, etc. are 
+redefining conventional technology channels. What 
+is your take on the same, and how is Bhutan poised 
+to embrace such technologies in the coming future?
+Tobgay: With the completion of the National Data Centre in the 
+Thimphu Tech Park, Bhutan will be in a perfect position to explore 
+the potential of emerging technologies. Cloud computing is of 
+foremost priority in the upcoming ICT plans of the government. 
+Erection of a government cloud will undoubtedly help in the 
+consolidation of IT assets as well as lowering the total costs of 
+ownership.PwC India: What are the roadblocks that 
+the government has encountered during the 
+implementation of such initiatives? What are the 
+corrective measures being adopted in order to 
+counter such challenges?
+Tobgay: In the context of public service delivery within 
+Bhutan, areas such as communication and transport have 
+traditionally posed challenges. Bhutan is a country with a 
+rugged mountainous terrain and hence, connectivity with 
+remote locations has always been difficult. In order to ensure 
+proliferation of G2C services across the nation, the government 
+has been laying special emphasis on telecommunication 
+network infrastructure. The recently undertaken National 
+Broadband Master Plan project coupled with the Thimphu Wide 
+Area Network implementation has significantly contributed 
+towards mitigating the challenges pertaining to connectivity. 
+In order to minimise over dependency on commercial telecom 
+operators, the government has made direct investments in 
+nationalising the Fibre Optic Network.
+Another roadblock in the context of successful G2C service 
+delivery was the lack of citizen awareness and confidence in 
+accessing online G2C services. Towards this, the government 
+has undertaken several citizen awareness as well as capacity 
+development initiatives which have eventually ensured an 
+exponential increase in citizen awareness and acceptance. 
+The department of Information Technology and Telecom is 
+currently planning to engage with the Bhutan ICT and Training 
+Association in an attempt to explore other avenues of increasing 
+citizen engagement.
+Getting it right at the 
+first timeArchitecture in the right direction  
+FOSS vs COTS  
+QA modelling
+Enhancing efficiency 
+in operationsDigital secretariat: Strategising adoption
+Inclusive growth Harvesting technology for the Indian farmerWe derived following themes as important agendas of 
+the e-Governance mission for a smart government. 
+PwC6
+e-Government: 
+Architecture in the 
+right direction
+Smart governance and technology7Why is architecture important in 
+e-Government transformation?
+Governments, both state and central, 
+seek to support growth and improve 
+competitiveness, and strengthen their 
+performance within the global economy 
+through improved governance, sector 
+modernisation, and enhanced regional 
+integration. Lack of proper architectures, 
+interoperability frameworks and 
+e-Government standards may be deterrents 
+to achieving harmonised enterprise 
+architectures, interoperability frameworks 
+and an e-Government standard framework 
+across systems as well as services provided 
+by ministerial departments and agencies to 
+other governmental departments and  
+the citizens.
+The objective of various governments has 
+always been to promote the efficiency, 
+quality, and transparency of public 
+services through the delivery of regionally 
+integrated e-government applications 
+that take advantage of economies of scale. 
+Only a strong architectural blueprint on an 
+industry standard foundation can pave the 
+path for the implementation of harmonised 
+regional e-Government frameworks and 
+applications that are interoperable and 
+deployable for users across regions. Such 
+applications are expected to produce 
+time and cost savings for governments, 
+businesses, private citizens as well as ensure 
+a greater quality of service provision, 
+including increased transparency for users 
+and the public in general.
+Being the provider for G2C, G2G and 
+G2B services, remote infrastructure 
+services as well as business process 
+outsourcing services, governments have 
+been investing on multiple core business 
+applications for various services over 
+the last couple of years. This leads to 
+complex conglomerates of tightly coupled 
+disparate applications (interfacing 
+through point-to-point communication) 
+in heterogeneous platforms which made it 
+difficult to manage, integrate, scale-up, and 
+interoperate, thereby reducing operational 
+efficiency. 
+Thus, there is a strong need for a business-
+IT alignment through simplified and 
+standardised enterprise architecture as well 
+as a governance model that will support rapid growth and management of systems, 
+add tangible value to processes by which 
+the government will operate with lower 
+total cost of ownership (TCO) and higher 
+return on investment (ROI). 
+Governments have adapted the 
+e-Government master plans with the 
+objective of leveraging the full potential 
+of information and communication 
+technology (ICT) so as to improve the 
+efficiency as well as the capability of 
+government processes and services,  
+with a specific focus on e-Services that 
+will enable increased citizen participation 
+and attempt to create an open, transparent 
+environment, through the integration of 
+different government information systems 
+and services. To realise this objective, 
+the government enterprise architecture 
+is essential in order to deliver a common 
+integrated interoperability platform  
+or service delivery gateway for  
+information exchange. What are the problems if 
+e-Government is not architected 
+in the right way?
+In recent times, enterprise architecture 
+programmes have gained much attention 
+within the government in particular 
+and the public sector in general, as 
+the provider of collaborative and 
+comprehensive ICT designing, planning 
+as well as managing processes for 
+e-Government transformations so as to 
+enable a sustainable connected whole-of-
+government model. 
+Enterprise architecture enables the 
+translation of the e-Government vision 
+as well as strategies into effective 
+transformation change at the strategic 
+(government-wide) as well as the segment 
+level (such as ministries, department, 
+agencies) by defining common, consistent 
+and cohesive architectures for the whole-
+of-government to deliver these e-Services.
+Current pain areas How EA helps in delivering value
+•	Mostly manual processes with low level of 
+service automation
+•	This leads to high process turnaround time 
+for end-to-end processing of government 
+services•	Facilitates the transformation of current 
+government processes and services to end-
+to-end streamlined automated processes, with 
+standardised reusable citizen-centric services, 
+thereby reducing process turnaround time
+•	Fragmented and redundant ICT systems and 
+technologies with ministry, departments and 
+agencies MDAs working in silos driving their 
+own ICT initiatives
+•	This leads to higher complexity, higher TCO, 
+and a lack of interoperability•	Consolidates and rationalises a fragmented 
+redundant ICT systems, technologies as well 
+as data structure for cost reduction, reduced 
+complexity and better interoperability of ICT 
+systems across MDAs
+•	Lack of government-wide consistent 
+enterprise IT policies, principles, reference 
+models and standards with MDAs adopting 
+their own disparate standards•	Recommends and maintains government-wide 
+technical standards, architecture principles, 
+reference models and templates in order to 
+facilitate the design, implementation as well as 
+the delivery of ICT capability in a consistent, 
+standardised, cost-effective and timely 
+manner
+•	Limited interconnection and collaboration 
+across MDAs so as to share government data 
+in real-time mode•	Improves the agility and interoperability with 
+real-time information exchange across MDAs, 
+with enhanced transparency, better co-
+ordination and communication
+•	Ad-hoc reactive mode of decision making  
+in ICT investments with limited investments 
+in ICT•	Provides a basis for planned decision making 
+in ICT investments
+•	Lack of centralised governance to achieve 
+the follo wing:
+ -Plan and deliver EA initiatives that leads to 
+delay in ICT projects
+ -Maintain and sustain EA standards•	Centralised architecture governance model in 
+order to ensure better architecture planning, 
+decision making and compliance of projects with 
+enterprise standards
+•	Improved efficiency and turnaround time for ICT 
+project roll-out
+EA is thus one of the critical success factors for effective e-Government transformation.
+PwC8What initiatives are other 
+governments undertaking ? 
+Across the world there has been a wide 
+scale adoption of the Government 
+Enterprise Architecture (GEA) and 
+appreciations thereof of the values 
+delivered. The objective of these initiatives 
+has been to design, develop, deploy 
+and use the GEA and e-Government 
+Interoperability Framework (e-GIF) 
+for better strategies, processes, plans, 
+structures, technologies and systems 
+across the government. The GEA and  
+e-GIF will be used to better tailor 
+information systems for government 
+agencies in order to achieve key objectives 
+as well as outcomes, and thereby achieve 
+increased interoperability, better asset 
+management, reduced risk and lower 
+operational cost.
+• Governments in North America and 
+Europe had already taken the right 
+steps in establishing the EA programme 
+for eGovernment transformation, 
+though they are at various stages of EA 
+maturity. 
+• In the US, the US Information 
+Technology Management Reform Act of 
+1996, often referred to as the Clinger-
+Cohen Act, made it mandatory for all 
+116 US federal departments as well 
+as agencies to develop and use EA for 
+IT investment planning and decision 
+making. Some of the benefits realised 
+includes the following:
+ -The United States Agency for 
+International Development has 
+reported cost savings to the tune 
+of 12.3 million USD and cost 
+avoidance of 9.5 million USD as 
+a result of transitioning disparate 
+human resource systems to a human 
+resource shared services centre, 
+using enterprise architecture.  It reported savings to the tune of 
+15.7 million USD from moving its 
+e-mail service to a cloud-based 
+solution (recommended by the EA 
+programme).
+ -The US Department of Health and 
+Human Service has been able to 
+reuse 16% of its total governmental 
+services.
+ -The US Department of Education 
+reports that development, 
+modernisation, and enhancement 
+funding within the IT portfolio 
+increased from 10% of the total IT 
+spending in fiscal year 2011, to 13% 
+of the total IT spending in fiscal 
+year 2012, through the use of the 
+department’s architecture segment 
+modernisation planning process.
+ -The US Department of Treasury that 
+focussed on reducing duplication 
+through its data centre consolidation 
+initiative has reported a reduction of 
+1,283 in the number of servers, an 
+increase from 25 to 36% of operating 
+systems that were virtualised, and a 
+reduction in the data centre square 
+footage of 15,896 between 2010 and 
+2011.
+• The Australian government has 
+established the Australian Government 
+Programme with the objective to assist 
+in the delivery of a consistent and 
+cohesive service to its citizens, and 
+support a cost-effective delivery of ICT 
+services by the government.
+• New Zealand (NZ) is diligently working 
+towards a connected government 
+through the definition of New Zealand 
+Federal Enterprise Architecture (FEA) 
+derived from the US Federal Enterprise 
+Architecture Framework (US FEAF).• In recent times, countries in the Asia-
+Pacific region are also on the move to 
+adopt enterprise architecture in order 
+to demonstrate better control as well as 
+management of ICT capabilities.
+ -The Korea Government Enterprise 
+Architecture, winner of the UN 
+Public Service Award in 2013 has 
+helped the government in the 
+projected budget reduction of 400 
+billion KRW since the adoption of EA 
+over the last five years. 
+ -The government of Singapore 
+has established the whole-of-
+government EA with the objective to 
+enable the government optimise its 
+ICT assets by rigorously analysing 
+as well as identifying strategic 
+opportunities from its various lines 
+of businesses, business information, 
+software applications and 
+technology investments.
+ -The government of Nepal has 
+adopted the GEA framework 
+with the objective the realise its 
+e-Government mission of providing a 
+‘value networking Nepal’ by building 
+efficient, transparent as well as a 
+citizen-centric government service 
+through the use of ICT.
+• The Organisation of Eastern Caribbean 
+States (with member countries namely 
+Dominica, Grenada, Saint Lucia, 
+Saint Vincent and the Grenadines, 
+Antigua and Barbuda and St Kitts and 
+Nevis) have established the enterprise 
+architecture framework at the regional 
+and the national level with the key 
+objective of promoting the efficiency, 
+quality, and transparency of public 
+services through the delivery of 
+regionally-integrated e-Government 
+applications that take advantage of 
+economies of scale.
+(Source: Ministry of Security and Public Administra -
+tion)
+
+Smart governance and technology9What is the right way to 
+approach the e-Government 
+architecture?
+TOGAF as the foundation for EA 
+Adopting a well-planned collaborative 
+and comprehensive national enterprise 
+architecture framework is one of the key 
+success factor for the transformation 
+initiative.The Open Group Architecture Framework 
+(TOGAF), an open group standard, is the 
+widely accepted architecture framework 
+adopted by government as well as 
+private sector organisations, in both the 
+developed and developing countries 
+across the world in recent times, for the 
+development of a government national 
+(strategic level) and regional (state, 
+municipality, departments, agencies) level 
+enterprise architecture framework.  
+Government strategic 
+architecture at national level (architecture vision)
+Ministries, department and 
+agencies specific architecture (programme / portfolio level)
+Ministries, department and 
+agencies specific project architecture (incremental and iterative)
+The rising popularity of TOGAF as the 
+architecture framework can be attributed 
+to its core architecture development 
+methodology (ADM), a step-by-step 
+process oriented approach that will allow 
+government architectures to be developed 
+at various levels (at the strategic as well 
+as segment levels) and across various 
+architecture domains (business, data and 
+technology) that are consistent, iterative, 
+adopt industry best practices and provides 
+a common language. 
+It has the flexibility to accommodate likely 
+future needs of the government in an 
+iterative manner.Requirements 
+managementPreliminary
+Transforming the governmentDesigning the architectureManaging the transformationCreating the architecture vision
+B.
+Business 
+architecture
+C.
+Information 
+systems 
+architecture
+D.
+Technology 
+architectureE.
+Opportunities 
+and solutionsF.
+Migration 
+planningA. 
+Architecture 
+vision H.
+Architecture 
+change 
+management
+G.
+Implementation 
+governance
+PwC10Architecting e-Government 
+transformation 
+Creating the architecture vision
+The architecture vision articulates the 
+translation of the whole-of-government 
+transformation vision and objectives in 
+order to serve the ICT strategic needs as 
+well as the directions of the government. 
+It demonstrates a value proposition 
+responding to the ICT strategic 
+transformation requirements and 
+envisaging the future state government 
+service delivery architecture.
+The industry best practice driven 
+guiding architecture principles and 
+reference architecture models will serve as the means of demonstrating and 
+articulating this vision. 
+An essential precursor to the 
+conceptualisation of this vision is 
+to assess the capability maturity 
+of the government architecture 
+programme that will enable the 
+process of goal setting for the future. 
+EA capability maturity will provide a 
+yardstick to periodically assess and 
+measure improvement as well as 
+allow governmental organisations 
+to benchmark the status of current 
+architecture programmes and 
+commence the process of improving 
+their effectiveness, or roll-out a new 
+programme. Architecture principles
+The architecture principles reflect the 
+architectural vision to support the business 
+needs of the government and improved IT 
+enablement. It provides a foundation for 
+a consistent industry best practice-based 
+architecture, and will guide ICT decisions 
+and investments.
+Reference architecture model
+In most cases, the government ICT 
+landscape is largely fragmented in nature, 
+distributed with disparate multi-vendor 
+solutions across MDAs, each maintaining 
+their own architecture standards in silos. 
+Adoption of a whole-of-government 
+reference architecture model will provide 
+a common, standardised and consistent 
+taxonomy and framework solution in order 
+to enable reuse and interoperability across 
+government MDAs. It provides a context for 
+decision making and helps MDAs to develop 
+ICT capabilities in a way so as to operate 
+across traditional boundaries in order 
+to improve service delivery and deliver 
+responsive ICT solutions. 
+The reference architecture model 
+will act as the template and reference 
+point for concrete realisation of the 
+target architecture development and 
+implementation either within a particular 
+domain (e.g. application, data) or sets 
+of domains (e.g. across all architecture 
+segments). The technical reference 
+architecture provides the foundation that 
+will guide the selection of standards as well 
+as enabling technologies.Architecture principles
+•	Business principles
+•	Data principles
+•	Application principles
+•	Technology principles
+•	Architecture governance principlesReference architecture models
+•	Enterprise level reference architecture
+•	Data reference model
+•	Application reference model
+•	Technical reference model
+Architecture principles Reference architecture models
+Creating the 
+architecture vision
+
+Smart governance and technology11
+Reference architecture models
+PwC12Designing the 
+architectureBusiness 
+architectureInformation 
+architectureApplication 
+architecture
+Technology 
+architecture
+Interoperability 
+frameworkBusiness architecture
+•  Service automation
+•  Service delivery
+•  Service integrationInformation architecture
+•  Data classification and taxonomy
+•  Data modeling & standards•  Data life cycle management
+•  Master data and data quality
+management 
+•  BI and reporting
+•  Document, content and 
+knowledgemanagement Application architecture
+•  Access and delivery channels
+•  Presentation and user experience
+•  Business process alignment and suitability
+•  Architecture and design
+•  Business process management
+•  Application quality of service
+Technology architecture
+•  Service delivery gateway architecture
+•  Application, Data & Infrastructure
+Security 
+•  Network infrastructure•  Data Center Infrastructure
+•  ICT BCP / DR planning and
+Implementation 
+Interoperability framework
+•  Interoperability principles 
+and policies
+•  Technical standards
+specifications Designing the architecture
+ 
+Collaborative domain 
+architecture formulation
+Designing the enterprise architecture 
+for the whole-of-government involves 
+collaborative development of the 
+domain architecture across businesses, information, application and technology 
+architecture. The overarching architecture 
+vision will provide directions and 
+guidelines for subsequent designing of the 
+domain architecture .
+Smart governance and technology13DataBusiness services
+Business processOrganization or 
+lines of business
+PAN registration 
+statusPAN Registration
+(G2C)
+Application
+InfrastructureIRD ePAN , eVAT
+applications
+Web server
+Application and 
+portal serverActors
+PAN 
+applicantMinistry of finance, inland revenue 
+department
+Tax payer addressIntegration
+Tax payer nameIRD staff
+Submit PAN 
+details (web service)  Submit VAT details 
+web service
+Government WAN or LAN
+Routers, Switch, Firewalls, IPS
+Database server
+Content serverEmail, Directory 
+servers
+Mobility serverVAT Registration
+(G2B)VAT 
+applicant 
+National portal or 
+ministry portalTax administration process
+PAN certificate
+Security (application, data, integration and infrastructure)
+Interoperability framework (technical)End-to-end collaborative domain architecture building blocks
+PwC14Business or services architecture
+Business or service architecture will 
+capture the integrated whole-of-
+government service delivery operating 
+model at the strategic level for 
+accomplishing the e-Government vision, 
+and individual functions, processes and 
+government services at the segment level 
+required to support the service delivery 
+model. 
+Information architecture
+The information architecture will define 
+the integrated whole-of-government 
+data standards, the structure of the 
+governments’ common logical and physical 
+data assets required to support business 
+services and address data management 
+considerations. It reflects common domain 
+entities, their relationships, schemas 
+and establishes accountability for data 
+integrity. Definition of data architecture 
+needs to be incremental in nature in order 
+to meet specific segment requirements. 
+Application architecture
+The application architecture defines the 
+blueprint for ICT application or service 
+capabilities, their interactions, as well 
+as their relationships to core business 
+services of the MDAs. 
+It consolidates and rationalises the 
+application portfolio of the government 
+organisation as a whole required to 
+support business processes of MDAs. 
+The definition of application architecture 
+needs to be incremental in order to meet 
+specific MDA functional requirements for 
+new ICT initiatives.Technology architecture
+Technology architecture defines the 
+blueprint for underlying ICT technical 
+infrastructure capabilities required to 
+support ICT application capabilities 
+identified in the application architecture. It 
+mostly focuses on the blueprint definition 
+in the following domains:
+• Integration architecture required to 
+integrate ICT applications in order to 
+enable real-time seamless information 
+exchange across MDAs government-
+wide leveraging SOA-based approach
+• Security architecture required to 
+securely and economically protect its 
+business functions, including public 
+access to appropriate information as 
+well as resources, while maintaining 
+compliance with the legal requirements 
+established by existing statutes 
+pertaining to confidentiality, privacy, 
+accessibility, availability, and integrity
+• Infrastructure architecture required 
+to lay down the network, data centre 
+and infrastructure (hardware as well as 
+software) foundation services for the 
+deployment of ICT application solutions 
+and provide operational support 
+services Interoperability framework 
+In order to achieve the goal to primarily 
+setup an interoperable connected 
+government, it is of utmost importance to 
+create an open, transparent, interoperable 
+environment in order to help government 
+information systems work successfully 
+together and in an integrated and 
+seamless manner, regardless of underlying 
+technology or application. 
+A government interoperability framework 
+(GIF) is thus essential in order to define 
+technical standards that a government 
+can use so as to ensure that ministries, 
+departments, agencies, citizens and 
+partners interact with each other in a 
+standardised manner.
+Transforming 
+the governmentOpportunities and 
+solutionsArchitecture 
+implementation 
+strategy and 
+roadmap
+Transition 
+architectureArchitecture roadmap
+•Architecture 
+implementation strategy
+•Short and long-term roadmap 
+•Portfolio & project charter
+Transition architecture 
+•Capability increments 
+through series of 
+transition architectureOpportunities and 
+solutions
+•Strategic opportunities 
+and solutions
+•Emerging solutions
+•Initiative identification 
+and prioritisation
+•Cost benefit analysis
+Smart governance and technology15Transforming the government
+Critical to the transformation of the 
+government is the adoption of an 
+iterative and incremental strategy for 
+the implementation of the government 
+enterprise architecture. A best practice 
+approach is the formulation of the 
+architecture implementation roadmap 
+that shows incremental progress from 
+the baseline to the target through a 
+series of transition architectures that 
+delivers continuous business value (for 
+e.g., capability increments) with the 
+exploitation of opportunities.
+There is a need to explore rationalisation 
+initiatives, recommending improvement 
+opportunities as well as solution options 
+leveraging best practices, and the use 
+of emerging technologies (such as SOA, 
+cloud, mobile government and social 
+media, unified communications, open 
+government and big data) wherever 
+applicable in order to improve business 
+value and agility. Also, it is crucial to 
+prioritise opportunities and identify quick 
+wins so as to gain momentum. 
+One needs to complete the portfolio 
+and major project charters, with 
+their deliverables being grouped into 
+increments and scheduled for release 
+within the transition architecture 
+increments. 
+Managing the transformation
+Enterprise architecture is not a one-time 
+activity, but a living and breathing practice 
+that needs to be governed and sustained. 
+Without proper governance government 
+MDAs can be following its own strategy, 
+guidelines as well as standards without 
+any alignment to the overall e-Government 
+transformation vision. 
+An architecture governance structural 
+model, comprsing of an architecture 
+review board and architecture 
+management processes, needs to be 
+institutionalised in order to review, 
+monitor and ensure compliance of 
+government MDA ICT projects (existing 
+as well as new) with the proposed GEA 
+standards and specifications.
+The architecture change management 
+process is essential to manage changes to 
+the proposed architecture in a cohesive 
+and architected way, and also ensure that 
+it meets the target value as expected. 
+This process will typically provide 
+for the continual monitoring of new developments in technology and also 
+changes within the business environment, 
+and for determining whether to formally 
+initiate a new architecture evolution cycle. 
+The architecture review broad initiates the 
+architecture change management process.
+Defining a government-wide training 
+strategy is essential at various levels in 
+the government in order to handhold and 
+create awareness of the recommended 
+architecture standards and guidelines 
+across MDAs, ensure successful 
+implementation of all ICT initiatives and 
+to endow them with a proper mindset for 
+adapting to new ICT initiatives.
+Critical success factors
+Till date, adoption of a sustainable 
+enterprise architecture for the whole-of-
+government has been quite challenging 
+with limited success stories attributed 
+mostly due to the following reasons:
+• Fragmented decentralised ICT 
+landscape across MDAs with an ad-
+hoc architecture development, with 
+limited adoption of a well-defined, 
+proven, comprehensive, consistent and 
+iterative methodology for architecture 
+development across all MDAs
+• Limited senior management awareness 
+as well as commitment, with limited 
+involvement of EA in decision making 
+and ICT investment • Lack of a well-defined scope, with 
+limited involvement of the right 
+stakeholders possessing the right skill 
+sets and at the right time 
+Thus, considerations of the following 
+critical factors are essential for the success 
+of the GEA programme :
+• Ensure that the business scope, business 
+requirements and the performance 
+measures are clearly defined. Defining 
+the architecture scope is essential 
+so as to decide the appropriate type 
+of architectural styles to be adopted 
+(e.g. the top down approach, right 
+from strategico segment to capability 
+architecture) and hence, ensure the 
+probability of success. The scope must 
+be sufficiently significant so that the EA 
+delivers value and should not be broad 
+in nature
+• Involvement of key stakeholders at 
+various stages are essential in order 
+to derive the right architecture 
+requirements for the transformation, 
+the critical issues and the challenges 
+faced, the degree of alignment of the 
+business processes with the ICT systems
+
+PwC16• Business architecture drives the 
+development of subsequent application 
+and data architecture. Re-engineering 
+of any ICT systems should not done 
+without determining the business 
+requirements and the business value it 
+will provide. 
+• Ensure that the proposed centralised 
+architecture governance model has 
+appropriate senior-management, 
+MDA as well as ICT department 
+representation in setting directions, 
+influencing plans, and approving 
+project decisions, and thus expediting 
+ICT decision making capabilities
+• Ensure that major planned ICT 
+acquisitions are to be guided and 
+governed by the EA with RFP content to 
+be influenced by architecture standards• Cost-benefits to be considered in 
+identifying projects 
+• Ensure project compliance with 
+enterprise standards through proactive 
+auditing and compliance review process
+• Encouraging continual refinement of 
+architectural standards through an 
+effective change management process
+• Define the right architecture reference 
+model aligned with industry trends
+• Leverage the right skill sets in order 
+to expedite the process and quickly 
+get on the right track. This includes 
+not only those directly involved in the 
+EA process, such as the chief architect 
+and domain architects, but also those 
+involved in governing and applying the EA such as project managers, 
+infrastructure SMEs, and application 
+developers
+• Communicating to the stakeholders the 
+EA programme needs and its potential 
+benefit to be derived, is paramount to 
+its success. In order to be successful, 
+communication planning must be 
+done in order to ensure that the right 
+communication is taking place at the 
+right time
+• Conduct architecture awareness and 
+training programmes on a regular basis
+
+Smart governance and technology17e-Government transformation: 
+Move towards an integrated 
+whole-of-government model
+Recent trends worldwide in e-Government 
+transformation (as per the UN 
+e-Government survey 2012) reflects a 
+shift from a decentralised siloed-based 
+organisation model towards a cohesive, 
+co-ordinated and integrated whole-of-
+government model, with greater online 
+presence contributing to increased 
+efficiency and agility, effectiveness and 
+transparency in government service 
+delivery.
+Users (service 
+seekers)Government 
+service providersSingle access point for government 
+service deliveryService delivery 
+channels
+Ministry of finance
+Ministry of health
+Ministry of education
+Other MDAsG2C 
+services
+G2B 
+services
+G2E 
+services
+G2G 
+services
+National eService delivery gateway
+One-stop national portal framework
+Single window for 
+Government 
+eService
+Interconnected 
+government ministries, 
+departments and 
+agencies
+Integrated whole-of-government  modelWeb browser Citizens
+Mobile devices Business entities
+Social mediaOther public 
+sector entities
+KiosksGovernment 
+employees
+Service 
+helpdesk
+Vendors or 
+suppliersGovernment 
+WAN or LANInternet 
+or 
+cellular 
+network
+Govern -
+ment 
+WAN or 
+LANThe unified whole-of-government model 
+aims at building a transparent, integrated 
+government with interconnected 
+ministries, departments and agencies 
+(MDAs), leveraging the usage of ICT with 
+a single government access point service 
+delivery, where citizens can access most 
+government services online, regardless 
+of which government authority provides 
+such services. Besides all possible service 
+delivery channels (e.g. web, mobile, social 
+media, kiosks) are being explored for 
+government service provisioning in order 
+to develop a sustainable government.
+However, e-Government transformation 
+from the siloed-based model to the 
+connected whole-of-government model 
+necessitates the following:• Long-term e-Government vision, 
+policies and a strategic framework in 
+order to deliver sustainable citizen-
+centric and citizen-driven services
+• Better and holistic collaboration, 
+streamlined processes, standardised 
+services as well as ICT systems across 
+government MDAs 
+• Leveraging the advances in technology 
+in order to strengthen the underlying 
+technical infrastructure for ICT systems, 
+with a focus on integrated service 
+delivery gateways so as to facilitate 
+online delivery of government services, 
+promote interoperability and seamlessly 
+share government data across MDAs 
+PwC18
+FOSS versus COTS  
+The rising dilemma
+The advent and evolution of free and open 
+source software (FOSS) has etched an indelible 
+mark on the overall technological landscape 
+and in the minds of key stakeholders. FOSS has 
+brought about a change which is welcome, but 
+at the same time disruptive in nature. 
+Smart governance and technology19Foss development timeline
+1976-
+Emacs 
+1983-GNUProject  1984-Xwindow  
+1991-LinuxKernel  1995-PHP,MySQL 
+1996-Apache 1999-OpenOffice 
+2003 -
+Firefox2005-Git 
+2008 -
+Android
+FOSS has brought us to an era where 
+individuals as well as small, medium 
+and large enterprises have to allocate a 
+certain amount of budget primarily for 
+hardware and support. However, the rate 
+of FOSS adoption, though increasing, is 
+still laden with doubts in the minds of IT 
+decision makers across the globe. 
+This brings us to the disruptive part of 
+the change. The advent of FOSS has 
+stood out as a viable alternative for the 
+pre-existing proprietary and commercial 
+off-the-shelf (COTS) software. This has 
+put decision makers in a situation where 
+suddenly they have myriad viable options 
+to choose from. This apprehension 
+is especially prominent within the government sector where in many cases, 
+factors such as revenue generation or 
+profit-making are not the driving factors 
+for IT implementation. 
+The e-Governance initiatives should 
+ultimately converge to the single goal of 
+enhanced and inclusive public services 
+delivery. In order to understand the 
+dilemma in technology adoption for the 
+government, we can browse through the 
+distribution of technology across various 
+delivery models of e-Government, where 
+the target of the all the initiatives is 
+enhanced service delivery.
+Applications in e-Government
+•   Digital secretariat :Desktop or web application 
+•   HRMS -ESS and administration : Web application 
+•   ERP: Finance, asset 
+G2C
+G2B
+G2G
+G2E•   Citizen portal: Web application
+•   Citizen services: Web services
+•   e-Procurement portal: Web application
+•   e-Inverstor portal: Web application
+•   Customer verification services: Web services 
+•   Internal-digital secretariat: Web application  
+•   External-financial compliance services: 
+Web services 
+PwC20Global factors for FOSS adoption
+4.11.8
+43.9
+26.712.85.45.3
+Performance
+Security
+Lower cost
+Increased flexibility
+Reduced vendor lock- In
+Reliability
+Other
+Source : Coetzee N. 2002, Free and Open Source 
+Software in Africa, Finish Government report
+In order to understand the adoption of 
+COTS within the government sector, we 
+must understand the major technology 
+categories that comprise a government 
+enterprise. These include the following:
+• Infrastructure software
+• Application development software
+• Business management software 
+development
+• Desktop and OS software developmentOSS technology category distribution over regions
+00.511.522.533.54
+North America Latin America Europe Africa Asia Oceania
+Infrastructure software
+Application development software
+Business management software development
+Desktop and OS software development
+Source: CENATIC foundation, 2010,report on the 
+International Status of Open Source Software 2010
+The least penetration for FOSS is found 
+in the avenues of business management 
+and desktop OS software development 
+reporting a 2.17 and 2.33 average 
+adoption score respectively. This leads us 
+to believe that the penetration of COTS 
+is prominent in these two areas. The 
+reasons can be envisioned as follows:
+• Business management softwares such 
+as enterprise resource planning(ERP) 
+and human resource management 
+system(HRMS) are packaged products 
+provided by companies such as 
+Oracle, IBM, SAP et al. These products 
+have a baseline implementation 
+that come out-of-the-box. They are 
+then customised according to the 
+enterprise. At a basic level, these 
+products are ready to be deployed and 
+production- ready.
+• These products cater to critical 
+modules that directly impact 
+the operations of an enterprise, 
+including financial accounting, asset 
+management, purchase, etc. • A bottom-up development of these 
+solutions will require a large amount 
+of involvement of business users, and 
+will also demand a certain amount of 
+technical expertise on their part that is 
+hard to attain.
+• Defined technical and functional 
+teams have been put in place for such 
+products.
+• In the area of desktop operating 
+system(OS) software, worldwide 
+penetration of Microsoft Windows,  
+as the leading OS for desktops as well  
+as laptops, mandates the use of  
+COTS products.
+• Across the globe, computer education 
+at the basic educational level, is largely 
+Windows-based in nature.
+• The aforesaid factors have impacted 
+the growth of Linux as a desktop OS in 
+comparison to Linux as a server.
+Smart governance and technology21
+Important considerations for 
+FOSS adoption
+Legal clarity over FOSS licences: FOSS 
+licences can be broadly categorised 
+into ‘copyleft’ and ‘copyright’ licences. 
+The copyleft licence is provided by the 
+GNU general public licence(GPL) and 
+the copyright licence is provided by the 
+academia as well as foundations such as 
+the following:
+• MIT public licence
+• BSD licence
+• Mozilla public licence version
+• Apache licence
+• The academic free licence
+The distribution of derived work using a 
+GPL license needs to be properly validated 
+by scrutinising the licence text.
+Authenticity or stability of the product: 
+Proper checks as well as balances need 
+to be established within the government 
+organisation or a governing body needs to 
+be setup in order to review all open source 
+initiatives within the organization so as 
+to avoid the use of malicious softwares 
+and the unstable version of an authentic 
+product.
+Important considerations for 
+COTS software adoption
+• Initial and recurring cost involved in a 
+COTS software implementation needs 
+to be justified with the adoption and 
+usability of the solution in the short and 
+long- term.• A rigorous change management 
+initiative needs to be taken within a 
+government organisation in order to 
+ensure adoption through user training.
+• Processes within a government 
+organisation are usually well-defined 
+and tested over time. COTS software 
+implementation will at sometime 
+demand a realignment of such 
+processes, which might be resisted by 
+the concerned stakeholders. This is 
+especially true for a packaged solution.
+•  A proper gap analysis need to be 
+executed between the as-is process 
+and the process defined in the COTS 
+solution. This will generate a fitment 
+report, and the cost of the gap that 
+needs to be filled in by customisation 
+needs to be justified.
+• In order to ensure portability as well 
+as integration, adherence to open 
+standards needs to be ensured for the 
+proposed COTS solution.
+FOSS and COTS adoption 
+strategy : PwC’s point-of-view
+We believe that at the conceptual level, the 
+solution to this issue can be addressed by 
+mandating the use of open standards as 
+the baseline. A balanced solution can be 
+achieved by the proper mix of both FOSS 
+as well as COTS solutions. Having said so, 
+we will also like to enumerate the critical 
+parameters that should drive the decision 
+for the same. This includes the following:• e-Government context : G2C(includes 
+G2B), G2G and G2E
+• Approved budget(AB) : Austere, 
+sufficient and visionary
+• Current organisational maturity(COM) 
+: Low, medium and high
+• Current IT maturity(CIM): Low, 
+medium and high
+• Adaptability to process change(APC): 
+Adaptive, resistive and rigid
+We have seen that the above parameters 
+are largely independent of each other 
+with the subtle exception of the fact that 
+the ‘current organisational maturity’ 
+can sometimes affect the ‘adaptability 
+to process change’. For example, an 
+organisation in its formative stage will be 
+more adaptive to change.
+We have devised a matrix that will bring 
+out various stages that a government 
+organisation can be categorised into. 
+The matrix will in turn, transform the 
+organisation to a higher IT maturity level, 
+and thereby provide clarity on FOSS and 
+COTS adoption strategy.
+PwC22e-Government context : G2C
+G2C application transformation
+Parameter
+StageAP COM CIM APC
+Stage 1 Austere Low Low Adaptive
+Stage 2 Sufficient Medium Medium Resistive
+Stage 3 Visionary High High RigidTransformation
+FOSS and COTS adoption roadmap for a G2C initiative
+Design and develop a 
+custom solution using 
+FOSS stackMonitor for 
+scalability
+Identify components to scale upReconsider product stack
+Consider the viablity of a bespoke development using COTS
+Our experience
+The aforesaid scenario has been 
+implemented in the G2C portal and 
+services of one of our clients. The FOSS 
+solution that was implemented initially 
+had an enterprise content management 
+(ECM) component. This component was 
+gradually loaded with a considerable 
+number of documents and started facing 
+performance issues. A COTS ECM product 
+was envisaged and reviewed at this 
+point of time, since the application was 
+mature by then, and usability and citizen 
+engagement issues were decimated. ECM 
+evolution stagesInitial FOSS stack•  JBoss AS•  MySQL(DB)•  Alfresco •  Community(ECM)•  JasperReportAlfresco performance issue•  Large volume•  Client had a community 
+licence and no enterprise supportEvaluation of COTS ECM•  Oracle UCM•  IBM Filenet•  Documentum
+
+Smart governance and technology23Scenario 1:  A newly formed government organisation has taken up a HRMS and ESS 
+implementation for its employees. Sufficient budget has been allocated for the project,  
+and as such the organisation wants to go for the best-of-breed solution. Being at the 
+formative stage they are adaptive to change, and therefore will like to align themselves 
+to the product chosen. This is a typical scenario where a COTS HRMS package 
+implementation can be proposed.
+AP COM CIM APC
+Sufficient Low Low Adaptive
+e-Government context : G2E
+G2E services have often presented 
+us with more challenging scenarios, 
+thereby leading several delays in decision 
+making, from the technology finalisation 
+perspective from the client side. The stage 
+definition in this case has to be ad-hoc 
+rather than transformative in nature. We 
+will use our experience to define the client 
+status. The roadmap will be defined for 
+a ERP, HRMS and employee self- service 
+portal implementation for a typical 
+government organisation, since these types 
+of projects have seen a number of failures 
+due to the lack of a proper roadmap. Governemnt
+•	Basic HRMS 
+process definition
+•	Publish RFPCOTS HRMS 
+package
+•	Out-of-the-box 
+fitment
+•	CustomisationHRMS and ESS 
+implementaion
+•	Process realigement
+•	Product-specific 
+training+ =
+PwC24Scenario 2:  An existing government organisation with medium organisational and  
+IT maturity and with a sufficient amount of allocated budget is planning a complete 
+ERP implementation, including financial accounting. The organisation is resistive to 
+change, and therefore a smooth transition has to be ensured with pre-implementation  
+user buy in. The business processes within the organisation are already defined yet have 
+scope of improvement.
+AP COM CIM APC
+Sufficient Medium Medium Resistive
+Analyze COTS 
+ERP packages Business processre-eingineering Publish RFP forCOTS ERP package Product selectionand implementation  User training andacceptanceGo-live
+•	Prepare a baseline 
+capability matrix•	As-is processes
+•	To-be process according to baseline
+•	Gap analysis
+•	Process realignment
+•	List customisation requirements
+•	User acceptance and sign-off•	List to-be processes •	Product configuration
+•	Customisation•	Process re-alignment •	Prodcution roll-out
+•	Process monitoring aginist KPIs
+Scenario 3:  An existing government organisation with high organisational maturity  
+and low IT maturity, and with a visionary budget is planning a complete ERP 
+implementation, including financial accounting. The organisation is rigid about its 
+processes, and therefore a bottom-up custom development has to be proposed for the 
+organisation. Looking at its low IT maturity and rigid core processes, user acceptability is  
+a big challenge for this project.
+AP COM CIM APC
+Visionary High Low Rigid
+Implement the 
+solution using FOSS stackGet user acceptance Go-liveMonitor usage,load and performanceStudy reports for product scalability issueConsider the viability of a COTS
+•	Low product cost
+•	High implemention 
+cost•	User training
+•	Resolve user issues
+•	Accomodate change requests
+•	User acceptance•	Production release
+•	Production support•	Identify unscalable 
+products
+•	Reconsider product 
+stack•	Performance tuning 
+for highest user load
+•	Routine data backup•	Assess the organisational 
+process and IT 
+maturity
+•	Compare current 
+perfromance with 
+other prodcuts’ 
+benchmark
+Smart governance and technology25 
+FactorsLevel of governance
+National State Local
+e-Government 
+delivery modelsG2C and G2B Cost High Medium Low
+Flexibility High High High
+Reliability High High High
+Performance High Medium Low
+Security High High High
+G2E Cost High High High
+Flexibility High High High
+Reliability High High High
+Performance Low Low Low
+Security Medium Medium MediumIT initiatives within the government 
+sector have steadily emerged as a 
+functional domain in itself. Both the 
+open source community as well as 
+product vendors have started aligning 
+their products to fit the domain. 
+Where both FOSS as well as COTS 
+products populate the major technology 
+platforms emerging out of accepted 
+open standards, FOSS provides a clear 
+cost advantage. Packaged business 
+applications are a strong-hold of COTS 
+product vendors, and we definitely 
+envision robust investment pipeline 
+around that. However, the COTS 
+vendors need to rethink their pricing 
+model for the government sector, since 
+they are going to be challenged by the 
+g-Cloud initiative taken up by various 
+governments.PwC evaluation metrics
+PwC uses evaluation metrics and a 
+weighted approach in order to evaluate 
+the FOSS and COTS adoption decision. The terms of references(TORs) of 
+the requirement play a major part in 
+the evaluation process, but generic 
+considerations also have to be carefully 
+evaluated for the products in question
+Considerations for evaluation
+Cost •	Cost of product
+•	Product support and annual maintenance cost(AMC)
+•	Implementation cost
+•	Implementation support cost
+Flexibility •	Availability of source code
+•	Ability to change source code
+•	Source code redistribution and derived licence
+Reliability •	High availability support
+Performance •	Peak user load
+•	Duration of peak user load
+•	Concurrent user load
+•	Published performance benchmark
+Security •	Authentication mechanism
+•	Adherence to open standard cryptography
+All the above parameters are weighed, 
+and the weights are agreed upon with the 
+client’s IT team. A specific government 
+initiative is quantitatively evaluated 
+against these parameters around the two prominent e-Government dimensions. 
+These include the following:
+• Delivery model
+• Level of governance
+
+PwC26
+The Daily Mail, 9 July 2013
+Thousands of air travellers faced flight chaos today after 
+‘technical problems’ hit Britain’s main air traffic control 
+centre. The problem led to National Air Traffic Services 
+(NATS) restricting the number of aircraft flying across 
+the south of England and those taking off from airports. 
+A NATS spokesman said, ‘There will be delays, although 
+we are not sure how long they will be.’ One airport spoke 
+of ‘a widespread air traffic control issue’. A computer 
+glitch was to blame for the disruption.1
+The Wall Street Journal, 6 October 2013
+Six days into the launch of insurance marketplaces 
+created by the new healthcare law, the federal 
+government acknowledged for the first time Sunday that 
+it needed to fix design and software problems that have 
+kept customers from applying online for coverage.2
+The New York Times, 7 October 2013
+The technical problems that have hampered enrollment in the 
+online health insurance exchanges resulted from the failure of 
+a major software component, designed by private contractors, 
+that crashed under the weight of millions of users last week, 
+federal officials said Monday. Todd Park, President Obama’s top 
+technology advisor, said the failure occurred in the part of the 
+website that lets people create user accounts at the beginning 
+of the insurance sign-up process. The crash prevented many 
+from viewing any of their insurance options or gaining access to 
+information on what federal subsidies might be available.3QA modelling  
+A critical success  
+factor for governments 
+1 http://www.dailymail.co.uk/news/article-2358791/National-Air-Traffic-Services-hit-glitches-control-centre.html#ixzz2jD5wCJmB
+2 http://online.wsj.com/news/articles/SB10001424052702304441404579119740283413018
+3 http://www.nytimes.com/2013/10/08/us/health-exchange-delays-tied-to-software-crash-in-early-rush.html?_r=0#h[]
+Smart governance and technology274 Project Management Office
+5 Quality AssuranceIn today’s globalised environment, the 
+cycles of economy experience longer 
+slowdowns and recessions. Governments 
+across the world are expected to provide 
+better services for their citizens and 
+corporates at lower costs. Towards this, 
+they make large ICT investments for 
+public services such as pension systems, 
+healthcare, financial services and other 
+citizen centric services with the objective 
+of greater efficiencies at lower cost in the 
+long run. 
+The six periods of global recession since 
+the 1970s and six periods of financial 
+crises in the 21st century sharply reduced 
+the tax revenues of governments. 
+Governments felt a new level of urgency 
+to invest their citizens’ hard earned 
+money in efficient IT systems to ensure 
+that they generate a return to the best 
+possible extent, keeping the costs low. 
+Thereafter, government agencies faced 
+the daunting challenge of maintaining the 
+highest standards of quality with budgets 
+lower than ever. Governments became 
+cautious as citizens are now empowered 
+with the power to know how their money 
+is being spent and how investments are 
+working towards their benefit. Eg with 
+the introduction of the RTI Act on 15 June 
+2005, India, a developing country, allows 
+its citizens the power to know how their 
+funds are being utilised for the betterment 
+of society. Such citizen empowerment 
+poses greater challenges to government 
+entities to utilise public funds carefully 
+and efficiently. Today, agencies are looking 
+even more closely at how IT projects and 
+initiatives are funded. 
+In recent times, government agencies 
+have tried to deliver successful software 
+development and implementation 
+projects through advanced project 
+management approaches. However, 
+project management primarily focusses 
+on evaluating cost, risk and schedule 
+variances. More often, it lacks the 
+adequate objectivity required to provide 
+the necessary evaluation of project 
+quality. A good PMO4 is not sufficient 
+for a successful initiative. However, a 
+team of qualified QA5 professionals can 
+objectively assess the IT application’s 
+risks and help maintain the highest level 
+of quality. Efficient project management 
+together with QA can make significant improvements in overall project success. 
+A recent Gartner survey (ID:G00231952) 
+shows that 17% respondents for small IT 
+projects and 11% respondents for large IT 
+projects believed that quality issues are 
+among the key factors for unsuccessful IT 
+projects. 
+However, from the PwC point 
+of view, government IT projects 
+need a completely different set of 
+skills and standards specifically 
+customised to the needs of the 
+government. Some of the typical 
+problems include the following:
+• Unclear state of QA maturity
+• No QA guiding principles 
+• Ad hoc QA processes mostly 
+driven by private QA service 
+providers 
+• No QA practice visibility 
+• Lack of interest in taking QA 
+ownerships
+• Limited enterprise wide 
+visibility of QA tools and 
+processes across government 
+departments 
+• Limited awareness about QA 
+standards 
+• Limited use of QA tools 
+• Lack of use of external QA 
+standards 
+Addressing the above challenges from the 
+government perspective requires a simple, 
+low-cost yet powerful QA model. We, at 
+PwC, created a customised QA model for 
+governments. This is designed on good QA 
+practices and external open standards that 
+suit the need of the governments. The QA model for governments
+We created a QA model for governments 
+using our experience in challenging 
+assignments across many QA activities 
+spread across many countries. The 
+developed model was intentionally kept 
+simple considering the challenges within 
+government structures. However, each of 
+the quadrants is further divided in smaller 
+tangible and achievable activities. 
+The maturity levels are the basis for the 
+principles, process areas and practices. We 
+created five maturity levels, six guiding 
+principles, 15 process areas and 10 
+practices. 
+The QA model can be made operational 
+in any government agency through any 
+industry standard- methodology, which 
+can be initiated through an assessment 
+of current QA maturity. The assessment 
+can be easily done through the survey 
+of government officials associated with 
+software project management, monitoring 
+project progress or associated with 
+government quality initiatives. 
+Practices 
+Process areas
+Guiding principles 
+Maturity levels
+PwC28A summary of the QA maturity levels is 
+shown below:
+After the assessment of QA maturity of 
+government agencies, design principles are 
+tailored to suit target QA maturity level. 
+The design principles commonly used in 
+governments are as follows:
+• QA policies and procedures need to 
+underpin the QA model at all levels. 
+• QA needs to be an integral part of the 
+government IT project management. 
+• QA needs to include regular evaluation 
+of QA process and practices through 
+independent monitoring bodies or 
+agencies.
+• QA needs to include context, input, 
+process and output dimensions for any 
+IT projects under consideration, while 
+giving emphasis to outputs and learning 
+outcomes.Level 1
+QA processes are usually 
+ad hoc
+Success in these 
+situations depends on 
+the competence and 
+undocumented knowledge 
+of the people on the job 
+and not on the use of 
+proven QA processes
+Produce products and 
+services that work; 
+however, they frequently 
+exceed the budget and 
+schedule and provides 
+poor software qualities Level 2
+QA processes are 
+planned, performed, 
+measured, and controlled
+Existing QA practices are 
+retained during times of 
+crises
+The status of the QA 
+work and the delivery of 
+services are visible to the 
+government at defined 
+pointsLevel 3
+QA processes are well 
+characterised and 
+understood, and are 
+described in standards, 
+procedures, tools and 
+methods
+The QA standards, 
+process descriptions, 
+and procedures for a 
+department or ministries 
+are tailored from the 
+government’s set of 
+standard processes to suit 
+a particular department or 
+ministryLevel 4
+QA sub-processes are 
+selected to significantly 
+contribute to overall QA 
+process performance
+Selected QA sub-
+processes are controlled 
+using statistical and other 
+quantitative techniques 
+through automated tools
+Quantitative objectives 
+for quality and process 
+performance are 
+established and used 
+as criteria in managing 
+processesLevel 5
+Focuses on continuous 
+improvment on QA 
+process performance 
+through both incremental 
+and innovative technology 
+improvements
+Quantitative QA process-
+improvement objectives 
+are established, 
+continually revised to 
+reflect changing business 
+objectives, and used as 
+criteria in managing QA 
+process improvement
+The effects of deployed 
+QA process improvements 
+are measured and 
+evaluated against the 
+quantitative process-
+improvement objectives
+• QA systems need to include the 
+following elements at the minimum: 
+ -Clear and measurable objectives 
+and standards, guidelines for 
+implementation, including 
+stakeholder involvement
+ -Consistent evaluation methods, 
+associating self-assessment and 
+external review
+ -Feedback mechanisms and 
+procedures for improvement in QA 
+processes 
+ -Widely accessible evaluation results 
+for government staffs 
+Level 1
+Not applicable Level 2
+QA policy
+QA planning
+Monitoring and 
+control
+Design and 
+execution 
+QA environment Level 3
+QA 
+methodology 
+and 
+implementation 
+training 
+QA lifecycle and 
+integration 
+QA automation 
+QA reviews Level 4
+Quantitative 
+measurement
+Software quality 
+evaluation 
+through 
+quantitative 
+techniques Level 5
+Quality 
+prevention 
+Statistical 
+predictability 
+of quality 
+dimensions 
+QA control and 
+optimisation• QA needs to be a cooperative process 
+across government agencies, ministries 
+and departments, involving all relevant 
+stakeholders and systems. 
+Once design principles have been 
+finalised for a targeted QA maturity, the 
+construction of QA processes begins. The 
+QA process is defined against each of the 
+maturity levels as shown below: 
+Smart governance and technology29Once QA processes are established to 
+address a targeted maturity, practices 
+begin to develop. We developed 10 specific 
+practices that can be tailored to meet the 
+specific needs of any government agency 
+around the world.
+Establish an organisational policy 
+for QA for all IT projects 
+Plan and document the QA 
+process
+Provide QA resources (people, 
+skills, tools and trainings)
+Assign responsibilities 
+Train people to use and 
+implement QA in IT projects 
+Manage configurations for QA 
+activities 
+Identify and involve relevant 
+stakeholders for QA practices 
+Monitor and control the QA 
+process 
+Objectively evaluate adherence 
+with QA processes
+Review QA status with higher 
+level management periodicallyThe final QA model for governments will 
+look like the following:
+Level 1 Level 2 Level 3 Level 4 Level 5
+Guiding principles 
+Not 
+applicable•	QA policy
+•	QA planning
+•	Monitoring and 
+control
+•	Design and 
+execution 
+•	QA environment •	QA methodology 
+and 
+implementation 
+training 
+•	QA lifecycle and 
+integration 
+•	QA automation 
+•	QA reviews•	Quantitative 
+measurement
+•	Software quality 
+evaluation 
+through 
+quantitative 
+techniques•	Quality 
+prevention 
+•	Statistical 
+predictability 
+of quality 
+dimensions 
+•	QA control and 
+optimisation
+Not 
+applicable •	Plan and 
+document the 
+QA process
+•	Provide QA 
+resources 
+(people, skills, 
+tools, and 
+trainings)
+•	Assign QA 
+responsibilities•	Establish an 
+organisational 
+policy for quality 
+assurance for all 
+IT projects
+•	Train people 
+to use and 
+implement QA in 
+IT projects
+•	Identify and 
+involve relevant 
+stakeholders for 
+QA practices•	Manage 
+configurations 
+for QA activities
+•	Review QA 
+status with 
+higher level 
+management 
+periodically•	Monitor and 
+control the QA 
+process
+•	Objectively 
+evaluate 
+adherence with 
+QA processes
+PwC30Benefits of QA modelling 
+The QA model for government provides 
+the following benefits:
+• Clear state of QA maturity helps 
+governments plan steps to enhance QA 
+maturity if at all required. 
+• Existing QA maturity can be maintained 
+with ease since the QA model explicitly 
+states the required process, practices 
+and principles. 
+• Governments are not required to 
+invest money for a sudden jump in QA 
+activities based on external QA advising 
+companies. 
+• Ad hoc QA processes mostly driven by 
+private QA service providers could be 
+eliminated or controlled by existing 
+process, practices and principles based 
+on defined maturity. 
+• Good enterprise wide visibility of 
+QA practices across governments 
+departments 
+• Governments can designate specific 
+QA ownerships to its staffs to increase 
+overall quality of the applications under 
+use.
+• The QA model encourages governments 
+to create its own standards instead of 
+using costly external standards which 
+are difficult to follow by governments 
+aging workforces. Conclusion
+PwC’s QA model helps governments drive down the cost of 
+software development and implementation without 
+adopting specific external standards. In the context of 
+governments across the world, it’s a daunting task to 
+implement external standards such as CMMI, Six Sigma, 
+IEEE Standard for Software Verification and Validations 
+for a large workforce with mostly outdated skills. Hence, 
+governments need a simple yet efficient QA model which 
+does not require high CAPEX or top-of-the-line skill sets 
+and yet meets the requirements of lowering project cost 
+and improving citizen’s services. 
+Smart governance and technology31
+Farmer oriented 
+architecture
+Harvesting technology 
+for the Indian farmer
+Out of India’s 1.2 billion people, almost 
+60% depend on agriculture for their 
+livelihood. Agriculture and allied sectors 
+contribute to 13.7% of the GDP
+PwC32Information and services: 
+Perspectives from Indian 
+agriculture
+Historically, the comparatively marginal 
+Indian farmers have remained isolated from 
+the larger agricultural market. A host of 
+intermediaries have always existed between 
+the farmer and the retail market. This has 
+given rise to market anomalies which are 
+detrimental to the farmers’ interests.
+In many cases, farmers are unable to make 
+the correct decision about the seed to be 
+sown, the amount of fertilizer to be used and 
+the price at which the produce is to be sold; 
+all due to the lack of timely information. 
+Their primary information sources are other 
+progressive farmers. Radio, television and 
+newspaper are the other major sources 
+of information for the Indian farmer. 
+Surprisingly, while extension workers reach 
+only 5.8% farmers, Krishi Vigyan Kendras 
+(KVKs) have been able to reach out to an 
+even lesser agricultural workforce which is 
+less than 1%. Clearly, the public agricultural 
+extension system has been inaccessible to a 
+very large section of our famers.
+The recent spate of farmer suicides has 
+highlighted the issue of availability and 
+affordability of the agricultural credit service. 
+More than 40% of these households do not 
+have access to any institutional credit. One in 
+every four households depends on a money 
+lender for loan. The interest on these loans 
+is prohibitively high and the farmers are 
+trapped in the vicious cycle of taking fresh 
+loans to repay earlier loans.
+The widening farm to retail price spread in 
+India is leading to losses both for the farmer 
+and the retail consumer. Onion is a case in 
+point. There has been a spurt in onion prices 
+in the last decade at an alarming rate. The 
+Competition Commission of India (CCI) 
+notes that during the onion crisis of 2010, 
+while the wholesale prices of onions were 
+around 34 INR per kg, the retail price was 80 
+INR per kg; a whopping margin of 135%.Strategic 
+challengesGreater access to 
+markets and elimination 
+of middlemenAccessing agricultural markets where the farmer 
+can directly negotiate the price of his produce with 
+multiple sellers still remains a key challenge.
+Availability of institutional 
+support systemsCentral and state governments run numerous 
+schemes and incentive programs to support the 
+farmer community. Due to the lack of awareness, 
+many farmers are unable to benefit from such 
+government support systems.
+Operational 
+challengesDissemination of 
+real-time, localised 
+informationCritical farming information like weather and soil 
+are not localised enough to benefit the farmers. 
+Even when local information like weather forecast 
+is available to the government, it does not reach 
+the farmers in time for them to benefit from such 
+forecasts.
+Leakages in government 
+delivery mechanismsGovernment delivers services to the farmers 
+through organisations like agricultural marketing 
+boards and banks. Due to leakages in these 
+delivery mechanisms, farmers are not adequately 
+benefited.
+Paperwork at 
+government officesIn the Indian context, small farmers are 
+uncomfortable while interacting with the 
+government due to the amount of paperwork 
+involved.
+Bridging the digital divide
+With the digital revolution, the world 
+has been ushered into the information 
+age. Each day we are inundated with 
+information from a multitude of channels. 
+Yet, agricultural information is found to be 
+unavailable to a staggering 60% of India’s 
+farmers with small landholdings. They do 
+not have access to formal credit and pay 
+interest rates in the excess of 30%. While 
+the retail prices are soaring, farm prices 
+show hardly any increase.
+The Indian farmer is losing out primarily 
+as a result of information asymmetry. 
+The asymmetry is fuelled by the fact 
+that he is often at the wrong end of the 
+digital divide. Widespread adoption and 
+consequent success of the agricultural 
+extension services depends largely 
+on whether these services have been 
+engineered to bridge this digital divide. 
+The failure of public agricultural extension 
+services in India can partly be attributed 
+to lack of technology. Technology can help 
+create the right platform for an effective 
+delivery of information and services.
+While technology can potentially create a 
+level playing field, crude implementation 
+of technology can lead to alienation of the 
+users for whom the technology has been 
+introduced in the first place. Nowhere is 
+this alienation more prominent than the 
+delivery of government services to citizens, 
+especially the under-privileged section of 
+the society.Any technology implementation in the 
+agricultural sector must not only be sensitive 
+to the special needs of farmers but also devise 
+elaborate change management strategies 
+for ensuring a successful adoption. We 
+believe that the guiding principles for such 
+implementations should be:
+• push, not pull 
+• localisation and pilot
+Service delivery mechanisms must be 
+engineered to reach the farmer’s doorstep 
+and the advent of mobile telephony has made 
+this easier. Information can be provided to 
+the farmer through SMS.
+The information stream can also be used to 
+create a pull by encouraging the farmer to 
+visit the nearby mandi or KVK.
+Localisation is critical to the success of 
+any delivery mechanism targeting the 
+agricultural community. In India, local 
+conditions can vary vastly from one 
+district to another. Be it the soil type, the 
+rainfall pattern or the fertilizer needed, all 
+information provided must be specific to the 
+place where the farmer resides.
+Due to the heterogeneous nature of the 
+population being served, it is very difficult 
+to foresee the issues that may arise from a 
+technology implementation for a government 
+service delivery. Therefore, it is suggested 
+that before beginning directly with a big 
+bang approach, an incremental approach will 
+help in assessing and incorporating feedback 
+before a wider section of the population uses 
+the technology.Farmers with no  
+access to information
+Modal interest rate paid by farmersSource : Strengthening pluralistic agricultural 
+information delivery systems in India, P. Adhiguru et al
+Source : Nature and dimensions of 
+farmers’ indebtedness in India and 
+Karnataka, Meenakshi Rajeev et al60%
+36%
+Farmer oriented architecture
+The process of integrating technology 
+with the delivery of agricultural extension 
+services must focus on the farmers. 
+Technology integration also provides us 
+an opportunity for reengineering archaic 
+processes and making them leaner.
+Here we propose the ‘farmer oriented 
+architecture’. It is a digital model with the 
+farmer at its centre. It has the following 
+three parts:
+• information related services (IRS)
+• transaction related services (TRS)
+• back office operations (BOO)
+IRS 
+Issues like high interest rates and 
+wide farm to retail price spread can be 
+addressed if the government is able to 
+provide the farmer correct and timely 
+information. If a farmer is aware of the 
+government loan schemes and where they 
+can be availed, he will probably not have 
+to take recourse to the local money lender. 
+Similarly, if the current wholesale and 
+retail prices are known, the farmer can 
+bargain his selling price more effectively. 
+Thus, this dissemination of information is 
+the most crucial part of the architecture. 
+Multiple information access channels 
+must be made available to the farmer. We 
+propose three access channels:
+• Call centres
+• SMS gateways 
+• Farmer Information Facilitation  
+Centres (FIFC)
+Along with these, we also propose a 
+self-help farmer portal for those farmers 
+who have access to internet. While the 
+Portal, SMS, Call centre
+ 
+ 
+ 
+  Governance
+Proc ess Metrics
+Standa rds and arch itecture Farmer Agricultural xtension ee
+rvicessCall centre and SMS gateway options can 
+be both outbound and inbound, FIFCs 
+and the farmer portal will be exclusively 
+inbound.
+TRS
+ Leakages in the government delivery 
+mechanisms reduce the efficiency 
+of agricultural extension services. 
+These leakages can be plugged by 
+the deployment of online systems 
+for transaction management. Once 
+transaction management goes online, the 
+transaction details of individual farmers 
+can be made available through the 
+information access channels. Such ready 
+availability of transaction data will ensure 
+a kind of community audit. The formal 
+audit of transactions will become easier 
+and more insightful resulting in effective 
+audit suggestions.
+BOO 
+Due to inefficiencies in the process design, 
+a lot of effort in government organisations 
+is directed towards internal processes. 
+This reduces the focus on the customer, 
+in this case, the farmer. If the internal 
+processes are automated and streamlined, 
+fewer personnel will be required and 
+more resources can deployed to serve the 
+farmer. The different modules that will 
+comprise BOO are: 
+• Human resource management and 
+payroll 
+• Budgeting and expenditure
+• Finance and accounting
+• Asset managementA day in the life of a farmer
+On a bright sunny morning over a cup of tea, 
+Ravi is engrossed in reading the newspaper 
+article about how the state Agriculture 
+Marketing Produce Committee (APMC) 
+has completed its transformation journey 
+from an offline organisation to a completely 
+integrated online organisation and how this 
+will benefit farmers like him. His reading 
+is interrupted when his mobile beeps. It’s a 
+reminder from the local mandi officer about 
+the workshop on the next season by a panel 
+of agricultural scientists. It promises to be a 
+helpful session and Ravi starts from home to 
+attend it.
+On returning from the workshop, he finds 
+his son using the computer to look at the 
+new farmer portal inaugurated by APMC. 
+Ravi finds that the portal is in English but his 
+son informs him that he can view it in Hindi 
+as well. The site has been designed keeping 
+a farmer’s life in mind. It has a section 
+on farming with advice on seeds, pest 
+management, fertilizers and soil. He browses 
+through the soil section and finds that the 
+soil condition in his block is also available. 
+Ravi’s son points out that after considering 
+the soil type; the portal recommends the 
+cultivation of cereals during off season to 
+boost income. Ravi finds this idea appealing. 
+The weather section predicts it may rain 
+heavily the following week and Ravi realises 
+he will have to sell off his harvest before the 
+downpour.
+He calls the FIFC help desk to enquire about 
+the last day’s highest and lowest paddy 
+prices during the auction. He makes a note 
+of them and prepares to take his harvest to 
+the mandi for auctioning.
+He knows that the prices in the auction over 
+the last few days have been good and knows 
+what price he will settle for.
+At the mandi office, the transaction is 
+quickly entered into the new system and he 
+gets a signed transaction certificate right 
+away. With the help of the officer, he gets 
+to know the update on a fertilizer query 
+he had raised and a grievance that he had 
+registered. The officer tells him that he will 
+receive intimation on his mobile once the 
+grievance is resolved.
+On his way back, he remembers that he 
+needs to contact a veterinary doctor for his 
+ailing cow. He punches a code in his mobile 
+and within a few seconds, a veterinary 
+doctor’s contact details reach him through 
+SMS.
+A smile lights up Ravi’s face. Life is better, he 
+thinks.Transaction  
+related services
+Auction, fee 
+collection, 
+licence 
+managementInformation  
+related services
+Portal, SMS, call centerOrganisation
+Back office 
+HR and payroll, 
+finance, asset  
+management
+PwC34
+Digital secretariat  
+Strategising adoption:  
+Making change work
+Smart governance and technology35Structural overview of a government office in India
+Prevailing issues within the 
+current system
+Despite exponential technological 
+progress, most governments continue 
+to manually process the operation of 
+activities. Major challenges faced by 
+government offices in India are as follows:
+Multiple levels of processing
+Government offices follow multiple 
+levels of processing of files, which in 
+turn delays the decision-making process. 
+Also, tracking a particular file becomes a 
+difficult process. 
+Inter-departmental consultations
+In many cases, inter-departmental 
+consultations are required from time-to-
+time. Consultations between departments 
+such as finance and law, etc. are quite 
+common, before any decision over a file 
+is taken. Files need to be sent to other 
+departments for their comments, and this 
+usually lengthens the process.
+Volume of records
+Handling large volume of records is one of 
+the biggest problems within government 
+organisations. This problem has multiple 
+dimensions, including space and 
+preservation, indexing and searchability 
+issues, among others. 
+Prioritisation of files
+Prioritisation is another important aspect, 
+which is critical as well as difficult to 
+manage. Out of several files lying with any 
+individual, it is essential to prioritise only a 
+certain number of files. Effective file tracking and tracing
+It is a herculean task to traverse through 
+several sheets of pages among countless 
+files in order to locate specific information. 
+Above all, the sheer management of old 
+files and records while retaining the ability 
+to search for specific files become all the 
+more difficult with the passage of time. 
+This creates hurdles in the operational 
+flow within and between government 
+departments.Government office
+Document 
+management 
+(preparation and 
+dissemination)File management 
+(preparation and 
+dissemination)Correspondence 
+management 
+(document receiving, 
+forwarding, filing, 
+searching)Response 
+management 
+(preparation, 
+delivery, approval)Within the government 
+organisational context, 
+information plays a vital 
+role. Each day, myriad files 
+are handled by government 
+offices and it becomes 
+important to streamline 
+the flow of data inside this 
+organisational structure. 
+Information is created, 
+stored and forwarded 
+by means of files, letters, 
+notices, etc. across various 
+departments.
+Operational audit
+Often, there are regulatory compliance 
+issues which go unnoticed and unaudited 
+due to the manual processes followed 
+within government departments. These 
+obstacles, while searching files and 
+seamlessly locating information within 
+them, also compounds to the problems 
+associated with the process audit and 
+verification. 
+Need of the hour
+PwC36e-ReadinessCapacity
+buildingInfrastructure StrategyStrategy 
+• Redesign archaic business processes 
+so as to align them with contemporary 
+practices and technology
+• Redefine policies and regulations so as 
+to incorporate ICT as a driving force  
+for office management
+Infrastructure
+• Prepare a robust infrastructure so as to 
+smoothen the process of automation 
+Basic amenities such as desktops, 
+networks, servers, etc need to be in 
+placePwC’s point of view: Building up 
+e-Readiness
+PwC’s point of view: Need for a paradigm shift
+I am waiting for a file
+I am waiting for a fileI want to know the 
+whereabouts of a file 
+I want to know the 
+whereabouts of a file I am outside my office
+I am outside my officeI am working on a file
+I am working on a file•	Request the responsible staff to provide the file
+•	Staff members search for the file
+•	The staff processes the file and sends it across
+•	Able to search for a file from an automated system, and can track its 
+whereabouts (reduces dependency on others)
+•	The process of searching and forwarding has to be fast and easy•	Request the dealing officer for a particular file
+•	If the file is in another department either the users have to wait for 
+the file to come back or have to communicate with the external 
+department to know the whereabouts of the file
+•	Instantly get the history of a file with precise time stamps and allotted 
+employee list through MIS reports
+•	Need to have multiple reports such as the letter report, the file tracker 
+and the user status in order to get the entire picture readily•	Difficult to implement the above mentioned steps due to my absence
+•	Need to go back to receive or work on a file
+•	Communication becomes difficult due to my absence
+•	Either I have to assign a link officer or wait to get back to office
+•	Can connect to my iPad or laptop in order to receive the concerned 
+files in my inbox 
+•	Proper authentication shall ensure security
+•	Able to process the file on the move and forward the same
+•	Helps to resolve urgent tasks while I am outside the Mantralaya•	Go through the file content (both correspondence as well as notesheet entry)
+•	Insert the notesheet comments 
+•	Add documents as and when necessary
+•	Forward the file
+•	To easily refer to older relevant documents 
+•	To easily refer to other files by a simple search mechanism
+•	Easily insert flags (even with a specified page number) before 
+forwarding the concerned fileCapacity building 
+• Train the end users with the requisite 
+knowledge of computers so that they 
+can conveniently use the new system 
+Smart governance and technology37from different levels. This will lead to 
+transparency and better control over 
+the entire office. 
+Seamless usage of the automated 
+solution
+• PwC has carefully analysed the 
+processes and has thereby derived an 
+observation that merely designing the 
+system will not be enough for digital 
+adoption 
+• If the manual system runs parallel 
+to the automated system, in such a 
+situation, adoption then becomes a 
+difficult process. Globally, various 
+digital transformation programmes 
+failed in past since this aspect was 
+neglected
+• Hence, PwC considers the operational 
+part, ie digitisation of existing 
+documents as a critical part of the 
+programme
+• Simply digitising documents, and 
+preserving them as static data will 
+only encourage repeat scanning, and 
+thus the objective of a paperless office 
+environment cannot be achieved
+• These documents are important records 
+and needs to be stored carefully so that 
+they can be referred to at any given 
+point of time in future. 
+• All relevant documents of organisations 
+need to be scanned and stored within 
+the system , so that it can be referred to 
+and forwarded only through the system. 
+This provides benefits in the following 
+ways:
+ –Preservation of documents: 
+The process of scanning helps 
+in preserving huge volumes of 
+documents. Also, in cases of disasters 
+such as fire, earthquake, flood, theft, 
+etc. preservation of manual records 
+always remains a challenge. 
+ –Ease of search: During the process of 
+scanning, the metadata for all files 
+as well as documents are captured 
+in order to save them logically. Thus, 
+it gives an added benefit for users to 
+easily conduct a search by providing 
+certain parameters such as date, 
+subject, name, type, department, 
+owner or creator etc. 
+• The system has to be designed such that 
+it can also deal with external files as 
+well as letters that come in its manual 
+form.A successful approach 
+PwC’s value delivery methodology
+Values delivered
+The three most important values delivered 
+during digital adoption are as follows:
+Smart and agile system 
+• The most critical aspect is to design the 
+office automation system, which will 
+enable users to electronically create, 
+store as well as move their files and 
+records. 
+• The system needs to be designed in such 
+a way that it complies with all the rules 
+and regulations followed in the manual 
+process. 
+• Keeping the system user-friendly in 
+nature is also another preference, so 
+that the users who are accustomed 
+to the manual system, face minimal 
+difficulties while adopting the 
+automated system. Some of the focus 
+areas emphasised upon so as to keep the 
+system user-friendly are as follows: –Flexibility: Mail-like features (such as 
+inbox, attachments, select recipient, 
+etc.) for the convenience of the users. 
+Also, it should not be t rigid in nature 
+so as to ensure that the needs of the 
+users in exceptional cases can be 
+easily handled.
+ –Look and feel: The system, look 
+and feel-wise, is designed such a 
+way that it remains similar to the 
+manual templates. For example, 
+the notesheets used in the files of 
+government organisations has a 
+typical format. The user interface 
+of such a system has been carefully 
+designed so as to match a particular 
+pattern, and so that users feel 
+comfortable while using such a 
+system. 
+• Other features for monitoring purposes 
+have also been also provided. Various 
+MIS reports have been introduced into 
+the system in order to get a birds-
+eye-view of the entire organisation 
+PwC38Upload documents
+Documents are uploaded to the system 
+in a logical manner (department -wise) 
+and with a proper authentication
+Officers can view their respective files 
+or letters by logging into the system
+Metadata validation
+The metadata is validated by 
+another team with the scanned 
+files 
+This team cross checks 
+whether the correct files are 
+mapped with the right metadata Metadata entry
+The metadata is captured for 
+each and every file in order to 
+uniquely identify them by a 
+simple search mechanism
+Fields such as filename, 
+subject, year, department, 
+section, type, sub-type, etc 
+are recorded
+Quality check
+Removal of dark patches, 
+lines, etc
+Alignment of pages, correction 
+of page numbers in case of a 
+mismatch
+OCR (English-typed fonts) to 
+make files fully searchableScanning
+Relevant files 
+(such as files, 
+records, 
+letters,etc) are 
+scannedSteps for digitisation Mobility
+• Breaking the barriers of geography and 
+time are some of the most important 
+values added while adopting the digital 
+processes
+• Generally, activities at the workplace 
+are constrained by the office hours as 
+well as space. Myriad decisions get 
+delayed due to these barriers
+• Since every decision-making process 
+needs multiple processing of files 
+in various levels and in multiple 
+departments, often huge time and effort 
+are being wasted in the transmission 
+phase
+• PwC has analysed this issue and has 
+developed a web- based system with 
+the necessary security enablement 
+for digital transformation, so that the 
+users can get access to the files as well 
+as letters of the concerned department 
+at any given point of time and from any 
+place
+• Availability of the system from 
+mobile devices such as laptops and 
+smartphones help users perform 
+their tasks on the move. Proper 
+authentication will ensure the security 
+of confidential documents
+• Helps officials to resolve urgent tasks 
+while they are away from office, thus 
+making the entire process fast and 
+smooth
+Adoption of digital transformation for file 
+management and movement has taken the 
+entire process to the next level. It has 
+opened new dimensions for fast and 
+transparent governance with adequate 
+mobility in the system by reducing 
+administrative burdens. Today, I can 
+check my files and work on them in a cab, 
+airport or even from another city. I feel like 
+I am carrying the entire office on my laptop 
+or tablet. PwC was a great partner in this 
+technology transformation. 
+Mr. Parial  
+CEO, Chhattisgarh Infotech & Biotech 
+Promotion Society, CHiPS
+
+Smart governance and technology39Contacts
+Pradip Bhowmick
+Partner
+PwC India  
+Phone: +91-33-44043293
+Email: pradip.bhowmick@in.pwc.com
+Arunava Mitra
+Managing consultant
+PwC India  
+Phone: 091-9836610106
+Email: arunava.mitra@in.pwc.com
+Editorial team
+Indrasis Acharya
+Sayan Basu
+Subham Chattopadhyay
+Sumit Rudra
+Abhisek LahaAbout PwC 
+PwC helps organisations and individuals create the value they’re looking for. We’re a 
+network of firms in 157 countries with more than 184,000 people who are committed to 
+delivering quality in Assurance, Tax and Advisory services. Tell us what matters to you 
+and find out more by visiting us at www.pwc.com. 
+In India, PwC has offices in these cities: Ahmedabad, Bangalore, Chennai, Delhi NCR, 
+Hyderabad, Kolkata, Mumbai and Pune. For more information about PwC India’s service 
+offerings, visit www.pwc.com/in 
+PwC refers to the PwC network and / or one or more of its member firms, each of which 
+is a separate legal entity. Please see www.pwc.com/structure for further details.
+You can connect with us on: 
+ facebook.com/PwCIndia 
+ twitter.com/PwC_IN
+ linkedin.com/company/pwc-india
+ youtube.com/pwc
+Author - 
+Biswadeep Biswas
+Dipika Das
+Indrasis Acharya
+Sayan Basu
+Wriddhi Majumber
+Nilanjan Bose
+Debesh Majumdar
+Rajat Chatterjee
+Somdeb Chakraborty
+pwc.in
+Data Classification: DC0
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers 
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication 
+represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before 
+taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or 
+liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in 
+India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member 
+firm of which is a separate legal entity.
+NJ 116 - Nov 2013 IDA-Publication.indd
+Designed by Brand and Communication, India

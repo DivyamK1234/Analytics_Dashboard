@@ -1,0 +1,773 @@
+Title: pwc_corporate-attributes-and-practices-towards-arbitration-in-india
+Date Published: 2013-05-15 09:00:21+05:30
+Source: pdfs/pwc_corporate-attributes-and-practices-towards-arbitration-in-india.pdf
+
+--- CONTENT ---
+
+www.pwc.in
+Corporate Attitudes & Practices 
+towards Arbitration in India
+2 PwC
+
+Corporate attitudes and practices        3The growth in domestic and international trade and commerce has 
+spurred competition, provided new opportunities and imputed risks.  
+Commercial arbitration in India is witnessing a steady transition 
+and resolution of domestic and cross border disputes is becoming 
+more sophisticated. The survey shows that parties are increasingly 
+choosing to resolve disputes away from the courts through arbitration. 
+This survey is our pioneer effort at exploring the level of knowledge, 
+current practices and perceptions regarding arbitration among 
+companies in India.  
+In-house counsels are leveraging the advantages offered by this 
+mechanism including speed of resolution, flexible processes and 
+confidentiality of proceedings while overcoming the hurdles of 
+undue delay in proceedings and lack of institutional arbitration 
+infrastructure.  The future of arbitration as indicated by the survey 
+looks cautiously optimistic owing to several advantages and 
+disadvantages that arbitration provides in the Indian landscape.
+We are pleased to share the insights from the survey through this 
+report and we hope it will provide interesting trends to companies in 
+India. 
+We are grateful to our respondents consisting of Legal Counsels, Legal 
+Heads and Company Secretaries of various companies in India who 
+gave their time and thoughts so generously and enthusiastically. 
+Vidya Rajarao 
+Leader, Forensic ServicesDarshan Patel 
+Executive Director, Forensic Services  Foreword
+4 PwC
+
+Contents
+Dispute Resolution Policy – An effective safeguard 08  
+Arbitration vs. Litigation – Pros and Cons  09 
+Ad-hoc vs. Institutional Arbitration - An Indian perspective 12
+Seat of Arbitration – Does it really matter? 14 
+Selection of Arbitrators – The driving factors behind this decision 15 
+Effective use of Experts – Choosing the right expert 17 
+Future of Arbitration in India – Cautiously optimistic 19
+
+6 PwCArbitration is a leading method for resolving 
+disputes arising from commercial agreements and 
+other domestic and international relationships. 
+The practice of arbitration has developed so as 
+to allow parties from different legal and cultural 
+backgrounds to resolve their domestic and / or cross 
+border disputes, generally away from litigation.
+This study presents qualitative and quantitative 
+feedback on the use and future of arbitration in 
+India, gathered from 70 respondents comprising 
+of Legal Counsels, Legal Heads and other legal 
+personnel of various companies in India. The survey 
+was conducted over ten months, through detailed 
+in-person interviews. 
+The results of this survey broadly emphasise 
+the attitudes and practices adopted by in-house 
+counsels in India towards effective resolution of 
+domestic as well as cross border disputes. 
+Key messages from the study are as follows:
+Majority of the companies in India have a 
+dispute resolution policy
+• 91% of the companies surveyed in India, 
+who have a dispute resolution policy, include 
+arbitration (not litigation) for resolution of 
+future disputes. • 61% of the companies surveyed in India have a 
+dispute resolution policy and confirmed inclusion of 
+a dispute resolution clause in contracts entered by 
+their company. 
+• Companies generally indicated a flexible approach 
+towards negotiating arbitration clauses. However, 
+factors such as law governing the arbitration, seat 
+of arbitration and language primarily drive the 
+negotiation. 
+Arbitration remains a preferred dispute 
+resolution mechanism, despite certain 
+loopholes and shortcomings in the arbitration 
+environment in India
+• An overwhelming majority of the companies 
+surveyed used arbitration, in isolation or in 
+combination with another dispute resolution 
+mechanism
+• Top three factors that make arbitration the most 
+preferred dispute resolution mechanism are: speed, 
+flexibility and confidentiality.Executive Summary
+Corporate attitudes and practices        7Institutional arbitration is yet to be widely 
+used by companies in India  
+• Majority of the companies that experienced 
+arbitration preferred ad-hoc arbitration (47%) 
+over institutional arbitration (40%) while 12% 
+indicated a neutral approach. 
+• Further, companies with no prior experience of 
+arbitration also indicated a preference for ad-
+hoc arbitration.
+Retired Supreme Court / High Court judges 
+are a preferred choice for arbitrators
+• Companies with prior experience of arbitration 
+preferred retired judges as arbitrators when 
+the seat of arbitration is in India and external 
+experts for cases where the seat is outside India.
+• Top three factors that guide the selection 
+of arbitrators are reputation and expertise 
+in the relevant industry, knowledge of law 
+applicable to the contract / arbitration and prior 
+experience in arbitration.Companies in India are yet to fully appreciate 
+the tactical significance of the seat of arbitration  
+• India, Singapore and England were noted as top 
+three seats for arbitration. 
+• The choice of seat of arbitration was primarily 
+driven by factors such as regional advantage, cost 
+effectiveness and advice of solicitors / counsel. 
+More companies are using expert evidence in 
+arbitration proceedings
+• More than half of the companies have used expert 
+evidence in arbitration proceedings.
+• Industry experts or experts for valuation / 
+accounting are typically appointed.
+The future of arbitration in India is optimistic
+• 82% of the companies with arbitration experience 
+indicated that they would continue to use arbitration 
+in future disputes.
+• 46% of the companies with no arbitration experience 
+were also open to using arbitration in future disputes
+8 PwC61%  of the companies engaged in 
+commercial transactions in India and outside 
+have indicated having a dispute resolution 
+policy. Companies (36%) that did not have 
+a formal dispute resolution policy also 
+demonstrated positive signs of including a 
+dispute resolution clause in their contracts. 
+While drafting a contract, companies surveyed, 
+indicated that at a minimum they would include 
+preferred law governing the contract (53%) and 
+seat of arbitration (49%).
+Popularity of arbitration as an alternate dispute 
+resolution mechanism is evident as a large 
+number of companies are considering arbitration 
+over litigation to resolve disputes as part of their 
+crystallised dispute resolution policy (91%). 
+A dispute resolution policy provides a structured 
+approach to resolving disputes, thus providing 
+guidance to in-house counsel to efficiently and 
+effectively deal with disputes. A qualitative analysis of the responses revealed 
+some of the most important benefits of 
+maintaining a dispute resolution policy:
+• Facilitates discussion regarding the 
+availability of important model clauses 
+to mitigate potential risks when a dispute 
+arises.
+• Consistency across departments in the 
+company as regards execution of contracts.
+• Strategic advantage at the time of contract 
+negotiation.
+• Guidance for adoption of tiered dispute 
+resolution procedures to minimise costs 
+associated with dispute escalation. For 
+example, in the event of a dispute, there 
+are pre-determined levels of escalation 
+in the company. This would ensure that 
+disputes are addressed in time and by the 
+relevant authority. • Appropriate guidance for adoption 
+of dispute resolution mechanisms 
+proportionate to the value at stake, thereby 
+minimising dispute escalation.
+• Facilitate dialogue between the legal 
+department and the business units in the 
+company and thereby enhance awareness of 
+the available legal support.
+Does your company have a dispute resolution 
+policy?
+Yes
+No
+Not sureDispute Resolution Policy – 
+An effective safeguard #1
+Corporate attitudes and practices        986% of the companies surveyed had prior experience 
+of domestic and / or cross border dispute resolution. 
+When asked what types of resolution processes they 
+have used for domestic / international disputes, 
+nearly all respondents (95%) reported using 
+arbitration either as a standalone mechanism or in 
+combination with other mechanisms (68% used 
+litigation, 40% had attempted mediation)1.
+1. Categories are not mutually exclusive as certain respondents 
+used a combination of the above mentioned dispute resolution 
+mechanisms to resolve multiple disputes in the past.Why do most companies seek to avoid litigation? 
+Companies conceded to greater familiarity to 
+litigation process as opposed to arbitration. 
+However, in most developing nations, litigation 
+being a time consuming process, companies have 
+steered away from using litigation to save time 
+especially when large sums of money are locked 
+in the dispute. Average time taken from the 
+commencement of arbitral proceedings to the award 
+is less than three years, according to companies who 
+used arbitration.Indicate which of the following dispute resolution mechanisms were used by 
+your company*
+In your experience, what is the average time an arbitration takes from the 
+commencement of the arbitral proceedings till the award is passed?*Arbitration vs. Litigation – 
+Pros and Cons#2
+*Does not total up to 100% owing to 
+ amultiple responses provided by respondents.
+ b9% of respondents did not provide an answer to this question.
+10 PwCOther concerns that result in litigation being a 
+less preferred choice include:
+• rigid framework that litigation operates  
+in, and
+• lack of confidentiality surrounding the 
+proceedings.
+Companies that had experience in alternate 
+forms of dispute resolution (other than 
+arbitration) admitted doing so in accordance 
+with their organisational policy, particularly 
+with respect to disputes relating to low value 
+contracts where arbitration would not be a cost 
+effective option. Alternatively, they continued 
+to follow traditional litigation for previously 
+executed contracts that did not provide for 
+arbitration in the event of dispute. 
+Although majority of the companies opted for 
+arbitration (95%) due to various benefits, not 
+all had a satisfactory experience:
+• The level of dissatisfaction is substantial for 
+arbitrations seated in India as compared to 
+arbitration seated outside India. What was the reason your company preferred arbitration over some other dispute resolution 
+mechanism?
+Are you satisfied with arbitration (seat in 
+India) as mechanism to resolve disputes? Are you satisfied with arbitration (seat outside 
+India) as mechanism to resolve disputes? 
+Satisfied
+Dissatisfied
+Mixed experienceSatisfied
+Dissatisfied
+Mixed experience
+Corporate attitudes and practices        11Satisfied
+Dissatisfied
+Mixed experienceBased on qualitative feedback, the level of 
+dissatisfaction may be attributed to the following 
+roadblocks that hinder an efficient arbitration 
+process in India: 
+• Lack of uniformity in the procedures and 
+treatment of arbitral awards has been 
+an acute problem for parties adopting 
+arbitration to resolve disputes. However, 
+the recent Supreme Court judgement in the 
+Bharat Aluminium2 case may be a breather for 
+arbitrations seated outside India.
+• The arbitration award should be binding 
+without recourse to challenge irrespective of 
+the seat of arbitration. There is an immediate 
+need for tightening of grounds to challenge 
+an award in India. Making an appeal again 
+not only escalates the cost and time of 
+arbitration proceeding but also makes the 
+arbitration proceeding similar to litigation. 
+• As there is no prescribed time limit within 
+which the arbitration proceeding must 
+be completed, it makes arbitration a less 
+attractive mechanism for dispute resolution. 
+9% of the companies experienced arbitration that lasted more than three (3) years. As 
+observed from the qualitative responses, 
+duration of more than three years for 
+resolving disputes through arbitration was 
+a tedious and expensive proposition for the 
+parties.  
+• Constitution of the arbitral tribunal is a time 
+consuming activity and was ranked as the 
+top factor that has a bearing on the length 
+of the arbitration proceedings, followed 
+by exchange of pleadings, discovery and 
+inspection of documents and enforcement 
+of award. 
+• The time and cost of the proceedings is also 
+affected significantly when the deficient 
+parties take advantage of the loopholes in 
+the procedures and the proceedings lack the 
+requisite level of professionalism.
+• Arbitrators’ fee was among the top three 
+factors that companies attributed to the cost 
+of the arbitral proceedings.  Other factors 
+included solicitors/law firms' and counsel’s 
+professional fees.• In case of ad-hoc arbitration in India, there 
+is a small club of seasoned arbitrators that 
+companies can choose from. This causes 
+a delay in the arbitration process due to 
+lack of availability of such arbitrators. Such 
+administrative hurdles increase the cost of the 
+proceedings significantly, making it a more 
+expensive proposition as against litigation.
+2. http://supremecourtofindia.nic.in/outtoday/ac701905p.pdfThe level of dissatisfaction is 
+substantial for arbitrations 
+seated in India
+12 PwCOne of the reasons cited by the companies for 
+choosing arbitration over any other dispute 
+resolution mechanism is flexibility of the 
+procedure. This factor of flexibility rests in 
+adopting either ad-hoc or institutional arbitration. 
+Majority of the companies in India that 
+experienced arbitration preferred ad-hoc (47%) 
+over institutional arbitration (40%). Further, 
+companies with no experience of arbitration also 
+indicated a preference for ad-hoc arbitration.
+It is important to note that companies having 
+experience in arbitration indicated constitution 
+of the tribunal as one of the top most reasons 
+contributing to the length of the arbitration 
+proceedings. One of the advantages of adopting 
+institutional arbitration is that it provides a 
+mechanism and time frame for selection of the 
+tribunal. On the other hand the flexibility offered by 
+ad-hoc arbitration may lead to a longer time frame 
+for constitution of tribunal and other administrative 
+procedures. Greater flexibility in procedures may 
+not necessarily produce greater efficiency. In developed countries, institutional 
+arbitration is a preferred type of arbitration 
+owing to presence of a variety of institutions, 
+bespoke administration of the proceedings 
+offered by such institutions, uniform rules 
+and procedures of the institute, absence of 
+interference from the country’s legal system 
+and arbitration friendly infrastructure 
+available in such countries. Which of the following types of arbitrations 
+does your company prefer?
+Ad-hoc arbitration
+Institutional arbitration
+NeutralAd-hoc vs. Institutional Arbitration 
+- An Indian perspective #3
+
+Corporate attitudes and practices        13
+Popularity of Arbitration Institutions
+Singapore International Arbitration Centre 
+(SIAC) and Industrial Arbitration Court (IAC), 
+Singapore, International Chamber of Commerce 
+(ICC) and London Court of International 
+Arbitration (LCIA), UK were widely opted 
+to administer and resolve disputes. While 
+choosing an institution, following reasons have 
+Which of these arbitral institutions, if any has administered your company’s arbitrations in the past?been rated most significant by companies having 
+experience of institutional arbitration: 
+• Overall cost and fees,
+• Reputation, and
+• Neutrality and independence of the institution.
+14 PwCWhile companies generally indicated a flexible 
+approach towards negotiating arbitration 
+clauses, they indicated that the seat of 
+arbitration3 (among other factors such as 
+law governing the arbitration and language 
+followed in the proceedings) would primarily 
+drive the negotiation.
+In international commercial arbitration, it is of 
+foremost importance that parties to a dispute 
+agree on the seat of arbitration. Choosing a seat 
+of arbitration is crucial for many reasons. 
+• It plays a unique role in deciding the law 
+governing the arbitration procedure.
+• It determines the support or intervention 
+that may be received from local courts in the 
+course of arbitration.
+• It also has a bearing on the process and 
+rights relating to enforcement of the 
+arbitration award. Participants to this survey were asked to 
+indicate their preferred seat of arbitration 
+and the top factors that would influence 
+their choice. According to the responses, 
+regional advantage was ranked as the most 
+important consideration in selecting the seat of 
+arbitration, followed by cost effectiveness and 
+lastly, the advice of solicitors / counsel. 
+Consistent with the above results for factors 
+influencing the choice of seat of arbitration, 
+respondents selected India  as the most 
+preferred destination for the obvious advantage 
+it offers companies in India; followed by 
+Singapore  which is emerging as a promising 
+arbitration hub and viewed by many as a cost Seat of Arbitration – Does 
+it really matter?#4
+Consequently, when drafting an arbitration 
+clause in a new contract, it is important to 
+consider myriad factors when deciding upon 
+the seat, particularly, how the local arbitration 
+law of the seat operates and whether the local 
+courts are arbitration-friendly. 
+effective and neutral venue in comparison to 
+London, Paris etc.; and lastly, England  due to 
+its long standing reputation as an impartial 
+jurisdiction and efficiency of court proceedings. 
+Though India is a preferred choice as a seat of 
+arbitration, however in practice it is not.
+The above results indicate that many in-house 
+counsels see the choice of seat as more a matter 
+of convenience than of legal significance. 
+This further suggests that some do not fully 
+appreciate the significance of choosing the right 
+seat for international arbitration. Also the 
+in-house legal departments might benefit from 
+briefings by arbitration specialists on the legal 
+consequences and tactical opportunities arising 
+from the choice of seat.3. In international commercial arbitration legislation and practices, 
+the seat of arbitration usually refers to the place for arbitration, 
+where the award is made. The terms “seat” and the “place” of 
+arbitration are often used interchangeably. In-house counsels see the 
+choice of seat as more a 
+matter of convenience than of 
+legal significance
+Corporate attitudes and practices        15One of the primary advantages of arbitration 
+often cited by companies is the ability to choose 
+a decision maker with expertise to understand 
+the nature of the dispute and resolve it 
+effectively and efficiently. In arbitration, parties 
+can mutually agree upon who will serve as their 
+arbitrator. 
+A tribunal that is proactive and skilled 
+in resolution of disputes will contribute 
+tremendously to managing the arbitration 
+in the most cost and time effective manner. 
+Because arbitrator selection is pivotal to 
+the quality and outcome of the proceeding, 
+careful consideration should be given to how 
+the arbitrator will be selected, how many are 
+needed and their specific qualifications. 
+Knowledge of the applicable law and prior 
+experience are desirable attributes of an 
+international arbitrator. An arbitration 
+chairman (or presiding arbitrator) coupled 
+with two arbitrators who are specialists in the applicable law / industry ideally constitutes 
+a versatile and informed tribunal. Such 
+arbitrators are often appointed by respective 
+parties to the dispute and the two arbitrators 
+jointly appoint the presiding arbitrator / 
+chairman who can conduct the process with the 
+necessary authority and dignity. The use of a 
+sole arbitrator is also a concept that is gradually 
+being accepted as a faster and cheaper option in 
+comparison to a three member tribunal.
+Companies highlighted various factors 
+they take into consideration in appointing 
+arbitrators. According to the results, companies 
+in India primarily look for arbitrators with 
+an established reputation in the arbitration 
+community along with relevant industry and/or 
+regional expertise.In case of arbitration seated in India, companies 
+with prior arbitration experience preferred to 
+appoint:
+• Retired Supreme Court / High Court judges 
+(68%), 
+• Senior counsel (32%), 
+• External experts (30%), 
+• Solicitors / law firm partners (19%) and 
+• Others (e.g. District Court judges) (2%). Selection of Arbitrators – The 
+driving factors behind this decision#5
+Retired Supreme Court/
+High Court judges are 
+preferred as arbitrators
+16 PwCWhere the seat of arbitration is outside India, 
+companies preferred:
+• External experts (39%),
+• Solicitors / law firm partners (19%), 
+• Senior counsel (23%), and 
+• District Court judges and/or 
+recommendation from tribunal or group 
+counsel (5%). 
+Currently nearly two-thirds opt for retired 
+Supreme Court or High Court judges as 
+arbitrators, however, qualitative feedback 
+from the respondents reveals that, arbitration 
+proceedings in India are critically affected due to 
+lack of availability of a large club of arbitrators 
+with requisite industry knowledge coupled with 
+necessary professional attitude.
+To instil confidence in the arbitration process, 
+flexibility of the arbitrator-selection should 
+be coupled with important standards for 
+independence / neutrality of the arbitrators. 
+Consequently, by utilising a method that best 
+meets their needs, parties to a business dispute 
+can effectively choose an arbitrator who will hear 
+their case in an efficient and unbiased manner.Seat outside India
+Seat in IndiaWho amongst these is your company’s preferred arbitrator? (Companies who 
+experienced arbitration)
+Corporate attitudes and practices        17“Expert Witness” is an individual who is 
+qualified, because of his or her specialised 
+knowledge, skill, training, education, 
+and/or experience to provide the court 
+(most often including the judge, opposing 
+counsel, and any jurors present) with 
+a specialised opinion about evidence or 
+about a particular ‘fact’ at issue between 
+the parties.
+Black’s Law DictionaryNearly half the companies that resorted to arbitration 
+have never used expert witnesses as part of the 
+arbitration proceedings. 
+This is not surprising as very often, parties to 
+a dispute prefer to use their own employees to 
+determine the quantum of damages / losses 
+suffered. Companies typically perceive such 
+employees as best suited in this role, given 
+that they possess intricate knowledge about 
+the company and are technically qualified in 
+the industry in which the company operates. Additionally, such employees may have been 
+involved or are aware of the matter in dispute 
+and are conversant with the facts at hand. 
+From the company’s perspective, their use 
+limits the possibility of leakage of confidential 
+information in the public domain, with regard 
+to the case and results in cost saving.How often have you used expert evidence in domestic or international arbitrations?Effective use of Experts - 
+Choosing the right expert #6
+18 PwCHowever, while employees may be proficient 
+in understanding the industry and are 
+knowledgeable about the company, they 
+may lack the unique knack of presenting 
+evidence and providing testimony before the 
+Arbitral Tribunal as they are inexperienced in 
+understanding and dealing with the arbitration 
+process. More importantly, employees lack 
+independence and objectivity of opinion 
+and may not possess the requisite skill or 
+competence to compute damages. Accordingly, 
+employees are best suited as fact witnesses due 
+to their proximity to the issue.
+On the other hand, expert witnesses can be 
+pivotal in strengthening a case that requires 
+fairly complex damage calculations or intricate 
+understanding of a particular industry. For 
+instance, cases that require the use of valuation 
+methodologies such as the Discounted Cash 
+Flow (DCF) method, internal rate of return etc. 
+would benefit from an expert who is well versed 
+with such techniques. Similarly, cases that 
+revolve around interpretation and application 
+of complex accounting principles as in the case 
+of revenue recognition contracts, valuation of 
+financial instruments etc. would benefit from an expert who has substantial experience in 
+these fields. This can be collaborated with 
+responses of the companies who indicated that 
+they typically used experts in matters relating 
+to valuations (25%), accounting (19%) and 
+foreign law (12%); or industry specific experts 
+in the field of financial services, construction, 
+engineering, oil and gas (41%). 
+Having said that, each case must be assessed 
+on a stand-alone basis and an assessment of 
+whether an expert is needed must be made 
+early and in conjunction with the counsel. 
+Experts retained early and for a defined 
+objective can add tremendous value to the 
+arbitral tribunal, counsel and client. 
+Selection of the right expert is a battle half won. 
+Companies with arbitration experience stated 
+the following top 4 considerations in selecting 
+an expert: 
+1. Experience –  Seasoned experts posses deep 
+expertise in the respective field along with 
+the requisite ability of presenting evidence 
+before an arbitral tribunal. Thus, experience 
+should undoubtedly be an important 
+criterion in selection of an expert. 2. Reputation –  Reputation of an expert 
+witness must necessarily be one of integrity 
+and honesty. The conduct of the expert 
+witness before the tribunal can add 
+credibility or discredit a previously written 
+report. Among other aspects, an expert 
+witness’ reputation will be governed by his / 
+her ability to present material and opinions 
+clearly and in a style that fits the arbitral 
+system.
+3. Prior relationship with Experts –  While 
+prior relationship with the expert may lend 
+a degree of comfort to the appointing party, 
+it is important that the expert is viewed 
+by the tribunal as independent from the 
+counsel, client and facts of the case. 
+4. Cost –  Cost of retaining an expert should be 
+viewed in light of potential benefits to the 
+case at hand. Companies assigned equal 
+importance to their relationship with the 
+expert and cost considerations in retaining 
+an expert.
+Expert witnesses can help in 
+strengthening a case that requires 
+complex damage calculation with 
+understanding of the industry
+Corporate attitudes and practices        19
+Majority of the companies surveyed believe 
+that the arbitration scenario in India looks 
+optimistic (43% have explicitly mentioned that 
+the scenario of arbitration in India looks either 
+optimistic or very optimistic). Accordingly, of 
+the companies with arbitration experience, 
+82% indicated that they would continue to 
+use arbitration in the case of future disputes. 
+Further, of the remaining respondents with no 
+experience of arbitration, 46% were willing to 
+use arbitration in the future.  
+It has already been established that an 
+overwhelming majority of corporations in 
+India are opting for arbitration closely followed 
+by litigation. However, the dissatisfaction 
+associated with resolving disputes when seat of 
+arbitration is in India cannot be ignored. 
+In India, change is contemplated and the Law 
+Ministry has proposed its recommendations 
+to amend the legislation. Domestic or 
+international arbitration will be a sought after option for companies in India with such positive 
+steps taken by the industry and the Government 
+together. A qualitative analysis of the challenges 
+faced by companies and their learning from 
+the arbitration process suggests following two 
+critical points that will contribute in shaping 
+the future of arbitration in India;  
+• Need for a robust institutional arbitration 
+infrastructure to overcome a significant 
+challenge relating to selection and 
+availability of arbitrators and subsequent 
+time and cost of the proceedings; and
+• Realising the tactical benefits of seat of 
+arbitration.Future of Arbitration in India 
+- Cautiously optimistic#7
+82%  companies would 
+continue to use arbitration 
+even in future disputes despite 
+the challenges
+In-person interviews were conducted with 70 companies and 
+their Legal Counsels, Legal Heads and other legal personnel 
+to obtain their quantitative and qualitative feedback on the 
+arbitration landscape.Respondent’s Designation Count Percentage
+General Counsel / Deputy General Counsel 32 46%
+Other (Legal & Company Secretarial) 25 36%
+Legal Officer 13 19%
+Total 70 100%
+No. of Countries that the Respondent’s comapny has 
+operations in Count Percentage
+More than 20 28 40%
+2 to 10 21 30%
+1 13 19%
+11 to 20 8 11%
+Total 70 100%
+Nature of cross border activity that the company engages in (multiple 
+responses) Count Percentage
+Export of good/services to third parties 32 46%
+Import of goods and services from third parties 28 40%
+Overseas branch/sales offices 25 36%
+Others (Joint Venture, Intellectual Property, Private Equity & Offshore 
+Advisors, Engineering, Advisory services, Distribution facilities, 
+Reinsurance, Shared Services etc.)20 29%
+Overseas manufacturing facilities 18 26%
+Overseas financing 10 14%Industry Sector (multiple responses) Count Percentage
+Financial Services & Banking 16 23%
+Information Technology 11 16%
+Pharmaceuticals 10 14%
+Construction / Engineering/Real estate 10 14%
+Energy and Oil & Gas 8 11%
+Manufacturing 6 9%
+FMCG & Consumer durables 3 4%
+Media & Entertainment 3 4%
+Shipping/Maritime 2 3%
+Telecommunications 2 3%
+Retail & Consumer 2 3%
+Hospitality & Leisure 2 3%
+Aerospace & Defence 2 3%
+Transport & Logistics 2 3%
+BPO & Shared Services 2 1%Methodology
+Corporate attitudes and practices        21
+PwC would like to thank the various companies who 
+participated in this survey through their counsel and 
+other legal representatives, as well as Sushma Nagaraj 
+(Advocate) who offered her pro bono support towards 
+drafting of the survey questionnaire. 
+The Editorial Team for this whitepaper consisted of the 
+following individuals:
+Vidya Rajarao
+India Leader, Forensic Services, PwC 
+Darshan Patel
+Executive Director, Forensic Services, PwC
+Ankita Chawla
+Assistant Manager, Forensic Services, PwC
+Divya Rishi
+Associate, Marketing - Forensic Services, PwC 
+Particular thanks in compiling this guide are also due to the 
+following individuals at PwC:
+Shrinil Ruparelia
+Assistant Manager, Forensic Services
+Poonam Sanghavi
+Associate, Forensic Services
+Abhishek Kakar
+Brand & CommunicationsAcknowledgement
+No company enters into an agreement with 
+another entity expecting to become embroiled in 
+disagreements. But disputes do happen. Complex 
+dispute matters require the insight and experience 
+of individuals who understand how to interpret 
+companies’ books, records and financial documents. 
+PwC professionals provide business and financial 
+advice to lawyers and their clients in matters that 
+represent some form of crisis or dispute. Our work 
+often leads us to provide expert testimony before the 
+arbitration panel or at the civil court. Our professionals 
+have deep experience in:
+• Quantification of damages
+• Expert witness testimony
+• Accounting and Statistical analysis
+• Delay claim analysis in construction disputes
+• Forensic technology (digital data collection  
+and analysis)PwC Forensic Services provides a national and global 
+network of analysts, actuaries, accountants, fraud 
+examiners, and others who are leaders in their respective 
+fields, offering a wide variety of skills to address the issues 
+affecting parties. Our aim is to work in partnership with 
+clients to implement fraud control methodologies, assist 
+when incidents occur and to help with strategies and 
+practices to reduce the risk of falling victim to fraud. We are 
+able to work discreetly and use a range of different skills to 
+assist our clients with their needs. This approach includes 
+the use of experienced investigators, forensic accountants, 
+computer forensic specialists and background researchers.
+The team combines proven evidence gathering skills with 
+control methodologies to produce effective results for our 
+clients. Through our team of trained specialists we are also 
+able to offer a complete computer forensic service as well as 
+test and advise on a range of technical IT security issues.PwC Dispute Analysis Services PwC Forensic Services
+Corporate attitudes and practices        23Vidya Rajarao
+India Leader, Forensic Services 
+Tel: +91 (80) 4079 7002
+vidya.rajarao@in.pwc.com
+Darshan Patel
+Executive Director, Forensic Services
+Tel: +91 (22) 6689 1670
+darshan.patel@in.pwc.com
+Kunal R Gupta
+Associate Director, Forensic Services
+Tel: +91 (124) 330 6036
+kunal.r.gupta@in.pwc.com
+Sanganagouda Dhawalgi
+Associate Director, Forensic Services
+Tel: +91 (80) 4079 7023
+sanganagouda.dhawalgi@in.pwc.com
+Raman Narasimhan
+Senior Manager, Forensic Services
+Tel: +91 (44) 4228 5049
+raman.narasimhan@in.pwc.comPwC* helps organisations and individuals create the value 
+they’re looking for. We’re a network of firms in 158 countries 
+with more than 180,000 people who are committed to 
+delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, 
+having offices in: Ahmedabad, Bangalore, Chennai, Delhi 
+NCR, Hyderabad, Kolkata, Mumbai and Pune.  For more 
+information about PwC India’s service offerings, please visit 
+www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the 
+PwC network. Each member firm is a separate legal entity. 
+Please see www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+       youtube.com/pwcAbout PwC
+Contacts
+www.pwc.in
+This publication has been prepared for general guidance on matters of interest only, and does not constitute professional advice. You should not act 
+upon the information contained in this publication without obtaining specific professional advice. No representation or warranty (express or implied) is 
+given as to the accuracy or completeness of the information contained in this publication, and, to the extent permitted by law, PwCPL, its members, 
+employees and agents accept no liability, and disclaim all responsibility, for the consequences of you or anyone else acting, or refraining to act, in 
+reliance on the information contained in this publication or for any decision based on it. Without prior permission of PwCPL, this publication may not be 
+quoted in whole or in part or otherwise referred to in any documents.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a 
+limited liability company in India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a 
+separate legal entity.
+AK492- May 2013 Corporate Attitudes & Practices.indd
+Designed by: PwC Brand and Communications, India

@@ -1,0 +1,319 @@
+Title: KPMG global tech report: Technology insights
+Date Published: 2025-01-07 15:27:00-03:00
+Source: pdfs/kpmg_global-tech-report-tmt-sector-cut-report.pdf.coredownload.inline.pdf
+
+--- CONTENT ---
+
+KPMG global tech 
+report: T echnology insights
+KPMG International | kpmg.comKPMG. Make the Difference.T ech: A bold sector that innovates while leading by example
+
+How KPMG can helpAbout the authors
+MethodologyThe tech sector is 
+targeting profitabilityKey recommendationsESG goals are a key focus 
+for tech’s digital investmentsTech firms plan to keep a democratized 
+approach with AI experiments
+KPMG global tech report: T echnology insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+2Executive summary
+The digital transformation journey is an important strategic  
+consideration for all sectors, none more so than technology.  
+This means the tech sector has to do two things simultaneously: 
+lead by example and rethink its own strategies. 
+Yet, like all industries, the tech sector also faces challenges —  
+and opportunities — in the rapidly evolving tech landscape. For example, the KPMG 2024 Technology and Telecommunications CEO Outlook  showed that, in 2024, a top-three challenge for 
+tech and telecommunications CEOs has been the adoption of generative AI.
+1 The tech sector’s position ahead of other sectors can be attributed to its formula for success. Much of the tech sector’s accomplishments are the result of discipline and targeted investments. Through strategic spending decisions, such as the prioritization of AI and environmental, social and governance (ESG) activities, the industry has become skilled at protecting its transformation progress from volatility. 
+This and other valuable insights are provided in our Global 
+Tech Report 2024 — a survey of 2,450 executives from 26 countries, including 490 leaders from the tech sector. 
+Tech stands strong against headwinds, but higher expectations for the sector mean 
+that it is required to respond with clarity and strategic investments.Executive summary
+Key findings
+The tech sector is targeting profitability
+This year’s survey reveals an increase in the number  
+of tech professionals who say that technology has directly 
+improved their organization’s profitability over the past 24 months. Some of the most notable growth in profitability, with increases of 10 percentage points or more, has resulted from efforts in AI, data and analytics, everything-as-a-service (XaaS), cyber security and modern delivery.
+ESG goals are a key focus for  tech’s 
+digital investments
+Today’s tech organizations are recognizing the importance of using tech for good. About three-quarters of tech executives report that their tech investments directly target their sustainability and social responsibility goals, surpassing the cross-sector average. 
+T ech sector plans to maintain 
+a democratized approach with AI experiments
+Most sectors are working toward a centralized approach 
+to AI implementation. But the tech sector plans to continue developing AI governance policies and experimentation practices in a democratized way as it builds more experience in this rapidly developing area.
+1  KPMG 2024 Technology and Telecommunications CEO Outlook
+Q10. O
+ver the past 24 months, have your digital transformation efforts with the following technologies 
+positively impacted your organization’s profitability? Those answering yes, there was an increase.Source: KPMG global tech report 2024AI and automation 
+(including Generative AI)XaaS technologies (including 
+public- or multi-cloud)
+Cyber security Data and analyt icsIncreases in percentage of respondents (2023 compared to 2024) who
+replied that their digital transformation efforts positively impacted theirorganizations' proﬁtability in ﬁve important investment areas 
++28
+Modern delivery (including low/no code)+22 +20
++20
++20
+How KPMG can help Executive summaryAbout the authors
+Methodology Key recommendationsESG goals are a key focus 
+for tech’s digital investmentsTech firms plan to keep a democratized 
+approach with AI experiments
+3
+KPMG global tech report: T echnology insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+The tech sector is 
+targeting profitability
+The tech sector is targeting profitability
+Today’s macroeconomic and geopolitical landscape might be turbulent, 
+but tech companies are continuing to fund digital innovation with confidence and commitment. There are good reasons for this: three-quarters of tech executives 
+(76 percent)  say their total cost of 
+ownership and cost–benefit forecasts are usually accurate. Roughly the same proportion say they run calculations to forecast the potential value of a technology before they invest, a figure that is slightly above the cross-sector average. 
+As a result, tech is one of the sectors most likely in our survey to feel 
+confident in its ability to manage expenditure so that hidden costs do not disrupt the digital transformation. 
+Mark Gibson, Global Head of Technology, Media & Telecommunications, 
+KPMG International and Line of Business Leader for Technology, Media & Telecommunications, KPMG in the US, says we are seeing a shift in how tech companies spend their money. “We’re seeing a much stronger focus on outcomes than we did before,” says Gibson. “It used to be all about how much they could invest in research and development, but as tech companies mature, priorities are shifting.” 
+Gibson says that profitability is paramount in today’s economy: “It’s a 
+constant seesaw between wanting to invest in innovation and needing to keep costs down. That’s why most tech firms are now on a journey of targeted investment in key transformation areas.”This year’s survey shows an 
+increase in the number of tech professionals who say that technology has directly improved their organization’s profitability over the past 
+24 months . 
+There is notable growth in profitability, with increases of 10 percentage points or more from efforts in AI, data and analytics, XaaS, cyber security and modern delivery methods. 
+How KPMG can help Executive summaryAbout the authors
+Methodology Key recommendationsESG goals are a key focus 
+for tech’s digital investmentsTech firms plan to keep a democratized 
+approach with AI experiments
+4
+KPMG global tech report: T echnology insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+The tech sector is 
+targeting profitability
+Case study
+Sierra Wireless
+Helping to ensure trust in IoT solutions
+As a major global IoT solutions provider, Sierra Wireless utilizes 
+manufacturing facilities around the world — delivering innovative technologies that are enhancing operational efficiencies and customer experiences for some of the world’s leading organizations.
+The Canadian-based multinational, which is particularly proud of its nearly    
+30-year record of building trusted client relationships across an array of industries, was forced to take decisive action as its operations, including manufacturing, were temporarily disrupted in March 2021 by a ransomware attack on the company’s internal IT systems and corporate website.
+Sierra Wireless immediately countered the attack — turning to KPMG firms’ 
+cyber-incident response specialists from Canada and the UK to assist with response and recovery efforts.Sierra Wireless leaders worked closely with KPMG’s cyber professionals to resolve the root cause of the ransomware attack and contain and recover the disrupted operations. As part of the larger recovery effort, KPMG in Canada and KPMG in the UK were able to prioritize and recover Sierra’s manufacturing operations within days. In the wake of the incident, KPMG and Sierra Wireless professionals worked together to enhance Sierra’s IT operations and cyber-security program. 
+Sierra Wireless’ IoT solutions help customers in industries such as 
+transportation, healthcare, industrial manufacturing, and energy transform and thrive in today’s connected economy. The timely actions taken in response to this incident helped maintain the trust of these customers in the security of Sierra Wireless’ IoT solutions.
+73%
+In tech, employees have high expectations for 
+each of the three areas of ESG.
+Mark Gibson  
+Global Head of Technology, Media & Telecommunications KPMG International and Line of Business Leader for Technology, Media & Telecommunications, KPMG in the US
+How KPMG can help Executive summaryAbout the authors
+MethodologyThe tech sector is 
+targeting profitabilityKey recommendationsTech firms plan to keep a democratized 
+approach with AI experiments
+5
+KPMG global tech report: T echnology insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+ESG goals are a key focus 
+for tech’s digital investments
+ESG goals are a key focus for tech’ s 
+digital investments
+Today’s tech organizations are recognizing 
+the importance of using tech for good. About three-quarters of tech executives (73 percent) say their tech investments directly target their sustainability and social responsibility goals, which is above the cross-sector average. 
+Proportion of tech executives 
+saying their investments target sustainability and social goals
+Q9: Which of the following opposing statements best describes your 
+company’s technology optimization activity for the next 12 months?
+Source: KPMG global tech report 2024And perhaps a direct result of using tech for good is the industry’s progress in addressing environmental, social and governance (ESG) issues. In fact, our recent KPMG 2024 Technology and Telecommunications CEO Outlook showed that the number of tech and telecommunications CEOs who are confident about reaching their net-zero goals by 2030 has increased from 36 percent in 2023 to 46 percent in 2024. A large part of this optimism comes from the sector’s transformation of how data centers are built and run — and their impact on the environment.
+ESG efforts are particularly important to the tech sector’s workforce. 
+As Gibson emphasizes, “In tech, employees have high expectations for each of the three areas of ESG. Not only do they want to see thoughtfulness around environmental impact, but they also hold the industry responsible for the way in which information is spread — particularly around key social and political issues. ” 
+The good news is that KPMG research confirms that tech 
+organizations are taking their employees’ opinions seriously, with tech being one of the sectors most likely to prioritize tech investments based on employee feedback (5 percentage points above the global average). This has important implications for the ‘governance’ part of ESG as organizations w
+ork to ensure they have both the right policies in 
+place to address ESG challenges and the ability to be a voice for their workforce. According to Gibson, the tech sector has a huge responsibility related to cyber protection and the way in which the sector manages and shares information. “ESG is about the future of the industry from a people perspective, ” he says. “That’s why tech organizations must focus on protecting people’s data and having the processes and controls in place to build consumer trust as part of their formulas to getting ESG right. ” 
+Q24: Ho
+w does your organization plan to scale its AI with governance, trust and cyber security in mind?40%
+34%35%
+36%Centralizing our approach to AI experimentation
+once we have reached a critical mass
+of ideas from the workforce for us
+Democratizing our approach to AI experimentation
+as we build more experience in the area
+Total TechHow tech executives say they plan to scale AI within their organizations
+Source: KPMG global tech report 2024
+How KPMG can help Executive summaryAbout the authors
+MethodologyThe tech sector is 
+targeting profitabilityKey recommendationsESG goals are a key focus 
+for tech’s digital investments
+6
+KPMG global tech report: T echnology insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+T ech firms plan to keep a democratized 
+approach with AI experiments
+T ech firms plan to keep a democratized 
+approach with AI experiments
+Appetite for AI is growing across all sectors, and many companies are taking a 
+democratized approach while they encourage their workforces to find new ways to use it. But as they scale AI, while keeping governance, trust and security at the center, most sectors are switching to a more centralized approach.Here, the tech sector bucks the trend, as centralization is not on the roadmap. Instead, tech companies 
+plan to maintain their democratized approach to AI experimentation, while continually developing their AI governance policies as they build more experience in the area. 
+Gibson notes, “We want everyone in a tech company experimenting and using AI daily. Yet, it’s important 
+to balance this with a centralized governance layer so companies have a framework for their workforces to operate within. This should allow tech companies the space to continuously adapt and refine their AI strategies while protecting their values, security and customers. ”
+According to our KPMG global tech report 2024, successful AI implementation will require the tech sector 
+to take a systemic approach
+2 that is based on cross-functional effort. From building strategic frameworks 
+to upskilling teams and identifying risks, tech is uniquely positioned to lead the way across this new frontier with confidence. 
+The earlier you appoint a chief artificial intelligence officer (CAIO),  
+the easier it is to shape and coordinate the transformation before 
+business units and functions have invested in similar capabilities.  
+In addition, first movers may secure scarce CAIO talent in the external  
+or internal market before they become even more in demand.3
+2  KPMG global tech report 2024
+3  KPMG’s Leading the charge on AI
+Key recommendations
+How KPMG can help Executive summaryAbout the authors
+MethodologyThe tech sector is 
+targeting profitabilityESG goals are a key focus 
+for tech’s digital investmentsTech firms plan to keep a democratized 
+approach with AI experiments
+7
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.KPMG global tech report: T echnology insightsKey recommendations
+To lead by example while fostering innovation, tech executives should:
+• Prioritize trust and security in the initial phases of designing 
+solutions. With tech rapidly evolving, designing and building solutions in a responsible way is now more important than ever. Including cyber security experts at the start of every project can enhance trust and protect brand reputation. It can also help minimize the risk of data breaches and the need for costly retrofitting of security fixes.
+• Turn ESG into a competitive advantage by implementing embedded strategies that address environmental and social risks while capitalizing on commercial opportunities. As technology plays a 
+crucial role
+4 in integrating ESG into strategic processes, the tech 
+sector has an opportunity to thrive and make a real difference in this space. To do so, it needs to improve its own processes while also building solutions that help other sectors do better. 
+• Lead successful AI adoption by ensuring that all departments work together and AI value is communicated clearly and with a strong connection to departmental business objectives. To help the sector move beyond the AI hype, KPMG has identified five key areas for organizations to focus on: delivering value, unlocking capabilities, building trust, scaling with confidence and architecting transformation. Our global tech report elaborates on each of these. 
+In line with the KPMG 2024 Technology and Telecommunications CEO 
+Outlook
+5, this research shows that there is optimism about growth in 
+the tech sector. To navigate new technologies such as generative AI alongside environmental and economic challenges, tech companies will have to remain disciplined and strategic during their transformation journeys.
+4  Tech-driven ESG: Navigating risks with precision
+5  KPMG 2024 Technology and Telecommunications CEO Outlook
+How KPMG 
+can help
+Executive summaryAbout the authors
+MethodologyThe tech sector is 
+targeting profitabilityKey recommendationsESG goals are a key focus 
+for tech’s digital investmentsTech firms plan to keep a democratized 
+approach with AI experiments
+8
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+How KPMG can help
+KPMG global tech report: T echnology insightsTransformation is an ongoing journey
+There’s no quick fix for today’s business challenges. Major changes are commonplace and often happen in parallel, involving more stakeholders, with 
+more at risk and more complex decision-making required.
+All this can put relentless pressure on you, your people and your broader ecosystem. This journey of constant change is unpredictable, but how 
+you approach it should not be. The KPMG Transformation Journey helps you navigate these shifting end points, helping you to deliver the results that matter.
+But the journey doesn’t end here. We combine advanced technology, in-depth experience and operational excellence to continually evolve your 
+processes, working on a subscription-as-a-service basis.
+With KPMG Managed Services, we help you create nimble, scalable business functions that evolve as you grow and pivot quickly amid changing 
+priorities. That’s how to accelerate and sustain your transformation journey and stay ahead of competitors — while helping minimize disruption and risk. Learn more .
+ESG
+KPMG, as a global organization, knows the intrinsic power of ESG to transform your business, and KPMG professionals can show you how to enhance trust, mitigate risk and unlock new value as you transform and work to build a sustainable future. Our services are holistic and practical, and we are able to guide your teams to drive sustainable innovation across your organization.
+Through industry-leading expertise, data-driven technology and global alliances, KPMG professionals’ experience across critical ESG issues means we can 
+assist you in creating the right roadmap for your journey, putting ESG at the core of your operations — where it should be. Learn more .
+You can with AI
+In the AI era, anything seems possible — untapped value, constant innovation, new frontiers. Especially with a knowledgeable guide by your side.
+We help clients harness the power and potential of AI. From strategy to implementation. Small steps to helping solve seemingly impenetrable problems. 
+Underpinned by trust. 
+You can discover endless opportunities with AI. Let KPMG show you how. Learn more .
+KPMG Trusted AI Framework
+KPMG Trusted AI Framework can help with designing, building, deploying, and using AI tech solutions in a responsible and ethical manner, seeking to 
+accelerate value with confidence. Learn more . 
+Methodology
+More than 20 countries/territories:
+31%
+Americas 40%
+Europe, Middle East 
+and Africa (EMEA)29%
+Asia Paciﬁc(ASPAC) 
+organizations with annual revenues above US$100 million. 
+How KPMG can help Executive summaryAbout the authors
+The tech sector is 
+targeting profitabilityKey recommendationsESG goals are a key focus 
+for tech’s digital investmentsTech firms plan to keep a democratized 
+approach with AI experiments
+9
+KPMG global tech report: T echnology insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+Methodology
+The technology sector perspectives of the KPMG global tech report 2024 
+draws on the views of 490 technology leaders. Survey respondents represented a diverse group of tech leaders, such as chief digital officers, CIOs, CTOs, CISOs, chief AI officers, and others. 
+were board members 
+or members o f the 
+C-suite.
+held director or senio r manager 
+level positions.
+About the authors
+How KPMG can help Executive summary MethodologyThe tech sector is 
+targeting profitabilityKey recommendationsESG goals are a key focus 
+for tech’s digital investmentsTech firms plan to keep a democratized 
+approach with AI experiments
+10
+KPMG global tech report: T echnology insights
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.
+About the authors
+Mark Gibson  
+Global Head of Technology,  
+Media & Telecommunications,  
+KPMG International and Line of 
+Business Leader for Technology,  
+Media & Telecommunications,  
+KPMG in the US
+Mark is the Global Head and the US Sector Leader for 
+Technology, Media, and Telecommunications (TMT) and also serves as the Global Lead Partner for a KPMG in the US firm client that’s one of the largest technology companies in the world. Previously, he served as the Office Managing Partner of the Seattle office of KPMG in the US from 2011 to 2020. During his 30-year career, he has worked with clients in the telecommunications, technology, consumer products and retail industries, and now collaborates with TMT teams across audit, tax and advisory in over 15 different countries.Anna Scally  
+Partner, International Tax & TMT  
+Sector Lead for KPMG in EMA  
+KPMG in Ireland
+Anna is an International Tax Partner at KPMG Ireland. She is also KPMG’s Technology, Media and Telecoms (TMT) Sector Leader in EMA. She has also led KPMG in Ireland’s Fintech practice. Anna has 20 years’ experience at partner level advising Irish and international companies on tax matters, including M&A, financing, group structuring, R&D, IP and international tax matters. Anna’s clients include companies  
+in the technology, media, telecommunications, fintech, pharmaceutical and life sciences sectors. She is also passionate about innovation and scaling ambitious start-ups, and advises a number of earlystage companies on fundraising, shareholding arrangements, rewarding founders, incentivizing employees and growing global operations.Atul Gupta  
+Partner and Head  
+Digital Trust and Cyber  
+KPMG in India
+Atul is a Partner with Consulting Services, KPMG India and  
+leads the Digital Trust Practice. He is also a leader for Cyber in  
+the TMT industry. 
+Atul has more than 25 years of experience in technology 
+consulting with a deep focus on cyber and digital trust covering strategy, governance, large-scale transformation, automation at scale, AI-led self-healing solutions, championing Trusted AI Framework and establishing resilient and trusted organizations. Atul’s experience is across a wide range of industries, including Telecom, Financial Services, Technology, Energy and Industrial Markets, across global geographies. Atul has also worked with KPMG in the US (Silicon Valley). He is passionate about growth and development of the digital trust domain and has been actively contributing in the development and progress of the profession by associating with multiple industry forums.
+Contacts
+Mark Gibson  
+Global Head of Technology, Media & 
+Telecommunications, KPMG International  
+and Line of Business Leader for Technology, Media & Telecommunications,  
+KPMG in the US  
+E: mgibson@kpmg.com
+Joe Cassidy  
+Head of Technology, Media & 
+Telecommunications  
+KPMG in the UK  
+E: joe.cassidy@kpmg.co.ukDaniel Chan  
+Head of Technology, Media &  
+Telecommunications  
+KPMG China  
+E: daniel.chan@kpmg.com
+Simon Dubois  
+National Sector Lead, Technology  
+KPMG Australia  
+E: sdubois@kpmg.com.auAtul Gupta  
+Partner and Head  
+Digital Trust and Cyber,  
+KPMG in India  
+E: atulgupta@kpmg.comRichard Hanley  
+US Sector Leader, Technology  
+KPMG in the US  
+E: rhanley@kpmg.com
+Katja Modder  
+Head of Technology, Media & 
+Telecommunications  
+KPMG in Germany  
+E: katjamodder@kpmg.com 
+Anuj Madan  
+Audit & National Industry Leader, Technology, Media & Telecommunications  
+KPMG in Canada  
+E: amadan@kpmg.caAnna Scally  
+Technology, Media & Telecommunications Sector Leader in EMA  
+KPMG in Ireland  
+E: anna.scally@kpmg.ie
+Diogo Sousa  
+Telecommunications Lead  
+KPMG in Portugal  
+E: sousa@kpmg.com
+Some or all of the services described herein may not be permissible for KPMG audit clients and their affiliates or related entities.
+kpmg.com
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we endeavor to provide accurate and timely information, there can be no guarantee that such information is accurate as of 
+the date it is received or that it will continue to be accurate in the future. No one should act on such information without appropriate professional advice after a thorough examination of the particular situation.
+© 2025 Copyright owned by one or more of the KPMG International entities. KPMG International entities provide no services to clients. All rights reserved.KPMG refers to the global organization or to one or more of the member firms of KPMG International Limited (“KPMG International”), each of which is a separate legal entity.KPMG International Limited is a private English company limited by guarantee and does not provide services to clients. For more details about our structure please visit kpmg.com/governance.The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organizationKPMG’s participation and contribution in this regard is not an endorsement, sponsorship or implied backing of any company’s products or services.Throughout this document, “we”, “KPMG”, “us” and “our” refers to the KPMG global organization, to KPMG International Limited (“KPMG International”), and/or to one or more of the member firms of KPMG International, each of which is a separate legal entity.Designed by Evalueserve.Publication name: KPMG global tech report: Technology insights | Publication number:  139743-G | Publication date: January 2025

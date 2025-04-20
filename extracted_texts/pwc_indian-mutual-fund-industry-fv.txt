@@ -1,0 +1,1290 @@
+Title: pwc_indian-mutual-fund-industry-fv
+Date Published: 2013-06-21 13:48:55+05:30
+Source: pdfs/pwc_indian-mutual-fund-industry-fv.pdf
+
+--- CONTENT ---
+
+Indian mutual fund industry
+Unearthing the growth potential  
+in untapped markets
+www.pwc.in
+Indian mutual fund industry at a glance
+Introduction  P4/ The untapped market in India P6/  How to increase the rural footprint P11/ 
+Technology as a game changer P13/ Regulatory trends P17/ Our conversations with industry 
+stakeholders  P24/ Looking ahead P26
+
+Chairman’s Message 
+As we move into the 9th edition of the mutual fund summit, we see how the mutual fund industry has evolved over the 
+years, growing and maturing with every development that is taking place. Given the current scenario of market volatility 
+and uncertainty, these are challenging times for the mutual fund industry, where the investor perceives investments in the 
+capital market to be risky and unsafe, and hesitates to channelize his savings into mutual fund products. 
+In such a scenario, the role of the distributor or the financial adviser assumes a lot of importance, as he is the touch point 
+for the investor. It rests upon the advisor or the distributor to encourage the investor to purchase mutual fund products and help achieve his financial goals over a fixed period of time. It is important that the investor understands that mutual funds 
+are not just investment products, but a solution to their financial requirements. It is critical that the distributor undertakes 
+measures and initiatives to educate the investor and increase the level of awareness. Considering the critical role played by the distributor, it is of immense importance that the distributor fraternity is adequately trained and regulated so that the 
+mutual fund product is sold for the right purpose and adequate time period. 
+Clearly, technology has the potential to increase the depth of penetration and strengthen the distribution network to reach 
+beyond the Tier 1 cities. It is only a matter of time when the asset management companies will realise the need to imbibe 
+the various emerging technologies and leverage the social media platform. 
+As the mutual fund industry matures, it becomes increasingly challenging to identify the catalysts for growth and 
+implement new measures to achieve profitability. For instance, the mutual fund industry is now looking towards leveraging 
+the pension platform to spur growth of the industry. Also, asset managers are hunting for solutions in the strategy and 
+approach followed by other industries and sectors. 
+This report by PwC titled ‘Unearthing the growth potential in untapped markets’ discusses some of the pertinent challenges 
+faced by the under-penetrated market and seeks to address these challenges by offering some possible recommendations.   
+We hope you find this report insightful and useful. We welcome any comments or suggestions on this report to prepare 
+better for next year. 
+A Balasubramanian  
+Chairman - CII Mutual Fund Summit 2013 and 
+Chief Executive Officer Birla Sun Life Asset Management Co. Ltd.
+Foreword 
+It gives us great pleasure to continue our journey with CII into the 9th edition of the Mutual 
+Fund summit. 
+In this background paper titled ‘‘Unearthing the growth potential in untapped markets”, 
+we have attempted to capture some key perspectives of the mutual fund sector. This is in the 
+backdrop of the current scenario, both globally and at a national level, where uncertainty 
+appears to have become the new ‘normal’, with no immediate sight of an upsurge. 
+It is important that mutual funds are positioned as a long-term investment vehicle, with 
+the potential to achieve financial goals and provide investment solutions, especially in 
+these challenging times.
+The underlying thoughts in this paper are centred on the ways in which the challenges 
+presented by an under-penetrated market can be addressed. The industry continues to 
+grapple with low levels of investor awareness and financial literacy, along with constraints in accessibility and reach. 
+This paper provides insights into some of the best practices that the industry can look to 
+adopt, evaluates how technology can provide a competitive edge and act as an enabler for 
+growth, and captures key regulatory developments that have taken place concerning the 
+industry, both in India and overseas. 
+We have included some of the insights arising from our conversations with industry 
+stakeholders – our sincere thanks for the valued inputs received - and have attempted to 
+make some recommendations on the way forward.
+We hope you enjoy reading the report and welcome any suggestions you may have. 
+Manoj Kashyap  
+Leader, Financial Services  
+PwC IndiaGautam Mehra  
+Leader, Asset Management  
+PwC India
+PwCThe financial services landscape is transforming, 
+with a plethora of changes taking place on the 
+regulatory front. Against this backdrop, asset 
+management companies (AMCs) realise that they need to re-structure their businesses in order 
+to meet the evolving needs of their clients and 
+provide them with complete investment solutions. Although emerging markets such as India provide 
+a wide range of opportunities, it is important to 
+tap into these avenues to fuel the growth of the mutual fund industry. 
+The year gone by
+Amidst volatility and uncertainty in the markets, average assets under management (AUM) posted 
+a growth of 23% for the year ended March 2013. 
+This was considerably higher than the 12% growth reported in March 2012. The industry has 
+grown at a compound annual growth rate (CAGR) 
+of 18% from 2009 -2013 (see Figure 1). 
+Figure 1 
+Growth in average assets under management ( In mn INR) 
+CAGR = 18%
+4,173,000 6,139,790 5,922,500 6,647,916 8,164,017 
+-1,000,000 2,000,000 3,000,000 4,000,000 5,000,000 6,000,000 7,000,000 8,000,000 9,000,000 
+2009 2010 2011 2012 2013 
+Source:  AMFI
+However, the trend from 2010 depicts that net 
+sales for the mutual fund industry has dipped, 
+picking up slightly in 2013, to grow by 7%  
+(see Figure 2). IntroductionFigure 2 
+Net sales vs net redemptions (2009-2013)
+Net sales Net redemptions 
+Poly. (Net redemptions )020,000,00040,000,00060,000,00080,000,000100,000,000120,000,000
+2009 2010 2011 2012 2013
+ 
+Source:  AMFI; all data  ( in mn INR) 
+A total of 139 new schemes were launched for the year ended March 2013, generating sales of 
+236,470 million INR. Furthermore, AUM under 
+the equity segment has actually declined 5%, whereas the debt segment has grown significantly 
+at 36% (see figure 3), which implies that investors 
+are still wary of investing in the market looking for relatively safer investments by directing their 
+investments into the debt bucket. Assets under 
+management in the liquid and money market and gold exchange traded funds (ETFs) grew by 16% 
+and 18% respectively.  
+Figure 3 
+Category-wise growth in assets under management
+050000100000150000200000250000300000350000400000450000
+Equity Debt Liquid/Money 
+market Gold ETF
+2012 2013 
+Source:  AMFI
+ Indian mutual fund industry   5Net sales increased for the 
+year ended March 2013
+AUM in equity segment registered  
+a declineAssets under management  
+grew to 8,164 billion INR
+A decline in the total number of foliosHuge inflows in the debt segment, with a significant 
+growth in AUM
+Net investment for the 
+year ended  March 
+2013 declinedIn a scenario of declining interest rates, for March 2013 
+the distribution of assets under management have understandably been heavily skewed towards debt at 
+72% of total assets under management. A fall in interest 
+rates is indicative of higher returns for long-term debt and gilt funds. Furthermore, it has been observed that in the 
+case of investments held for over a period of 24 months, 
+assets under management held by retail investors in the non-equity segment was 36%, whereas for the short term, 
+it was only 11%, suggesting the fact that in the current 
+environment, investors are preferring debt funds for an even longer time span exceeding 24 months.   
+Retail 
+Investors One to three months Six to twelve months Over twenty four months 
+Equity (% to 
+category)4.02 7.52 63.04
+Non-equity (% 
+to category)11.18 15.96 36.25
+Source:  AMFI, March 2013
+Even though the industry has witnessed growth during 
+the last year, the rise in assets under management has 
+been coupled with erosion of the investor base, evident 
+from the loss of 3.6 million folios as at March 2013. The equity segment saw a decline of 4.4 million folios, 
+although the debt segment showed an addition of 0.8 
+million folios. This again indicates that investors are inclined towards relatively safer investments, not wanting 
+to undertake risk in these volatile and uncertain markets. 
+A rise has also been reported in the AMFI registration 
+number (ARN) registrations, as a consequence of 
+reduction in ARN fees. Since the SEBI permitted retired bank officials, school teachers, postal agents, etc to sell 
+mutual fund schemes, AMCs have been geared up to 
+derive maximum benefit from this opportunity to create a far-reaching distribution network, especially in B-15 
+cities and towns. An additional reason for AMCs to draw 
+on this opportunity is being able to charge a higher total expense ratio if they achieve their investment targets in 
+these cities. Industry at glance
+23%
+8% 7 %
+5%36%
+33%
+PwCThe Indian population is largely under-banked 
+with a very low level of financial inclusion leaving 
+room for further penetration. 
+The extent of under-penetration in the market is a 
+sore point with the banking and financial services 
+industry, with a large amount of savings being channelised into gold and real estate rather than the capital market. The GDP growth has slowed 
+down, sluggish at 5% in 2012-13, with savings and 
+investment rates following a downward trend. In 
+2010-11, the savings and investment rates were 
+34% and 36.8%, respectively, which declined to 30.8% and 35%, respectively, in 2011-12 and 
+31.8% and 35.4% in 2012-13. 
+Comparing India to other countries, we realise 
+how financial inclusion is yet to be achieved (see Figure 4). While the UK and the US have 25.5 
+and 35.7 branches per 0.1 million  adults and 
+developing countries such as Brazil have 13.8 branches per 0.1 million adults, India is at a 
+staggeringly low figure of 10.9 branches per 0.1 
+million adults. 
+Figure 4 
+Financial inclusion data as compared to other economies
+10.913.8 11.825.535.7
+5.4120.6
+48.264.6173.8
+0.050.0100.0150.0200.0250.0300.0350.0400.0450.0500.0
+0.020.040.060.080.0100.0120.0140.0160.0180.0200.0
+India Brazil Austria UK USNo. of Branches No. of ATMs
+Bank Credit  
+Source:  World Bank, Financial Access Survey; 2010 data 
+Note:  No. of branches and  ATMs  per 0.1 million adults The untapped 
+market in IndiaFor savings to be streamlined into the capital market, 
+investors need to first and foremost be made aware of 
+avenues and opportunities. 
+The mutual fund industry is yet to spread its reach 
+beyond Tier I cities. The top five cities contribute to 
+74% of the pie, with the remaining 26% distributed among other cities (see Figure 5). Statistics show 
+that in March 2013, penetration in the top five cities 
+increased to 74% as compared to 71 in March 2012, whereas for cities beyond the top five, penetration  
+has decreased. 
+One of the prime areas the industry is focusing on is 
+developing the penetration ratio and increasing its 
+presence in other cities. 
+Figure 5 
+Assets under management: Geographical distribution
+March 2013
+74%13%6%5%3%
+Top 5 cities
+Next 10 cities
+Next 20 cities
+Next 75 cities
+Other cities
+Top 5 cities
+Next 10 cities
+Next 20 cities
+Next 75 cities
+Other citiesMarch 2012
+71%14%7%6%3%
+ 
+Source:  AMFI
+Another interesting fact worth noting  is how skewed 
+the business from the industry is, with the top ten  
+fund houses contributing 77% of the total assets under 
+management and the bottom ten a mere 1%.
+ Indian mutual fund industry   7Challenges of an under-penetrated market
+The under-penetrated market in India, although showcasing 
+huge opportunities for market players to sell their products, 
+places multiple roadblocks to tap into these opportunities up 
+to their optimum potential.
+Low level of 
+awareness and financial literacy Cultural and 
+attitudinal 
+changes
+Reach and scalability Adapting the distribution  channel
+Some basic challenges arise due to very low levels of 
+awareness and financial literacy. The situation in these cases 
+is such that even if the ability to invest exists, these savings 
+are prevented from being directed into mutual fund products. This is because of the slow capital market growth, lack of 
+awareness of mutual funds being a low-cost investment 
+vehicle and the returns they can generate. In this case, there is also the interplay of cultural and behavioural change which 
+prevents savings from being streamlined into investment 
+products, diverted from gold or property. Indians still feel that gold and property is a less risky alternative as compared 
+to investment in the capital markets. Also, investors are not 
+aware of low risk products that they can invest in. A culture change is required in this case, if people are to be convinced  
+to invest in the capital markets. 
+In order to reach the bottom of the pyramid, 
+challenges remain in terms of the unavailability 
+of proper documentation, unavailability of PAN 
+card, bank account, etc. However, it is likely that 
+the roll out of ‘Aadhaar’ initiative will to some 
+extent resolve these problems. 
+PwCAgainst the above backdrop, distributing mutual 
+fund products continues to be a challenge. 
+Post the regulatory changes in August 2009, 
+which restricted entry load on mutual funds, the industry went through a period of sluggish 
+growth, resulting in a lack of incentive to sell 
+mutual fund products. Subsequently, a number of independent financial advisors (IFAs) and 
+other distributors stopped pushing mutual fund 
+products to investors and dropped out  of the market. 
+In order to shift the sales incentive plans from 
+the traditional front-ended schemes to trail 
+orientation, SEBI recently announced significant 
+changes to the commission structures.
+Commissions are now payable through a 
+trail mechanism where the advisor receives 
+commission on the assets retained by a scheme 
+or fund on an on-going basis. This takes away the temptation to cause investment churn for 
+commissions. Also, in order to deepen the 
+penetration beyond the top 15 metros or cities, 
+the regulation now permits fund- houses to 
+charge an additional fee of up to 0.3% more for the expense on the investment flows from small 
+cities and towns (beyond the defined top 15). 
+However, this is associated with mutual funds drawing 30% of new inflows from these smaller 
+towns. For example, if a fund house gets less 
+investment, such as say 10% of new investment, then the ratio will go up by 0.1% only. This is 
+likely to push distributors to penetrate markets 
+further, increasing the sales of mutual fund products and thereby bringing in new investors. Going beyond 
+the metrosThe IFA connection
+The independent financial advisor (IFA) is a crucial 
+link in the distribution chain of mutual funds. This 
+segment has potential in widening the distribution 
+network and expanding the client base on a sustainable basis. To encourage first-time distributors, 
+AMFI has placed a waiver of around 3,000 INR on 
+registration fees for first-time distributors, for a period of five months, valid until 30 June, 2013.  
+IFAs exercise a strong influence over customers and 
+thereby have the key to building a strong relationship 
+with their clientele. Right from scheme selection to asset allocation and asset diversification, it is the IFAs 
+who can mould the customers’ thoughts and direct 
+their investments into appropriate channels. IFAs draw up a financial plan based on the financial goals 
+and requirements of their clients before suggesting 
+any investments. They are also responsible for monitoring these investments at regular intervals 
+to ensure that there is limited diversion from the 
+ultimate financial goal of the investor, and to advise 
+the best possible path in conditions of market 
+volatility and uncertainty.  
+The recipe for success of the advisory model is 
+basic. The starting point is to understand what your 
+customer intends to achieve as part of his or her financial plan and the kind of returns he or she is 
+looking at over a period of time. Also, there is a need 
+to focus on asset allocation. IFAs also need to gauge the extent of risk which the investor can take and 
+suggest funds or schemes suited to his or her appetite. 
+Hence, it is of prime importance that IFAs are 
+empowered with professional training and education. 
+This can be done through regular knowledge 
+summits, seminars, etc across cities. 
+The AMC community is also supportive of the 
+IFA fraternity, extending support for business development, training requirements and  
+investor education. 
+ Indian mutual fund industry   9
+According to a survey conducted by 
+Franklin Templeton, spanning 9518 
+investors across 19 countries in 
+Asia, America and Europe, around 
+69% (more than two-thirds) of 
+Indian investors are willing to pay a 
+fee to their financial advisors.  One of the key challenges that IFAs face is again that of 
+investor education and low levels of financial literacy in 
+the smaller cities. IFAs need to invest in spreading investor 
+awareness through regular programs and campaigns beyond the top 15 cities.  
+Another threat to IFAs arises out of the introduction of the 
+direct plan option for customers. One aspect that the IFAs 
+need to consider is technology, as its usage can help reduce 
+operational hassles. Their approach needs to be more service oriented rather than transaction oriented. 
+Although fund houses do not need to pay commissions on 
+selling mutual funds, they need to set up offices to service 
+their clients. This will hamper their reach to a larger set of 
+consumers. Typically, AMC’s find it a less expensive decision 
+to pay commissions to distributors than communicate through 
+other channels. 
+One of the primary catalysts which will lead a fund house 
+towards growth and profitability is a strong distribution 
+network and a sustainable distribution model. To this effect, it will prove beneficial for AMCs to empanel a large number of 
+IFAs in their distribution spectrum. 
+Other constraints to increasing penetration
+The debate continues over a trail-based commission model 
+or the advisory model, which will prove to be more profitable 
+and sustainable in the long run. The goal is to increase retail 
+penetration and there are two ways of looking at it. IFAs usually charge an upfront commission for any sale they make. However, moving to a full trail commission model for 
+this segment may turn out to be rewarding in the long run. 
+This will reduce exit of funds and rein in stability to the asset management business. It will also generate higher returns for 
+the IFAs as compared to upfront commissions, as the trail fee 
+will be calculated on the latest valuation of assets.  
+PwCThe SEBI directive indicates that the amount of funds 
+collected from exit loads will need to be credited back 
+to the schemes. Also, if there is redemption before the 
+designated period of one year, then the option of a claw back of commissions can be exercised. Hence it is 
+up to the AMCs and distributors to come out with the 
+optimal upfront-trail commission structures taking into considerations these clawback provisions.      
+Cost concerns continue to plague the industry exerting 
+pressure on some of the smaller fund houses, leading to a sustainability issue. 
+There is also another school of thought which 
+showcases a view on captive distribution. For example, a bank-backed AMC with a captive distribution is 
+attractive from an AMC’s point of view, but in all 
+likelihood, it is less attractive for the distributor to  sell the product of a single AMC.
+In order to tackle these challenges and lead a focussed 
+approach to increase presence beyond the top 15 
+cities, it will be useful to look at what other industries 
+have done or what other countries are doing and adopt some of the best practices. 
+Mutual funds need to be marketed 
+as a ‘concept’ in order to create a 
+strong pull from customers. Ideally, 
+they need to be marketed as 
+products with a maturity period 
+ranging from five to 10 years.  
+ Indian mutual fund industry   11Microfinance institutions (MFIs) 
+MFIs have encountered success in reaching out 
+to customers at the bottom of the pyramid. MFIs have focussed on increased access to savings 
+and credit in rural areas and have demonstrated 
+the feasibility of providing customised banking services to customers through self-help 
+groups(SHGs).
+Shift from a ‘supply-led’ to a ‘demand-
+driven’ approach
+This requires a reshuffling of delivery mechanisms 
+with respect to the time and adequacy of services 
+offered. The intermediary environment which 
+consists of interacting with client individuals as well as groups is peculiar to MFIs and is 
+responsible for the strong presence of the industry. 
+A bottoms-up approach promoting interactions with wholesalers, semi-wholesalers, individual 
+advisors and apex institutions can help create 
+awareness of product details. Investing in such a detailed network will prove beneficial to industry 
+players who are new entrants in Tier II cities and 
+rural areas.
+Tap self-help groups and cooperatives
+MFIs have focussed on increased access to savings and credit in rural areas and have demonstrated 
+the feasibility of providing customised banking 
+services to SHG clients. The rural population does not lack investing capacity, though it is still an 
+unexplored market due to prevailing asymmetries 
+in information. The mutual funds industry needs How to increase 
+the rural footprintto accustom itself with the phenomenal spread of 
+SHGs and customise the product delivery system, 
+making it client-oriented. The way a scheme is 
+pitched in a semi-urban or rural zone should vary to suit the consumer.
+Innovative delivery mechanisms
+Alternate delivery systems that involve engaging local social agencies, building strategic partnerships 
+with retailers, using the business facilitator and correspondent or franchisee models promoted by 
+the RBI and establishing branchless operations with relevant infrastructure can be modified to suit 
+industry requirements.
+FMCG industry 
+The FMCG industry is probably one of the first 
+industries that was successful in breaking the 
+physical barriers of reach and penetrating the 
+rural areas with their products. Leading FMCG companies have undertaken projects such as ‘Shakti’ 
+and ‘e-choupal’ to stay ahead of their competitors by 
+creating a distinct presence in the rural areas. 
+Four-fold strategy of a leading FMCG 
+company: 
+Direct 
+Coverage Indirect Coverage 
+Streamline Project Shakti Four-fold 
+strategy
+PwC•	 Direct coverage  –The company appointed the same supplier to 
+supply to all outlets within a town and sell a limited selection of 
+the brand portfolio.  Towns are defined as populations of under 
+50,000 people.
+•	 Indirect coverage  – The company targeted retailers in accessible 
+villages close to larger urban markets.  Retail suppliers were allocated a fixed route ensuring that all accessible villages in the 
+vicinity were served at least  
+once a fortnight.
+•	 Streamline – This approach implied leveraging the rural 
+wholesale network to reach markets inaccessible by road.  Star Sellers were appointed among wholesalers in a particular village, 
+to purchase stock from a local distributor and then distribute this to retailers in smaller villages using local means of transport such 
+as cycles, rickshaws etc. 
+•	 Project Shakti - Project Shakti targeted the very small villages ( <2,000) and tapped into pre-existing women’s self help groups 
+(SHG).  Underprivileged rural women were invited to become direct-to-consumer sales distributors for the company’s products. 
+Termed Shakti Ammas, these women represent the company and 
+sell its home-care, health, and hygiene products in their villages.
+In 2010, the company rolled out the Shaktimaan initiative through Project Shakti. In this case, the men in the Shakti Amma families distribute products to the neighbouring Shakti villages. The 
+shaktimaan is provided with bicycles to travel to villages. Through 
+Project Shakti and Shaktimaan, the company covers 100,000 villages spanning 15 states in India and over 3 million households 
+every month. 
+The Telecom industry
+Bharati Sanchar Nigam Ltd (BSNL) in India had the first- 
+mover advantage of reaching out to the rural belt with telecom 
+connectivity. Now however other private players are present in 
+these markets.
+1Strategy followed by telecom operators 
+Accessibility
+Affordability
+AwarenessAvailabilityMarket segmentation
+Partnership with other sectors  
+Empowerment of the rural segment
+Customised marketing and distribution1
+2
+3
+4Telecom operators have typically followed the strategy 
+of creating awareness with their multiple promotional 
+campaigns providing information to customers, mostly 
+through TV and radio. Also, awareness programmes are conducted in regional languages to establish a 
+better connection. It is of prime importance that rural 
+customers are convinced about the product sold to them, and they are in a position to purchase them. It is 
+interesting to note that the rural segment is more adept 
+at purchasing products in small quantities at a higher frequency. 
+Hence BSNL’s strategy to launch 10 INR, 20 INR, 30 
+INR (low-value recharge) coupons goes a long way in 
+meeting customer requirements. The toughest challenge 
+is to deal with distribution, due to lack of adequate infrastructure facilities. BSNL has tied up with private 
+vendors to make its products easily available to the  
+rural segment. 
+The postal network
+The Department of Posts has been involved in rural development for the last 150 years. With over 139,000 
+post offices in rural areas, it provides support in various 
+critical functions through communication, financial services, life insurance products and other retail 
+services. The small savings scheme which is operated 
+through post offices helps in mobilising the savings of rural people. The Department is also contributing to 
+the efforts in financial inclusion by payment of benefits 
+under various social security pension schemes viz. Indira Gandhi National Old Age Pension Scheme (IGNOAS), 
+Indira Gandhi National Disability Pension Scheme 
+(IGNDPS) and Indira Gandhi Matritva Sahyog Yojana (IGMSY Scheme), a Conditional Cash Transfer (CCT) 
+Maternity Benefit Scheme. Such payments are being 
+effected either through money orders or post office saving bank account. 
+ The mutual fund industry can assess the strategies 
+enumerated above and adapt best practices to penetrate the rural markets better and increase reach. 
+1 International Journal of Management and Information Technology, Volume 1, September 2012; Rural Marketing practices for telecom services, research sup -
+ported by Nokia Siemens network 
+ Indian mutual fund industry   13The power of mobile banking
+The revolution in mobile banking is well-
+equipped to penetrate rural markets, and 
+bring a larger number of people under 
+the umbrella of financial services. Mobile banking has the potential to be a game changer for the financial services industry, 
+because it can utilise already existing 
+infrastructure to reach out to the un-banked population in rural areas. Additionally, new 
+distribution channels can be explored for 
+cash transactions beyond the POS and ATM 
+networks of banks. 
+Some fund houses are also riding on the 
+mobile wave and using this route to make the operational procedure simpler and hassle-
+free for investors. They can either opt for 
+application based or SMS based investing. SMS based investing is simpler and does 
+not require the user to have a smart phone 
+or high internet connectivity, whereas 
+application based services require a smart 
+phone with GPRS connectivity. 2Leveraging mobile banking in Zimbabwe:  
+A case study 
+Background:  Only 20% of Africans have a bank 
+account. Rural branchless banking is based on a business 
+correspondent model, in which the agent, associated 
+with an MFI caters to specific villages. Telecom provider, Econet plans to deploy 500 Eco-cash agents throughout 
+Zimbabwe. It has also liaised with 200 post offices and 
+300 independent agents. 
+How the model works: Firstly, the user needs to 
+register for mobile phone banking with his or her service 
+provider, subsequent to which he or she is provided 
+with an ‘e-wallet’ an application linked to his or her phone number. To conduct a money transfer or paying 
+for any service, the user needs to go to an agent and pay 
+the designated amount, which is then loaded on to the ‘e-wallet’. The payment is complete and the user can 
+withdraw money from the agent as well. There are various 
+agents networked with mobile service providers across the country, facilitating the service in rural areas.   
+Results of the study:  Most Zimbabweans own a mobile 
+phone today in both rural and urban areas (See table below). Also, the flood of cheap Chinese products has 
+made the mobile phone more accessible than ever. In 
+addition, the Eco-cash product can be used without opening a bank account, just with the use of a mobile.
+Mobile users Frequency Mobile phone users (%)
+Have a cellphone 25 83
+Do not have 5 17
+Total 30 100
+Learning from the study: This whole study concluded with the thought that to extract the maximum from 
+mobile technology, it is necessary to have agents as in 
+the case of Econet. The study also revealed that the rural population is ready to pay a fee to the person who owns 
+a mobile phone for receiving and replying to messages. 
+Banks can in this way explore the option of bringing mobile booths to the unbanked population, and reaching out to the unbanked.  With a subscriber base of over 
+900 million, mobile phones 
+can be used as a huge 
+facilitator to investing, 
+redeeming and exiting funds! 
+2 IOSR Journal of Humanities and Social Science, Volume 9 – Mobile banking the future to rural financial inclusion- Case study of ZimbabweTechnology as a 
+game changer
+PwCThough the industry has seen overall growth in 
+the last two years, it faces a significant challenge 
+with respect to penetration into new markets 
+and also consolidation of the industry. In the current situation, there is an urgent need to scale 
+up business in cities beyond Tier I, along with 
+retaining existing customers.  
+There is immense scope for the unprecedented 
+growth of the industry and this can be rooted 
+back to innovative and efficient use of technology. 
+With increasing competition in this space, it is 
+imperative that funds are prepared for investment in technology to both widen customer base as 
+well as operate efficiently. 
+Customer and business partner 
+engagement: Customer Relationship Management technologies
+With a slew of new fund houses and banks 
+offering new products, there is a greater need now than ever to focus on customer and business 
+partner engagement. Customer Relationship 
+Management (CRM) primarily aids in getting an overall perspective of the customer or 
+partner. It helps in providing differentiated 
+and personalised experiences to the customer or partner based on their profile, income and 
+business group’s and past transactions. 
+CRM helps in drawing increased revenues from 
+customers as it allows for the utilisation of 
+available customer information to sell product suites across segments. CRM also allows for fund 
+houses to improve business processes and drive 
+efficiency based on customer feedback. This can act as a key to customer retention in light of 
+increased competition. With regard to partners, 
+CRM applications provide lead management support, reporting and a channel to log incidents 
+and provide process tracking support. Leading with 
+technologyCreating data warehouses by 
+integrating registrar data with  finance, Human Resources and other internal data
+As fund houses grow, data management becomes a 
+key issue. Implementing data management initiatives 
+not only allows for scalability and supporting business 
+needs within required turn-around times, but it also is a platform for reporting and analytics. 
+Along with better information management, data 
+warehouses can provide standard and ad-hoc reporting 
+capabilities to the business users, encompassing areas of customer segmentation and profitability 
+across products and services (360° customer view), 
+consolidated revenue data and identification of cross-selling opportunities. 
+Near real time integration of different registrar data 
+with the fund house data warehouse can help the 
+fund house to understand redemptions, withdrawals, 
+subscriptions, switching of mutual funds on a real time basis. Fund managers can take quicker decisions by 
+analysing the registrar data, as they will be able to get 
+early warnings. Financial analysis of different patterns on switching, subscription, redemption etc can be 
+performed.
+The benefits that this offers are both in the form of 
+enhancing operational efficiency and developing 
+customer centric products with a focus on profitability 
+and better customer service.
+Leveraging analytics to up-sell and 
+cross-sell
+Data warehouses are a first step towards creating 
+information management systems, Reporting systems 
+and dashboards. These, in turn, can be used by 
+different levels of management from an operational perspective and a strategic perspective. The operational 
+component can broadly involve streamlining and 
+automating business processes like sales, marketing 
+and service. The strategic component can involve 
+development of new products targeting new customer segments, cross-sell to existing customers and enhance 
+customer relationship. 
+The key to growth in the industry is to tailor products 
+to suit customer requirements. Analytics can be leveraged to create differentiation amongst products 
+ Indian mutual fund industry   15in terms of specialisation, new features and value-additions 
+to focus on different customer segments with different 
+requirements. Quicker access to information and market 
+intelligence through analytics can be used to gain insights on product positioning, understanding market share and 
+performance as compared to other funds which can help add 
+new distribution channels and drive more business.  Thus applying advanced analytical techniques will  
+maximise revenues through higher customer retention  
+and increased wallet share achieved by providing consistent services and cross-selling. 
+Digital strategy enabling sales channels 
+with mobiles or tablets
+The rapid growth of usage of mobiles and tablets offers an 
+opportunity to empower sales channels to reach markets 
+with less penetration. This can be especially effective 
+for value added services such as Portfolio Management Services. Enabling salespersons with mobiles or tablets 
+takes the POS to the customer allowing for faster business 
+deals. Salespersons are able to capture business critical 
+information, store it in a central secure place (the cloud) 
+and can access it from their devices. They can complete the deal using a tablet, starting from educating customers about 
+products, capturing information and signatures as well.
+Increased accessibility to mobile phones and the internet  
+in Tier II and Tier III cities can be used as a platform to 
+educate consumers regarding products and its benefits. 
+Mobiles powered with the internet can be used as an important information source for unit holders and 
+prospective investors. Mobile or tablet applications can 
+act as a touch point for customers where they can perform transactions. Applications let fund houses engage in ‘one-to-
+one marketing’.
+The usage of mobiles or tablets by sales channels and has  
+far reaching effects and can be a facilitator to break down 
+un-penetrated markets. 
+Social media as a new marketing platform 
+Social media is flourishing. Leading fund companies know that participation is no longer an option, but a 
+requirement. While social media cannot replace face-to-face communication, it can enhance the overall customer 
+experience and create new sales and servicing opportunities. 
+Most importantly, social media is no longer considered an emerging technology – it has arrived and is here to stay.Social media is a huge opportunity to create awareness about products and connect with the youth today. Social media, when done well, can create a collaborative dialogue with 
+a large, but very specific audience – one person at a time. 
+And, it’s successful because it breaks down formal barriers. Social media provides an opportunity for instantaneous 
+communication and promotes collaboration across functional 
+groups and geographic regions. At its most powerful, it can bring the full weight of millions behind identified ideas and 
+actions – within a short time span.
+It’s a misnomer that social media is yet another marketing 
+platform for fund companies. From a customer-facing 
+perspective, social media can definitely enhance and protect your corporate brand reputation. Increasingly, a lot of 
+companies use social media to engage with customers for 
+product innovation, customer service, distribution of real time information with the aim to create unique solutions and 
+experiences for customers. Social collaboration networks 
+when used internally can help build a dynamic and creative work environment, it can enable organisations to instantly 
+take the pulse on critical organizational issues and enable 
+virtual workplace solutions. Social business intelligence is our point of view on how companies are translating customer 
+conversations on social media channels into actionable 
+business insights.
+MonitorCreate 
+awarness
+LeverageCreate content that propagates 
+through social media
+•	Facebook pages/apps to create 
+awareness
+•	Blogs discussing products & 
+benefits
+•	Forums enabling existing customers to air their issues
+•	Monitor the effectiveness of the campaign through Analytics
+•	Impact of a particular event of 
+a negative fleet of feedback, 
+areas of weakness •	Hear the feedback, snoop 
+into the discussion forums 
+and blogs
+•	Track the customer sentiment post
+•	purchase, through the 
+feedback captured at 
+customer touch points, 
+as well as on the public/
+protected forums
+PwC3FINO: Leveraging technology for financial 
+inclusion in India 
+Background:  Financial Information Network and Operations 
+Private Limited (FINO) in India is a pioneer in an agent- led 
+banking platform to reach out to the unbanked population. The 
+model has been able to deal with the challenges arising out of inadequate infrastructure and absence of documentation of 
+individuals. 
+How it works: FINO makes use of biometric technology to provide 
+smart-card based solutions to banks across India. This technology helps identify users based on their fingerprints and services that 
+category of people who are unable to visit a bank due to challenges 
+of distance, illiteracy, etc. 
+Results: FINO has presence in 20 states and is moving towards 
+establishing its presence in every district of India. Based on the latest statistics, FINO has over 5,000 centres across India in 
+166 districts.  Currently, there are 18,000 wireless, biometric 
+terminals which simplify the user identification process, providing fast, reliable transactions. This technology also enables access to 
+micro banking for the underprivileged (5,000,000 card-holders 
+registered in three years), delivering a cost-effective, secure solution.  
+Learning from the study: The key take-away from this study is 
+that technology can be leveraged extensively to service the bottom of the pyramid customers. The solution itself proves to be cost-
+effective, resulting in operational efficiencies. This technology is 
+equipped to service a range of micro credit applications and other value added services.   Investor awareness: What is being done 
+differently today
+Since AMCs realised that they need to invest in financial 
+education and awareness in order to reap long-term 
+benefits, campaigns to educate the customer have picked up 
+momentum as fund houses try to bring novelty to the way they connect with their target customers. While the aim is 
+educating the customers and making them aware of mutual 
+funds as an investment vehicle; at times opportunities also arise where these customers show an interest in purchasing 
+these products. 
+Some of the notable initiatives by fund houses are:
+• ‘Professor Simply Simple’ (PSS) to simplify financial terms 
+and explain to the customer terminologies in an easy way. 
+The USP is giving lessons and videos which connect better with people. There are plans to involve investors in games 
+to engage their interests better.  
+• Mass media campaigns which try to tackle some of the 
+foremost questions that investors have on their minds. 
+Currently, it is a print campaign with plans to launch 
+outdoor and online campaigns. 
+• Another campaign uses the tag line Janoge tabhi to 
+maanoge , and it involves using radio and micro-sites as a 
+medium to reach-out to investors. 
+• An ‘Invest correctly ’ campaign using print, digital and 
+outdoor media. This fund house also has a section on its 
+website which details investor education. 
+• The ‘ Winvestor ’ initiative which is directed towards female 
+investors, to encourage them to plan for their future and chart their financial plans. Financial planning clinics are held where women get a chance to discuss their financial 
+queries with a female advisor ‘Winvisor’.   
+AMFI’s contribution to Investor Awareness 
+AMFI is running a 360 degree campaign, ‘ Savings ka naya 
+tarika ’, which was first launched in September 2011. This 
+nation-wide campaign with a budget of 100 million INR 
+proved to be extremely successful, receiving a response of over 30,000 messages (SMS) from investors. Mutual fund 
+booklets were sent out to these people who had responded 
+to this campaign, with a call centre also being set-up to address queries of investors. 
+In addition to this, AMFI has also launched television 
+commercials to reach out to a larger audience and spread investor education to attract more retail participation.    
+3  Guide to Inclusive Business Models in IFCs portfolio case study (updated as at Aug 2012)Progress of the industry: 
+From May 2010 to May 2013, 36 AMCs have 
+conducted 31,283 programs in 485 cities covering 944,772 participants
+In the financial year 2012-13, 32 AMCs had 
+conducted 12,208 programs in 485 cities covering 248,047 participants. 
+In the current financial year in the months of April & 
+May 2013, 29 AMCs have conducted 1,856 programs in 193 cities covering 37 ,351 participants
+ Indian mutual fund industry   17Re-energising mutual fund industry and 
+continued focus on investor protection
+Regulatory  updates
+During the year, the Securities and Exchange  
+Board of India (‘SEBI’) announced a series of  
+measures to invigorate the mutual fund industry, 
+especially distribution of mutual funds. A gist of the regulatory amendments announced during the year is 
+appended below.
+• Steps to re-energise the industry
+The SEBI vide  a circular1  announced  
+the following measures:
+For mutual fund investors:
+Separate plan for direct investors
+To promote direct investment by the investors in 
+existing and new schemes, the SEBI directed mutual 
+funds / asset management companies (‘AMC’) to provide a separate plan for direct investments with a 
+lower expense ratio. Furthermore, no commission or 
+brokerage can  be paid from such plans.
+Single plan structure for mutual fund schemes
+To remove disparity in expense structure of different 
+plans, the SEBI directed mutual funds / AMCs to 
+launch schemes under a single plan, and ensure 
+that all new investors are subject to a single expense structure.
+Cash investments in mutual funds
+In order to enhance the reach of mutual fund 
+products amongst small investors who may not 
+be tax payers and who may not have Permanent Regulatory 
+trendsAccount Numbers / bank accounts, the SEBI 
+permitted cash transactions in mutual fund 
+schemes to the extent of Rs. 20,000 per investor 
+per mutual fund per financial year, subject to compliance with anti-money laundering rules and 
+regulations. 
+Investor education and awareness
+The SEBI directed mutual funds / AMCs to,  
+annually, set apart at least two basis points on  
+daily net assets within the maximum limit of total 
+expense ratio (‘TER’) for investor education and awareness initiatives.
+Harmonising applicability of Net Asset Value 
+(‘NAV’) across schemes
+The SEBI directed that in respect of purchase of  
+units of mutual fund schemes (other than liquid 
+schemes), the closing NAV of the day on which the 
+funds are actually for available for utilisation shall be applicable irrespective of the time of receipt of 
+application. This would apply in cases where the 
+mutual fund investments are made for an amount  
+of INR 2 lakhs or more.
+Disclosure requirements
+The SEBI directed additional disclosure requirements 
+pertaining to portfolio disclosures, financial result 
+disclosures, etc. on mutual funds/AMCs.
+For distributors:
+Additional TER on inflows from smaller  
+cities/towns
+To improve the geographical reach of mutual funds, 
+AMCs are now allowed to charge additional TER (up 
+to 30 bps) with respect to inflows beyond top 15 cities, 
+subject to the satisfaction of certain conditions.
+Widening of distributors base
+To increase the base of mutual fund distributors, 
+the SEBI has permitted a new cadre of distributors 
+which includes postal agents, retired government 
+and semi-government officials, retired teachers, 
+retired bank officers and other persons (such as bank correspondents) to sell units of simple and performing mutual fund schemes. 
+1 Circular No. CIR/IMD/DF/21/2012 dated September 13, 2012
+PwCFor AMCs:
+Service tax chargeable to scheme
+The SEBI allowed AMCs to charge service tax payable on 
+investment and advisory fees to the mutual fund scheme, in addition to the maximum amount of TER.
+Prudential limits on portfolio concentration risk
+The SEBI directed mutual funds/AMCs to ensure that 
+the total exposure of debt schemes of mutual funds in a 
+particular sector (excluding investments in Bank CDs, CBLO, G-Secs, T-Bills and AAA rated securities issued by 
+Public Financial Institutions and Public Sector Banks) 
+shall not exceed 30% of the net assets of the scheme. 
+In light of the important role played by the Housing 
+Finance Companies (‘HFC’) in the housing sector, the SEBI 
+vide a subsequent circular
+2  has permitted an additional 
+exposure not exceeding 10% of net assets of the debt oriented scheme for investments in HFCs.
+• Product Labeling in mutual funds
+To address the issue of mis-selling, the SEBI vide its 
+circular3 , has, with effect from July 1, 2013, directed 
+all existing schemes and all schemes to be launched on 
+or thereafter, to be labelled considering the level of risk 
+associated with them. Product labels must be disclosed in the Key Information Memorandum, Scheme Information 
+Documents and common application forms.
+• Participation in Credit Default Swaps (‘CDS’) 
+and in repo
+The SEBI, vide its circular4 , has permitted mutual funds 
+to buy credit protection to hedge the credit risk on their 
+investments in corporate bonds, subject to compliance 
+with the Reserve Bank of India (‘RBI’) guidelines on CDS for corporate bonds. However, mutual funds cannot 
+sell protection, and hence they cannot enter into short 
+positions in the CDS contracts. 
+• Deployment of client’s fund in liquid mutual 
+funds by portfolio managers
+The SEBI, vide its circular5  has clarified that  
+pending investment of funds by portfolio managers,  
+they can deploy funds, on short term basis, in liquid 
+mutual fund schemes.• Investments by Qualified Foreign  
+Investors (‘QFI’)
+The limits applicable for investments made by QFIs in mutual 
+funds have been revised upwards to:
+• The aggregate investments by QFIs in equity schemes of mutual funds shall be capped at a maximum of USD 10 billion 
+•  Investment in corporate debt securities and mutual fund debt 
+schemes is subject to a total overall ceiling of USD 1 billion 
+• Additionally, up to USD 3 billion can be invested in those debt mutual fund schemes that hold atleast 25% of their assets in the infrastructure sector (either in debt, equity, or both)
+• Key policy announcements in Union  
+Budget 2013 
+As a part of the budget speech, the Finance Minister 
+announced the following:
+• Introduction of a dedicated debt segment on the stock exchange on which debt mutual fund schemes can be traded.
+• Mutual fund distributors to be allowed as members in the 
+mutual fund segment of the stock exchange.
+• Pension funds and provident funds to be permitted to invest in exchange traded funds, debt mutual funds and asset backed 
+securities.
+Taxation updates
+• Extension of tax benefits under RGESS
+Vide the Finance Act 2013; the following amendments have been incorporated:
+• Investments in listed units of an equity oriented fund are eligible for deduction;
+• The period to claim the deduction has been extended from 
+one year to three consecutive years. 
+• The income threshold of an individual tax payer for being eligible to claim the deduction has been increased from 
+INR 1 million to INR 1.2 million.
+• Special taxation regime for securitisation trusts 
+The Securitisation Trust would be required to pay additional income-tax on the income distributed by it, as follows:
+1. Where recipients of income are not chargeable to tax (for example, as illustrated in the Memorandum explaining the provisions of the Finance Bill, 2013, mutual funds)– Nil;
+2  Circular No. CIR/IMD/DF/24/2012 dated November 19, 2012
+3  Circular No. CIR/IMD/DF/5/2013 dated March 18, 20134  Circular No. CIR/IMD/DF/23/2012 dated November 15, 2012
+5  Circular No. Cir. /IMD/DF-1/16/2012 dated July 16, 2012
+ Indian mutual fund industry   192. Individuals and HUFs – 25%;
+3. Any other person – 30%.
+• Income subjected to the income distribution tax as above, shall be 
+exempt in the hands of the recipients.Reduction in rates of Securities 
+Transaction Tax (‘STT’) for equity oriented funds
+• Reduction in rates of Securities Transaction Tax  
+(‘STT’) for equity oriented funds
+The Finance Act, 2013 has reduced the rates of STT on purchase 
+and sale of equity oriented mutual funds as under:
+Nature of transactions Before 
+1.6.2013On and after 1.6.2013
+Delivery-based purchase on 
+recognised stock exchange0.1% Nil
+Delivery-based sale on recognised stock exchange0.1% 0.001%
+Sale to the mutual fund 0.25% 0.001%
+• Increase in tax rates for income distributed by debt 
+schemes
+The tax rate on income distributed by a debt mutual fund scheme is 
+increased from 12.5% to 25%, where the income is distributed to an 
+individual or a Hindu undivided family. 
+• Infrastructure Debt Fund (‘IDF MF’) scheme6 
+Background
+In order to attract funds for infrastructure financing, the 
+infrastructure debt fund scheme was launched where a NBFC or a 
+mutual fund can set up an Infrastructure Debt Fund. The salient features of the IDF MF scheme are as follows:
+• IDF MFs can be set up by any existing mutual fund. Additionally, companies which have been engaged in infrastructure financing 
+can set-up mutual funds exclusively for the purpose of launching 
+IDF MF Schemes.
+• IDF MFs are required to invest at least 90% of their assets in debt 
+securities of infrastructure companies, infrastructure special 
+purpose vehicles (‘SPV’) (not more than 10% to be invested in listed or unlisted equity).
+• Minimum investment in IDF MF from a single investor should be at least INR 1o million with a unit size of at least INR 1 million. IDF MFs are required to have a firm commitment to the extent of 
+INR 250 million from strategic investors.
+• IDF MFs should have a minimum of five investors.
+8  Notification No. LAD-NRO/GN/2012-13/31/1778 dated January 21, 2013To provide fiscal incentive, the withholding rate 
+on interest to be received by non-residents from 
+IDF, set up as a NBFC was reduced to 5%. However, 
+distribution of income by an IDF-MF continued to a distribution tax at the rate of 12.5%/30%. 
+On account of this disparity on the rates, IDF-MF 
+structures were of a competitive disadvantage as 
+compared to IDF-NBFC structure. 
+In order to address the issue of the disparity in 
+rates, the Finance Act, 2013, has now reduced 
+the dividend distribution tax rates for income 
+distributed by an IDF MF to a non-resident from 12.5% / 30% to 5%. The amendment is expected 
+to provide impetus to IDF MFs, and could pave the 
+way for investments in infrastructure debt schemes launched by mutual funds.
+PwCOther regulatory changes
+• Private placement
+Private placement to less than 50 investors has been 
+permitted as an alternative to a new fund offer to the 
+public. In the case of private placement, the mutual funds would have to file a placement memorandum 
+with the SEBI, instead of a scheme information 
+document and a key information memorandum.
+• Widening of strategic investors
+The universe of strategic investors in the IDF MF has been expanded to include, systemically important NBFCs registered with RBI and certain categories of 
+Foreign Institutional Investors which are long term 
+investors as per the norms specified by SEBI. Debt securities below investment grade
+The overall investments by an infrastructure debt 
+scheme in debt instruments or assets of infrastructure companies/projects/SPVs, which are rated ‘below the 
+investment grade’ or are ‘unrated’, shall not exceed 
+30% of the net assets of the scheme. However, the  limit may increase up to 50% with the prior approval 
+of the AMC.
+Overseas Regulatory developments 
+Europe
+Alternative Investment Fund Managers Directive
+Alternative Investment Fund Managers Directive (‘AIFMD’) is 
+a European Directive which aims at providing a harmonised 
+regulatory and supervisory framework for managers of 
+Alternative Investment Funds (‘AIFs’) within the EU. AIFMD 
+has issued rules regarding the organisation and business of the managers, imposes certain new requirements on the 
+AIFs and allows their marketing to professional investors via 
+a passport throughout the EU. The ultimate deadline for EU Member States to transpose the AIFMD into their national law 
+is July 2013. The following European countries namely the 
+Netherlands, United Kingdom, Luxembourg, France, Germany, Cyprus, Czech Republic, Denmark, Estonia, Ireland, Latvia, 
+Malta, Slovakia and Sweden have taken steps to transpose the 
+AIFMD into their national law.Promotion of global supervisory co-operation on alternative 
+funds
+The European Securities and Markets Authority (‘ESMA’) 
+has recently agreed co-operation arrangements between EU securities regulators and 34 of their global counterparts. 
+ESMA has acted on behalf of all 27 EU Member State securities regulators as well for Croatia, Iceland, Liechtenstein and Norway. 
+These arrangements concerned the authorities in charge of the 
+supervision of AIFs (hedge funds, private equity and real estate funds) to improve co-operation in the cross-border supervision 
+of depositaries and AIF managers by facilitating the exchange of 
+information.
+The arrangements will also apply to non-EU fund managers 
+that manage or market AIFs in the EU as well the opposite: EU fund managers that manage or market AIFs in third countries. 
+The co-operation arrangements in the form of a Memorandum 
+of Understanding will be applicable as from July 22, 2013. Currently 34 Memorandums of Understanding have been 
+approved including jurisdictions such as the USA, Canada, 
+Brazil, India, Switzerland, Australia, Hong Kong, Singapore and Guernsey; negotiations are still open and further authorities 
+should follow.
+United Kingdom
+UK regulatory reform
+The UK’s regulatory structure changed from April 1, 2013. 
+The Financial Services Authority (‘FSA’) was replaced by 
+the Financial Conduct Authority (‘FCA’) and the Prudential 
+Regulation Authority (‘PRA’). The vast majority of asset 
+managers are solely regulated by the FCA. 
+Authorised contractual schemes
+Her Majesty’s Treasury (‘HMT’) and the FCA are taking steps 
+towards making the UK more competitive with popular fund 
+domiciles such as Dublin and Luxembourg with their proposals 
+to introduce authorised contractual schemes (‘ACS’) into the UK-
+authorised fund model. 
+ACS were first consulted on in January 2012 but have still not yet 
+been finalised and launched. The finalisation is expected in the next few months. ACS will be tax transparent so that the schemes 
+themselves pay no tax, only the underlying investors.  
+HMT proposes two types of ACS: a co-ownership fund and  
+a partnership fund. Investors in the co-ownership fund  
+would have an undivided share of the scheme property (i.e.  
+no investor has claim to particular assets). Co-ownership funds 
+9 SEBI (Mutual Funds) (Amendment) Regulations, 2011 vide notification dated August 30, 2011
+ Indian mutual fund industry   21would be similar in structure to authorised unit trusts, with 
+the manager and the depositary entering into a trust deed. 
+Partnership funds would have a general partner, a depositary 
+(who will be a limited partner), and investors as limited partners. 
+Marketing unregulated collective investment schemes 
+(“UCIS”) to retail investors
+The FCA recently published final rules on how UCIS can 
+be marketed [not to be confused with “Undertakings for 
+Collective Investment in Transferable Securities” (‘UCITS’)]. 
+Up until now many UK distributors have marketed UCIS to retail investors in the UK. The FCA believes this has led to 
+much consumer detriment because UCIS can be complex, 
+invest in highly illiquid assets and be too risky for many  retail investors. 
+Therefore, the FCA has chosen to ban advisers from 
+distributing UCIS to ordinary retail investors – high net  worth individuals and sophisticated retail investors are e xempt from these new rules. 
+“UCIS” are defined as being any funds not authorised in  
+the UK. This can even have an impact on funds authorised in 
+other countries (either inside or outside the EU) that are sold 
+in the UK. Retail Distribution Review
+The retail distribution review (“RDR”) was introduced in the UK 
+on the 31 December 2012. RDR makes a number of changes to the UK’s distribution model, most notably banning commission 
+for advisers from fund purchases  
+and enforcing adviser charging instead, whereby individuals pay their advisers directly. Changes are expected to the UK 
+platform market where many  
+individuals buy their investments without advice. 
+Financial Transaction Tax 
+The European Commission issued a new draft Council Directive 
+to implement an EU FTT in 11 countries. The Directive has a 
+very broad scope and will have an impact on both EU and non-
+EU financial institutions. The costs of the tax (coupled with the 
+major operational changes that will be required to comply with the regime) will result in the EU FTT being a significant cost 
+for financial institutions and their clients. The Directive could 
+have an heavy impact on investment firms, UCITS and their management companies, AIFs and their managers, pension 
+funds and their investment managers.
+
+PwCThe United States of America
+FATCA 
+On 17 January 2013, the U.S. Department of the  
+Treasury and the Internal Revenue Service (‘IRS’)  
+issued the final regulations on FATCA. The 544 page 
+document requires non-US financial institutions with  
+all the information needed in of terms information reporting, and withholding requirements for foreign 
+financial institutions, other foreign entities, and U.S. 
+withholding agents.
+Asia
+ASEAN Fund Passport
+The ASEAN Disclosure Standards Scheme for multi-
+jurisdiction offerings of equity and plain debt securities in ASEAN came into effect on 1- 2 April 2013. Malaysia, 
+Singapore and Thailand are the first three nations who 
+have entered into this Scheme which replaces an earlier scheme also known as the ASEAN and Plus Standards 
+Scheme enacted in 2009. The implementation of this 
+scheme is on an opt-in basis for ASEAN countries and only 
+applies to offers of shares and plain debt securities. The 
+following are excluded:
+• Options, warrants or any other rights or interest in 
+shares or debt securities; and
+• Debt securities other than plain debt securities.
+According to a statement from the Monetary Authority of 
+Singapore, other ASEAN members will soon be adopting the scheme as well once they are ready.
+Singapore
+Enhanced regulatory regime for Fund Management Companies
+The Monetary Authority of Singapore has issued the 
+enhanced regulatory regime for fund management 
+companies. This took effect from 7 August 2012, with 
+certain transition provisions. It reinforces the professional duty of care that fund managers have to their investors 
+and the important role that they must play in ensuring the 
+sustainability of Singapore’s fund management industry, which is in turn critical to ensuring the long-term success 
+or otherwise of their own businesses.Japan
+Japanese Individual Savings Account 
+Amongst all the measures taken by the Japanese authorities 
+to incentivise households to invest their assets through the 
+financial market, the Japanese Individual Savings Account (‘ISA’) scheme is expected to provide major opportunities 
+to the asset management industry. The scheme has been 
+inspired by the British model, and will be effective as from January 2014 for an initial ten year period. Dividends and 
+capital gains on eligible investments placed under an ISA 
+dedicated account will be exempted from tax.
+United Arab Emirates
+New regulations on investment funds
+This new regulation covers the requirements for  
+the establishment, operation and marketing of both domestic 
+
+ Indian mutual fund industry   23
+and foreign funds in the UAE. Regarding  
+the distribution of a foreign fund in the UAE, the  
+main changes are as follows:
+• The distribution to the public and private placement of a 
+foreign fund in the UAE is subject to the approval of the 
+Securities and Commodities Authority (‘SCA’).
+• A locally licensed placement agent must be appointed 
+regardless of whether the foreign fund is publicly offered 
+or promoted by way of private placement.
+• A foreign fund can be marketed for public distribution in 
+the UAE subject to certain conditions.
+Another significant change is that the responsibility 
+for licensing and marketing investment funds has been transferred from the UAE Central Bank to the SCA.Australia
+Investment Manager Regime 
+Global competition to attract mobile capital has driven tax 
+concessions to lower taxes for foreign investors. The driver 
+for the Investment Manager Regime (‘IMR’) was not so much about offering tax concessions but more to reduce tax 
+uncertainty.
+The aim of the IMR is to reduce the tax uncertainty that 
+has been a disincentive for foreign funds seeking to invest in Australia and use Australian intermediaries. Following 
+consultation with industry, on 4 April 2013, the treasury released an exposure draft for the final element of the IMR. 
+Consultation with industry will continue and subsequently 
+submissions can be made.
+PwCSome key insights
+Long-term performance 
+To attract retail investors, a stable long-term 
+performance by funds is most desirable. Asset 
+management companies with a good track record over 
+a period of time will be successful in drawing more funds from investors.
+Uncertain market environment 
+Going forward sluggish economic growth, high rate of inflation and slowdown of consumer demand is 
+predicted in 2013. This has in turn adversely affected 
+the investors’ ability to invest in financial markets. Investors are hesitant to approach capital markets and 
+wary of risk in these challenging times. 
+Attractiveness of income funds 
+In a scenario where inflation is high and the RBI is 
+lowering interest rates, investors are showing an 
+interest in the fixed income market. Riding on the 
+expectation that rates could be cut further in 2013,  the market looks promising for gilt funds, bond funds 
+and income funds. 
+Positioning mutual funds as a long term 
+product
+Mutual funds need to be positioned appropriately as a 
+long term product in the investor’s mind. Distributors 
+hence need to be incentivised adequately in order to 
+sell the product correctly to investors. Our conversations 
+with industry stakeholdersCommission structure
+The clawback of commissions has incentivised 
+some investors to shift to a trail model. National 
+distributors on the other hand are hesitant, as 
+they are always under pressure to meet short-term targets, in which case, earning an upfront 
+commission works better for them.  
+Additional total expense ratio (TER)
+The directive on total expense ratio has given a lift 
+to sales in B-15 cities. This has been a well-thought 
+out move from the regulator’s side, and has helped 
+to align the interests of various stakeholders in the industry to some extent.
+Overseas mutual fund players  
+evaluate acquisition opportunities  in Indian AMCs
+With multiple positive regulatory changes  
+taking place in the Indian market, overseas  
+players are likely to gauge the opportunity of 
+increasing penetration.  
+Infrastructure debt funds 
+There is huge opportunity in the category of infrastructure debt funds, given the heavy 
+investments in infrastructure planned for India.  
+This can prove to be a lucrative area for fund houses and launching new funds in this space could reap 
+huge returns. 
+Online technology 
+Many fund houses face operational issues trying to 
+incorporate technology into their processes. Also, 
+continuous updating and migration pose a problem. 
+Consolidation in the industry  
+Increasing competition and cost burden on 
+the market players are leading to a phase of 
+consolidation in the industry. For smaller fund 
+houses, sustainability and profitability is a key concern, stemming from high distribution and operational costs.  
+ Indian mutual fund industry   25
+Disciplined investing is the key – an efficient asset allocation will cushion 
+against a downside in the market environment. 
+PwCDistribution path 
+Increase the distribution strength
+Compared to the insurance sales force, the 
+strength of the mutual fund network appears to 
+be dismal. Quoting an industry CEO, “there are 
+over 0.3 million insurance agents in India, while only 16,000 distributors for mutual funds.” This 
+data implies that investors are likely to meet 
+insurance agents much more frequently than mutual fund distributors and hence likely to park 
+their surplus funds in insurance policies rather 
+than mutual fund products.
+Alternative distribution model
+The mutual fund industry needs to explore an alternative mode of distribution, for expansion 
+and growth.  The option of a tied distribution 
+model could be explored, where the agent is tied to a particular institution. Although this model 
+has worked in some countries it leans towards a 
+closed architecture model, restricting the choice 
+of the investor. The viability of its success in India 
+needs to be measured. Fund houses can also look at the possibility of investing in an active sales 
+force. The online channel of distribution also 
+exists, although its full potential has not been exploited as yet.
+Need to upgrade distribution 
+networks
+In the current scenario, the industry needs 
+willingness from asset management companies 
+to invest more in the distributor community. The 
+smaller asset management companies due to lack of funds, find it more challenging to invest in the 
+distribution channel. Training and educating the 
+distributors are integral to increasing penetration Looking ahead: Our 
+recommendationsof mutual fund products. 
+New cadre of distributors to take 
+the industry forward
+The new cadre of distributors such as postal 
+agents, retired officials and school teachers, 
+etc will likely rake in inflows from smaller 
+towns and cities. This cadre of distributors will be crucial in mobilising the savings of 
+the smaller towns and directing these savings towards mutual fund investments.  
+Product design
+Mutual fund products need to be simplified 
+if they have be sold to the masses through 
+a public sector bank channel. The product 
+needs to mimic a fixed deposit, and provide a predictable income. Also, these products need 
+to be solution oriented. In the past, some fund 
+houses launched similar schemes with minor differences.  The SEBI has directed a move 
+towards a consolidation of schemes to make 
+the process simpler for investors. If the right product or solution is not available to be sold 
+to customers, it will be difficult to create a  
+‘pull’ factor.  
+Technology mix 
+To overcome operational challenges, measures need to be taken to improve  
+the existing infrastructure and to bring in 
+more efficiency while increasing the scale of operations. This is not possible without 
+the back-up of a good technology mix. It is 
+also a key facilitator to break down under-penetrated markets.
+The Indian mutual fund 
+industry faces a lot of 
+limitations with respect to 
+product design and 
+construction as compared to 
+other markets.  
+ Indian mutual fund industry   27Continuation of investor awareness 
+initiatives 
+National awareness campaigns for mutual funds continue 
+to remain a focus area for fund houses and distributors. Distributors and IFAs are taking it upon themselves to 
+educate the investor and make them aware of the benefits of 
+investing in mutual funds. The AMCs are trying to think of innovative ways of reaching the investors in smaller towns 
+and cities and mobilise their savings. Investors should be aware of the sectors in which they are 
+investing and should have a clear outlook on the performance 
+of their investments, with all the risks explained. Servicing the 
+customers and guiding them to achieve their financial goals over 
+a period of time will lead the industry towards sustainability and 
+asset retention. 
+The plan should be to ‘manage 
+assets’ and not just ‘gather assets’.
+PwCGrowth of systematic investment plans 
+Fund managers need to enhance the growth of their  
+systematic investment plan books. These plans have the 
+capacity to deal with volatility over a long-time horizon  
+ and generate steady returns. 
+Focus on service initiatives 
+Fund houses can create a differentiator for themselves by offering a premium service proposition. The initiative to 
+increase distribution needs to be matched with service quality 
+to investors and distributors alike or else increased penetration will not attain its full value. 
+ Tax as an Enabler
+The past period has witnessed adverse impacts arising out of uncertainty created on the tax front. While some of these 
+have been rationalised by the authorities, such as the deferral 
+of GAAR and the amendment on taxability of securitisation trusts, there are other areas which have created anxiety in the industry. The role of tax can be enhanced to be a growth enabler on various fronts - some examples include enabling 
+the management of offshore funds from India, tax breaks on 
+pension products and simplification of processes around the QFI regime. 
+Multiple share class structure 
+Some industry CEOs believe that a multiple share class structure can possibly be a viable model for the domestic 
+mutual fund industry. In this kind of a structure, each share 
+class can have its own expense ratio. 
+Pension products 
+Lastly, as we have recommended in our previous reports as well, we believe that allowing the fund houses to sell pension 
+products will act as a huge catalyst for growth of the industry. 
+This move will energise AMCs, distributors and investors alike, while contributing to the deepening of capital markets 
+in India.   
+
+ Indian mutual fund industry   29The outlook of the mutual fund industry is governed to a great extent by the economic situation in the country, which is 
+predicted to kindle volatility due to the upcoming elections in 2014. The current economic scenario with sticky inflation 
+and rising fuel prices is likely to adversely impact perceptions, resulting in depressed equity inflows into the market. 
+Steps need to be taken to instil confidence in the minds of the investor and to encourage him to invest in mutual funds, even in times of uncertainty. 
+We believe that the mutual fund industry manifests huge opportunity for growth and further penetration, and this can 
+be achieved over time, with support from technology. The key lies in strengthening distribution networks and enhancing 
+levels of investor education to increase presence in rural areas. In terms of opportunity, the infrastructure debt market 
+has become very attractive, luring investors to invest in this space. Also, it is critical for the industry at this point to assess and capitalise the value that pension products bring to the growth of the mutual fund industry.   
+Lastly, it may perhaps be useful if the mutual fund industry emulated some best practices from other industries and 
+sectors to transition to the next level of growth.  Conclusion
+
+PwCAbout CII
+The Confederation of Indian Industry (CII) works to create and sustain an environment conducive to the development of India, 
+partnering industry, Government, and civil society, through advisory and consultative processes.
+CII is a non-government, not-for-profit, industry-led and industry-managed organization, playing a proactive role in India’s 
+development process. Founded over 118 years ago, India’s premier business association has over 7100 members, from the private as 
+well as public sectors, including SMEs and MNCs, and an indirect membership of over 90,000 enterprises from around 257 national 
+and regional sectoral industry bodies.
+CII charts change by working closely with Government on policy issues, interfacing with thought leaders, and enhancing efficiency, 
+competitiveness and business opportunities for industry through a range of specialized services and strategic global linkages. It also 
+provides a platform for consensus-building and networking on key issues.
+Extending its agenda beyond business, CII assists industry to identify and execute corporate citizenship programmes. Partnerships 
+with civil society organizations carry forward corporate initiatives for integrated and inclusive development across diverse domains including affirmative action, healthcare, education, livelihood, diversity management, skill development, empowerment of women, 
+and water, to name a few.
+The CII Theme for 2013-14 is Accelerating Economic Growth through Innovation, Transformation, Inclusion and Governance. 
+Towards this, CII advocacy will accord top priority to stepping up the growth trajectory of the nation, while retaining a strong focus 
+on accountability, transparency and measurement in the corporate and social eco-system, building a knowledge economy, and broad-basing development to help deliver the fruits of progress to all. 
+With 63 offices, including 10 Centres of Excellence, in India, and 7 overseas offices in Australia, China, France, Singapore, South 
+Africa, UK, and USA, as well as institutional partnerships with 224 counterpart organizations in 90 countries, CII serves as a reference point for Indian industry and the international business community.
+Confederation of Indian Industry (CII)
+Western Region 
+105, Kakad Chambers 132 Dr Annie Besant Road Worli, Mumbai 400 018 Maharashtra, India Phone : +91 22 2493 1790 Fax : +91 22 2493 9463 / 2494 5831 Email : ciiwr@cii.in  
+Website : www.cii.in
+We would like to take this opportunity to thank all the team members for their contribution to the creation and 
+finalisation of this report.Acknowledgements 
+Arun Swaminathan 
+Avinash Kalia 
+Armin Choksey
+Gautam Mehra 
+Harsha Nallur Jay ShahJesal S LakdawalaManoj Kashyap 
+Nehal D Sampat 
+Pallavi Dhingra
+Rajesh Nathwani 
+Trisha Chatterji Vivek Prasad Vivek Belgavi About PwC
+PwC* helps organisations and individuals create the value they’re looking for.  We’re a network of firms in 158 countries with more 
+than 180,000 people who are committed to delivering quality in assurance, tax and advisory services. PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, Bangalore, Chennai, Delhi NCR, Hyderabad, 
+Kolkata, Mumbai and Pune.  For more information about PwC India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member firm is a separate legal entity. Please see www.
+pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+Contacts
+Manoj K Kashyap
+Leader  – Financial Services
+Tel:  +91 22 66691401
+Email : manoj.k.kashyap@in.pwc.comGautam MehraLeader – Asset Management
+Tel: +91 22 66891155
+Email : gautam.mehra@in.pwc.comAvinash Kalia
+Associate Director
+Tel:  +91 22 66691351
+Email: avinash.kalia@in.pwc.com
+pwc.in
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers 
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication 
+represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice 
+before taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company 
+in India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+PD 22 - June 2013 Indian mutual fund industry.indd
+Designed by: PwC Brand and Communications, India

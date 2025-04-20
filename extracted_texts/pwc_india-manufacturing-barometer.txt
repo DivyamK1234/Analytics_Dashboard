@@ -1,0 +1,813 @@
+Title: pwc_india-manufacturing-barometer
+Date Published: 2013-07-24 14:33:39+05:30
+Source: pdfs/pwc_india-manufacturing-barometer.pdf
+
+--- CONTENT ---
+
+India 
+Manufacturing 
+Barometer
+Taking the pulse
+www.pwc.in
+India Manufacturing Barometer, July 2013  
+Economic climate  p4/Sector dashboard  p6/Speed breakers  p8/Emerging trends  p10/  
+Key comparisons: India and the US p12/ Special focus – customer expectations  p14/ 
+In summary  p15/Key indicators for the business outlook  p16/Survey demographics  
+and research methodology  p17
+While being cautiously 
+optimistic, the sector is using 
+this period of comparatively 
+sluggish activity to realign the 
+business models and prepare 
+for the future
+
+PwC2Foreword 
+The Indian manufacturing sector is facing challenging times. It has become 
+imperative for India to breathe life and growth into its manufacturing sector. The 
+vision to have the sector contribute to 25% of GDP is critical to achieve as it is 
+needed to increase our GDP growth and provide jobs- both integral to the inclusive 
+growth we would like to see.
+The government has to make every effort to improve the investment environment 
+enabling manufacturing and infrastructure projects to be implemented in the 
+shortest possible time. We need the competitiveness of our industry to be at the 
+core of policy so that we can supply the domestic market and export to the world.
+The survey conducted by FICCI and PwC, ‘Manufacturing Barometer’ has brought 
+out key challenges facing the sector in the current macro-economic scenario and 
+also the expectations of manufacturers for the next ten to twelve months. 
+I hope this report will help in addressing and prioritising the issues concerning 
+manufacturing in the short term as well as long term. I compliment PwC India 
+and the team at FICCI for collaborating for the Indian version of Manufacturing 
+Barometer Report.
+Naina Lal Kidwai  
+President, FICCI
+India Manufacturing Barometer3Preface
+It gives me immense pleasure to initiate our manufacturing sector journey with 
+FICCI with our first edition of the India Manufacturing Barometer, a report to 
+survey the confidence and growth outlook of CXOs across the manufacturing 
+sector.
+The country’s status as a developing economy, accompanied by an increasing 
+need to generate employment opportunities for its youth, has highlighted its 
+potential as a manufacturing hub. Government recognition of the criticality of the 
+manufacturing sector has led to the announcement of the National Manufacturing 
+Policy (NMP), setting out a bold vision for the sector achieving a growth rate of 12 
+to 14% over the medium term. 
+In FY13, India’s manufacturing sector grew slower than the rest of the economy, 
+with GDP growth itself having slowed. With this background, we have attempted 
+to profile and analyse the views of organisations in the sector, on economic and 
+market conditions, industry opportunities and challenges, business performance 
+and prospects.
+The India Manufacturing Barometer finds that CXOs are largely concerned with 
+increasing cost pressures especially interest rates, declining domestic demand, 
+foreign exchange volatility and political uncertainty. However, contrasted with 
+the many prophets of gloom, majority of the CXOs are cautiously optimistic about 
+future growth prospects both for their segment as well as for their company. 
+Majority of the companies surveyed had strategies in place to negotiate the various 
+threats to growth. These strategies are not merely focused on cost reductions 
+and efficiencies and reigning in capex but are aimed at building competitive 
+advantage beyond costs. The most common themes were new product or 
+service introductions, research and development, facilities expansion and, most 
+importantly, understanding the changing customer preferences and demands and 
+fostering longer term profitable relationships with customers.
+My sincere thanks to the participating CXOs across various segments of the 
+manufacturing sector for their valuable time and for sharing their thoughts and 
+strategies with us. 
+I hope you find this survey report insightful and useful and welcome any 
+suggestions you may have.
+Bimal Tanna  
+Leader, Industrial Products  
+PwC India
+PwC4Economic 
+climateThe performance of manufacturing, 
+in most developed and emerging 
+nations, is a bellwether of the health 
+of their respective economies. Due to 
+interwoven linkages between the sector 
+and the rest of the economy, we started 
+this survey by gauging the environment 
+that the domestic and global economies 
+are providing to Indian manufacturing. 
+Global economy yet to bounce 
+back 
+Concerns regarding the stability of 
+some of the Eurozone economies, 
+sluggish growth in the US and the 
+slowdown in key emerging economies 
+have affected the Indian manufacturing 
+sector’s view of the global economy.
+Given this background, a majority of 
+companies participating in our survey 
+saw the world economy as being in a 
+decline. Looking forward over the next 
+12 months, the outlook does not seem 
+to improve much, with more companies 
+describing it as uncertain or mildly 
+pessimistic. GDP growth rate: The global economy could see a mild recovery
+Mostly uncertain or pessimistic about world economic growth
+Today
+Significant growth  0%
+Moderate growth 14%
+No noticeable change  24%
+Moderate decline  50%
+Significant decline  12%Next 12 months
+Very optimistic  0%
+Somewhat optimistic 26%
+Uncertain 35%
+Somewhat pessimistic  35%
+Very pessimistic  4%
+Source: India Manufacturing Barometer Survey, July 2013Source: World Economic Outlook, the IMF, PwC analysis
+*Calendar year forecastWorld
+2013*
+2014*
+Emerging and  
+developing  
+economies
+2013*
+2014*Advanced  
+economies
+2013*
+2014*
+China
+2013*
+2014*3.1% 1.2%
+7.7%3.8%2.1%
+7.8%5%
+5.4%
+India
+2013*
+2014*5.6%
+6.3%
+India Manufacturing Barometer5India expected to turn the corner
+The release of the annual GDP figures 
+for 2012-13 threw few surprises, with 
+GDP growth at its lowest in a decade at 
+5% y-o-y1. With this growth following 
+figures of around 9% in FY10 and 
+FY112, it is probably not surprising that 
+views on the economy tended towards 
+‘no growth’ or ‘moderate decline’.
+The outlook for the economy is, 
+however, relatively brighter for the next 
+12 months. In FY14, 70% of companies 
+surveyed expect the economy to exceed 
+the 5% growth rate of last year, with 
+a median growth estimate, among 
+companies interviewed at 5.5% for 
+FY14. 
+This estimate matches reasonably well 
+with the Asian Development Bank 3  
+and IMF estimates for GDP growth 
+in CY13, which range between 5.6 
+and 6.0%, though it is lower than 
+the government’s own estimates of 
+6.4% in FY14. On the whole, however, 
+uncertainty seems to be the theme for 
+the majority of companies, with some 
+believing that impending elections may 
+delay government decisions and limit 
+growth in the current fiscal year.
+1 The Central Statistics Office (CSO), Ministry of 
+Statistics and Programme Implementation
+2 The Planning Commission of India
+3 Asian Development Outlook 2013, Asian 
+Development BankMore optimistic about the future GDP growth rate of India
+Today
+Significant growth  2%
+Moderate growth 22%
+No noticeable change  38%
+Moderate decline  30%
+Significant decline  8%Growth expectation in FY14
+Above 5% 70%
+Less than 5% 30%
+Source: India Manufacturing Barometer Survey, July 2013
+Source: Economic Advisory Council to the Prime Minister, Asian Development Bank (ADB) and the IMF.GDP growth rate: Indian economy might have bottomed out
+PwC6Sector  
+dashboardThe manufacturing sector has been 
+moving at a slower pace than the 
+overall economy for some time now. 
+As a result, the sector’s contribution to 
+GDP has declined marginally from 16.1 
+to 15.2% in the five years till March 
+2013. Growth rate in manufacturing 
+reduced from 9.7% in 2010-11 to 2.7% 
+in 2011-12 and 1% in 2012-13. In FY13, 
+only 3.3% of the country’s growth was 
+generated by manufacturing as opposed 
+to 83% contributed by services.4 The 
+sector is not at its strongest at the 
+moment, but are the manufacturing 
+companies in lockstep with rest of the 
+economy?
+Companies are positive
+Estimates for industry revenue growth 
+do not appear to be very optimistic, 
+with the mean estimate being 4%, and 
+nearly one in five companies expecting 
+their segment to show negative growth 
+over the next 12 months.
+On the other hand, companies expect 
+their own revenues to grow at a faster 
+pace in FY14, with a mean estimate of 
+over 15%. In fact, one in five companies 
+expected revenue growth to exceed 
+20% in FY14.Manufacturing’s share in the economy has been declining
+Source: The Planning Commission of India, PwC analysisIndia’s manufaturing GDP  
+(Trillion INR)
+Manufacturing’s share in GDP
+5.716% 16.1%15.8%16.2% 16.2%
+15.7%
+15.2%
+6.3 6.67.38.08.2 8.3
+2006-07 2007-08 2008-09 2009-10 2010-11 2011-12 2012-13
+What is the estimate of your sector’s likely revenue growth rate in FY14?
+Source: India Manufacturing Barometer Survey, July 20132%7%29%
+>20% 15-20% 10-15% 7-10% 4-7% 0-4% <0%18%
+4%29%
+11%87%  
+expect their sector growth  
+to be less or equal to 10%
+6%What is the estimated revenue growth rate for your business in FY14?
+Source: India Manufacturing Barometer Survey, July 20138%10%
+2%21%
+14%
+>30% 25-30% 20-25% 15-20% 10-15% 5-10% 0-5%  <0%8%31% 55%  
+believe that revenue growth  
+will be at least 10%
+4 The Central Statistics Office, Ministry of Statistics 
+and Programme Implementation
+India Manufacturing Barometer7Margin pressures have not dented 
+their optimism 
+The global economy has been volatile, 
+adversely impacting business and 
+consumer sentiments. Slow market 
+demand generally results in inventory 
+accumulation and sales slowdown, 
+reflecting the trend depicted by 
+manufacturing companies. Finished 
+inventories as a percentage of 
+sales have gone up for 43% of the 
+respondents in the past six months. 
+Faced with uncertainty regarding 
+demand in the market, it is also likely 
+that the bargaining capacity of the 
+manufacturers has reduced. For half of 
+the companies surveyed, gross margins 
+declined over the past six months. 
+Typically, this was due to a combination 
+of constrained pricing power and cost 
+pressures. For 58% of the companies, 
+costs increased over the past six 
+months, yet only 20% were able to 
+increase prices.
+Significantly, most organisations 
+believe the market has ‘bottomed out’, 
+and the next few months will be better. 
+Over half of the respondents believe 
+that margins will improve over the next 
+six months, while another 38% expect 
+them to remain steady. Margins
+Increase
+Stayed the same
+Decrease50% 30% 
+20% Cost change
+Increase
+Stayed the same
+Decrease 25% 58% 
+17%  
+Price change
+Up
+Stayed the same
+Down39% 20% 
+41% 
+Source: India Manufacturing Barometer Survey, July 2013What happened to costs, prices and margins in the past six months?Finished inventories as a percentage of sales in the past six months
+Source: India Manufacturing Barometer Survey, July 201343%
+Up22%
+Down35%
+About the same
+Source: India Manufacturing Barometer Survey, July 2013Expectations of margins over the next 12 months are optimistic
+54%
+Increase8%
+Decrease38%
+Remain the same
+PwC8Speed  
+breakersMajor barriers to growth over the next 
+12 months are expected to mirror those 
+that have constrained business activity 
+over the last few quarters.
+Higher interest rates
+Not surprisingly, 56% of respondents 
+felt that higher interest rates would be 
+the key factor limiting growth over the 
+next 12 months. High interest rates 
+not only impact consumer borrowing, 
+but also increase the cost of capital 
+for corporations, thus impacting new 
+investments. This has a cascading effect 
+on demand and economic growth. The 
+RBI started easing the rates from the 
+second half of last year. However, rates 
+are still trending above the 10-year 
+averages, and with pressure on the 
+exchange rate may not see a downward 
+momemt in near term.5
+Lack of domestic demand
+Lack of demand in the domestic 
+economy is identified as a key concern 
+by 52% of the respondents. With 
+private final consumption having 
+grown at 4% and gross fixed capital 
+formation grown at 1.7%, demand for 
+industrial products has been sluggish. 
+Companies surveyed anticipate that this 
+will continue to be a limiting factor for 
+growth in FY14 as well.Barriers to business growth over the next 12 months
+Source: India Manufacturing Barometer Survey, July 2013
+Source: The Reserve Bank of IndiaInterest rates are trending above the 10-year averages
+5  The Reserve Bank of India56%
+52%
+36%
+36%
+32%
+32%
+32%
+30%
+26%
+26%
+20%
+10%
+6%Higher interest rates
+Lack of domestic demand
+Oil / energy prices
+Pressure for increased wages
+Legislative or regulatory pressures
+Decreasing profitability
+Unavailability / high price of raw materials
+Competition from foreign markets
+Foreign exchange volatility
+Taxation policies
+Capital constraints
+Lack of professional workers or managers
+Lack of production or service workers
+India Manufacturing Barometer9Other concerns
+Pressure on wages was a concern for 
+more than one in three companies. 
+This may not surprising as companies 
+believe that in an environment of 
+high inflation, wage increases are 
+imperative. In addition, taxation 
+policies and legislative or regulatory 
+pressures are perceived as a barrier 
+to growth by several companies. 
+Restrictive labour laws and a complex 
+tax and duty regime have been 
+exacerbated by delays in approval 
+and implementation of government 
+and infrastructure projects. Delays in 
+government spending and procurement 
+have a cascading impact on industrial 
+demand. The World Bank Group in a 
+recent study drew attention to this6. 
+Thirty-two per cent of companies are 
+concerned about unavailability of raw 
+materials and 36% are about high 
+energy prices. In the last financial 
+year, fuel and power inflation have 
+seen a gradual moderation, but are yet 
+trending at an elevated level, range-
+bound between 8 to 12%7.Tedious regulations, legislations and taxation
+Source: The World Bank Group132  
+India’s place on 
+ease of doing 
+business  rankings 
+among a total of 
+185 countries, 
+where rank 1 is  
+the easiest  
+With a rank of 
+182  
+India remains 
+one of the most 
+difficult places to 
+get a construction 
+permit
+With a rank of 
+184  
+India is also the 
+most difficult  
+place to enforce  
+a contract
+6 Doing Business 2013, Smarter Regulations for 
+Small and Medium-Size Enterprises, The World 
+Bank Group (The World Bank and the International 
+Finance Corporation)
+7 Office of Economic Advisor, Ministry of Commerce 
+and Industry, Government of India
+PwC10Emerging 
+trendsThe importance of manufacturing in 
+the overall well being of the economy is 
+more than evident and the government 
+has paved a mission for the sector. 
+Notwithstanding the plans of the 
+government, companies are already 
+taking measures to try and drive growth 
+in their individual businesses.
+Restraining expenditure, not value
+Customer growth targets for companies 
+are also strongly guided by tightly defined 
+investment parameters. Manufacturing 
+companies are careful about adding 
+capacity but are not in a mood to cut 
+manpower.
+Expenditure: Tread carefully
+Faced with rising costs and weak demand, 
+investments could have taken a back seat. 
+Half the companies surveyed are not 
+planning major new investments and 10% 
+are uncertain about it. 
+No job cuts yet
+However, in India, while companies have 
+stalled their plans of capacity additions 
+and investments, they have also been 
+careful not to cut value in the process.  
+For instance, 44% of the respondents 
+were planning to retain their existing 
+staffing levels, while a further 35% 
+expected to increase headcount over the 
+next 12 months. 
+Looking forward to expand 
+Companies are ready to explore their 
+options beyond national borders and 
+capture an increasing share of the  
+global pie.
+Markets without borders 
+The trend is evident in the responses. 
+Only 4% of the total interviewed 
+companies want a reduction of activity 
+in selected markets abroad in the next 12 
+months. For the balance, resolution to 
+increase their global footprint seems more 
+aggressive for the future, compared to the 
+last six months. Over the next 12 months, 
+a third of companies surveyed expect 
+international sales to comprise over 
+20% of their revenues, with the median 
+expectation being 14%.Manufacturers are cautious about new investments but cost control has not stopped  
+job creation
+50%   
+are refraining from planning any major 
+new investments
+79% in India   
+plan to add or at the most keep their 
+full-time equivalent employees same
+Manufacturers remain optimistic about expansion in the next 12 months
+34%   
+Expect more than 20% of revenues from international sales
+57%   
+Expand to new markets abroad
+43%   
+Start at least one new strategic alliance
+2 in 5  
+Plan to set up a new manufacturing, production or distribution facility abroad
+Source: India Manufacturing Barometer Survey, July 2013Source: India Manufacturing Barometer Survey, July 2013
+India Manufacturing Barometer11Target business activities
+While 57% are expecting to expand 
+to new markets abroad, 43% believe 
+that they will start at least one new 
+strategic alliance or joint venture in the 
+next 12 months. Nearly, two among 
+five companies also plan to set up a 
+new manufacturing, production or 
+distribution facility abroad. 
+Building competitive advantage 
+beyond cost
+Competitive advantages need to be 
+sustainable for Indian manufacturing to 
+maintain its attractiveness, since they 
+face competition not only from other 
+domestic players, but also players in 
+other countries. 
+Strategically allocating limited 
+resources
+Manufacturers may have started 
+working towards these goals already. 
+We say this since despite the objective 
+of cost-effectiveness and capped 
+expenditures, they are strategically 
+planning to allocate their limited 
+expenses in the next 12 months. They 
+have chosen to spend on new product 
+or service introductions, research and 
+development and facilities expansion. 
+R&D aimed at improving product 
+portfolio and mix to increase margins. 
+The focus area of their investment 
+shows that they are resolute about 
+climbing up the value ladder to sustain 
+their advantage and not solely rely on 
+providing low costs. 
+Sector-specific investments
+A closer look at the data reveals that 
+sectors such as auto ancillary were 
+actively pursuing all three areas of 
+expenditure. Metal companies were 
+mostly looking forward to expanding 
+facilities and introducing new products 
+and services. A majority in the building 
+and construction materials sector want 
+to spend only on facilities expansion, 
+capitals goods segment on new products 
+and services and chemicals and 
+engineering companies on R&D. Size specific optimism 
+When we segregated the companies 
+surveyed on the revenues of their 
+respective divisions or SBUs, we found 
+that the intensity with which they 
+expanded across the border, in the past 
+six months, varied with size. The 
+participating companies with revenues 
+of 5 billion INR or above in FY12 were 
+more inclined to expand than those with 
+revenues below that level. 
+However, the limited, but carefully selected investments are aimed at climbing the value ladder
+Source: India Manufacturing Barometer Survey, July 2013Top three investment priorities in the  
+next 12 months
+New product or service introductions
+Research and development
+Facilities expansion57% 
+55% 
+47% 
+Sector-wise investment priorities
+Source: India Manufacturing Barometer Survey, July 2013R&D
+Chemicals
+Engineering
+Facilities  
+expansion
+Building &  
+construction  
+materialsNew services  
+and products
+Capital goodsMetalsAuto  
+ancillary
+Mean expected  
+industry growth
+Mean expected  
+own revenue growth 
+Planning to hire
+Planning major  
+investments4.0%
+15.7%
+35%
+40%3.5%
+4.6%
+42%
+40%Key comparisons:  
+India and the US
+PwC 12
+Key future business activities
+Expansion to new 
+markets abroadAcquisition  
+of a businessNew manufacturing, 
+production or 
+distribution facilities 
+abroadSpin-off or sale of 
+certain operations
+57%
+18%33%
+18%37%
+12%6%
+10%
+Expected barriers to growth (US)
+53% 47%      32%Legislative or 
+regulatory pressuresLack of domestic demand Taxation policiesUSAExpected barriers to growth (India)
+56% 52%     36%Higher interest rates Lack of domestic demand Pressure for increased wagesIndia
+Source:  India Manufacturing Barometer Survey, July 2013 and  PwC US Manufacturing Barometer: Business outlook report, July 2013
+India Manufacturing Barometer 13
+PwC14Special focus: 
+Customer  
+expectations
+In a difficult economic climate, as sales 
+become sluggish, companies begin to 
+focus, apart from their own operations, 
+on driving additional value from their 
+suppliers. With most manufacturers, 
+being themselves suppliers to other 
+businesses, we obtained a range of 
+viewpoints from them, on whether 
+and how customer expectations were 
+changing and how they were reacting  
+to them.
+Understanding customer needs
+Companies are not only aware, but 
+are also preparing to tackle changing 
+demands and preferences of customers 
+by fostering long-term relationships. 
+While customers are becoming more 
+demanding, particularly with respect to 
+price and payment terms, manufacturers 
+appear to be evolving their business 
+models in order to maintain their 
+operating margins.
+Cost efficiency 
+Indian manufacturers are seeing a 
+change in customer dynamics in the 
+present market. Of the companies 
+surveyed, 73% believe that customer 
+requirements and expectations have 
+changed due to the global economic 
+environment as well as the domestic 
+slowdown in growth. We found 
+that Indian customers have strong 
+preferences for higher discounts,  
+among other things.Providing customers value along with low cost Our interviews also revealed that some 
+players wanted to respond to these 
+shifts to build and maintain long-term 
+relationships with customers, both 
+new and existing. So, how are they 
+doing it? Cost efficiency appears to 
+be the primary strategy to respond 
+to changing customer needs. 76% of 
+surveyed companies stated that they 
+are resorting to cost efficiencies to meet 
+customer requirements. There is ample 
+room to reduce average costs in Indian 
+manufacturing, but such cost savings 
+can come from the elimination of cost 
+inefficiencies.9 Cost efficiency can ensure 
+cost competitiveness, which enables 
+companies to gain a larger share of the 
+market. Not just products, but also solutions
+As customers crave for value additions 
+and efficient delivery systems, 
+companies are striving to keep them 
+interested with service additions. 
+Around 42% are adding services to 
+their products in order to respond 
+to frequently shifting and disparate 
+customer preferences. This finding is 
+witness to the trend that manufacturing 
+companies are progressing much 
+beyond factory operations, driven by 
+competition. Some companies now want 
+to link their manufacturing operations 
+with nonmanufacturing functions such 
+as customer service, logistics, business 
+solutions, procurement and planning. 
+The trend could help manufacturing 
+companies integrate seamlessly with 
+multiple business partners. 
+Source: India Manufacturing Barometer Survey, July 2013 9 Are Indian firms too small? A nonparametric 
+analysis of cost efficiency and industry 
+structure of Indian manufacturing, University of 
+Connecticut, March 2008EfficientCost  
+efficencies and 
+higher discountsCost efficiencies are 
+important with 76% 
+resorting to these 
+to meet changing 
+customer demands 
+42% are adding 
+services to products 
+to engage with the 
+customer
+India Manufacturing Barometer15In summary
+In an environment of sluggish economic 
+growth, and deceleration of the 
+manufacturing sector, it is not surprising 
+that the mood exhibited by companies 
+appears cautious. Companies appear to 
+have battened down their hatches and 
+are preparing for a period of uncertainty. 
+New investments seem to have been 
+put on hold, with half of the companies 
+surveyed indicating that they had no 
+plans for major investments in FY14.
+Encouragingly, however, it appears 
+that the sector is using this period 
+of comparatively sluggish activity to 
+realign the business models and prepare 
+for the future. Much of the focus of 
+new investments is on new product 
+introduction and on R&D initiatives 
+aimed at improving product portfolio 
+and mix to increase margins. In the light 
+of a challenging economic environment, 
+companies are also re-evaluating 
+customer propositions and relationships. 
+while adding value to the core product 
+and focusing on longer-term and 
+profitable relationships with customers.Despite uncertainty related to economic 
+conditions, and continued constraints 
+to growth, companies seem to believe 
+that the market may have ‘bottomed 
+out’, with GDP growth in FY14 expected 
+to be higher than in the previous year. 
+Further, the company surveyed appear 
+confident about its own prospects for 
+growth, with more than 50% largely 
+expecting their own revenues to grow at 
+higher than 10% over the next year and 
+profit margins to improve.  
+
+PwC16Key indicators for the 
+business outlook
+Business outlook among manufacturers for the next 12 months
+Mean expected industry growth 4%
+Mean expected own revenue growth 15.7%
+Margins expected to increase 54%
+Planning to hire 35%
+Planning major investments 40%
+Expenditures planned in:
+New product or service introductions 57%
+Research and development 55%
+Facilities expansion 47%
+Expected barriers to growth:
+Higher interest rates 56%
+Lack of domestic demand 52%
+Pressure for increased wages 36%
+Oil and energy prices 36%
+Legislative or regulatory pressures 32%
+Key future business activities: 
+Expansion to new markets abroad 57%
+Start at least one new strategic alliance or JV 43%
+Acquisition of a business 33%
+Source: India Manufacturing Barometer Survey, July 2013
+India Manufacturing Barometer17Survey demographics and 
+research methodology 
+Demographics
+Interview period 15 April to 15 June 2013
+Average number of employees 3,644
+Average business unit revenue 20.5 billion INR 
+Industry sectors • Auto ancillary 
+• Building and construction materials 
+• Capital goods
+• Chemicals
+• Engineering
+• Met als
+Methodology
+The India Manufacturing Barometer is based on a survey conducted by PwC and Avalon Global Research. Our 
+survey covered senior executives from a sample of manufacturing companies in India; interviewees typically 
+held designations such as CEO, CFO, COO or Head of Strategy.
+About FICCI
+FICCI Contacts
+Mr Chetan Bijesure
+Director & Head Manufacturing
+chetan.bijesure@ficci.com
+ 
+Mr Samir Mathur
+Senior Assistant Director
+samir.mathur@ficci.com
+ 
+Ms Nisha Goel
+Senior Assistant Director
+nisha.goel@ficci.com
+ 
+Ms Shailja Garg
+Assistant Director
+shailja.garg@ficci.comEstablished in 1927, FICCI is the largest and oldest apex business organisation in India. Its 
+history is closely interwoven with India’s struggle for independence, its industrialization, 
+and its emergence as one of the most rapidly growing global economies. FICCI has 
+contributed to this historical process by encouraging debate, articulating the private 
+sector’s views and influencing policy.
+A non-government, not-for-profit organisation, FICCI is the voice of India’s business and 
+industry.
+FICCI draws its membership from the corporate sector, both private and public, including 
+SMEs and MNCs; FICCI enjoys an indirect membership of over 2,50,000 companies from 
+various regional chambers of commerce.
+About PwC
+PwC* helps organisations and individuals create the value they’re looking for. We’re a 
+network of firms in 158 countries with more than 180,000 people who are committed to 
+delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, 
+Bangalore, Chennai, Delhi NCR, Hyderabad, Kolkata, Mumbai and Pune. For more 
+information about PwC India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member 
+firm is a separate legal entity. Please see www.pwc.com/structure for further details. 
+You can connect with us on: 
+  facebook.com/PwCIndia 
+  twitter.com/PwC_IN
+ linkedin.com/company/pwc-india
+ youtube.com/pwcAcknowledgements
+Amiya Satpathy
+Avalon Global Research
+Manan Tolat
+Mohan Verma
+Neelesh Shrikhande
+Neeta Phaterphekar
+Ravind Mithe
+S V Sukumar
+Tapobrata Das RoyPwC Contacts
+Bimal Tanna
+Leader, Industrial Products
+bimal.tanna@in.pwc.com
+Dushyant Singh
+Associate Director, Strategy
+dushyant.singh@in.pwc.com
+pwc.in
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers Private 
+Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication represent the 
+judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before taking any course of 
+action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of 
+this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in India), 
+which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+NJ 36 - July 2013 ManufacturingBarometer.indd
+Designed by: PwC Brand and Communications, India

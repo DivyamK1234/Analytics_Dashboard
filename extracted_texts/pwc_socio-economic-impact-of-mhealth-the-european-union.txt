@@ -1,0 +1,2356 @@
+Title: Socio-economic impact of mHealth: An assessment report for the European Union
+Date Published: 2013-06-24 02:31:53-05:00
+Source: pdfs/pwc_socio-economic-impact-of-mhealth-the-european-union.pdf
+
+--- CONTENT ---
+
+Socio-economic  
+impact of mHealth
+An assessment report for 
+the European Union
+www.pwc.in
+June 2013
+Executive summary Pg 3 | Socio-economic impact of mHealth Pg 6 
+Overcoming barriers to adoption Pg 20 | Appendices Pg 25
+
+PwC2This report was commissioned by the GSMA and put together with inputs from the GSMA Connected Living programme.
+Socio-economic impact of mHealth3Chapter 1
+Source: PwC analysismHealth could save 99 billion EUR in healthcare costs in the 
+European Union (EU) and add 93 billion EUR to the EU GDP  
+in 2017 if its adoption is encouraged.
+EU healthcare systems face significant challenges that are creating concerns 
+about the sustainability of healthcare delivery. The combination of increased 
+prevalence of chronic disease and an ageing population that continues to grow 
+is exacerbating the burden on healthcare delivery and costs across multiple 
+EU member states. Furthermore, well publicised budgetary constraints and a 
+shortage of healthcare resources have created a scenario that inhibits these EU 
+member states from meeting this increased healthcare demand. At the same 
+time, the EU recognises the acute importance of investing in healthcare to tackle 
+these challenges. Various stakeholders in the EU are looking at ways to make 
+healthcare systems more sustainable and improve their citizens’ health. This will 
+improve wellbeing, increase employability and reduce health inequality.99 bn
+Total healthcare  
+cost savings in 201793 bn
+Total GDP addition 
+in 2017Public  
+savings  
+(77%)Private  
+savings  
+(23%)
+76 bn23 bnExecutive summary
+PwC 4Potential of mHealth
+To address these challenges, EU 
+healthcare systems are moving care 
+for chronic conditions and ageing 
+population from hospitals to community 
+homes. There is an increasing focus 
+on making care more patient-centric 
+so that patients can be empowered 
+to manage their care. With mobile 
+technologies becoming pervasive 
+across the continent, mobile solutions 
+are beginning to support these new 
+healthcare delivery solutions. These 
+mHealth solutions can influence patient 
+behaviour to improve lifestyles, enable 
+remote treatment of chronic conditions 
+and equip healthcare providers to make 
+better clinical decisions. As a result, 
+patients can stay healthier and resources 
+can be better utilised, whilst also 
+limiting the demand for healthcare and 
+lowering the costs of care. 
+By using mHealth solutions to their 
+potential, healthcare systems in the  
+EU can achieve the following:
+•	 Save 99 billion EUR in total annual 
+healthcare spend in 2017 after the 
+cost of extra workforce to support 
+mHealth. 
+•	 These savings will translate to 76 
+billion EUR of public expenditure 
+and 23 billion EUR of private 
+expenditure.
+•	 This equates to treatment of an 
+additional 24.5 million patients 
+against a constant number of 
+doctors and facilities.
+•	 Help 185 million patients lead 
+healthier lives and gain 158,000 
+years of life.
+•	 Of the total 185 million patients 
+who can potentially benefit from 
+mHealth, 141 million patients could 
+improve their lifestyle to some 
+extent through improving how they 
+manage their medical conditions.
+•	 Of these 141 million patients, 61 
+million could successfully address 
+one or more lifestyle disorders. 
+Another 54 million could avoid 
+the risk of developing them and a 
+further 26 million patients, who 
+are ageing, could become more 
+involved in managing their care and 
+lifestyles.By the virtue of its benefits, mHealth 
+could enable 11.2 million chronic 
+patients and 6.9 million patients at risk 
+of developing chronic diseases to extend 
+their professional lives and improve 
+their productivity . This would add 93 
+billion EUR to the EU GDP in 2017.99 bn
+Total healthcare  
+cost savings 
+Wellness and 
+preventionDiagnosis Treatment and 
+monitoringCost savings  
+in ADEWorkforce to 
+support mHealth69 bn 3.7 bn 32 bn 0.17 bn - 6.2 bn
+185 mn
+Total mHealth users 
+that could benefit
+Patients that could 
+improve their  
+lifestylesChronic patients that 
+could benefit from 
+enhanced wellness 
+and preventionChronic and  
+ageing population 
+that could benefit 
+from treatment and 
+monitoring141 mn 22.57 mn 20 mn
+Patients that 
+could expedite 
+diagnosis0.84 mn
+Patients with one 
+or more lifestyle 
+disordersPatients at risk of 
+developing lifestyle 
+disordersAgeing population61 mn 54 mn 26 mn
+Source: PwC analysis
+Socio-economic impact of mHealth5Socio–economic impact 
+of mHealth in 2017 100% 
+adoption  
+(full 
+potential )10% 
+adoption  
+(if no 
+action 
+taken)
+Total healthcare cost 
+saved (bn EUR)99 6.6
+Public care cost saved 
+(bn EUR)76 5.1
+Private care cost saved 
+(bn EUR)23 1.5
+GDP added (bn EUR) 93 6.5 Barriers to adoption and their 
+impactOvercoming the barriers
+Since the mHealth ecosystem has a 
+broad set of stakeholders and most 
+mHealth benefits are systemic, the onus 
+lies on the regulators and payers to 
+maximise the potential of mHealth by 
+quickly intervening with regulations, 
+incentives and initiatives that encourage 
+its adoption and use. 
+The following key actions and initiatives 
+could help drive the adoption of 
+mHealth:
+•	 Integration of mHealth with the 
+nationwide healthcare strategy of 
+various EU member states to align 
+the development of these solutions 
+with their most relevant healthcare 
+priorities.
+•	 Creation of policies and frameworks 
+that encourage the development of 
+innovative mHealth solutions and 
+harmonise the regulation between 
+the delivery of healthcare and 
+mobile health services.Source: PwC analysis
+Although initial estimates of mHealth 
+benefits provided by ongoing mHealth 
+pilots and expert opinion have been 
+promising, there is a strong possibility 
+that these potential benefits will be 
+limited, if the adoption of mHealth is 
+not encouraged. Multiple barriers, such 
+as regulatory, economic, structural and 
+technological, are limiting the adoption 
+of mHealth. The need of harmonisation 
+between health and mobile regulatory 
+frameworks, the lack of incentives to 
+healthcare providers towards mHealth 
+solutions and the absence of clearly 
+defined business models aggravate the 
+slow adoption of mHealth solutions. 
+These barriers could limit the adoption 
+of mHealth solutions to only 10% of its 
+2017 potential, realising only about 5% 
+of the potential benefits by 2017.
+•	 Creation of incentives that 
+encourage, both, patients and 
+healthcare providers to adopt 
+mHealth solutions, and mandate 
+greater cohesion of healthcare 
+providers across levels and regions.
+•	 Spreading of awareness and 
+provision of education on mHealth 
+for healthcare professionals, 
+patients and consumers.
+The effective implementation of these 
+recommendations needs collaboration 
+amongst stakeholders. Since 
+regulators and payers can facilitate this 
+collaboration, urgency on their part to 
+act is essential. It will help ensure that 
+the potential benefits of mHealth are 
+not pushed out too far to be inadequate 
+in addressing the current and future 
+healthcare challenges in the EU. 
+Socio-economic  
+impact of mHealth
+still greater than ever. Steadily rising 
+healthcare costs amidst a stressful 
+economic environment in the EU are 
+constraining the healthcare systems of 
+its member states. 
+1On an average, EU member states 
+spend 9% of their GDP on health. These 
+healthcare expenses have been rising 
+faster than national incomes in most 
+member states, making it harder for the 
+social contributions to cover them. 
+1According to a report by the 
+EU Economic Policy Committee, 
+healthcare costs could increase by 4 
+to 8% of the EU GDP in a few decades, 
+widening the gap between national 
+incomes and healthcare spend. 
+To address the current gap, healthcare 
+budgets are being cut across many 
+countries including Germany, Italy and 
+Spain. The out-of-pocket contribution 
+of people to health expenses is growing 
+and considerable concerns around the 
+sustainability of universal healthcare 
+systems are emerging.
+1 Source: EU Economic Policy Committee study on 
+budgetary challenges posed by ageing populations 
+(http://198.170.119.137/gen-economics.htm)The growing healthcare burden of chronic 
+patients and ageing population
+Chronic diseases such as Type 2 Diabetes 
+Mellitus (T2DM), chronic obstructive 
+pulmonary disorder (COPD) and 
+cardiovascular diseases (CVD) create 
+a significant burden on EU’s already 
+strained healthcare systems. 2According 
+to the Organisation for Economic Co-
+operation and Development (OECD), 
+there were around 30 million people 
+living with diabetes (Type 1 and Type 
+2) in the EU in 2011 and 3about 10% of 
+the total annual healthcare expenses 
+in the EU are spent on diabetes (Type 1 
+and Type 2). Poorly managed diabetes 
+and the complications it induces result 
+in significantly high hospital admissions, 
+increasing the cost of care and 
+consumption of healthcare resources. 
+The prevalence of such chronic diseases 
+is high and increasing. Prevention and 
+better management of chronic diseases 
+should therefore be a priority for the EU 
+and its member states. 
+Chronic diseases could lead to 718 
+billion EUR in lost wages in 2017 .
+Besides the significant healthcare 
+burden, chronic diseases also pose 
+a severe risk to the quality of life 
+and productivity of patients. High EU healthcare spend per capita (EUR)
+Public expenditure, OPE and non-OPE  
+(EUR per capita)
+Source: The World Bank, PwC analysis2.1 Current healthcare 
+challenges in the EU
+Sustaining healthcare systems
+Rising healthcare costs in the EU need to 
+be lowered in order to limit the burden 
+on the population and payers.
+Although health advancements made 
+across the EU are reflected in the 
+increased life expectancy and adoption 
+of the latest technologies, the challenge 
+that health poses to governments is 
+Source: The World Bank, PwC analysisChapter 2
+1 Source: EU Economic Policy Committee study on budgetary challenges posed by ageing populations (http://europa.eu/epc/working_groups/ageing_en.htm)
+2 Source: OECD Health at a glance: Europe 2012
+3	 Source:	IDF,	LSE,	GOLD	report	on	COPD	(http://www.goldcopd.org/uploads/users/files/GOLDReport_April112011.pdf)20011,1842,710
+20112.3x
+20019092,088
+189442
+85 182
+2011
+Socio-economic impact of mHealth7
+EU population with chronic conditions
+Source: OECD Health at a glance- 2012, PwC analysis
+DALY (Disability Adjusted Life Years) 
+losses from these diseases make early 
+retirements and higher-than-normal 
+unpaid absenteeism common for chronic 
+patients. 4 The resultant loss of work life 
+and wages is significant. 
+According to PwC estimates, by 2017, 
+around 70 million chronic patients 
+could lose up to 718 billion EUR in 
+wages due to around 60 billion work 
+hours lost in absenteeism and early 
+retirement. Socio–economic 
+impact of chronic 
+diseases in 2017 T2DM COPD CVD
+5 Absenteeism (days 
+per year) per patient42 19 47
+6 Early retirement per 
+patient (years)1.2 6.7 3
+Labour hours lost (bn) 15 34 11
+Wages lost (bn EUR) 194 403 121
+Source: PwC analysis 
+This potential loss of wages would 
+aggravate the financial strain on the 
+healthcare systems by limiting the 
+social security contributions that fund 
+the healthcare budgets, limiting the 
+financial sustainability of healthcare 
+delivery. 
+The ageing EU population, aged 
+65 years or above, also contributes 
+significantly to the healthcare burden 
+since they require medical attention 
+more often and many of them, such as 
+chronic patients, need continuous care 
+due to the multiple health conditions 
+they suffer from at the same time.
+•	7According to the EU Economic 
+Policy Committee, 30% to 40% of 
+EU’s healthcare expenses are spent 
+on people aged 65 years or above. •	 The share of this group in the 
+overall population is expected to 
+rise from 17% in 2010 to 30% in 
+2060. Additionally, the care costs 
+for ageing population could rise 
+by 30% to 55% by 2025 from 2010 
+levels. 
+•	8By 2050, there will be only two 
+people working for every person 
+above 65 years of age in the EU 
+from the four in 2004, which may 
+make it harder for the working 
+population to support these rising 
+healthcare costs.
+9With only 3% of healthcare expenses 
+in the EU being allocated to prevention, 
+there is clearly scope to invest more 
+in the prevention of chronic diseases 
+and avoid the significant costs these 
+diseases generate. In addition, both, 
+chronic patients and the elderly patients 
+have a significant role in ensuring 
+that their wellbeing is maintained 
+and complications can be avoided. By 
+using secondary preventive methods, 
+chronic and elderly patients can manage 
+their diseases better and reduce their 
+severity, thereby limiting the associated 
+healthcare costs.
+4 Source: LSE Health, London School of Economics, Investing in Health (http://ec.europa.eu/health/strategy/policy/index_en.htm)
+5	 Source:	LSE	Health,	London	School	of	Economics,	Netherlands	Expert	Centre	for	Work-related	Respiratory	Disorders	,	http://www.bmj.sk/2010/11110-02.pdf,	
+6 Source: LSE Health, London School of Economics, Department of Health UK, www.efanet.org/wp-content/documents/FletcherEUEdinburgh.pptx
+7 Source: EU Economic Policy Committee study on budgetary challenges posed by ageing populations http://europa.eu/epc/working_groups/ageing_en.htm
+8 Source: EU Economic Policy Committee study on budgetary challenges posed by ageing populations http://europa.eu/epc/working_groups/ageing_en.htm
+9 Source: EU Health 2020 visionT2DM COPD CVD Ageing 
+population 
+(>65 years)28 30
+12.915.2232694952012
+2017
+Growing prevalence of unhealthy lifestyles
+Unhealthy lifestyles such as poor dietary 
+and physical regimes and smoking 
+lead to disorders such as obesity and 
+hypertension. These disorders in turn 
+are leading causes of chronic diseases 
+such as T2DM, COPD and CVD. 
+10Around 52% of the EU population is 
+overweight, 17% of which is obese. 
+With more than 300 million people who 
+are smokers, obese or hypertensive, 
+there is a significant portion of the 
+population that is at the risk of 
+developing chronic diseases. To limit 
+the future healthcare burden, it will be 
+as important to prevent and manage 
+the lifestyle disorders as the chronic 
+diseases.
+The shortage of healthcare professional 
+resources and its impact on access to care
+Many EU member states are concerned 
+about current or future shortages of 
+doctors and nurses. 11Switzerland could 
+see 75% of their general practitioners 
+retire by 2025 while Germany may have 
+to replace more than 50,000 doctors, 
+including around 23,000 GPs, by only 
+2020. This lack of resources creates a 
+risk of reduction in access to primary 
+care and an inefficient utilisation of the 
+limited healthcare budgets.
+ Need to enhance effectiveness and 
+efficiency of healthcare delivery
+To limit the healthcare burden of 
+chronic diseases and elderly care, 
+many healthcare systems in the EU are 
+focusing on empowering patients to 
+manage their conditions better and more 
+independently. They are moving chronic 
+care outside of hospitals to community 
+care settings. However, the shortage of 
+doctors and nurses is also contributing 
+to a growing focus on increasing patient-
+centricity, which encourages patients 
+to proactively manage their health and 
+collaborate more with the healthcare 
+provider even when outside the hospital. solution pathways from wellness to 
+monitoring by positively influencing 
+patient behaviour, making care more 
+patient-centric and improving clinical 
+outcomes. Healthcare delivery can also 
+be made more efficient by lowering 
+the cost of treatment due to the need 
+for fewer hospitalisations and through 
+enabling current resources to treat many 
+more patients in parallel.
+As aforesaid, enabling remote treatment 
+and monitoring, mHealth solutions can 
+help shift care for chronic and ageing 
+patients from hospitals and community 
+care settings to their homes, thereby 
+providing patients with greater access 
+to healthcare resources remotely. 
+Furthermore, remote interactions 
+and reminders to take medication 
+can increase dietary and treatment 
+compliance levels. Complications can, 
+therefore, be avoided and treatment 
+costs reduced. The reduction in need 
+for hospitalisation can free up physical 
+and human healthcare resources to treat 
+additional patients.Increasing the patient-centricity of care 
+could move delivery of care outside 
+hospitals and make patients more 
+responsible for their health, limiting 
+the healthcare burden and freeing up 
+healthcare resources.
+To attain these objectives together, 
+the healthcare systems in the EU 
+would need to leverage technologies 
+or solutions that help patients adopt 
+behaviours to prevent diseases, optimise 
+the quality of care, lower its costs and 
+keep patients and doctors remotely 
+connected to each other.
+2.2 Addressing the challenges 
+through mHealth solutions
+mHealth solutions help prevent diseases 
+and promote health, while lowering the 
+cost of care and freeing up resources for 
+additional patients that may not have 
+adequate access to healthcare.
+With mobile technologies becoming 
+more widespread, mHealth solutions 
+can increase the effectiveness of 
+healthcare delivery across all patient 
+10 Source: OECD Health at a glance: Europe 2012
+11	Source:	Remedy	presented	to	cure	doctor	shortage(	www.swissinfo.ch),	German	Medical	Association	(BÄK)	-	National	Association	of	Statutory	
+Health Insurance Physicians (KBV) study (http://www.thelocal.de/society/20100903-29587.html#.UY-ylLXDA9Y) 
+
+Socio-economic impact of mHealth9In addition to this, mHealth solutions 
+can empower citizens with information 
+and motivation to improve lifestyles 
+and reduce the threat of chronic 
+diseases. Effectively, due to the various 
+benefits mHealth provides, it may be 
+highly useful in galvanising healthcare 
+systems to attain their objectives and 
+empowering patients cost-effectively.
+Assessing the socio-economic impact of 
+mHealth
+mHealth can create a socio-economic 
+impact across four dimensions by 
+improving the effectiveness and 
+efficiency of care.
+Covering a wider population, mHealth 
+can help people receive a higher quality 
+of care at lower costs. By improving 
+the delivery of healthcare across the 
+four dimensions listed below, mHealth 
+solutions can reduce hospitalisations, 
+enable healthier lives and create a more 
+productive employee base, facilitating a 
+significant socio-economic impact:
+•	 Wellness and prevention: 
+Supporting citizens in making lives 
+healthier by improving lifestyles and reducing the incidence of disease 
+through education, awareness and 
+behavioral changes.
+•	 Diagnosis: Expediting the diagnosis 
+of chronic diseases in order to 
+limit their severity and associated 
+treatment costs.
+•	 Treatment and monitoring:  
+Administering care remotely 
+through mobile-based 
+communication technologies that 
+support patient mobility and reduce 
+the need to visit hospitals.
+•	 Stronger healthcare systems:  
+Enhancing clinical decision-making 
+and improving the utilisation of 
+physical and human healthcare 
+resources by providing the system 
+and staff more information and 
+analysis.
+In this report, we have quantified the 
+health benefits that mHealth solutions 
+can provide across the four dimensions 
+discussed above by using initial 
+outputs from relevant studies and their 
+validation by healthcare experts in 
+relevant geographies. While we have 
+referenced these inputs throughout the report, the methodology and 
+assumptions for quantifying the impact 
+have been detailed in the appendices.
+2.2.1 Enhancing wellness and 
+prevention
+ The significance of healthier lifestyles
+The lack of education and information 
+on the importance of wellness and 
+prevention can keep 39.9 million people 
+exposed to the risk of developing chronic 
+diseases due to unhealthy lifestyles.
+12According to expert opinion, an 
+improvement in wellbeing effected 
+through a healthy diet and regular 
+exercise can reduce the risk of 
+developing a chronic disease by 50% to 
+73% depending on the type of disease. 
+With 39.9 million people expected to 
+be at severe risk of developing T2DM, 
+COPD and CVD in 2017, enhanced 
+wellness can ensure disease free lives for 
+some of these patients.
+“Mobile health 
+has the potential 
+to deliver larger 
+benefits than 
+tele-health as it is 
+more accessible 
+than tele-health.” 
+Horst Merkle,  
+Roche Diagnostics
+12	Source:	IDF,	LSE,	GOLD	report	on	COPD	(http://www.goldcopd.org/uploads/users/files/GOLDReport_April112011.pdf)
+PwC10
+Population at risk of developing chronic conditions in the EU (in mn) Lifestyle disorder prevalence in EU (in mn)
+Source: JAMA Internal Medicine, Cochrane Tobacco Addiction Group, Turner White, OECD Health at a Glance- 2012, Silverchain.org, PwC analysis
+13 Source: http://ndep.nih.gov/media/gp_toolkit.pdf34% 8% 32%
+of obese people benefit 
+from self-directed 
+weight loss program 
+and counsellingof smokers quit 
+smoking successfully 
+if constantly motivated 
+and remindedof hypertensive 
+population can benefit 
+from regular tracking of 
+their blood pressure60% 73% 50%
+ of potential diabetics 
+can avoid T2DM 
+through healthy diet 
+and exerciseof people at risk of 
+COPD can avoid it 
+through improved diet 
+and fitnessof people at risk of 
+CVD can avoid it 
+through improved 
+wellbeingImprovement of lifestyles could lower 
+the severity of chronic diseases for 70 
+million patients by 2017 .
+Regular exercise and a healthy diet can 
+reduce the chance of T2DM patients 
+developing complications by 13around 
+30% while half of the CVD patients 
+may be able to avoid complications and 
+hospitalisations. By 2017, improvement 
+in lifestyles across the 70 million 
+plus chronic patients in the EU can 
+significantly reduce the healthcare 
+burden and costs. Inducing healthier lifestyles using 
+mHealth solutions
+mHealth can enable such lifestyle 
+improvements by equipping patients 
+with relevant information on their 
+mobile devices, thereby helping them 
+make improved and informed lifestyle 
+choices. mHealth solutions that focus 
+on wellness and prevention can help 
+them make better decisions about 
+simple aspects of their lifestyle such 
+as the food to eat, ways to counter 
+the urge to smoke, and the number 
+of steps to walk. A key reason for the 
+reluctance to manage one’s lifestyle 
+better is lack of self-motivation and 
+adherence. Interactive, self-directed 
+mHealth solutions can motivate patients 
+to improve their lifestyle by developing a 
+game-like mindset in attaining everyday 
+fitness goals. 
+Healthcare providers can help ageing 
+patients manage their care better by 
+encouraging them to use mHealth 
+solutions that involve them in 
+maintaining wellness. These mHealth 
+solutions enable patients to store 
+their test results, readings of health 
+parameters and the curative measures 
+they take. Doctors can use the patient’s 
+health history built over time to make 
+the treatment more patient-centric  
+and effective. “Finding a doctor or 
+finding information is 
+not so much a challenge. 
+The major challenges 
+are self-motivation and 
+adherence. I think this 
+is one of the major op -
+portunities for mobile 
+health where we can 
+work with patients or 
+users.” 
+Bastian Hauck, Founder,  
+Team Blood Glucose
+Obesity
+Smoking
+HypertensionT2DM
+COPD
+CVD
+201258 60104 102302 306
+2017 201218.118.6
+3.3 3.716.117.6
+2017
+Socio-economic impact of mHealth11
+Chronic disease prevalence in EU (in mn)
+Source: National Institutes of Health’s Diabetes Prevention Programme, Silverchain.org, Eurekalert.org, PwC analysis
+8 Source: http://ndep.nih.gov/media/gp_toolkit.pdf31% 73% 50%
+of Type 2 diabetics can 
+benefit from healthy 
+diet and exerciseof COPD patients 
+can improve their 
+conditions by focusing 
+on wellbeingof CVD patients 
+can help improve 
+effectiveness of care 
+through improved 
+wellbeingImproving lifestyles using mHealth
+SAPO Fit, an application to control obesity (Portugal)
+Developer: SAPO, Portugal Telecom
+This mobile application helps users to monitor in real 
+time the calories eaten, by detailing the food intake, 
+and the calories burned when physical activity 
+is undertaken. SAPO Fit may be personalized to 
+keep a daily Personal Health Record (PHR) of an 
+individual’s food intake and daily exercise, and to 
+share this with contacts and communities on a 
+social network to encourage optimisation of one’s 
+wellness regime and motivating one to stay fit by 
+encouraging a collective endeavour.Traffic	Light	Food	Tracker,	a	tool	that	helps	people	
+eat healthy food (Various EU member states)
+Developer: Cancer Council Victoria, Obesity Policy 
+Coalition
+Language support: German, English, French, Dutch
+This mobile application helps people eat more 
+healthy food by using traffic light colours to rate 
+the nutrition details of a food item listed on its 
+packaging The user types in the content details 
+such as total fat, saturated fat, sugar and sodium 
+content per 100 grams, and the app calculates a 
+traffic light evaluation of unhealthiness of the food 
+item — green for low, amber for medium, and red 
+for high. It can help people take better control of 
+their food and dietary choices to avoid many lifestyle 
+diseases such as obesity and hypertension.Source: European Directory of Health Apps 2012-13 
+(http://www.patient-view.com/-bull-directories.html),  
+Pub Med (http://www.ncbi.nlm.nih.gov/pubmed/22657250) 
+T2DM
+COPD
+CVD
+201228.5
+12.923.729.3
+15.225.9
+2017
+PwC12Burden of smoking
+• Tobacco is the single largest avoidable health risk in EU.
+• About 94% of the smokers in EU start smoking before they 
+turn 25.
+• Around 50% of smokers die prematurely (on an average 14 
+years earlier).
+• It accounts for nearly 700,000 premature deaths across EU.
+Growing focus on anti-smoking
+• The European Commission has launched campaigns like 
+Ex-smokers are Unstoppable, in order to encourage young 
+adults in the age group of 25 years to 34 years smoking. 
+• iCoach is an online digital health coaching platform 
+that helps individuals quit smoking. It provides tailored 
+feedbacks, sends users daily e-mail tips as reminders for 
+motivation. 
+• Researchers have estimated that mobile phone programmes 
+could nearly double the chance of quitting for at least six 
+months, from 4 to 5% in control groups to 6 to 10% in 
+intervention groups.
+Impact of mHealth on smoking
+• By 2017, mHealth has the potential to save 2.6 billion EUR 
+by helping people quit smoking.
+• Such avoidance of smoking will result in 2 billion EUR tax 
+loss for the government.
+Reducing the risk of chronic diseases
+mHealth could help 6.9 million citizens 
+better manage the risk of chronic 
+diseases by improving their lifestyle.
+By using the type of mHealth solutions 
+discussed earlier, healthcare providers 
+and patients can successfully control 
+the incidence of lifestyle disorders and 
+maintain wellbeing by the following 
+ways:
+•	 According to PwC estimates, 
+potentially, 29.1 million obese 
+people in the EU may use mHealth 
+solutions regularly in 2017 and 
+9.9 million of these may be able 
+to reduce weight enough to avoid 
+needing treatment for obesity.
+•	 Out of the 102 million smokers, 
+48.8 million can potentially use 
+mHealth solutions regularly and 3.9 
+million smokers could quit smoking 
+successfully.
+The resulting improvement in lifestyles 
+and preventive measures enabled by 
+mHealth can significantly lower the  
+risk of chronic diseases by the  
+following ways:
+•	 By 2017, out of the 39.9 million 
+people at risk of developing chronic 
+diseases in the EU, 24.1 million 
+could use mHealth solutions 
+regularly to manage their lifestyles 
+and take measures such as 
+monitoring their blood pressure and 
+diet to maintain wellbeing. 
+•	 The regular use of these solutions 
+can help 11.37 million patients of 
+the 24.1 million to improve their 
+respective lifestyle disorders enough 
+to reduce the risk of disease. 
+•	 Accounting for the reduced 
+probability of developing chronic 
+diseases amongst these 11.37 
+million patients, 6.9 million patients 
+can significantly limit the risk of 
+developing chronic diseases at all. 
+The reduction of risk spreads across the 
+key chronic diseases we have assessed – 
+T2DM, COPD and CVD:
+•	 Around 14 million of the 18.1 
+million people at risk of developing 
+T2DM could better manage their 
+obesity or hypertension by using 
+mHealth solutions regularly. Of 
+these 14 million patients, about 5 mHealth could reduce risk of chronic  
+conditions for 6.9 mn users by 2017 
+Source: PwC analysismHealth users who can successfully 
+reduce risk of chronic conditions
+mHealth users who can significantly 
+improve their lifestyle disorders
+Total mHealth users
+5.0
+1.1 0.88.4
+1.3 1.714.0
+1.88.3
+ T2DM COPD CVDmHealth could enable 61 mn users to  
+improve their lifestyles (in mn)
+Source: PwC analysisUsers who can  
+benefit from mHealth
+Total mHealth users
+Hypertension47.0
+3.99.9147
+49
+29
+Smoking Obesity
+Socio-economic impact of mHealth13Impact for diabetes
+• By 2017, mHealth can save 5 mn people 
+from being at risk of developing diabetes. 
+• About 161,000 cases of diabetes can be 
+prevented.
+• Lives of 5,200 diabetics can be saved.
+• About 151,000 life years can be saved for 
+people at risk of developing diabetes.
+• Around 13 bn EUR in earnings can be 
+added by avoiding absenteeism and 5.3 
+bn EUR by avoiding early retirement.Hospitalisation days saved 
+(‘000)
+Life years saved (‘000)
+129151
+109
+286
+5
+ T2DM COPD CVDmillion could successfully reduce 
+the risk of developing T2DM.
+•	 About 1.8 million people from 
+among the 3.7 million at risk of 
+developing COPD may improve 
+their lifestyle conditions enough 
+through regular use of mHealth 
+solutions that support smoking 
+cessation and improved wellbeing. 
+Of these 1.8 million, 1 million 
+can successfully reduce the risk of 
+COPD.
+•	 Similarly, of the 17.6 million 
+people at risk of developing CVDs, 
+about 8.3 million people could 
+successfully use mHealth to make 
+lifestyle and dietary improvements. 
+Of these, about 833,000 could 
+successfully reduce the risk of 
+developing CVD.
+Limiting burden 
+of chronic 
+diseasesRisk  
+reductionIncidences 
+prevented till 
+2017
+T2DM 5.0 mn 161,000
+COPD 1.1 mn 363,000
+CVD 0.8 mn 65,000
+Source: PwC analysis
+The reduced risk can avoid 589,000 
+incidences of chronic disease by 2017, 
+helping healthcare providers across the 
+EU dedicate their resources to sustain 
+the treatment of other patients. 
+Helping patients suffering from chronic 
+diseases manage their condition better
+Improved lifestyles can help 11.2 million 
+patients suffering from chronic diseases 
+manage their condition better and 
+increase the effectiveness of cares.
+ 
+Source: PwC analysisUsers who may not 
+benefit
+Users benefitted
+T2DM4.4
+9.6
+1.75.31.5
+10.5
+COPD CVDSource: European Directory of Health Apps 2012-13
+By supporting chronic patients in 
+improving their lifestyles through 
+mHealth solutions, healthcare providers 
+can encourage these patients to 
+monitor their diet, physical activity and 
+medications. The solutions can help 
+healthcare providers and patients track 
+the impact of these changes on relevant 
+health parameters, allowing doctors to 
+customise and improve care. By doing 
+so, 11.2 million chronic patients in the 
+EU could manage their conditions better 
+by 2017. 
+Optimising use of healthcare resources
+Source: NYY-Tunstall-NHS study, PwC analysis
+The impact of mHealth enabled 
+wellness-oriented measures could 
+help healthcare systems address the 
+key needs of enhancing quality of care 
+and making delivery more efficient. 
+The reduced incidence and severity of 
+chronic diseases could lower the burden 
+on healthcare facilities by avoiding 
+324,000 days of hospitalisation. Patients 
+at risk of developing chronic diseases 
+and those suffering from it could 
+collectively live 158,000 years longer. By reducing the severity and incidence 
+of chronic diseases, mHealth solutions 
+could save a total of 69 billion EUR in 
+treatment costs, allowing healthcare 
+delivery systems to better cope with 
+reducing budgets. The increased 
+availability of healthcare resources and 
+budgets could also allow healthcare 
+systems to ensure better access to care 
+by treating additional patients.
+Empowering patients to self manage diseases and prevent complications
+iBP Blood Pressure, a tool to track blood pressure 
+(UK) 
+Developer: Leading Edge Apps 
+This smartphone application helps patients track 
+blood pressure values and determine whether 
+these are normal, high, or at hypertension. Using 
+interactive graphs, it shows periodic trends of the 
+user’s user blood pressure and indicates statistics 
+such as lows, highs and averages over periods of 
+monitoring. The application helps a hypertensive 
+patient get more involved in managing one’s 
+condition better.OnTrackDiabetes, for self management of diabetes 
+(UK)
+Developer: Gexperts Inc 
+This mobile application helps diabetics self-
+manage their condition by tracking various relevant 
+parameters such as blood glucose, blood pressure 
+(BP), exercise, food, medication, pulse and weight. 
+It produces a variety of graphs and reports, and 
+creates a log book which can be shared with 
+the doctor for analysis. Through active lifestyle 
+management, the tool can help diabetics to take 
+more control over their disease and delay diabetes 
+induced complications.
+ Source: PwC analysisT2DM
+COPD
+CVD
+Obesity
+Smoking
+Hypertension
+Chronic  
+patients11.046.0
+12.3
+At risk of 
+chronic  
+diseaseLifestyle 
+disorders
+95%
+T2DM1%
+COPD
+4%
+CVD98.9%
+T2DM0.2%
+COPD
+0.9%
+CVD“The National Diabetes Inpatient Audit tells us that 
+at any one time around 15% of hospital beds are 
+taken up by people with Diabetes. Of these, only 9% 
+of patients have a primary diagnosis of diabetes, 
+the rest are there for other complications. There is 
+a real need for hospitals to capture patients early 
+and understand the condition because treating a 
+complication condition is more costly per day.”
+John Grumitt  
+Vice President, Diabetes UK
+“About 80% of limb amputations due to 
+diabetes are completely avoidable if proper 
+diagnosis is done periodically. If a limb is 
+lost than the chance of life for 5 more years 
+is 30% and the chance of living for 3 years is 
+50%. The social and economic cost is simply 
+enormous and largely avoidable.” 
+John Grumitt, Vice President, Diabetes UK2.2.2 Expediting diagnosis
+The importance of early diagnosis
+Delay in diagnosis of chronic diseases 
+increases complications and treatment 
+costs
+Source: PwC analysis
+Source: http://www.businesswire.com/news/
+home/20111220005893/en/App-Store-Names-AirStrip-CAR -
+DIOLOGY-iPhone-Medica
+The latent nature of chronic diseases 
+leads to delays in diagnosis. 14On 
+average, 40% of T2DM patients are 
+not aware of their condition until 
+seven to eight years after the disease 
+has developed. Around 50% of people 
+are usually not aware of the causes of 
+disease and their symptoms. In addition 
+due to the lack of access to diagnostic 
+facilities, these factors contribute to 
+patients not undergoing preventive 
+health check-ups and thereby delaying 
+the diagnosis of disease.Enabling remote diagnosis
+AirStrip	CARDIOLOGY,	remote	diagnosis	and	
+treatment decision making tool for heart patients
+This smartphone application enables physicians 
+to view electrocardiograms on their mobile 
+devices. It allows clinicians anytime and anywhere 
+access to live and historical ECG data of patients 
+on their iPad and iPhone, along with enhanced 
+analytics. It helps clinicians to make faster, more 
+informed diagnosis and treatment decisions. 
+When treating cardiac patients, these extra 
+minutes can help patients recover quickly by 
+expediting medical intervention and prevent heart 
+damage.9.4 mn people at risk of chronic disease can 
+use mHealth-enabled diagnosis regularly
+815,000 people can diagnose chronic  
+diseases early
+Due to these reasons, most chronic 
+diseases get diagnosed when 
+complications appear. Hence, the 
+severity of the chronic disease increases, 
+resulting in increased hospitalisation 
+and higher treatment costs.
+14 Source: IDF Atlas, 2012,PwC analysis
+Socio-economic impact of mHealth153.7 bn EUR costs saved due to improved 
+outcomes
+Note: ALOS: Average Length of Stay
+Source:	Rosemontpharma,	Ericsson	mobile	health	study,	PwC	
+analysis
+Need for monitoring amongst chronic  
+patients (in mn)
+Source:	Rosemontpharma,	Ericsson	mobile	health	study,	PwC	
+analysis99.4%
+T2DM0%
+COPD
+0.6%
+CVD
+Source: e-health initiative report by California Healthcare, PwC analysis
+Patients with condition
+Patients who need to be 
+monitored
+29
+15 151126
+194795
+T2DM COPD CVD Ageing 
+populationExpediting diagnosis using mHealth 
+solutions
+A total of 0.84 million patients could 
+benefit from mHealth through the 
+expedited diagnosis of chronic diseases 
+and timely medical interventions, 
+saving 3.7 billion EUR in treatment 
+costs.
+mHealth solutions that enable remote 
+diagnosis and self-assessment of 
+symptoms enable healthcare providers 
+to detect diseases earlier and facilitate 
+timely medical interventions. These 
+solutions educate patients on symptoms 
+of disease, helping them understand 
+if and when they need to undergo 
+diagnostic tests. Some mHealth 
+solutions also allow patients to store 
+the results of diagnostic tests on their 
+mobile devices and share these with 
+the healthcare provider, eliminating 
+the need of hospital visits. By doing so, 
+mHealth solutions reduce the burden 
+on, both, diagnostic facilities and care 
+facilities. Hence, access to care increases 
+and diagnosis becomes more affordable. 
+Increasing effectiveness and efficiency  
+of care
+Through educational and algorithmic 
+solutions that allow patients to self-
+assess symptoms, mHealth can help 
+9.4 million regular users at risk 
+of developing chronic diseases to 
+expedite diagnosis. Accounting for the 
+prevalence of various chronic diseases 
+in the EU, PwC estimates that 815,000 
+patients can successfully detect chronic 
+diseases early. These patients could 
+avoid complications and seek medical 
+attention earlier, reducing the need for 
+hospitalization and saving 3.7 billion 
+EUR in treatment costs. Doctors and 
+paramedic staff could save 472,000 
+doctor days by having to treat fewer 
+complications. 2.2.3 Delivering continuous 
+care remotely
+Monitoring patients that require 
+continuous care
+Continuous care and the lack of 
+treatment adherence in chronic 
+conditions raises care costs and creates 
+a need for monitoring.
+Chronic diseases and elderly care require 
+constant, real-time management. The 
+patients need to be disciplined with 
+their treatment and diet schedules. The 
+high levels of adherence required from 
+patients can be tiring and patients often 
+miss their medication, resulting in non-
+compliance to treatment. Additionally, 
+patients often mistake temporary 
+relief for significant improvement 
+and discontinue treatment or lower 
+medication levels. The sub-optimal 
+clinical outcomes resulting from these 
+reasons lead to hospital re-admissions.
+To limit this non-compliance and avoid 
+hospital re-admissions, patients need to 
+be continuously monitored in hospital 
+for longer periods, which increases 
+treatment costs and further burdens 
+healthcare systems. 
+PwC estimates that 45 million chronic 
+patients and 47 million ageing people 
+in the EU could need monitoring by 
+2017. 
+To sustain these monitoring needs 
+with limited hospital beds, healthcare 
+systems are exploring ways to treat 
+patients at their homes. Ind. ageing
+Non-compliance rate 50%
+ALOS per year 23472,000  
+doctor days 
+can be  
+saved
+T2DM  
+466,000 
+doctors
+COPD  
+1,000  
+doctorsCVD 
+5,000  
+doctors
+T2DM  
+Non-compliance rate 50%
+ALOS per year 13
+COPD
+Non-compliance  
+rate 75%
+ALOS per year 12CVD
+Non-compliance  
+rate 75%
+ALOS per year 12
+PwC16mHealth can benefit a high number of chronic patients (in mn)mHealth can benefit a high number of 
+chronic patients (in mn)
+2459
+5 5922
+15
+111947
+T2DM COPD CVD Ageing 
+populationPatients who need to be monitored
+Patients monitored using mhealth
+Patients benefitted
+Source: Continua Health alliance, SeniorBridge, AXA Insurance, NYY-NHS Telehealth study, PwC analysis
+“Mobile health can help in reducing the readmission rates of the 
+patient. It can help in taking the care away from the healthcare 
+facility to home. It could also help in establishing an early warning 
+system.” 
+Alain Labrique, John Hopkins UniversityEnabling continuous care outside 
+hospitals
+mHealth enabled monitoring could 
+help remotely deliver care to 22 million 
+independently ageing citizens and 19 
+million chronic patients.
+mHealth solutions help healthcare 
+delivery systems to provide continuous 
+care remotely by using mobile 
+technologies. By keeping healthcare 
+providers connected with patients while 
+they are at home, these solutions can 
+allow healthcare providers to monitor 
+the health of patients and intervene 
+when required. These solutions also 
+motivate patients to improve their 
+lifestyle and help increase their dietary 
+and treatment compliance through SMS 
+and call based reminders. Patients can 
+transmit their pathological readings 
+through connected mobile devices to 
+their healthcare providers, who can then 
+analyse the health patterns captured 
+to optimise care and make it patient-
+centric. mHealth solutions can also help 
+patients feel safer by helping healthcare 
+providers track their movements 
+remotely and raising emergency alerts 
+earlier. 
+By empowering patients to self-manage 
+care, healthcare providers can help 22 
+million ageing citizens and 19 million 
+chronic patients regularly rely on 
+mHealth for continuous care in 2017. 
+Enhancing effectiveness of care
+Improved adherence and remote 
+treatment enabled by mHealth can 
+save 6,000 lives and reduce 168 million 
+hospital days, increasing effectiveness 
+of care.Enabling remote treatment
+iBGStar, remote and self management  
+of diabetes
+iBGStar is a mobile phone application that 
+uses a device plugged into the smart phone 
+to view, store and track blood glucose 
+levels. Additionally, the application 
+matches blood sugars to a meal that an 
+individual has just finished. It stores 
+nutritional information about the meal 
+and communicates that information to 
+the doctor, allowing them to intervene 
+early and make the overall treatment more 
+effective.Medipal, doctor-patient communication 
+application (Sweden)
+Developer: Novatelligence AB, Sweden
+This smart phone application improves 
+doctor-patient communication by helping 
+a patient answer questions that the 
+healthcare provider wishes to ask. The 
+healthcare provider creates a ‘Medipal’ 
+account for the patient, enters into it 
+questions about one’s treatment and 
+medical condition that the patient should 
+answer. This interaction with the remotely 
+located doctor not only increases the 
+patient’s involvement in one’s own care 
+but also helps doctors to stay engaged with 
+their patient’s treatment cycle even if the 
+patient doesn’t visit the hospital.Source: European Directory of Health Apps 2012-13, 
+http://www.bgstar.com/web/ibgstar/app,Orange, GSMA 
+Connected Living Tracker
+Ageing population
+3.3 mnTreatment and 
+Monitoring improved 
+using mhealth
+3.8 mn 168 mn
+Hospitalisation days saved (in mn)
+168  
+Ageing population0.12
+Chronic diseasesHospitalisation days saved (in mn)
+Source: HOPE-European hospital and healthcare federation, 
+PwC analysisLimiting burden of 
+chronic diseasesRisk  
+reductionIncidences 
+prevented 
+till 2017
+T2DM 13 31%
+COPD 12 31%
+CVD 12 22%
+Ageing population 23 80%
+Socio-economic impact of mHealth17Improved adherence and continuous 
+remote treatment of chronic conditions 
+using mHealth can help avoid severe 
+complications and improve clinical 
+outcomes. As a result, 11 million chronic 
+patients can avoid 121,000 days of 
+hospitalisation and 6,000 lives can be 
+saved. In addition, elderly patients can 
+avoid 3.3 million falls. Furthermore, 
+improved emergency response and 
+treatment compliance for 9 million 
+elderly patients can save 168 million 
+days of hospitalisation. There is also the 
+additional benefit of having the comfort 
+of staying at home thereby enhancing 
+the quality of their life.
+Healthcare cost savings (in bn EUR)
+Source: PwC analysis
+Working days saved for doctors (in mn)
+Source: PwC analysis
+Source: European Directory of Health Apps 2012-13Increasing efficiency of care
+Increased effectiveness of care through 
+remote monitoring can not only save 
+32.1 billion EUR in treatment costs 
+but also reduce the shortfall of 1,840 
+doctors
+By helping attain improved clinical 
+outcomes and reduce the need of 
+hospitalisation, mHealth enabled 
+remote monitoring could save 32 billion 
+EUR in healthcare costs across the 
+EU. Healthcare providers can monitor 
+multiple patients at once and prioritise 
+patients to attend to, which reduces 
+waiting times. According to PwC 
+estimates, around 0.46 million working 
+days saved for doctors can be saved as a 
+result, which is the equivalent to 1,840 
+doctors being added to the system.
+2.2.4 Strengthening 
+healthcare delivery systems
+Inefficient utilisation of IT and electronic 
+health records
+Healthcare systems across the EU 
+have varied capabilities to leverage 
+information and communication 
+technologies to support their 
+practitioners. It is estimated that 
+practitioners spend 25% to 30% of their 
+time gathering and analysing medical 
+and patient care data. The absence 
+or inefficient use of electronic health 
+records can limit the efficiency of a 
+hospital. Lack of mobility support for 
+doctors can keep them from accessing 
+information on the move which limits 
+the efficient utilization of their time. 
+Further, most doctors have to invest 
+personal effort to seek information 
+on the latest protocols, best practices 
+and international updates. The lack of 
+readily available relevant information 
+can result in uninformed clinical 
+decisions. Such decisions can lead to 
+prescription and dosage errors, creating 
+adverse drug events (ADEs) that cost EU 
+healthcare systems 2.7 billion EUR per 
+year in care costs and account for 1.1% 
+of all hospitalisations in the EU.Addressing the shortage of doctors through 
+improved practitioner support
+mHealth could create 39 million 
+working days for doctors by improving 
+practitioner support, reducing the 
+shortfall of doctors by 156,000.
+Source: PwC analysis
+16Using tablet computers and other 
+mobile devices can help doctors and 
+paramedic staff to save 30% of their 
+time spent on accessing and analysing 
+information. Doctors and paramedics 
+could update patient health records 
+during consultations and plan their 
+rounds better. By 2017, 1.6 million 
+doctors across the EU could, save up to 
+39 million working days for doctors. This 
+could not only create additional capacity 
+equivalent to 156,000 doctors but also 
+allow doctors to spend more time with 
+patients that really need face to face 
+attention, enhancing the quality of care.
+Enhancing practitioner support
+My	Life	Record,	Electronic	Medical	Record	system
+Life Record EMR is a smartphone based 
+application which provides patients better control 
+of their electronic medical records. It allows 
+patients to store their medical imaging, charts, 
+medications and lab results. Patients can easily 
+share such records with their doctors and nurses. 
+It also includes features like e-prescription which 
+saves doctor’s time to write a prescription, allows 
+patients to increase compliance and expedites 
+medical interventions.
+Source: http://www.myliferecord.com/index.html1.6 mn
+doctors
+39 mn
+working 
+days for 
+doctors 
+saved30% of doctor’s time is 
+spent accessing and  
+updating medical records
+mHealth can reduce  
+this time by 30%
+4.2
+0.162.1
+0.242.9
+0.0722.9
+0.4632.1
+T2DM COPD CVD Ageing 
+populationTotal  
+savings
+T2DM COPD CVD Total working 
+days saved 
+for doctors
+Enhancing treatment compliance using 
+mHealth
+MoviPill, medication reminder application (Spain), 
+Movistar (Telefónica)
+The smartphone application encourages patients 
+to take their medication at prescribed times 
+by making the treatment adherence process 
+more competitive. It uses a point based system 
+to reward and reprimand the levels of drug 
+adherence. Points are awarded or deducted 
+based on how close to the prescribed time 
+patients took their medication. Leaders are 
+visible on a communal web based scoreboard 
+and winners are awarded at the end of each 
+week. Such participative applications motivate 
+patients towards their care and improve treatment 
+adherence.
+“Next five years will see mobile explode in healthcare 
+as there are possibilities that are emerging from the 
+sort of facilities that mobile technologies are able to 
+provide. The convergence between the mobile phones 
+and traditional computers in form of tablets and 
+smartphones will revolutionise the way healthcare 
+is delivered.”
+Lars Palmberg, Stockholm City Council
+* Dr. Anand Iyer, President and COO, WellDoc; Dr. Annette Kroettinger, German Foundation for the Chronically Ill, Germany
+16 Source: Stockholm County Council, Sweden  
+2.7 bn
+165 mnCost of ADE (2017)
+Cost reduction of ADE Preventing ADEs
+Helping healthcare providers stay 
+informed can allow them to save 165 
+million EUR by preventing ADEs.
+Source: Ispor.org , PwC analysis
+According to expert opinion, 1735% 
+of the ADEs can be avoided if 
+practitioners have access to adequate 
+information while writing prescriptions. 
+mHealth solutions can help here 
+by providing practitioners access to 
+latest information, best practices and 
+patients’ medical records. Therefore, 
+practitioners can check potential drug 
+conflicts while writing prescriptions and 
+make better clinical decisions, thereby 
+improving the quality of care and patient 
+safety. 3In 2017, preventable ADEs could 
+be lowered by 17% and 165 million EUR 
+could be saved in treatment costs. 
+2.3 Creating value through 
+mHealth
+Enabling healthcare providers to empower 
+patients
+Adding up all the benefits of mHealth, 
+enhanced healthcare delivery can 
+empower 61 million people to improve 
+their lifestyles, reduce the risk of 
+developing chronic diseases amongst 
+6.9 million people and add a further 
+158,000 life years in 2017 .•	35% of ADEs are preventable if 
+adequate knowledge is available
+•	mHealth can help prevent 17% of 
+preventable ADEs
+•	This results in overall ADE 
+reduction of 6%6%
+By 2017, mHealth could enhance 
+effectiveness of care by the  
+following ways:
+•	 Helping 61 million patients improve 
+their lifestyles.
+•	 Helping 6.9 million people 
+lower the risk of developing 
+chronic diseases through lifestyle 
+improvement and enhanced 
+prevention.
+•	 Helping prevent 589,000 incidences 
+of chronic diseases.
+•	 Helping 11 million chronic patients 
+and nine million ageing patients 
+reduce complications and avoid 
+169 million days of hospitalisation 
+through remote treatment and 
+monitoring.
+These benefits are significant because 
+not only they can sustain healthcare 
+systems longer but patients benefiting 
+from mHealth can also stay healthier 
+and prolong their lives.
+Limiting the healthcare spend and 
+improving its efficiency
+By 2017 , mHealth could save an 
+aggregated 99 billion EUR in 
+healthcare costs for the EU, with the EU 
+governments saving 76 billion EUR and 
+537 EUR per regular mHealth user.
+By using mHealth to enhance the 
+effectiveness and efficiency of 62%
+COPD11%
+CVD
+27%
+T2DM
+care, improved clinical decision-
+making, remote monitoring, reduced 
+hospitalisation and better utilisation 
+of doctors’ time could allow healthcare 
+systems to achieve the following: 
+•	 Save more than 40 million doctor 
+days.
+•	 Create systemic savings of 99 billion 
+EUR, which account for the six 
+billion EUR required to finance the 
+211,000 jobs required to support 
+mHealth deployments.
+•	 Reduce the annual per capita 
+healthcare costs for the 185 million 
+patients that could benefit from 
+mHealth solutions by 537 EUR.
+•	 Enable 185 million patients to save 
+75 EUR per year in out-of-pocket 
+health expenses.
+Of the 99 billion EUR savings created, 
+public payers could save 76 billion 
+EUR of this while private spending can 
+be reduced by 23 billion EUR. These 
+savings could help treat an additional 
+24.5 million patients, sustain capital 
+costs for mHealth deployments and 
+healthcare facilities and in the long term 
+improve the access to care by reducing 
+private healthcare premiums.
+17 Source: http://www.ispor.org/ValueInHealth/ShowValueInHealth.aspx?issue=5999FB72-6F7B-4BAA-83B2-4C9C37B7FB20
+18	Source:	http://www.se2009.eu/polopoly_fs/1.8227!menu/standard/file/eHealth%20for%20a%20Healthier%20Europe.pdfCreating healthier and longer lives
+Preventing 589,000 incidences of chronic 
+diseasesAdditional patients could be treated using 
+the time saved for doctors and hospital  
+beds freed up
+Stronger healthcare 
+systems
+Remote treatment  
+and monitoring
+Life years added (‘000) Life saved (‘000)6158
+742
+mn
+169
+mn126
+mn
+24.5 
+mn39 
+mn
+168 
+mn1.86
+mn
+0.12
+mn.47
+mn
+.32
+mnTotal  
+doctor  
+days 
+saved
+Total  
+hospital 
+days 
+savedAdditional  
+patients that 
+could be  
+attended
+Additional  
+patients that 
+could be  
+treated*Wellness and 
+prevention
+Treatment 
+and monitor -
+ing: Chronic 
+patientsWith 
+improved 
+practitioner 
+support
+Treat -
+ment and 
+monitoring – 
+Independent 
+ageingDiagnosis
+Wellness 
+and pre -
+vention.46
+mn
+Treatment and 
+Monitoring
+Assumptions: 
+1. Each additional patient will need 3 visits per year 
+2. A doctor can conduct 18 patient visits per day
+3. A doctor utilises only half of the time saved to see ad -
+ditional patients
+4. *A patient gets hospitalised for 6.9 days per year, the aver -
+age length of stay in hospitals across the EU
+Socio-economic impact of mHealth19The reduction in per capita savings 
+could also be a significant improvement 
+in an environment where governments 
+are asking people to support health 
+expenses to a greater extent than before. 
+Hence, the healthcare systems can 
+achieve the opposing goals of ensuring 
+access to care and limiting healthcare 
+costs by using mHealth.
+99 bn EUR healthcare costs saved
+Source: HOPE-European hospital and healthcare federation, 
+PwC analysis
+To ensure that capital costs incurred in 
+mHealth deployments in the near-term 
+are covered through future healthcare 
+savings, it is important to appreciate 
+that 265 billion EUR can be saved in 
+healthcare costs from 2013 to 2017 
+through the use of mHealth. While the 
+savings in 2017 alone are significant, the 
+healthcare expenses that can be saved 
+or avoided using mHealth over this five-
+year period will be extremely relevant to 
+ensure that future gains are sufficiently 
+large for healthcare providers to justify 
+an immediate investment in mHealth.
+Boosting economic growth
+In 2017 , an enhanced quality of life and 
+prolonged professional lives could add 
+93 billion EUR to the EU GDP.
+The enhanced productivity of 185 
+million patients benefitting from 
+mHealth could create a positive 
+economic impact on society. 
+•	 A total of 6.9 million patients 
+at risk of developing chronic 
+diseases would be able to avoid 1.6 
+billion hours in otherwise unpaid 
+absenteeism due to ill health.
+•	 A total of 11.2 million chronic 
+patients will be able to avoid 
+508,000 instances of premature 
+retirement and collectively extend 
+their professional lives by 4.3 billion 
+work hours.
+•	 As a result, the disposable wages 
+of these 18.1 million patients can 
+increase by 66 billion EUR and 
+enabling the government to collect an additional 27.1 billion EUR in 
+taxes. 
+•	 Chronic patients who would have 
+successfully avoided premature 
+retirement up to 2017 by using 
+mHealth to manage their diseases 
+could add 4.3 billion work hours to 
+their lives in 2017.
+•	 Due to avoidance of unpaid 
+absenteeism and premature 
+retirement, the disposable wages 
+of patients who successfully 
+extend their professional lives can 
+increase by 66 billion EUR and 
+the government can collect an 
+additional 27.1 billion EUR in taxes. 
+mHealth could, thus, help create greater 
+safeguards in challenging economic 
+times, increase investments and 
+enhance availability of funds to finance 
+healthcare costs.Improved 
+wellness and 
+prevention69
+432
+-6
+Early  
+diagnosisRemote 
+treatment 
+and  
+monitoringStronger 
+healthcare 
+systemsHealthcare cost savings due to mHealth adoption in EU (bn EUR)
+Source: HOPE-European hospital and healthcare federation, PwC analysisIf healthcare cost savings are used to treat additional patients, 24.5 million patients can be treated,  
+leaving significant savings to support cost of mHealth deployments
+99 bn EUR
+Healthcare cost 
+savings66.5 bn EUR
+Cost savings 
+spent on new 
+patients
+32.5 bn EUR
+Remaining cost 
+savings24.5 mn*
+Additional patients
+EUR 2,710 
+Avg. healthcare spend per patient
+Sustain mHealth capital costs
+826557699265
+2013 2014 2015 2016 2017 Total
+Work hours saved 
+due to abseneeism 
+avoidance (in mn)4286
+1587
+Work hours saved 
+due to early  
+retirement (in mn)
+93 bn EUR can get added to EU GDP
+Source: PwC analysis27
+Taxes
+66
+WagesExtending professional lives for 
+citizensAvoidance of early retirement and 
+absenteeism
+6.9
+Reduction in unpaid  
+absentees (in mn)0.5
+Early retirements 
+avoided (in mn)
+PwC20
+Overcoming barriers 
+to adoption 
+Lack of adoption can severely limit the 
+realisation of mHealth’s potential
+The initial estimates of the socio-
+economic impact of mHealth as 
+described in this report present a 
+compelling case to accelerate the 
+adoption of mHealth. However, at 
+present there are multiple barriers that 
+prevent mHealth solutions from being 
+adopted and achieving scale. According 
+to expert opinion19, only 10% of the 
+potential users in 2017 could adopt 
+mHealth due to these barriers, and, as a 
+result, only 5% of the potential benefits 
+might get realised. 
+There are four sets of active barriers that 
+limit the adoption of mHealth. These 
+barriers are: 
+•	 Regulatory: An absence of 
+adequate regulatory mechanisms 
+that enable innovative health 
+services to be deployed whilst 
+ensuring patient safety and trust is 
+delaying services reaching patients 
+and healthcare professionals.
+ - Lack of clarity on mHealth 
+certification: Clarity needs to 
+be provided on how medical 
+device regulations apply to 
+mHealth, providing a clear 
+pathway for certification. 
+ - Lack of interoperability 
+standards:  The absence of 
+regulations or standards that 
+mandate interoperability 
+amongst mHealth solutions 
+and devices limit the scope of 
+innovation and economies of 
+scale to be achieved as well as 
+negatively impacting ease of 
+use.Regular mHealth users subjected to benefit by 2017 (in mn)
+Source: PwC analysisPotential -  
+100% adoptionPotential -  
+100% adoptionNo action -  
+10% adoptionNo action -  
+10% adoptionChapter 3
+:
+:
+19 Primary interview with OnMobileTotal healthcare cost savings in 2017 (in EUR) Total GDP addition in 2017 (in EUR)
+99 bn 93 bn 6.6 bn 6.5 bn
+Socio-economic impact of mHealth21
+ - Lack of clarity on data 
+protection legislation: Health 
+data in the EU is a sensitive 
+issue and requires a high level 
+of protection. As a result, the 
+legislation for data protection 
+in the EU places individual 
+right to privacy above the use 
+of such data for the larger 
+benefit of society, thereby 
+restricting healthcare providers 
+from sharing such data20. This 
+localises mHealth deployments 
+and limits their effectiveness in 
+analysing patient data.
+•	 Economic: These barriers restrict 
+the adoption and scalability of 
+mHealth solutions by either limiting 
+their affordability or making their 
+use commercially unviable for 
+healthcare providers and patients.
+ - Need for further evidence: 
+Healthcare providers and 
+policy makers require 
+further evidence of clinical 
+and economic benefits that 
+mHealth can provide to 
+increase its adoption.
+ - Conflicting financial 
+incentives for healthcare 
+providers: Across a few 
+healthcare systems in the 
+EU, healthcare providers are 
+allocated budgets according to 
+the number of patients treated “Regulation is lagging behind 
+adoption.” 
+Adesina Illuyemi,  
+University of Portsmouth“Lack of payment mechanisms 
+is a major limitation. 
+Technologies paid for are 
+adopted quickly.” 
+Dr. Annette Kroettinger, German 
+Foundation for the Chronically ill
+“mHealth will generate data but 
+no common framework to host 
+that data currently exists. A 
+common framework is needed 
+within the EU region to ensure 
+that mHealth can provide real 
+benefits.” 
+Yannis Nahal, Orange
+“There is currently a lack of 
+decision-making from the 
+government in the form of 
+delay in procedures, absence 
+of correct economic incentive 
+to use such solutions -- to keep 
+healthcare organisations 
+attracted towards such 
+solutions.” 
+Stefano Roscini, Telecom Italia“Changes are not coming from 
+within as existing hospitals 
+are governed by an economic 
+model which works on 
+adding resources. This is not 
+sustainable.” 
+John Grumitt, Vice President, 
+Diabetes UK“Successful business models 
+could consist of getting data 
+from cloud-based services 
+and collaborating with other 
+stakeholders so that the data 
+could be analysed and used.” 
+Horst Merkle, Roche Diagnostics
+20	 The	European	data	protection	legislation	and	its	consequences	for	public	health	monitoring:	a	plea	for	action	(http://eurpub.oxfordjournals.org/content/18/6/550.long)
+PwC22in hospitals. Such financial 
+incentives are in direct 
+conflict with the overall goal 
+of mHealth or other similar 
+technologies that could keep 
+patients away from hospitals. 
+ - Lack of reimbursement 
+mechanisms for patients: 
+A lack of reimbursement or 
+funding mechanisms that 
+could cover patients for the 
+cost of mHealth solutions and 
+associated devices limits the 
+adoption of these solutions, 
+especially amongst the low 
+income groups.
+ - Limited awareness of benefits 
+of mHealth: Quite often, 
+healthcare providers and 
+patients are unaware of the 
+benefits of mHealth solutions, 
+which can slow down their 
+adoption and increase the 
+selling expenses for mHealth 
+vendors. 
+•	 Structural: The existing structure 
+of healthcare systems could either 
+restrict or discourage cohesion 
+and competition amongst various 
+healthcare providers, preventing 
+solutions that enable efficiency 
+from being adopted.
+ - Lack of cohesion: Healthcare 
+systems could be better 
+integrated functionally and 
+electronically across the EU 
+member states21. The resulting 
+lack of cohesion across levels 
+of care and regions, limits 
+the scale and effectiveness of 
+mHealth deployments.  - High change management 
+needs: The significant change 
+management associated 
+with deployment and use of 
+mHealth solutions requires 
+allocation of time and 
+resources, which may lower the 
+efficiency and profitability of 
+healthcare delivery during the 
+transitory period. 
+•	 Technological: The absence 
+of technological standards that 
+promote the efficient development 
+and use of mHealth solutions 
+prevent mHealth investments from 
+being utilised well and limit the 
+deployment of mHealth.
+ - Absence of protocols to 
+standardise solutions: 
+Standardising the data 
+definitions across mHealth 
+solutions is necessary to 
+allow a seamless exchange 
+of data across solutions and 
+platforms. The absence of such 
+data protocols could limit the 
+efficient use of these solutions 
+and restrict their benefits.
+ - Lack of interoperability: The 
+absence of regulations that 
+mandate the solutions and 
+devices capable of working 
+with each other can localise the 
+applicability of these solutions 
+and limit their scalability. - Late involvement of doctors 
+in solution design:  Quite 
+often, doctors are involved 
+in the development of a 
+mHealth solution in the later 
+stages of the design process. 
+This late involvement results 
+in a mismatch between the 
+actual healthcare workflows 
+and the ones incorporated 
+in the mHealth solution. 
+Hence, healthcare providers 
+avoid adopting these due 
+to the significant change 
+management needs.
+Actions needed to drive adoption
+Immediate actions from policy makers, 
+regulators and payers can help lower 
+the barriers and drive adoption
+Many mHealth benefits are system-
+oriented and may be visible over the 
+longer term. Immediate action on 
+the key adoption barriers is needed 
+to ensure that these benefits can be 
+attained in time to meet the current 
+and imminent healthcare challenges 
+adequately.
+Various initiatives, such as the eHealth 
+Action Plan, have been taken by the 
+European Commission and some 
+EU member states to better leverage 
+eHealth. Similarly, to better harness the 
+potential of mHealth, the regulators 
+and policy makers across the European 
+Commission and various EU member 
+states need to formulate policies that 
+can drive adoption of mHealth solutions. 
+The national and regional payers need 
+to support these policies by creating 
+facilitative reimbursement mechanisms 
+that ease the adoption of mHealth 
+solutions across patients and healthcare 
+providers. In the following paragraphs, 
+we describe a few actions that could 
+be taken to maximise the potential of 
+mHealth.Four key adoption barriers such as regulatory, economic, structural and technological – can limit the benefits of mHealth
+21 Adesina Illuyemi, University of Portsmouth
+Socio-economic impact of mHealth23Collaboration across the ecosystem 
+Healthcare and telecoms policy makers 
+and regulators need to work with 
+other stakeholders in the mHealth 
+ecosystem to design facilitative policies 
+that streamline the development of 
+mHealth solutions and support their 
+commercialisation by providing solid 
+economic reasons that encourage 
+adoption:
+•	 Integrate mHealth within national 
+healthcare strategies and policy 
+initiatives. 
+•	 Align the development of mHealth 
+solutions with the immediate 
+healthcare priorities of each 
+member state.
+•	 Help create policies that encourage 
+competition between regional 
+healthcare providers, making 
+the healthcare systems more 
+performance oriented and less 
+hospital-centric.
+•	 Continue building the evidence base 
+of mHealth benefits with relevant 
+industry associations and solution 
+providers.
+•	 Leverage cloud-based solutions to 
+aggregate the statistics from active 
+mHealth deployments to measure 
+and demonstrate the impact of 
+these solutions on clinical outcomes 
+and care costs.Bridge regulatory gaps
+The facilitative policies need to be 
+supported by a solid regulatory 
+framework that adequately addresses 
+the key concerns of various stakeholders 
+around safety and trust. The following 
+actions can not only help address the 
+regulatory barriers adequately but also 
+the technological barriers, since these 
+actions will facilitate the development of 
+standardised and interoperable mHealth 
+solutions:
+•	 Raise clarity on EU medical device 
+regulation based on a proportionate 
+risk-based approach that ensures 
+safety and quality while stimulating 
+innovation and patient access.
+•	 Clarify data protection legislation as 
+it applies to mHealth, ensuring end-
+user trust and ease of use.
+•	 Introduce regulations that address 
+the gaps in General Data Protection 
+Regulation (GPDR) and mandate 
+different healthcare providers to 
+share patient data, facilitating 
+optimisation of references across 
+different levels of care and the 
+regional healthcare providers. 
+•	 Promote technology and data 
+standards to ensure development 
+of interoperable and standardised 
+solutions.Create economic incentives
+In order to overcome the barriers 
+created by conflicting incentives that 
+healthcare providers are provided with, 
+the policy makers, regulators and payers 
+need to work together to:
+•	 Create incentives that reward 
+healthcare providers for gains 
+achieved from the efficient 
+utilisation of resources enabled 
+by mHealth solutions across 
+populations.
+•	 Develop innovative and sustainable 
+reimbursement or funding 
+mechanisms that cover the cost 
+of using mHealth solutions and 
+associated devices, thereby- 
+enabling equal access.
+Support the use of mHealth
+While the key barriers may be addressed 
+directly or indirectly by executing the 
+steps mentioned above, policy makers, 
+regulators and payers need to ensure 
+that the development and deployment 
+of solutions are optimized and that 
+healthcare providers have adequate 
+support in leveraging mHealth solutions 
+better. To achieve this, they might:
+•	 Engage patients and healthcare 
+professionals earlier during solution 
+design to continue refinements of 
+exact needs for mHealth solutions 
+and lower change management 
+requirements.
+•	 Work together with medical 
+universities, healthcare 
+professionals, patient organisations, 
+and relevant social media channels 
+to educate the healthcare providers 
+and patients on the use of mHealth 
+solutions and their benefits.
+•	 Identify medical universities and 
+hospitals or pioneers in mHealth’s 
+implementation to optimise change 
+management and set up training 
+processes that wider healthcare 
+delivery systems can follow. 
+•	 Identify medical universities and 
+hospitals as pioneers in mHealth 
+implementation in order to optimise 
+change management and set up 
+training processes that the wider 
+healthcare delivery systems can 
+follow.
+•	 Centralise the procurement of 
+mHealth solutions to ensure that 
+compliance with established 
+technology and data standards is 
+attained. 
+PwC24Driving collaboration
+While the various initiatives listed 
+above could drive adoption and make 
+investments in mHealth more efficient, 
+significant collaboration among 
+stakeholders is required to ensure that 
+these steps are executed efficiently and 
+coincide with each other as required. 
+Clearly, policy makers, regulators 
+and payers are best placed to catalyse 
+the actions and involvement of the 
+stakeholders. Hence, they need to lead 
+the initiatives and drive urgency of 
+action.
+A lack of action and coordination in 
+the form of policies, frameworks and 
+supporting initiatives can either leave 
+the benefits of mHealth underutilised 
+or pushed out too far in time to help the 
+healthcare systems to bridge the gaps 
+that they are at risk of developing. “Regulators can ensure that there is public 
+access to data around quality and cost of 
+care so that patients can make decision 
+about their care. They should increase the 
+focus on success and put in place a failure 
+regime. Along with that, they need to  
+create data standards so that information  
+can flow.” 
+John Grumitt  
+Vice President, Diabetes UK
+“Successful business models could 
+consist of getting data from cloud 
+based services and collaborating so 
+that the data could be analysed and 
+used.” 
+Horst Merkle, Roche Diagnostics
+“Governance of mobile health is one 
+area where government needs to work 
+and invest.” 
+Prof Devaka Fernando, Diabetes expert 
+Sheffield Hallam University
+Socio-economic impact of mHealth25A.1 Assumptions 
+Areas of assumption Assumptions
+Health conditions Chronic conditions: T2DM, CVD and COPD are the conditions considered for assessment. 
+Lifestyle conditions: Obesity, smoking and hypertension have been analysed as these lead to chronic conditions.
+Ageing population: This has also been analysed as a significant proportion of the EU population is above 65 and it poses a major 
+challenge to the region.
+Criteria for disease selection Chronic and lifestyle conditions have been selected based on factors such as prevalence, Disability Adjusted Life Years (DALY)  
+loss and mortality contribution to the EU region. 
+Ageing population was found relevant because it poses a significant cost burden to the healthcare systems and patients. 
+Our study omitted certain diseases such as cancer and asthma because our healthcare experts opined that mHealth will not be 
+able to create any significant clinical improvement in the short term.
+Areas of mHealth intervention Two broad areas of intervention considered include solutions across the patient pathways and the healthcare systems.
+Solutions across patient pathways: Areas considered include wellness, prevention, diagnosis, treatment and remote monitoring.
+Solution across healthcare systems: Areas considered include healthcare practitioner support, healthcare administration and 
+emergency response. 
+Relevant population Wellness and prevention: Population at risk of developing conditions and pouplation with conditions being assessed.
+Diagnosis: Population at risk who do not have access to diagnosis and population with conditions who are not diagnosed.
+Treatment and monitoring: Population with conditions who are non-compliant to treatment.
+The above-mentioned population base has been segmented into basic mobile phone user base and smartphone user base.
+Adoption factors Telecom penetration rate is used to arrive at the population that could be reached by mHealth. Here, penetration rates for both 
+basic mobile phones and smartphones have been applied on the relevant population.
+Adoption rate reflects the percentage of the relevant population who will adopt such mHealth solutions. Two scenarios have been 
+considered here which are as follows:
+•	 Adoption rate would be 10% in 2017 if no action is taken to encourage it.
+•	 Potential adoption rate in 2017 is taken to be 100%, assuming that full adoption will be realised once the mHealth framework, 
+policies and business models will be put in place.
+Adoption rates have been arrived at through primary interviews with healthcare experts.
+Repeat usage rate has been accounted for based on the assumption that the mHealth application will take six to 12 months to 
+have meaningful healthcare impact. It has been validated by healthcare experts in relevant geographies.
+mHealth benefits Finding across the following areas have been used to quantify and estimate mHealth related benefits:
+•	 Pilot mHealth projects and their benefits.
+•	 Tele-health projects and their benefits.
+•	 e-Health project and their benefits.
+Final numbers obtained from these findings were further validated and modulated through primary interviews in the  
+relevant geographies. 
+Age group for health 
+conditionsLifestyle conditions: Relevant age groups have been considered for each disease or medical conditions. E.g. 15+ years for 
+smoking, hypertension and obesity.
+Chronic conditions: The age group of 20 to 79 years has been considered for T2DM, whereas for COPD and CVD, 15 years and 
+above have been considered.
+Ageing population: The age group of 65 years and above has been considered.
+Treatment cost Historical treatment costs have been inflation adjusted in order to arrive at current costs where required.
+Productivity loss Due to absenteeism, productivity loss has been computed over unpaid sick days beyond entitled sick leaves. 
+Due to early retirement, productivity loss has been computed on the years by which a chronic patient retires early.
+Daily wages and tax rates of each country have been taken into account to calculate productivity loss and loss on government 
+taxes due to absenteeism and early retirement.
+Hospitalisation days Percentage of hospitalisation and ALOS have been captured from secondary sources. This was further validated by primary 
+interviews from healthcare experts in relevant geographies. 
+Job creation Jobs will be created for paramedics, trainers and technical support staff for each mHealth deployment in hospitals.
+Adverse drug events Preventable adverse drug events cause a major cost burden on the healthcare system. This can be reduced by effective mHealth 
+deployments across hospitals.
+Extrapolation of benefits  
+for EU 27 countriesCalculations have been explained under the Methodology appendix which highlights the factors and steps used for extrapolation.
+Grouping: EU 27 has been divided into three country grouping based on factors such as type of healthcare systems, healthcare 
+spend as a % of GDP and government spending on healthcare. Three countries were then chosen to represent each grouping.
+Clinical benefits: The benefits estimated for the representative country of each country grouping have been used for the remaining 
+countries in the grouping.
+Treatment cost savings: These have been extrapolated and adjusted based on the ratio of per capita healthcare spend in the 
+relevant country and the representative country of that country grouping. 
+Increase in earnings: These have been extrapolated by capturing hourly wages and taxes of each country.Appendices
+PwC26A.2 Methodology
+Understanding and quantifying region-
+specific healthcare challenges
+To arrive at the socio-economic impact 
+of mHealth, we started with the view 
+that for mHealth to be effective, it needs 
+to address the challenges and needs of 
+the EU region. We gathered data points 
+on relevant challenges such as disease 
+incidence, prevalence, disease related 
+mortalities and the number of people at 
+risk. These healthcare challenges and 
+data points were further validated by  
+primary interviews with healthcare  
+experts in the regions.
+Further, to identify the socio-economic 
+impact of the disease, we looked 
+into parameters like treatment costs 
+of each disease in each region and 
+the cost burden of early retirement 
+and absenteeism caused by those 
+diseases. We also looked into disease-
+specific hospitalisation frequency and 
+hospitalisation days to quantify the socio-
+economic challenge.
+Identifying the scope of mHealth and 
+capturing benefit data 
+The relevance of mHealth was 
+established against these challenges. 
+We identified two broad areas of 
+interventions such as solutions across 
+the patient pathway and the healthcare 
+system strengthening. These two broad 
+categories were further sub-divided 
+into six areas of intervention– solutions 
+across the patient pathways (wellness 
+and prevention, diagnosis, treatment 
+and monitoring) and healthcare systems 
+(emergency response, healthcare practitioner support and healthcare 
+systems strengthening).
+The following key steps were taken 
+to arrive at the quantified healthcare 
+benefits of mHealth
+•	A relevant population base was 
+selected for each condition being 
+assessed.
+•	The smartphone and basic user 
+phone penetration was applied to 
+this population to arrive at the total 
+potential users of mHealth solutions. 
+•	Since mHealth solutions benefit only if 
+used regularly, the percentage of total 
+potential users who would regularly 
+use such mHealth applications was 
+determined to arrive at the relevant 
+number of mHealth users.
+•	Further, the percentage of regular 
+mHealth users that could benefit was 
+computed for each solution type and 
+condition.
+•	The potential benefits estimated for 
+each solution type and condition were 
+then applied to arrive at the overall 
+benefit.
+Each area and type of benefits of mHealth 
+were estimated based on existing studies, 
+pilots and expert opinion. 
+Arriving at socio-economic estimates
+To analyse the benefits across the EU, 
+representative countries of the region 
+were selected. Multiple criteria such as 
+geographic representation, healthcare 
+system type and healthcare funding 
+systems, were used to identify such representative countries. An economic 
+model was then developed to quantify 
+healthcare challenges and mHealth 
+induced socio-economic benefit in these 
+representative countries. 
+Extrapolation of socio-economic  
+benefits across EU 27 countries
+Each benefit type calculated for a 
+representative country was then 
+extrapolated to the entire EU region. 
+•	We created three country groupings, 
+each grouping represented by the 
+previously selected representative 
+country. 
+•	Relevant countries were then 
+identified and grouped under each 
+representative country grouping. 
+•	Criteria such as healthcare spend 
+as a % to GDP, public and private 
+healthcare spend, per capita 
+healthcare spend, healthcare system 
+type were used to identify and 
+group EU27 countries within those 
+groupings. 
+•	Incidence and disease related 
+healthcare benefits were extrapolated 
+as per the representative country. 
+However, treatment cost savings 
+were calculated based on healthcare 
+expenditure parity between the focus 
+and representative country. 
+•	Similarly, while computing increase 
+in earnings related benefits, wages 
+and taxes in each country were used 
+to accurately capture socio-economic 
+impact.
+Approach to quantify socio-economic benefits
+Quantify major health 
+challenges in the regionIdentify scope of mHealth Analyse potential benefit 
+of mHealthTranslate healthcare 
+benefits to socio-
+economic benefitsScenario analysis
+Area covered •	Data analysis to profile 
+healthcare challenges of 
+the region
+•	Translation of these 
+challenges to socio-
+economic challenges•	Analysis to identify 
+relevant areas for 
+mHealth interventions 
+based on the challenges
+•	Prioritisation of these 
+areas based on the 
+goals of multiple 
+players in the mHealth 
+ecosystem of the 
+region •	Analyse case studies 
+and pilot projects to 
+arrive at estimates of 
+benefits
+•	Conduct primary 
+interviews to verify the 
+estimates•	Convert the 
+healthcare benefits 
+to socio-economic 
+benefits through 
+econometric 
+modeling•	Parameters varied 
+to under-analyse 
+socio-economic 
+impact of various 
+scenarios of 
+mHealth adoption
+Source of data •	Primary interview
+•	Secondary sources•	PwC analysis
+•	Primary interview•	Primary interview
+•	Secondary sources•	PwC analysis •	PwC analysis
+Logic used for extrapolation
+Choose representative countries in each grouping and 
+group EU countries in groupingsExtrapolate mHealth benefits
+Area covered •	Group EU countries into groupings based on status of 
+healthcare systems in various countries•	mHealth benefits from representative country taken as a reference for each 
+grouping
+•	Corresponding benefits extrapolated for each member country in each grouping
+Source of data •	PwC analysis
+•	Primary interview
+•	Secondary sources•	PwC analysis
+About PwC  
+PwC* helps organisations and individuals create the value they’re looking for. We’re a network of firms in 158 countries 
+with more than 180,000 people who are committed to delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, Bangalore, Chennai, Delhi NCR, 
+Hyderabad, Kolkata, Mumbai and Pune. For more information about PwC India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member firm is a separate legal entity. Please 
+see www.pwc.com/structure for further details. 
+You can connect with us on: 
+ facebook.com/PwCIndia 
+ twitter.com/PwC_IN
+ linkedin.com/company/pwc-india
+ youtube.com/pwc
+Contacts 
+Shashank Tripathi
+India Leader - Strategy and Research
+Phone:+91 9819678900
+Email: shashank.tripathi@in.pwc.com
+Mohammad Chowdhury
+India Leader - Telecom
+Phone:+91 9167665544
+Email: mohammad.chowdhury@in.pwc.com
+Dr. Rana Mehta
+India Leader - Healthcare
+Phone:+91 9910511577
+Email: rana.mehta@in.pwc.comDavid Wijeratne
+Associate Director - Strategy and Research
+Phone:+91 9818966775
+Email: david.wijeratne@in.pwc.com 
+Lokesh Khanna
+Principal Consultant - Strategy and Research
+Phone:+91 9711031020
+Email: lokesh.khanna@in.pwc.com
+Acknowledgments
+We would like to take this opportunity to thank all the team members for 
+their contribution to the creation and finalisation of this report:
+Rohit Shankar
+Siddartha Prasad 
+Ankur Bharti
+Dr. Amit Talwar
+Nidhi Jain
+pwc.in
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by PricewaterhouseCoopers 
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication 
+represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before 
+taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or 
+liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company in 
+India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+NJ 305 - May 2013 Mhealth.indd
+Designed by: PwC Brand and Communications, India

@@ -1,0 +1,19 @@
+Title: pwc_business-standard-budget-business
+Date Published: 
+Source: pdfs/pwc_business-standard-budget-business.pdf
+Word Count: 7
+Sentence Count: 1
+Average Sentence Length: 17.0
+
+--- TOP 20 WORDS ---
+error: 1
+extracting: 1
+content: 1
+time: 1
+data: 1
+match: 1
+format: 1
+
+--- CLEANED CONTENT ---
+
+Error extracting content: time data ': 2o25o2o3111321' does not match format ':       '

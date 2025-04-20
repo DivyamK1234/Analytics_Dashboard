@@ -1,0 +1,7 @@
+Title: kpmg_management-capability-development-index-mcdi-india-2024-report
+Date Published: 
+Source: pdfs/kpmg_management-capability-development-index-mcdi-india-2024-report.pdf
+
+--- CONTENT ---
+
+Error extracting content: PyCryptodome is required for AES algorithm

@@ -1,0 +1,448 @@
+Title: pwc_people-oriented-architecture
+Date Published: 2013-09-19 18:10:15+05:30
+Source: pdfs/pwc_people-oriented-architecture.pdf
+
+--- CONTENT ---
+
+People oriented 
+architecture
+www.pwc.in
+September 2013  
+Introduction  p3/Establishing the background  p4/People to organisation: Nurturing 
+relationships p5/Know your people  p7/ Developing the architecture p9/ Case study p14
+2 PwC
+People oriented architecture    3
+01
+IntroductionDigitisation has made it imperative for businesses to introduce new models 
+that provide flexibility, scalability and increased job satisfaction. It also impacts operations and strategy in building business relationships.
+ Employee remuneration accounts for a major share of costs budgeted 
+by an organisation. With the dynamic work environment, the traditional remuneration management has been facing great challenges both in the public and private sectors. Consequently, this leads to a lot of problems that  can 
+affect the performance of an organisation and even cause existential threats. 
+A survey has demonstrated that the cash reward which was considered to be a crucial factor by organisations  is not as important. Based on a 2002 survey of 1,500 employees (of all ages) conducted by Nelson Motivation, Inc, San Diego, California, the ranks of employee motivators in descending order are as 
+follows:
+1. A learning activity 
+2. Flexible working hours  
+3. Verbal praise 
+4. Increased authority  
+5. Autonomy
+6. Time with their manager 
+7. Time off from work
+8. Public praise 
+9. Choice of assignment 
+10. Written praise
+What is noteworthy is that the cash reward ranks fifteenth in importance. 
+In recent years, some other reward-related glossaries also spring up as 
+the progress of new-fashioned market economics, for example, salary 
+management, salary administration, payment (or pay) management, compensation management, reward management, etc. The common ground being that all of them focus on how to redound employees, simply in slightly different approaches.
+Modern rewards management appears and develops in the context of 
+managing transformation. It does not simply acknowledge and redound  the members  contributed to the organisation, in fact, it’s a specific action scheme of company strategic objectives and values outlook conversion. To some 
+extent, the modern rewards management breaks through the categories of 
+‘money’ and substance, which indicates that indirect income and some non-monetary compensation are factors that are significantly important  in the reward structure design. These days, companies generally have a total reward management programme, which takes into consideration the goals of their 
+employees. This is necessary for the programme to be be relevant and accepted 
+by the employees. “As the global economy recovers, 
+more and more companies realise that talent is their biggest challenge. Efficient talent management is one of the most important issues on the mind of the CEO...”
+Forbes magazine
+New organisations 
+More experiential, collaborative and social learning oriented
+• Performance management: Social and peer-driven reviews
+• Stress on employee engagement
+ –Brand matters
+ –Flexible roles and dynamic 
+ –labour pools
+ –Flexible work arrangements: Remote, sharing and temporary
+ –Richer user experience
+• Increase in leveraging crowd-sourcing techniques for innovation
+ –People-centric
+ –Everyone contributes
+ –Collective intelligence
+ –Global collaboration
+4 PwC
+02
+Establishing 
+the background A recent PwC -NASSCOM survey with HR executives reveals an interesting trend of 
+employee expectations. As it turns out, employees are seeking a golden combination of enhanced performance coupled with a perfect work-life balance. The pay is important, 
+but it  only goes so far. Higher wages won’t cause employees to automatically perform 
+at a higher level. Commitment, work ethic, and motivation are not entirely based on the pay structure. 
+Based on the PwC Survey, we see the current trends and adoption statistics in today’s 
+organisation, people are looking for a holistic  experience in their organisation. 
+Employees are laying more stress on intangible factors such as work-life balance, innovation at workplace, flexible work options, customisable career paths than ever before.  Clearly the need for total rewards within an organisation  focussed on an individual’s preference, career goals and life stage is driving HR strategies across  
+the globe.
+People technology: Need of the hour
+The 14th Annual Global CEO Survey conducted by PwC presents a few stark findings: 
+How are CEOs tackling talent shortage?
+• Investing heavily in attracting and retaining talent
+• Aligning their people and business strategies going forward
+• Integrating HR with business planning at the highest levels of the company
+• Seventy nine per cent of the CEOs say the CHRO is one of their direct reports
+• Building in-house talent through promotions within their companies over the next 
+three years
+Apart from these, management has to focus on information gaps in various quantitative 
+parameters which determine the health of an organisation.“Employees are a company’s greatest 
+asset -- they’re your competitive advantage. You want to attract and retain the best; provide them with encouragement, stimulus, and make them feel that they are an integral part of the company’s mission.”
+Anne M. Mulchahy, CEO , Xerox 
+CorporationVery relevant Relevant Non relevantKey organisational challenges that would define the future
+Considering the talent required for the success of your business over the next 3 years, what are the key 
+challenges you expect to face? 
+Base: All respondents (1,201) 
+Source: PwC 14th Annual Global CEO Survey 
+People oriented architecture    5
+03
+People to 
+organisation: Nurturing relationshipsThe employee-organisation relationship is crucial throughout the employees’ journey. At 
+each milestone, organisation should reward the employee appropriately so that he or she feels valued.
+One of the basic principles through which organisations reward employees is their 
+compensation. But as we observed, current trends reflect  compensation being inadequate. There is a gradual evolution from the compensation based rewarding to a total rewards mechanism.
+Evolution from the CTC oriented incentives to total rewards 
+mechanism
+Based on the 16th PwC CEO survey, the traditional pay for performance model had the 
+following limitations:
+• There is a discord between increases of monetary compensation and the end return 
+that could be achieved by the employees
+• Salary was not the best motivator for increasing the performance of the employees
+• The company strategy could not be directly linked to the compensation of the employees
+Linking employees’ performance to salary  increases the variable component in the 
+compensation structure, which the employees do not prefer in comparison to fixed 
+components. Employees value monetary rewards but non-monetary rewards such as recognition, advancement, learning, global opportunities, benefits, work-life balance and culture may reduce the pressure on direct compensation. It is important to understand 
+how employees value the incentives provided. Linking metrics and KPIs derived from 
+the overall business strategy to incentive plans will create a strong link between the employee’s expectations and the organisation’s vision. Fine-tuning this link for a broader group of employees can improve the recognition value of the incentive plans.
+Compension is not 
+the only factor for which employees join a companyNon-monetary benefits like recognition are a major factor in motivating the workforceCompany objectives cannot be directly linked to employee 
+salary. The total 
+rewards mechanism can be aligned with the objectives“An employee’s motivation is a direct 
+result of the sum of interactions with the organisation...”
+Bob Nelson, motivational speakerEmployee journey
+Motivational levers
+6 PwCIn order to add the above aspects, the concept of total rewards came into 
+existence.
+Total rewards incentivise the employees with more than just monetary 
+emoluments. Organisations structure their technology and processes so that 
+at each touch point of the employee-organisation relationship, employees receive rewards that they value more and make their work more productive.  Total rewards programme essentially focusses on improving employee 
+experience and job satisfaction.
+Employees can be rewarded in a number of ways, but these can be majorly 
+categorised into the following groups. 
+Monetary benefits: This is the basic driver for an employee’s relationship 
+with the firm. Employees want competitive salary structure which is 
+transparent and well defined with the employee’s skills.
+Non-monetary rewards: Employees want secondary benefits which 
+may be long term or applicable to persons associated with him or her. This strengthens the bond with the organisation.
+Recognising  the effort: Spot recognition, appreciating excellence 
+motivates the employee to increase his or her  efforts and encourages peers simultaneously 
+Flexibility: A number of facilities can be provided to make the work life 
+balance easier for the employee. Studies
+1 have shown that employees with 
+access to flexible work arrangements tend to be more satisfied, committed and engaged with their jobs, which leads to increased innovation, quality, 
+productivity, and growth. 
+Opportunities: Employees look for growth and other opportunities, crucial 
+for a successful career. Firm can provide opportunities for learning, trainings, movement, internships and other diverse experiences.
+Following diagram shows some of the aspects which can be focused while 
+designing rewards structure under each dimension (not exhaustive).
+Monetary benefits Non-monetary rewards Recognition of effort Flexibility Opportunities
+Fixed pay Insurance Client appreciation Flexible hours Learning
+Tax benefits Leave Seniority rewards External activities/ associations Trainings/ certifications
+Variable pay Medical benefits Excellence/ spot rewards Dependents related Global movements
+Profit sharing Long term benefits External contribution Peronal interest platforms Internships/ apprenticeships
+1. PwC Publication: Meeting tomorrow’s workforce needs Flexible workforce arrangements
+Total rewards
+Dimensions of a persona
+People oriented architecture    7
+04
+Know your 
+peopleIt is difficult to decipher why some employees work harder than their peers 
+toward the same goal or objective, or why some seem to care more or exert greater effort on a project or in support of the company’s vision and direction. 
+Stepping back to look at the science of human behaviour can give enormous 
+insight into what really drives people to make choices and take action. However, in business and in the design of employee reward and recognition initiatives, too often companies fail to consider  people whose behaviour they 
+are seeking to influence. Companies must better understand their employees as 
+individuals to effectively motivate and engage them. A revealing statistic from a recent study in Germany
+2 renders more obvious the need for organisations to 
+gain greater insight on their employees. 
+Although the survey is carried out in Germany but it offers a universal lesson. 
+Organisations should make employee engagement a priority for better 
+employee retention. 
+It has been observed that companies with recognised and engaged employees 
+are more likely to enjoy improved customer satisfaction, revenue growth, and 
+greater customer retention. Better employee engagement start from knowing 
+your employees better. Hence it is essential to follow a structured approach of having a set employee persona. Such a persona is a target employee group towards which the total rewards strategy could be mapped based on the characteristics. The objective of such a strategy is to provide the employees 
+with a total rewards package based on their own persona which may in turn 
+motivate employees to perform better. 
+What empowers your employees?
+The firm since the beginning of the employee engagement period, is  responsible to  empower every employee by providing a comprehensive support ecosystem that will  not only provide them with timely and structured 
+information to stay compliant with the firms’ policies but also help them 
+develop  professionally  and enhance productivity. 
+Empowerment principles Outcome
+• Visibility of services
+• Personalisation
+• Enabling ease of operations
+• CommunicationImprovement of employee 
+compliance
+• Knowledge repository
+• Learning, training and development 
+• Sharing and collaborationIncrease productivity and completing the deliverables
+• Recognition 
+• Rewards and incentives
+• MotivationIncreasing the stickiness to the firm“An employee’s motivation is a direct result of the sum of interactions with his or her manager.”
+Bob Nelson
+2. Survey conducted in Germany by Oracle and market research institute Innofact.Survey results: Employee insights survey
+8 PwCHR imperatives
+The existing HR technology and service delivery environment has become increasingly 
+complex, choices that were once clear, have become clouded. Traditional HR systems that handled record keeping and delivering chores have now undergone major 
+transformations. There are enterprise resource planning (ERP) systems; outsourcing 
+and off shoring firms; third party administrators (TPAs); ‘bolt-ons’, or best-of-breed standalone system solutions; web-enabled systems; application service providers (ASPs); interactive voice response (IVR) systems; and HR service centres who are capable of 
+keeping records and delivering services. The employee and the firm still form the nucleus 
+of the HR strategy.
+With each passing month, solutions available for HR services evolve and change. New 
+technologies enter the market, competitive strategies shift, and vendors themselves may be in a constant state of flux. Acquisitions can lead to duplication and fragmentation, 
+even as legacy technologies lose support. However, executives continue to demand 
+increased functionality and service.
+The business demands more from the HR systems to be delivered at an acceptable cost 
+within an overall business model. 
+Hence for  HR to build a sustainable employees organisation there are three  things that 
+are HR’s imperative, simplifying processes, engaging employees and optimising costs.
+These can be achieved effectively through a persona based approach.
+Engage 
+employees
+Predict employee 
+turnover
+Manage 
+compensation and incentives
+Manage scale in people operationsLeveraging the best talent in business
+Creating the persona
+Based on the below areas criteria an employee Persona could be created to better 
+understand your employees
+DesignationAge group
+Business unit   Education
+Focus areaExperience
+Persona X
+InterestsRoleDimensions of a persona
+People oriented architecture    905
+Developing the 
+architecture
+Linking the personas to the total rewards
+Once a set of personas are identified for an organisation, it needs to  be determined 
+which of the aspects of total rewards suits the specific persona. This can be determined based on a study of existing employee profiles surveys designed to find out the ideal 
+rewards which suits the employees. 
+“Employees want more than a 
+paycheck...”
+Marissa Meyer, CEO, Yahoo
+(The dotted line represents rewards dimensions which are appreciated by the persona; 
+above is just an example, actual mapping is determined using primary research within an organisation).
+In a similar manner, the set of personas identified within  organisations can be linked 
+to specific aspects of the rewards structure as defined. Whenever employee services are designed this mapping can be used to fine tune services so that each of the benefits can be personalised as well as maximised for the broader set of employee groups.
+Designing employee services based rewards
+In order to develop organisation to employee service platforms and to maximise the value for the employees by linking it to the total rewards mechanism, it is important to 
+define the measurement parameters which can be associated with the services provided. 
+We have considered the following set of services based on the employee’s journey with the firm along with measurable parameters (not exhaustive).Example: How to build a persona
+•  Fixed and 
+Variable  
+Compensation  is 
+most  impo rtant•  Less  number  of 
+Leaves•  Wa nts to be 
+apprecia ted 
+by senior  
+management•  Requires  mobili ty 
+solution s for 
+mainting  a 
+dynami c life•  Need s to create a 
+speializatio n
+•  Global  Mobili tyPersona 
+[Young  IT 
+Professional ]Age Group:
+25-30Educat iona l 
+Back ground :
+Engine ering 
+Gradua teExperie nce:Role:
+Technica l LeadDesignation:
+System Engine er 
+Business  Unit: 
+Informatio n 
+Technolog y
+Focus Areas:
+Growth, 
+Learning , 
+Collaboratio n
+Moneta ry Benefits  Non-Moneta ry 
+RewardsRecognitio n of 
+EffortFlexibilit y Oppo rtunitie s2-5 years
+10 PwCFor aligning these measurable parameters to the total rewards mechanism, there needs 
+to be a strategy or concept in place that the organisation adheres to. It is not possible to measure each and every parameter and link it to the rewards at one go. A few of the 
+parameters should be used for validating the effectiveness of the model.  Going by the 
+current trends, some of the new emerging concepts that the organisation can use to link these parameters are as follows.
+Use of social BPM 
+Using this employees are able to collaboratively work on a common project through an online interface. Records are kept regarding which employee worked on which process and how much effort was utilised. It also faciliates as an open 
+platform for communicating ideas, sharing and contributing over a same topic. 
+This increases employee interaction and reduces turnover time for deliverables.
+Employee wallet
+Employee digital wallet is a motivational tool which can be used by organisations to keep their employees engaged. They can be made a part of strategic activities like poll feedbacks, surveys, knowledge sharing and blogging, promoting strategic 
+initiatives through an increased awareness and participation and other compliance 
+activities. The concept is based on a simple rewarding mechanism where the employee is rewarded with points on performing certain desired actions which are decided by the firm. The accumulated points constitute the employee’s digital 
+wallet and can be redeemed against the various brand items or as extra leaves.Gamification 
+Gamification is a systematic way of employing a game design to motivate desired 
+behaviour.It  is not only used for motivating the customers but also the employees. Why are video games successful despite gamers not being paid to play? The people 
+who indulge in gaming are  are eager to test their own abilities, and are interested 
+in interacting with others playing the game. The best multiplayer games offer many  challenges, rich virtual worlds, and the opportunity to lead, compete, and collaborate. Video games have directly catered to the human need for autonomy, 
+mastery, purpose, and relatedness. Companies can learn from the gamers how 
+to motivate and challenge stakeholders, and can accordingly modify their online environments to enrich interaction.
+Collective ideation
+Collective Ideaion is a new collaborative concept where an organizational initiative or change is done by collective decisions from the employees mostly in the form of contests or other interactive excercises. This increases the involvement 
+of the employee and provides a sense of attachment to the organization. A 
+simple example of this can be decisions related to facility management, event management or new business model.Employee self  
+service, payrollCollaborative platform Performance managementKnowledge repository
+• Frequency of use
+• Time saved over paperbased services• Contributions
+• Referrals
+• Participation
+• Ratings
+• Idea count
+• No of meetings/ collaborative work
+• Points accumulation• Kra
+• Performance rating
+• Compliance
+• Escalations
+• Appreciations• Contributions
+• Frequency of use
+• Discussions, wikis
+• Rating content
+• Verification
+Learning and development system News and communication Brand shop/ corporate commerce
+• Trainings completed
+• Training outcomes
+• Goal setting and achievement
+• Mentoring• Response to interactive topics
+• Communication initiated
+• Recognition frequency
+• Contribution to news articles• Products used
+• Reviews
+• Points utilized
+• Badges
+People oriented architecture    11
+Whenever a strategic initiative is taken or such a concept is implemented, it is 
+necessary to know which services can benefit. 
+The orange points show where the concept can be used effectively. As an example it can be said using gamification, points can be generated out of the activities in the collaborative platform. Performance management can be made competitive, 
+article contributions can be increased by using concept of game levels, learning and 
+development can be made by providing badges, responses to communication can be increased using referral points and brand shop can be utilised more by using the points generated. This is how the above chosen services can be built around the gamification 
+concept. In a similar manner, other concepts can be used to improve specific services. 
+Once the concept and the services are linked, the measurement parameters for the 
+chosen services can be mapped to the respective reward parameters to generate an effective total rewards programme. Coupled with the personas, this forms an effective way to design both rewards and services for the holistic user experience that the firm 
+wants to offer.Implementation matrix : where to focus
+12 PwC
+Combining to form the people oriented architecture
+The below architecture shows the linkage of the employee services and the total rewards 
+to the employees filtered through personas. This model is designed on the basis of one or multiple concepts which are designed to increase employee engagement. 
+Using this people oriented architecture; organisations can bring out the focus points 
+which will provide the most impact when designing a service as well as keeping the employees engaged using an innovative methodology.
+Architecture blueprint
+Employ ee self 
+service
+Collaborati ve 
+platform
+Performanc e 
+management
+Knowledge 
+reposi tory
+Learning  and 
+developmen t
+News and 
+communicat ion
+Bran d shopMoneta ry 
+benefits
+Non - Moneta ry 
+rewards
+Recognitio n of 
+effort
+Flexibility
+Oppo rtunitie sGamifica tionSocial  BPMEmploy ee walletCollecti ve ideation
+Persona
+1 Persona
+2 
+Persona
+3 Persona
+4 Empl oyees
+People oriented architecture    13
+Building the technology platform
+Building a sound technology platform requires significant expertise, structured 
+approach and innovative thinking. It should increase productivity by enabling social collaboration to help accelerate innovation, generate ideas, enhance 
+interactions, and improve access to organisation-wide expertise, thus 
+eliminating re-inventing-the-wheel syndrome. 
+The platform should allow on-the-go access of HR functionalities through 
+mobile and smart devices, thereby allowing the organisation to fully capitalise 
+on its digital presence. To ensure participation, platforms should have self 
+service functionality that will keep the employees engaged and connected. The platform should have advanced analytic capabilities for the HR to gain a strategic lever to monitor key HR metrics and make informed decisions before concerns become crisis. 
+Technology enablement
+14 PwCPwC’s employee engagement platform: Evolution 
+PwC’s employee collaboration platform evolved through a number of cycles 
+and is still on-going.
+Earlier 
+Initially, it just aggregated different systems and provided links in a single place with most of static content. Employees needed to search through the entire portal to find relevant information.
+We moved to
+Later, it evolved into a more personalised interface which showed information and dashboards relevant to the individuals. Functionalities like the L&D system were integrated into the same platform. This is where the persona based 
+approach was applied. Based on the employee classification, personalised 
+sections were introduced. Employees could intuitively notice  the sections which were relevant to them.
+06
+Case study
+“Employees who believe that 
+management is concerned about them as a whole person - not just an employee - are more productive, more satisfied, more fulfilled. Satisfied employees mean satisfied customers, which leads to profitability.”
+Anne M. Mulchahy, CEO, Xerox 
+Corporation
+People oriented architecture    15We have evolved further
+The success of the platform majorly results from the continuous cycle of 
+revision and employee feedback. It is not just any other portal, it is a platform that the employees use for the engagement it provides and the benefits that 
+follow as a result.
+Once the base collaborative features were decided, focus shifted to 
+innovative ideas to engage the employees. 
+The ‘Ideate’ section encourages employee participation to bring out new 
+business models and to gather opininons from the employees. This supports 
+the total rewards programme where people are rewarded with both moneraty as well as non monetary rewards.
+The collaboration platform ‘Spark’ has introduced a number of concepts from gamification in terms of earning points, receiving badges and competitiveness by comparing an employee with his or her peers.
+ The conceptof social BPM is still evolving but PwC’s collaborative platform provides sections for wikis or forums where employees can collaborate on their 
+deliverables.
+It is not necessary to choose a single concept to implement 
+the total rewards strategy, neither to choose all concepts. It is essential that whatever concept is chosen, it should fit 
+itself with the services offered and should be personalised 
+according to the employee groups.
+16 PwCNotes
+People oriented architecture    17
+18 PwC
+
+People oriented architecture    19About PwC 
+PwC* helps organisations and individuals create the 
+value they’re looking for.  We’re a network of firms in 158 countries with more than 180,000 people who are 
+committed to delivering quality in assurance, tax and 
+advisory services. 
+PwC India refers to the network of PwC firms in India, 
+having offices in: Ahmedabad, Bangalore, Chennai, Delhi 
+NCR, Hyderabad, Kolkata, Mumbai and Pune.  For more 
+information about PwC India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the 
+PwC network. Each member firm is a separate legal entity. 
+Please see www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwcContact
+Debdas Sen
+Executive director/partner,
+Technology Consulting Leader
++91 33 4404 6404debdas.sen@in.pwc.com
+Pradip Bhowmick
+Executive director/partner
+IT Strategy and Architecture Leader
++91 33 4404 4280pradip.bhowmick@in.pwc.com
+Saunak Ghoshal
+Associate director
+Digital Strategy Leader+91 33 4404 3239saunak.ghoshal@in.pwc.com
+Acknowledgements
+Technical content and storyboardingRohit Ray
+Sayandeb Mitra
+Saunak Ghoshal
+Design
+Abhishek Kakar
+www.pwc.in
+Data Classification: DC0
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this 
+publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained within it or for 
+any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability 
+company in India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+AK 83 - September 2013 People oriented architecture.indd
+Designed by: PwC Brand and Communications, India

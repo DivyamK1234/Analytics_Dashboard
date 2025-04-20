@@ -1,0 +1,2079 @@
+Title: Towards a climate-resilient future: Strategies for the Andaman and Nicobar Islands
+Date Published: 2025-03-04 04:11:02+00:00
+Source: pdfs/pwc_towards-climate-resilient-future.pdf
+
+--- CONTENT ---
+
+Towards a climate-resilient 
+future: Strategies for the Andaman and Nicobar Islands 
+Jointly prepared by  PwC India and PwC India Foundation  
+March 2025  
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC  2Table of contents 
+1. Setting the context  ................................................................................................................................ . 9 
+1.1. About the study  .........................................................................................................................  10 
+2. Situational analysis  ..............................................................................................................................  12 
+2.1. LULC analysis in the ANI  .......................................................................................................... 12 
+2.2. Climate change impact assessment  .........................................................................................  19 
+3. Identifying solutions for addressing vulnerabilities  .........................................................................  26 
+3.1. Prioritisation of the vulnerable sub -districts ............................................................................... 26 
+3.2. Socio -economic and demographic profile of vulnerable sub -districts ....................................... 33 
+3.3. Proposed measures to address vulnerabilities ......................................................................... 38 
+4. Green finance options  .........................................................................................................................  42 
+4.1. Assessment of the feasible financing options  ........................................................................... 42 
+5. Feasibility of carbon markets for pilot interventions  .......................................................................  44 
+5.1. Assessing the applicability of carbon markets  .......................................................................... 44 
+5.2. Estimated carbon credits for the proposed solutions in the pilot  site(s)  .................................... 46 
+5.3. Final measures for implementation as a pilot ............................................................................ 51 
+6. The way forward  ...................................................................................................................................  56 
+7. Annexures .............................................................................................................................................  58 
+Annexure A: Scale used for evaluating green financing options ............................................................  58 
+Annexure B: Indicative costs associated with carbon markets  ..............................................................  60 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC  3List of tables  
+Table 1: LULC analysis for 2005 -06, 2010- 11, 2015- 16, 2022- 23 ...................................................................... 16 
+Table 2: Comparison of LULC changes from 2005 to 2023 in the ANI  ............................................................... 17 
+Table 3: Climate change impacts on nature -based sectors  ................................................................................ 24 
+Table 4: SEVI ...................................................................................................................................................... 27 
+Table 5: BPVI ...................................................................................................................................................... 29 
+Table 6: CVI  ........................................................................................................................................................ 32 
+Table 7: Socio -economic and demographic profiles of the selected sub- districts .............................................. 33 
+Table 8: Proposed measures and their justification for selection  ........................................................................ 38 
+Table 9: Description of benefits from the proposed measure  ............................................................................. 40 
+Table 10: Evaluation of the green finance options  ..............................................................................................  43 
+Table 11: VCS -registered ARR projects with estimated ERs/ha/annum  ............................................................  46 
+Table 12: VCS -registered clean cookstove projects with estimated ERs/IC/annum  ........................................... 47 
+Table 13: Indicative carbon credit revenue (USD/annum) through implementing clean cookstoves  .................. 48 
+Table 14: Percentage and number of HHs at the shortlisted sites by main source of lighting  ............................  48 
+Table 15: Indicative carbon credits for DRE  ....................................................................................................... 49 
+Table 16: VCS -registered mangrove restoration projects with estimated ERs/ha/annum  .................................. 49 
+Table 17: Carbon market feasibility: Summary of the findings for the proposed measures  ................................  51 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC  4List of figures  
+Figure 1: Current land use patterns  .................................................................................................................... 13 
+Figure 2 (A, B, C, D): Historical land use patterns  ..............................................................................................  14 
+Figure 3: Mangrove loss  ..................................................................................................................................... 18 
+Figure 4: Climate change impacts on the small islands  ...................................................................................... 19 
+Figure 5: Rainfall recorded at Port Blair from 2011 to 2022  ................................................................................ 20 
+Figure 6: Annual precipitation (mm) .................................................................................................................... 21 
+Figure 7: Maximum temperature (°C)  ................................................................................................................. 21 
+Figure 8: Minimum temperature (°C)  .................................................................................................................. 22 
+Figure 9: Projected sea level rise under different SSP scenarios  ....................................................................... 22 
+Figure 10: Cyclone tracks in the last 20 years  .................................................................................................... 23 
+Figure 11: Map illustrating the SEVI of the ANI  .................................................................................................. 28 
+Figure 12: Map illustrating the BPVI of the ANI  .................................................................................................. 30 
+Figure 13: Comparison of SEVI and BPVI  .......................................................................................................... 31 
+Figure 14: Map illustrating the CVI of the ANI  ..................................................................................................... 32 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC  5 Foreword  
+The Andaman and Nicobar Islands (ANI) stand on the frontlines of climate change, where the impact is both 
+immediate and significant. This unique region faces a myriad of challenges – rising sea levels, changing 
+weather patterns, increasing temperatures and  biodiversity threats – affecting the environment as well as the 
+lives of the people in these regions.  
+Over the past few years, PwC India Foundation (PwCIF) has actively supported development efforts in the ANI, working closely with local communities, government bodies and think tanks to foster sustainable solutions and 
+improve quality of life. In our lates t study, a collaboration between PwC India and PwCIF, we have conducted 
+extensive research and engaged with stakeholders to identify the socio -economic, biophysical and climate-
+related challenges in these islands. Tailored to the adaptation and mitigation needs of the ANI, we have 
+prepared a comprehensive climate -resilient action plan comprising viable climate solutions and financing 
+options.  
+We extend our gratitude to the many individuals whose invaluable insights have shaped this report. Their 
+contribution has been crucial in understanding the complex dynamics at play and enabled us to curate effective 
+solutions. As we move forward, our focus  will be on implementing these solutions.  
+We remain committed to this mission, dedicated to making a measurable impact on the ground. We hope that 
+this report will serve as a guiding document for policymakers, businesses and communities in the ANI, catalysing meaningful change towards a sustainabl e future.  
+Sanjeev Krishan  
+Chairperson, PwC in India  Jaivir Singh 
+Vice Chairman, PwC India Foundation  
+Leader of the Global Office for Humanitarian Affairs  
+Tow
+ards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC  6 Abbreviations  
+ANI Andaman and Nicobar Islands  LPG Liquefied petroleum gas  
+AR6 Sixth Assessment Report  LULC Land use/land cover  
+ARR Afforestation, reforestation and 
+revegetation PDD Project design document  
+BPVI  Bio-Physical Vulnerability Index PNG  Piped natural gas 
+CDM  Clean development mechanism  SDG  Sustainable Development Goal  
+CRD Climate resilient development  SEVI  Socio -Economic Vulnerability Index 
+CSR Corporate social responsibility  SOP Share of proceeds  
+CVI Composite Vulnerability Index  SSC Small scale 
+DRE Decentralised renewable energy  SSP Shared socioeconomic pathway 
+ER Emission reduction VCS Verified carbon standards 
+GHG Greenhouse gas  VCU Verified carbon units 
+HH Household  VCM  Voluntary carbon market  
+ICS Improved cookstoves  WBG 
+CCKP World Bank Group Climate Change 
+Knowledge Portal  
+IPCC  Intergovernmental Panel on 
+Climate  Change  
+IUCN  International Union for Conservation 
+of Nature  
+Tow
+ards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC  7 Executive summary  
+The ANI are strategically and ecologically significant for India; however, their development has been 
+constrained by their geographic isolation. Recent government initiatives have aimed to transform the ANI into an economic hub, focusing on infrastructure,  trade, commerce and tourism. However, given the islands’ 
+ecological sensitivity and vulnerability to climate change, a climate -resilient development approach is essential. 
+This report, jointly developed by PwC India and the PwCIF, presents a comprehensive  climate- resilient action 
+plan that outlines viable climate solutions along with financing options for implementation in the most vulnerable regions of the ANI.  
+The report is divided into six chapters, which are summarised below:  
+Chapter 1: Setting the context  
+This chapter establishes the context of the study against the background of ongoing and planned development activities in the ANI, along with the ecological, climatic and social vulnerabilities of the islands. It also introduces the conceptual framework used to formulate the action plan, which is the  IPCC’s Climate -Resilient 
+Development Framework from AR6. The action plan is derived from the identified needs in the ANI with the aim of fostering broader adaptation and mitigation benefits.  
+Chapter 2: Situational analysis  
+This chapter provides a comprehensive overview of the ANI’s geographic, ecological and socio -economic 
+profile, identifying key challenges and vulnerabilities. An LULC assessment was conducted to analyse changes 
+in land use land cover patterns in the ANI ov er the past two decades.  
+The analysis indicated that the ANI has experienced an increase in agricultural activities, particularly plantations/orchards and annual crops, while traditional kharif cropping has declined. Evergreen and semi-evergreen woodlands have decreased, with a corresponding increase in degraded woodlands. Moreover, there 
+has been a reduction in littoral, swamp/mangroves and an increase in the minimum spread of water bodies. 
+The overall landscape has shifted towards more intensive land use, with significant changes  in agricultural 
+practices and forest cover. In addition to the LULC assessment, a climate change impact assessment was conducted using geospatial analysis of climate indicators such as temperature, precipitation, sea level rise and extreme weather events.  The results indicated that the ANI’s coastal, marine and forest ecosystems have been 
+adversely affected by climate change. These impacts are manifested in various ways, such as degradation of soil quality, increased soil erosion, altered water availability, shifts in salinity distribution and nutrient leaching. These environmental changes lead to cascading physical, social and ecological repercussions that further degrade the ANI’s natural ecosystems.  
+Chapter 3: Identifying solutions for addressing vulnerabilities 
+This chapter outlines measures to enhance the resilience of local communities and mitigation measures to reduce and sequester carbon emissions. A CVI was developed using bio -physical, socio- economic and 
+demographic factors to identify the most vulnerable regions in the ANI. Diglipur, Mayabunder and Ferrargunj emerged as the most vulnerable sub- districts. Subsequently, the viability of several solutions to address the 
+specific vulnerabilities in these sub -districts were assessed. Agroforestry, clean cookstov es, decentralised 
+renewable energy, coconut husk biochar and mangrove conservation  emerged as the most viable options 
+that could be developed into pilot projects for implementation.  
+Tow
+ards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC  8 Chapter 4: Green finance options  
+This chapter examines the financial mechanisms to support the implementation of the climate solutions 
+identified in the previous chapter. Green finance options, including impact investment, green bonds, green 
+loans, climate finance and carbon markets, were  evaluated based on key parameters such as accessibility, 
+regulatory flexibility, volatility, returns and scalability. Among these options, carbon markets emerged as the 
+most viable choice for financing the climate solutions in Diglipur, Mayabunder and Fer rargunj.  
+Chapter 5: Feasibility of carbon markets for pilot intervention  
+This chapter shortlists two to three climate solutions from those identified in Chapter 3 based on their feasibility for implementation through carbon market financing. The assessment considered factors such as the degree of alignment with existing carbon methodologies (e.g. Verra and Gold Standard), estimated emission reductions, indicative price/credit, and additionality through alignment with the SDGs.  
+Mangrove restoration, clean cookstoves and decentralised renewable energy emerged as the most promising solutions, with mangrove restoration standing out due to its significant carbon sequestration potential and additional co- benefits. As one of the three main blue carbon ecosystems in the ANI, mangroves present an 
+untapped opportunity for the region, which have largely remained unexplored. 
+Chapter 6: The way forward  
+This chapter summarises the key findings of the report. Mangrove restoration, clean cookstoves and 
+decentralised renewable energy were identified as the measures best suited for implementing as pilots in 
+Diglipur, Mayabunder and Ferrargunj, with carbon mar kets as the preferred financing mechanism.  
+The next phase of the project will focus on implementing these measures in the identified areas. Key upcoming activities include developing detailed project plans for the pilots, securing funding and executing them on the ground.  
+Tow
+ards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC  9 1.Setting the context
+Spread across 8,249 sq. km, with a long coastline of 1,962 km in the Bay of Bengal, the ANI represent a unique 
+intersection of geopolitical importance and ecological sensitivity. Geographically closer to Southeast Asia than 
+the Indian mainland, the ANI off er a significant locational advantage in the east to India. These islands are 
+situated near the Malacca shipping lanes, which serve as key trade routes between Asia, Africa and the Pacific. 
+To maximise this geographic advantage, the government has initiate d a range of infrastructure projects aimed 
+at transforming the ANI into an economic hub for trade, commerce and tourism while promoting socio -economic 
+development.1,2,3 
+Simultaneously, these islands are characterised by a rich biodiversity and high levels of endemism due to their 
+geographic location and isolation. The islands comprise fragile terrestrial, coastal and marine ecosystems that 
+provide key ecosystem services and must be preserved. However,  these natural resources face increasing 
+threats from anthropogenic climate change, including rising sea levels, increasing temperatures  and change in  
+precipitation  patterns. These changes are expected to negatively impact livelihoods , health and infrastructure in 
+the ANI . For i nstance, changes in precipitation may lead to crop loss and reduced agricultural productivity and 
+availability of drinking water as residents are primarily dependent on rainwater. Meanwhile, rising average 
+temperatures may affect the ANI’s key economic sectors (fisheries, agriculture and tourism) by altering fish habitats and spawning, reducing food production due to increased evapotranspiration, heat stress on crops, erratic weather and pest attacks. The tourism sector may also suffer as coral bleaching leads to the loss of natural attractions. Furthermore, rising sea levels may contribute to coastal erosion, increased storm surges, inundation of low- lying areas and saltwater intrusions, thus degrading water resources. The impacts of climate  
+ 
+1The Economic Times, 2024 will be a transformational year for the Andaman and Nicobar Islands. Economic Times, 2023, 
+https://infra.economictimes.indiatimes.com/news/urban -infrastructure/2024 -will-be-transformational- year-for-andaman -and-nicobar -
+islands/106341740  
+2The Economic Times, Modi Government’s Rs 10,000 Crore Plan to Transform Andaman and Nicobar Islands, 2015, 
+https://economictimes.indiatimes.com/news/economy/infrastructure/modi -governments -rs-10000- crore -plan- to-transform -andaman -
+and-nicobar -islands/articl eshow/49111067.cms?from=mdr   
+3The Hindu, Nicobar Triangle: On the ₹72,000 -Crore Project on Great Nicobar Island, 2024, 
+https://www.thehindu.com/opinion/editorial/%E2%80%8Bnicobar -triangle -on-the-72000- crore -project -on-great -nicobar -
+island/article68327922.ece   
+
+Tow
+ards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC  10 change not only threaten the ecological balance of the islands but also undermine their economic and social 
+resilience, exacerbating existing vulnerabilities and creating new risks. For instance, people in the ANI are increasingly vulnerable to climate cha nge-induced diseases such as malaria and dengue, as their prevalence is 
+expected to increase with rising temperatures. This risk is further increased by limited healthcare facilities on the islands.
+4 
+Within this context of geopolitical and ecological significance and the growing threats posed by climate change, 
+a balanced approach towards  sustainable development is essential. This approach must incorporate climate -
+resilient strategies that protect and preserve the fragile ecosystem while addressing the region’s economic and 
+strategic needs. This study has been conducted within this framewo rk with the aim of developing climate -
+resilient solutions that support sustainable development in the ANI . 
+1.1. About the study  
+Objective and conceptual underpinning 
+This study uses the lens of the IPCC CRD framework, with the aim of identifying solutions for the ANI that will build climate resilience and achieve sustainable development outcomes. CRD is defined as ‘a process of implementing greenhouse gas mitigation an d adaptation options to support sustainable development for all in 
+ways that support human and planetary health and well -being, equity and justice’.
+5 According to the CRD 
+framework, climate action (adaptation and mitigation) and sustainable development are interlinked and cannot be effectively achieved in isolation. Adaptation actions enhance social, economic and ecological resilience to climate change , thereby supporting sustainable development outcomes. For example, climate -smart 
+agricultural practices improve water management, increase water availability, and enhance livelihoods and food security. Simultaneously, without mitigation actions, global wa rming will continue to escalate, worsening climate 
+impacts undermining development and limiting effective adaptation options that are available. CRD focuses on transforming five interconnected systems: Energy systems, industrial systems, urban and infrastr ucture 
+systems, societal systems, and land, ocean and ecosystems. It also considers socio -economic inequities 
+stemming from gender, race or ethnicity, geographic location and poverty to avoid compounding vulnerability to climate change and exacerbating inj ustice.  
+4Mi nistry of Health and Family Welfare, Andaman & Nicobar Islands: State Action Plan on Climate Change and Human Health. 2022 -
+27, https://ncdc.mohfw.gov.in/wp -content/uploads/2025/01/34_SAPCCHH_Andaman -and-Nicobar_21- 10-24.pdf   
+5IP CC, Sixth Assessment Report, Climate Change 2022: Impacts, Adaptation and Vulnerability, 2022, 
+https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_Chapter18.pdf  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    11 Methodology 
+The study used a comprehensive methodology comprising desk research, data collection, stakeholder 
+consultations and data analysis. A literature review was conducted, examining research studies, articles and 
+government reports, followed by the collection and analysis of quantitative and qualitative data to identify trends 
+and assess the ANI’s landscape. To strengthen the insights, extensive consultations were conducted with a 
+range of stakeholders, including central and union- level government agencies, the private sector, development 
+agencies and carbon market project developers. These consultations were conducted at different stages of the 
+study to gather information and validate findings. In addition, an Advisory Commit tee (see Acknowledgements) 
+consisting of four experts was established to provide critical reviews, direction and insights into the study’s 
+findings, enhancing the findings’ robustness.  
+A situational analysis was conducted to assess the impacts of climate change and LULC changes. 
+Subsequently, the three most vulnerable locations were prioritised using a CVI of socio -economic and bio-
+physical factors. Five feasible climate solutions were shortlisted based on two criteria: prior implementation in 
+the ANI or presence in existing government policies and programmes in the ANI. Finally, several green 
+financing options were assessed, with carbon markets emerging as the most feasible. The study co ncluded 
+with an assessment of the carbon market’s applicability to finance pilot projects, with mangrove restoration, 
+clean cookstoves and decentralised renewable energy emerging as the most promising options.  
+ 
+  
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    12  
+2. Situational analysis  
+This chapter provides an in -depth analysis of the ANI’s climate trends and shifts in LULC patterns. It offers a 
+comprehensive understanding of the ANI’s natural resource base, the threats to key economic sectors and 
+anticipated climate risks. These findings, which form the foundation for the rest of the study, are detailed in the 
+following sections.  
+2.1. LULC analysis in the ANI  
+LULC plays a critical role in the climate system, acting as a source and sink of GHGs.6 Changes in LULC 
+patterns modulate the incidence of heatwaves, cold waves, cloud formation and rainfall patterns. Such changes 
+can directly and indirectly affect surface temperatures, leading to altered rainfall patterns and thereby droughts 
+or floods.7 Meanwhile, climate change, including the increasing frequency and intensity of extreme weather 
+events, has negatively impacted food security and terrestrial ecosystems and contributed to land degradation 
+and desertification. The land ecosystems in the ANI  remain highly vulnerable to these ongoing changes and 
+extreme weather events.  
+  
+ 
+6 U.S. Geological Survey, How do changes in climate and land use relate to one another? https://www.usgs.gov/faqs/how- do-changes -
+climate -and-land-use-relate -one-another -1?qt-news_science_products=0#qt -news_science_products  
+7 U.S. Global Change Research Program, Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment,  
+Volume II, 2018, https://nca2018.globalchange.gov/chapter/5/  
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    13 2.1.1.  Current land use patterns  
+The ANI have diverse LULC patterns, comprising dense tropical forests, mangroves, coastal wetlands, 
+agricultural land and urban settlements. Approximately 86% of the total land area is covered by forests, which 
+include tropical evergreen forests, tropical semi -evergreen forests, moist deciduous forests and mangroves.8 
+The remaining land is used for agriculture, settlements and other purposes.  
+Figure 1: Current land use patterns  
+ Land use land cover pattern (2022 -23)
+Area (L ha)
+Annual crop ; 0.09; 1% Plantation and 
+Builtup ; 0.04; 1% orchard ; 0.16; 2%
+Deciduous woodland ; 
+0.45; 5%
+Waterbodies max Littoral, swap and spread ; 0.04; 0%mangroves ; 0.63; 8%
+Wasteland ; 0.04; 1%
+Waterbodies min 
+spread ; 0.09; 1%
+Degraded woodland ; Current fallow; 0.02; 
+2.13; 26% 0%
+Evergreen and semi -
+evergreen woodland ; 
+4.55; 55%
+Source: Bhuvan; NRSC; Government of India  
+ 
+  
+ 
+8 Government of India, Bhuvan; NRSC, 2023  
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    14 2.1.2.  Historical changes in land use  
+Historical changes in LULC patterns in the ANI have been shaped by natural events and human activities. The 
+2004 tsunami in the Indian Ocean significantly altered the coastal landscape, submerging several islands and 
+causing substantial loss of mangrove fo rests. Meanwhile, post -tsunami reconstruction efforts and development 
+projects have contributed to increased urbanisation and deforestation in certain areas.  
+Figure 2 (A, B, C, D): Historical land use patterns  
+(A): LULC (2005 –2006)  
+ Builtup
+Annual crop
+Plantation and orchard
+Deciduous woodland
+Littoral, swap and mangroves
+Wasteland
+Waterbodies min spread
+Kharif crop
+Current fallow
+Evergreen/semi-evergreen woodland
+Degraded woodland
+Shifting cultivation
+Waterbodies max spread
+ 
+(B): LULC (2010 –2011)  
+ Builtup
+Annual crop
+Plantation and orchard
+Deciduous woodland
+Littoral, swap and mangroves
+Wasteland
+Kharif crop
+Current fallow
+Evergreen/semi-evergreen woodland
+Degraded woodland
+Shifting cultivation
+Waterbodies max spread
+  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    15 (C): LULC (2015 –2016)  
+ Builtup
+Rabi crop
+Plantation and orchard
+Deciduous woodland
+Littoral, swap and mangroves
+Wasteland
+Kharif crop
+Current fallow
+Evergreen/semi-evergreen woodland
+Degraded woodland
+Annual crop
+Waterbodies max spread
+ 
+(D): LULC (2022 –2023)  
+ Builtup
+Annual crop
+Plantation and orchard
+Deciduous woodland
+Littoral, swap and mangroves
+Wasteland
+Waterbodies min spread
+Current fallow
+Evergreen/semi-evergreen woodland
+Degraded woodland
+Waterbodies max spread
+Source: Bhuvan 
+  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    16 The findings of the LULC analysis are presented in Table 1.  
+Table 1: LULC analysis for 2005- 06, 2010- 11, 2015- 16, 2022- 23 
+Year  Description  
+2005- 06 • The ANI were predominantly covered by forests, especially evergreen and semi -
+evergreen woodlands.  
+• Significant degraded woodland and mangrove areas were also present.  
+• Agricultural land use was minimal and human development was limited, with very little built -
+up areas and wasteland.  
+• Water bodies that varied in size across the islands covered the landscape.  
+• Overall, the data reflects a landscape with more natural vegetation than human development.  
+2010- 11 • The ANI experienced minimal changes in land use and land cover.  
+• The most notable changes include a slight decrease in kharif crops and shifting cultivation 
+while a minor increase was observed in fallow land.  
+• The maximum spread of water bodies increased.  
+• Overall, the land cover remained mostly stable, with evergreen and semi -evergreen 
+woodlands and degraded woodlands predominant.  
+2015- 16 • The ANI experienced some notable changes in land use and land cover in 2015.  
+• There was a significant reduction in kharif crop areas and a marked increase in annual crop 
+areas by 2015.  
+• Evergreen and semi -evergreen woodlands slightly increased, whereas degraded woodlands 
+saw a marginal decrease. 
+• The presence of rabi crops in 2015 indicates diversification in agricultural practices.  
+• Overall, the landscape maintained a high degree of natural vegetation with minimal changes 
+in built- up areas and wasteland.  
+2022- 23 • The ANI experienced a mix of stability and changes in their land use and land cover patterns.  
+• Built-up and plantation areas increased, showing signs of human development and 
+agricultural intensification.  
+• However, evergreen and semi -evergreen woodlands slightly decreased, suggesting some 
+loss of forest cover.  
+• Wetlands and water bodies showed notable increases, indicating positive changes in these 
+ecosystems.  
+• Overall, the islands maintained a significant amount of their natural vegetation, but there 
+were signs of development and environmental changes.  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    17 Table 2: Comparison of LULC changes from 2005 to 2023 in the ANI9 
+The LULC change analysis reveals several notable shifts in land use and cover across the ANI between 2005 
+and 2023. Agricultural activities have increased, particularly in plantation/orchard and annual crops, whereas 
+traditional kharif crops have declined. Evergreen and semi -evergreen woodlands have decreased, with a 
+corresponding rise in degraded woodlands. There has also been a reduction in littoral, swamp and mangrove areas, along with an increase in the minimum spread of water bodies . Overall, the lands cape has shifted 
+towards more intensive land use, with significant changes in agricultural practices and forest cover.  
+  
+ 
+9 Government of India, Bhuvan -Thematic Service, ISRO, India - https://bhuvan -app1.nrsc.gov.in/thematic/thematic/index.php  LULC class Area (L ha)  
+2005 2010 2015 2020 2023 
+Built-up 0.04 0.04 0.04 0.05 0.04 
+Annual crops  0.01 0.01 0.19 null 0.09 
+Plantation/orchards 0.01 0.01 0.01 0.21 0.16 
+Deciduous woodland  0.43 0.43 0.43 0.48 0.45 
+Littoral/swamp/mangroves  0.7 0.7 0.7 0.75 0.63 
+Wasteland  0.04 0.04 0.04 0.01 0.04 
+Waterbodies (min. spread)  0.01 null null 0.11 0.09 
+Kharif crops 0.16 0.14 0.02 null null 
+Current fallow  0.12 0.14 0.09 0.15 0.02 
+Evergreen/semi -evergreen 
+woodland  5.01 5.01 5.05 4.76 4.55 
+Degraded woodland  1.62 1.62 1.16 1.69 2.13 
+Shifting cultivation 0.06 0.05 null null null 
+Waterbodies (max. spread)  0.05 0.06 0.05 0.04 0.04 
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    18 2.1.3.  Deforestation and mangrove loss  
+Deforestation has been driven by logging, agricultural expansion and infrastructure development. Analysing 
+satellite imagery and remote sensing data over the past few decades shows a gradual decline in forest cover, 
+impacting the islands’ biodiversity and ecological balance. The presence of mangroves has also rapidly 
+declined, with approximately 357 sq. km lost between 1989 and 2021, representing nearly 15% of the total loss during this period.
+10 Coastal development, aquaculture activities and natural disasters such as the 2004 
+tsunami have further contributed to mangrove degradation.11,12 Significant changes in LULC patterns are 
+observed in the ANI over recent decades, largely driven by natural disasters and human activities.13,14,15 The 
+compounded effects of these changes include ecological consequences such as species loss and reduced 
+coastal protection, highlighting the urgent need for sustainable management practices in the region  
+Figure 3: Mangrove loss  
+ 
+Source: ISFR, 2021  
+The loss of these forests is linked to species loss, although quantifying the extent of this loss remains challenging due to data unavailability. These forests play a crucial role in coastal protection and biodiversity, 
+and their degradation has significan t ecological implications.  
+  
+ 
+10 Forest Survey of India, State of Forest Report - Chapter 3: Mangrove Cover, 2021, https://fsi.nic.in/isfr -2021/chapter -3.pdf   
+11 Business Outlook, Is India's Mangrove Cover Shrinking? Here's All You Need To Know, 2024, 
+https://www.outlookbusiness.com/planet/sustainability/is -indias -mangrove -cover -shrinking -heres -all-you-need- to-know  
+12 Down to Earth, Over half of world’s mangroves face collapse due to human actions and climate change, 2024, http://downtoearth . 
+org.in/wildlife -biodiversity/over -half-of-world -s-mangroves -face-collapse -due-to-human -actions -and-climate -change- 96311 
+13 Down to Earth, NASA highlights loss of mangrove cover on Katchal island in the Nicobars, 2022, https://www.downtoearth.org.in/environment/nasa -highlights -loss-of-mangrove -cover -on-katchal -island -in-the-nicobars -84236   
+14 FAO, Rehabilitation of agriculture in tsunami affected areas in India: one and a half years later, 2006, https://www.fao.org/4/ag104e/ag104e08.htm  
+15 Frontline, On the brink: 10 endangered species of the Nicobar Islands, 2025, https://frontline.thehindu.com/environment/great -nicobar -
+project -endangered -species -saltwater -crocodile- species -wildlife/article69150433.ece  1200
+1000m) k  . q s  n
+800i (  t s o l  r e
+600v o c  e v o r
+400g n Ma
+200
+0
+1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019 2021
+Year
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    19 2.2. Climate change impact assessment  
+According to the IPCC’s AR6, small islands, including the ANI, are increasingly affected by rising temperatures, 
+frequent and intense tropical cyclones, storm surges, droughts, shifting precipitation patterns, sea level rise, 
+coral bleaching and invasive s pecies.16 These climatic changes intensify impacts on natural and human 
+systems. The ANI are particularly vulnerable as their population and economy rely heavily on climate -sensitive 
+sectors such as agriculture, forests, fisheries, tourism and animal husbandry. The  AR6 highlights several 
+observed impacts and projected risks for small islands, emphasising the urgent need for adaptive measures to 
+reduce climate change threats. These threats are detailed below:  
+Figure 4: Climate change impacts on the small islands  
+ 
+Source: IPCC AR6  
+To assess global climate changes in the context of the ANI, a comprehensive geospatial analysis was conducted. The following sections outline the specific climate change impacts to the ANI.  
+ 
+16 IPCC 2022, Small Islands. In Climate Change 2022: Impacts, Adaptation and Vulnerability, Contribution of Working Group II to the 
+Sixth Assessment Report of the Intergovernmental Panel on Climate Change, https://doi.org/10.1017/9781009325844.017  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    20 2.2.1.  Climate baseline  
+The ANI has a tropical climate, warm, moist and equable climate due to its location near the equatorial belt and 
+the temperatures ranges from 18°C to 35°C. These islands receive both Northeast and Southwest monsoons, 
+with the Southwest monsoon bringing hea vy rains from July to September and the Northeast monsoon from 
+October to December. The islands receive an average yearly rainfall ranging from 3,000 to 3,500 mm, with 
+humidity levels varying between 66% and 85%. Cyclones, accompanied by strong winds, comm only occur 
+during the monsoon seasons, particularly in May and November.17 
+Figure 5: Rainfall recorded at Port Blair from 2011 to 2022  
+ 
+Source: Directorate of Economics and Statistics, Meteorological Analysis Andaman & Nicobar Islands 2022  
+The ANI receive rainfall from the south -west and north -east monsoons. Figure 5 illustrates the variability in 
+annual rainfall, reflecting changes in weather patterns and monsoon intensity over the years. Typically, summer temperatures range from 28°C to 32 °C, with variations from −1°C to +1°C. However, recent trends show that 
+temperatures have consistently exceeded the normal range by more than 1°C, aligning with the IPCC 
+projections of global warming for small islands. An analysis from 2011 to 2015 showed that minimum 
+temperatures were notably above normal in January –February and even higher in March –April. In 2016, 
+temperatures spiked sharply, reaching heat wave conditions. Since 2011, the number of very warm days has increased, while cold days have declin ed compared with historical averages.  
+ 
+17 Andaman and Nicobar Administration, Department of Environment and Forests, Andaman and Nicobar Islands Union Territory 
+Biodiversity Strategy and Action Plan, 2005  4500
+400035003000) m m (  
+2500n i  l l a f n i
+2000Ra
+15001000
+500
+0
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Years
+January February March April May June
+July August September October November December
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    21 2.2.2.  Climate projections  
+Climate models indicate that surface air temperatures will continue to rise across small island regions over the 
+next three 30- year period and significant changes in the climate over the coming decades.18 The key 
+projections are as follows:  
+• Temperature:  Average temperatures are expected to increase by 1.5°C– 2.5°C by the end of the century, 
+likely intensifying heat -related stresses on human and natural systems.  
+• Precipitation:  Annual rainfall is projected to increase, but the distribution and intensity of rainfall events 
+may become more erratic. The monsoon season is expected to bring heavier downpours, whereas the dry 
+season may become even drier.  
+• Sea levels:  Sea levels around the islands are projected to rise by 0.5 to 0.8 m by 2100, posing significant 
+risks to coastal areas and low- lying islands. 
+Figure 6: Annual precipitation (mm)  
+ 2500)2400m m (  n o i t a
+2300t i p i c e Pr
+2200
+2100
+1950 1960 1970 1980 1990 2000 2010 2020 2030 2040 2050 2060 2070 2080 2090 2100Historical SSP2 SSP5
+Source: WBG CCKP  
+Figure 7: Maximum temperature (°C)  
+ 
+Source: WBG CCKP  
+  
+ 
+18 World Bank Group Climate Change Knowledge Portal. https://climateknowledgeportal.worldbank.org/  33
+32) C (  
+31mp e T  
+30x Ma
+2928
+27
+1950 1960 1970 1980 1990 2000 2010 2020 2030 2040 2050 2060 2070 2080 2090 2100Historical SSP2 SSP5
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    22 Figure 8: Minimum temperature (°C)  
+ 
+Source: WBG CCKP  
+Figures 6– 8 present linear graphs depicting changes in annual rainfall and maximum and minimum 
+temperature in the ANI for 2024 –2100 under the SSP2 and SSP5 scenarios. Projections indicate that the ANI 
+will experience the most significant increase in minimum temperature by 2100 under the SSP5 scenario.  
+Figure 9: Projected sea level rise under different SSP scenarios  
+ 
+Source: NASA sea level projection tool  
+The graph in Figure 9 shows an increasing trend in sea level, with a linear trend line plotted alongside. These 
+trends represents the rate of sea level change over time.  
+  30C)°(  29e r u t a r e
+28mp e t
+27m mu i n
+26Mi
+25
+1950 1960 1970 1980 1990 2000 2010 2020 2030 2040 2050 2060 2070 2080 2090 2100Historical SSP2 SSP5
+0.9
+0.8) m (
+0.7 e g
+0.6n a h0.5c  l e0.4v e l  0.3a Se0.2
+0.1
+0
+2010 2020 2030 2040 2050 2060 2070 2080 2090 2100 2110
+SSP2 SSP5 Linear (SSP2)
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    23 2.2.3.  Climate hazards  
+The ANI are highly vulnerable to climate -related hazards. The frequency and intensity of tropical cyclones are 
+projected to increase, heightening the risks of storm surges, flooding and wind damage. Rising sea levels, 
+combined with intensified storm activity, contribute to a ccelerated coastal erosion, posing threats to 
+infrastructure, settlements and natural habitats. Additionally, the rising sea levels can lead to saltwater intrusion 
+into freshwater resources, impacting drinking water supplies and reducing agricultural produ ctivity.  
+Figure 10: Cyclone tracks in the last 20 years  
+ 
+Source: NOAA Historical Hurricane Tracks  
+The lines on the map represent the cyclone pathways for each recorded year. An assessment of historical cyclone tracks over the past 20 years in the ANI indicates that all the islands are highly vulnerable to 
+cyclone risk. 
+Coastal regions in India such as the ANI, face a risk of inundation due to rising sea levels and annual flooding. 
+The National Centre for Coastal Research monitored shoreline changes along the Indian coastline from 1990 to 2018, revealing that 33.6%, 26.9%  and 39.6% of the coastline was vulnerable to erosion, experienced accretion 
+and remained stable, respectively.
+19 The Shoreline Change Atlas indicates that between 1989 -91 and 2004- 06, 
+740.37 km of the Andaman Islands’ shoreline experienced erosion, 944.84 km underwent accretion and 36.83 
+km remained stable. The eroded area totalled 17.93 sq. km, while the accreted a rea covered 27.09 sq. km. As 
+for the Nicobar Islands, which have a shoreline length of 777.63 km (excluding the mouths of estuaries, rivers, 
+and creeks), 690.10 km experienced erosion, 68.30 km saw accretion and 19.23 km remained stable over the same perio d. The eroded area amounted to 94.72 sq. km, and the accreted area was 0.77 sq. km.
+20   
+ 
+19 Ministry of Environment, Forest and Climate Change, Government of India, 2023. Coastal Erosion.   
+20 ISRO, Shore Line Change Atlas of the Indian Coast (Vol. 6), 2014, https://vedas.sac.gov.in/static/pdf/atlas/Seashore/Vol -6-Full.pdf   
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    24 2.2.4.  Sectoral impacts of climate change in the ANI 
+Climate change significantly impacts various nature -based sectors in the ANI. Key sectors such as biodiversity, 
+agriculture, fisheries and water resources face significant threats from increased temperatures, sea level rise 
+and altered precipitation patterns, affecting the ecological balance and livelihoods of local communities . 
+Table 3: Climate change impacts on nature -based sectors  
+Sectors  Climate change impacts  
+Forest and • Coral reefs:  Rising sea temperatures and ocean acidification pose severe threats to coral 
+biodiversity  reefs, leading to coral bleaching and the loss of marine biodiversity.   
+• Forests:  Changes in temperature and precipitation patterns can alter forest composition 
+and health, affecting the habitat of numerous species.  
+• Mangroves: Mangrove ecosystems are vulnerable to rising sea levels and changes in 
+sedimentation patterns, which affect their ability to protect coastlines and support marine  life.  
+Agriculture • Crop yields: Altered rainfall patterns and increased temperatures can affect crop 
+productivity, with potential declines in staple crops such as rice and coconut.  
+• Pest and disease:  Warmer temperatures and changing humidity levels can lead to the 
+proliferation of pests and diseases, further threatening agricultural output.  
+Fisheries  • Fish stocks: Climate change can affect fish breeding and migration patterns, impacting 
+local fisheries due to changes in fish stocks.  
+• Aquaculture: Increased fluctuations in salinity and temperature can affect productivity 
+and health, posing challenges for local communities that are reliant on this sector. 
+Water 
+resources  • Availability: Changes in precipitation patterns can lead to variability in water availability, 
+affecting drinking water supplies and irrigation.  
+• Quality: Saltwater intrusion and pollution can degrade water quality, posing health risks 
+and affecting agricultural practices.  
+The ANI are an ecologically sensitive region facing significant challenges due to land use and climate change. 
+The geospatial analysis provides critical insights into current state of and historical changes in land use and land cover, and the potential effects of climate change. Effective management and conservation strategies are 
+essential for prot ecting the islands’ biodiversity and supporting sustainable development. Policymakers and 
+stakeholders must prioritise measures to mitigate climate change impacts, promote sustainable land use practices, and enhance community resilience to environmental changes.  
+  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    25 2.2.5.  Summary of the climate change impacts in the ANI  
+The geospatial analysis indicates that the ANI’s coastal, marine and forest ecosystems are being adversely 
+affected by climate change. The impacts include soil degradation, increased erosion, altered water availability, 
+changes in salinity distribution and  nutrient leaching. These environmental shifts lead to a chain of physical, 
+social and ecological consequences, which further degrade natural ecosystems in the region. To address these 
+challenges, a comprehensive adaptation strategy is required to strength en community resilience, along with 
+mitigation measures to reduce and sequester carbon emissions. Implementing these actions will help address 
+the root causes of climate change and protect the natural habitat in the region.  
+ 
+  
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    26  
+3. Identifying solutions for 
+addressing vulnerabilities  
+Building on the situational analysis in the previous chapter regarding the changes in LULC, mangrove 
+degradation and the heightened risk of climate -related hazards in the ANI, this section focuses on the 
+adaptation and mitigation strategies that can be implemented in the most vulnerable areas in the islands, aiming to enhance their resilience. Aligned with the CRD framework, the study accounts for equity and justice by identifying the most vulnerable locations in the ANI based on socio -economic, demographic and bio- physical 
+factors. Targeted solutions were shortlisted for these locations to address their specific challenges.  
+3.1. Prioritisation of the vulnerable sub -districts 
+Prioritising vulnerable locations is essential for effective climate adaptation planning, especially in an ecologically sensitive region such as the ANI. To systematically assess risk, the study developed the CVI, 
+which integrates socio -economic and bio- physical vulnerability factors. Socio -economic vulnerability considers 
+aspects such as livelihoods, population density and resource access, whereas bio -physical vulnerability 
+includes environmental indicators such as LULC changes, biodiversity loss, mangrove  degradation, and 
+exposure to climate variability and extreme events. By combining these variables, the CVI helps identify the 
+sub-districts that are most susceptible to climate impacts. Prioritising these locations is critical for the selection 
+of pilot sites where climate resilience strategies can be tested and implemented, laying the groundwork for 
+broader regional adaptation efforts.  
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    27 3.1.1.  Socio- Economic Vulnerability Index  
+Socio -economic vulnerability is determined by factors such as economic status (wealth, income and poverty), 
+education level, housing quality, tenure type, built environment, family structure, age, gender, food insecurity 
+and access to insurance.21 These factors play a key role in determining vulnerability and correspond to 
+sensitivity in the IPCC vulnerability framework in human systems.22 A high -resolution spatial assessment of 
+social vulnerability helps identify possible impact hotspots where adaptation measures are urgently needed.23 
+A detailed literature review and an assessment of secondary datasets from the Census of India and the Socio-Economic Caste Census were conducted. Key aspects of socio -economic vulnerability – household structure, 
+gender, education, occupation, socio -econom ic status, housing and access to basic services – were 
+considered during the selection. These variables helped identify socio -economically vulnerable communities 
+exposed to multiple hazards. All variables were measured at the interval level. Normalisation of data was 
+performed by removing units and converting values into dimensionless units (0 –1) using the Human 
+Development Index formula.
+24 After normalisation, the indicators were averaged using simple arithmetic means 
+to obtain values for major components, including socio -demographic profile, economic situation, amenities and 
+assets. These components were then used to calculate the SEVI.  
+Table 4: SEVI  
+Cate -Location Nicobar  North and Middle Andaman  South Andaman  
+gory 
+Variables Car Nancowry  Great Diglipur  Mayabunder  Rangat  Ferrargunj  Port Little 
+Nicobar  Nicobar  Blair  Andaman  eHH size (5+) l i of pr c aphi ogr dem -o i c So0.71 0.41 0.00 0.86 0.64 0.52 1.00 0.09 0.06 
+Female -headed HH 0.97 1.00 0.71 0.76 0.16 0.40 0.18 0.00 0.31 
+SC/ST households  1.00 0.73 0.12 0.00 0.00 0.00 0.00 0.00 0.07 
+Disability  0.92 0.58 0.67 1.00 0.08 0.00 0.46 0.42 0.75 
+Illiteracy  0.60 1.00 0.61 0.27 0.53 0.37 0.17 0.00 0.42 
+Average  0.84 0.74 0.42 0.58 0.28 0.26 0.36 0.10 0.32  Cultivation  n o i t a u t i s  c i m o n o Ec1.00 0.76 0.04 0.41 0.30 0.10 0.00 0.05 0.36 
+Marginal  1.00 0.64 0.08 0.24 0.25 0.18 0.24 0.00 0.24 
+Landless  0.00 0.39 0.93 0.88 0.76 1.00 0.72 0.48 0.68 
+Income<INR 5,000  1.00 0.91 0.67 0.92 0.74 0.42 0.48 0.00 0.66 
+Average  0.75 0.68 0.43 0.61 0.51 0.42 0.36 0.13 0.49  d n a  s e i t i n e AmKutcha house  assets0.01 0.00 0.13 1.00 0.74 0.56 0.18 0.18 0.19 
+Access to drinking 
+water -Away  0.25 1.00 0.18 0.50 0.18 0.20 0.23 0.00 0.15 
+No sanitation  0.00 0.24 0.36 1.00 1.00 0.85 0.56 0.08 0.40 
+ 
+21 IPCC, W. Neil Adger, ‘Approaches to vulnerability to climate change’, 2001, 
+https://www.ipcc.ch/apps/njlite/srex/njlite_download.php?id=6421   
+22 Adger, W. N., and Agnew, M., New indicators of vulnerability and adaptive capacity, 2004, https://www.ipcc.ch/apps/njlite/srex/njlite_download.php?id=5463  
+23 Das, S., Hazra, S., Haque, A., Rahman, M., Nicholls, R. J., Ghosh, A., and De Campos, R. S., 2021. Social Vulnerability to 
+Environmental Hazards in the Ganges -Brahmaputra -Meghna Delta, India and Bangladesh, International Journal of Disaster Risk 
+Reduction,  Vol. 53, p. 101983  
+24 UNDP, Technical note 1. Human Development Index, 2022, https://hdr.undp.org/sites/default/files/2021 -22_HDR/hdr2021 -
+22_technical_notes.pdf   
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    28 Cate -Location Nicobar  North and Middle Andaman  South Andaman  
+gory 
+Variables Car Nancowry  Great Diglipur  Mayabunder  Rangat  Ferrargunj  Port Little 
+Nicobar  Nicobar  Blair  Andaman 
+No assets  0.41 0.47 0.43 1.00 0.76 0.49 0.24 0.00 0.17 
+No electricity  0.05 0.02 0.17 1.00 0.70 0.35 0.32 0.00 0.40 
+Reliance on the 
+fuel wood  0.80 0.75 0.24 1.00 0.84 0.74 0.44 0.00 0.57 
+Average  0.25 0.41 0.25 0.92 0.70 0.53 0.33 0.04 0.31 
+SEVI  0.61 0.61 0.37 0.70 0.50 0.40 0.35 0.09 0.37 
+Based on the SEVI, Diglipur ranks the highest in vulnerability, with a score of 0.70, followed by Nancowry (0.61) 
+and Car Nicobar (0.61). These locations face significant challenges related to limited access to amenities, 
+economic instability and socio -demographic pressure. Specifically, in Diglipur, the high vulnerability is driven by 
+inadequate sanitation, a high proportion of kutcha25 houses and widespread economic hardship. In contrast, 
+Port Blair and Ferrargunj record the lowest SEVI scores (0.09 and 0.35, respectively), indicating relatively lower socio- economic vulnerability due to better access to amenities, higher income levels a nd more stable 
+household structures. However, even these sub -districts experience issues such as marginalisation and gaps in 
+basic infrastructure.  
+Figure 11: Map illustrating the SEVI of the ANI  
+ 
+Source: PwC analysis  
+ 
+25 Government of India defines kutcha houses as ‘Houses made from mud, thatch, or other low -quality materials’ - 
+https://www.data.gov.in/catalog/distribution -households -pucca- and-kutcha- house 
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    29 3.1.2.  Bio-Physical Vulnerability Index  
+Bio-physical vulnerability refers to the susceptibility of natural systems and ecosystems to the adverse impacts 
+of climate change and other environmental stressors. In the ANI, this vulnerability is driven by factors such as 
+LULC changes, mangrove degradation, climate variability and exposure to extreme events such as cyclones 
+and rising sea levels. These islands are ecologically sensitive and geographically isolated, making their bio -
+physical systems particularly vulnerable to changes in climate patterns and human activities. Assessing bio -
+physical vulnerability is essential for identifying priority areas for conservation and climate adaptation 
+interventions, as these factors directly affect the resilience of ecosystems, biodiversity and local livelihoods.  
+To assess bio -physical vulnerability at the sub- district level, the study developed the BPVI, focusing on three 
+key indicators: LULC changes, mangrove degradation and exposure to extreme events. Each indicator was scored on a scale of 0 –1 based on secondar y research and expert judgement, where 0 indicates low 
+vulnerability and 1 represents high vulnerability. The scoring process was informed by secondary data from 
+government reports; climate models; biodiversity assessments; and previous studies, with sources including the India Meteorological Department, the Indian National Centre for Ocean Information Services and peer -reviewed 
+literature. A weighted average approach, with equal weights assigned to each indicator, was used to calculate the composite BPVI f or each sub- district. This methodology enabled systematic comparisons of vulnerability 
+levels across sub -districts, providing a robust, data -driven basis for identifying priority areas for climate 
+resilience interventions.  
+Table 5: BPVI  
+District  Sub- district  LULC Mangrove Extreme BPVI  Justification  
+change  degradation  events 
+Car Nicobar   r a b o c Ni0.80 0.90 0.90 0.87 High LULC changes due to rising sea levels; critical 
+damage to biodiversity and mangroves; and severe 
+exposure to extreme events such as cyclones 
+and floods.26 
+Nancowry  0.80 0.90 0.90 0.87 Severe LULC changes due to disasters; critical damage to biodiversity and mangroves; exposure to 
+extreme weather and cyclones.
+27 
+Great Nicobar  0.80 0.90 0.90 0.87 High LULC changes due to coastal erosion; critical 
+damage to biodiversity and mangrove degradation; 
+extreme exposure to cyclones and rising sea levels.28  nDiglipur  a m a d  An e l d d i M  d n a  h t r No0.50 0.60 0.70 0.60 Significant LULC changes from agriculture/tourism; 
+high damage to biodiversity and mangrove 
+degradation; frequent climate variability and 
+extreme  events.  
+Mayabunder  0.40 0.50 0.60 0.50 Moderate LULC changes; moderate biodiversity loss; 
+less severe mangrove damage than the southern 
+islands; moderate exposure to variability and events.  
+Rangat  0.50 0.50 0.60 0.53 Moderate LULC changes and biodiversity loss; 
+mangroves under moderate pressure; exposed to 
+moderate extreme events.29,30,31 
+ 
+26 NRDC, Sea Level Rise 101, 2024, https://www.nrdc.org/stories/sea -level- rise-101 
+27 The World Economic Forum, ‘Sea level rise: Everything you need to know’, 2024, https://www.weforum.org/stories/2024/09/rising -sea-
+levels -global -threat/ 
+28 Directorate of Disaster Management, Andaman and Nicobar Administration, 2016, Andaman and Nicobar Islands Disaster 
+Management Plan 2016. https://ddm.and.nic.in/Files/Disaster_Mgmt_Plan_2016_New.pdf   
+29 Ministry of Agriculture & Farmers Welfare, Land Use Statistics at a Glance: 2022 -23, 
+https://desagri.gov.in/wpcontent/uploads/2024/09/Final -file-of-LUS-2022- 23-for-uploading.pdf   
+30 NRSC, National Land Use and Land Cover Mapping Using Multi -Temporal AWiFS Data, 2010, https://bhuvan -
+app1.nrsc.gov.in/2dresources/thematic/LULC250/0809.pdf   
+31 Forest Survey of India, 11.31 Andaman and Nicobar Islands, 2019, https://fsi.nic.in/isfr19/vol2/isfr -2019- vol-ii-andaman -nicobar -
+islands.pdf  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    30 District  Sub- district  LULC Mangrove Extreme BPVI  Justification  
+change  degradation  events 
+Ferrargunj   n a m a d n A  h t u So0.50 0.60 0.70 0.60 Significant LULC changes due to agriculture; moderate 
+biodiversity and mangrove degradation; and moderate -
+to-high climate variability and cyclone exposure.32 
+Port Blair  0.40 0.50 0.70 0.53 Moderate LULC changes due to urbanisation; 
+biodiversity loss from habitat fragmentation; and 
+mangroves under moderate pressure. Moderate 
+climate variability and significant cyclone exposure.33 
+Little Andaman  0.70 0.80 0.80 0.77 Extensive LULC changes from tourism/logging; high 
+biodiversity loss; severe mangrove damage; and 
+exposure to extreme events such as cyclones.34,35 
+Figure 12: Map illustrating the BPVI of the ANI  
+ 
+Source: PwC analysis  
+  
+ 
+32 Intergovernmental Oceanographic Commission of UNESCO, UK. Department for International Development, IMM (UK), 2003, A Case 
+Study from South Andaman Island, Poverty and Reefs, Vol. 2, pp. 147- 186. 
+https://unesdoc.unesco.org/ark:/48223/pf0000131839?posInSet= 1&queryId=N -EXPLORE- c8ab7cff -2118- 4ff7-9ac5- 7cdc79b66853 
+33 Ministry of Environment, Forest and Climate Change, Government of India, New Delhi, Biodiversity and Climate Change: An India n 
+Perspective, 2018.  
+34 NRSC, Annual Landuse and Landcover Atlas of India, 2024, https://www.nrsc.gov.in/sites/default/files/pdf/Announcements/LULC_Atlas_NRSC.pdf  
+35 Earth Data NASA, ‘Decadal Land Use and Land Cover Classifications across India, 1985, 1995, 2005’, 2020, 
+https://daac.ornl.gov/VEGETATION/guides/Decadal_LULC_India.html  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    31 The BPVI revealed significant variability in vulnerability levels across the ANI. Sub-districts such as Car 
+Nicobar, Nancowry and Great Nicobar exhibited the highest levels of bio -physical vulnerability, with composite 
+scores exceeding 0.80. These areas were identified as hotspots for extreme LULC changes, severe mangrove 
+degradation, a nd high exposure to cyclones and rising sea levels. In contrast, sub -districts such as Port Blair 
+and Mayabunder demonstrated moderate vulnerability, with index scores ranging from 0.50 to 0.60. The findings underscore the critical need for targeted climat e adaptation and ecosystem restoration efforts in highly 
+vulnerable areas, particularly in the southern regions of the ANI, where biodiversity loss and extreme event exposure are most severe. These results offer a clear framework for policymakers in terms of prioritising pilot sites for climate resilience and conservation projects.  
+3.1.3.  Composite Vulnerability Index  
+The CVI is a key tool for assessing a region’s overall vulnerability that integrates multiple dimensions, namely, socio- economic and bio- physical factors. It provides a comprehensive understanding of how susceptible 
+specific locations are to external stres sors such as climate change, natural disasters and socio -economic 
+challenges. In addition, the CVI incorporates indicators related to socio -demographic profiles, economic 
+conditions, infrastructure and environmental degradation, thereby offering a holistic  assessment of the region’s 
+vulnerability. By integrating socio -economic vulnerability and bio -physical vulnerability, the CVI enables 
+targeted decision -making. This index is essential for identifying high -priority areas that require intervention, 
+helping policymakers allocate resources effectively and develop sustainable development strategies for 
+vulnerable regions such as the ANI.  
+Figure 13: Comparison of SEVI and BPVI  
+ 
+Source: PwC analysis  
+This radar diagram illustrates the SEVI and BPVI scores for all sub -districts of the ANI. By comparing these 
+indices, the diagram highlights areas where socio -economic and bio- physical vulnerabilities contribute 
+significantly to the overall vulnerability. This visual representation provides a clearer understanding of regions 
+that require increased attention and resources, helping prioritise targeted interventions for areas with particularly high SEVI and BPVI scores.  
+  Car Nicobar
+1.00
+Little Andaman 0.80 Nancowry
+0.60
+0.40
+Port Blair 0.20 Great Nicobar
+0.00
+Ferrargunj Diglipur
+Rangat Mayabunder
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    32 Figure 14: Map illustrating the CVI of the ANI  
+ 
+Source: PwC analysis  
+Table 6: CVI  
+District  Sub- district  SEVI  BPVI  CVI Rank   Car Nicobar  r a b o c Ni0.61 0.87 0.74 2 
+Nancowry  0.61 0.87 0.74 1 
+Great Nicobar  0.37 0.87 0.62 4  d n a  h t r No
+ e l d d Mi
+ nDiglipur  a m a d An0.70 0.60 0.65 3 
+Mayabunder  0.50 0.50 0.50 6 
+Rangat  0.40 0.53 0.469 8  h t u So
+ nFerrargunj  a m a d An0.35 0.60 0.475 7 
+Port Blair  0.09 0.53 0.31 9 
+Little Andaman 0.37 0.77 0.57 5 
+Source: PwC analysis  
+  
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    33 CVI results revealed distinct variations in vulnerability across the sub -districts of the ANI, highlighting the need 
+for prioritised interventions. Nancowry and Car Nicobar, with the highest CVI score of 0.74, emerged as the 
+most vulnerable sub -districts, followed by Diglipur (0.65). Nancowry and Car Nicobar exhibit a strong 
+combination of socio -economic and bio- physical vulnerabilities, with high BPVI scores of 0.87, making them the 
+top priority for clima te adaptation and resilience- building efforts. Meanwhile, Great Nicobar shows significant 
+bio-physical vulnerability but ranks fourth overall due to lower socio -economic challenges.  
+While Diglipur (0.65) also shows substantial vulnerability, it should be the next priority, given its balanced 
+exposure in both dimensions. Port Blair (0.31) and Ferrargunj (0.475) exhibit lower socio -economic and bio-
+physical risks and may be considered l ow-priority regions but still require targeted interventions to address 
+specific vulnerabilities.  
+3.2. Socio- economic and demographic profile of vulnerable sub -
+districts 
+Based on the SEVI, BPVI and CVI, developed using a range of vulnerability indicators, three sub -districts were 
+selected in this study, representing high, medium and low vulnerability categories. The selection process 
+involved consultations with experts, al ong with considerations of site accessibility and the feasibility of potential 
+interventions. As a result, Diglipur, Mayabunder and Ferrargunj were chosen, each corresponding to a distinct 
+vulnerability category. This approach ensures a representative and balanced sample.  
+Table 7: Socio -economic and demographic profiles of the selected sub -districts36 
+Category  Diglipur  Mayabunder  Ferrargunj  
+High vulnerability  Moderate vulnerability  Low vulnerability  
+About  This sub- district This sub- district This sub- district 
+consists of 72 inhabited comprises 47 inhabited comprises 62 inhabited 
+and nine uninhabited and three  uninhabited and 14 uninhabited 
+villages over seven  villages over three  villages over two 
+inhabited islands: islands: Middle islands: South 
+Narcondam, East, Land Andaman Island (Part), Andaman (Part) and 
+Fall, North Andaman, Aves and Interview Flat Bay. It also 
+Smith, Curlew and Island.  consists of the 
+Stewart Islands. It is Bambooflat area, which 
+located at the has been treated as a 
+northernmost part of census town. 
+this territory. 
+ 
+36 District Census Handbook, Directorate of Census Operations, Andaman and Nicobar Islands, 2011, 
+https://censusindia.gov.in/nada/index.php/catalog/1434  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    34 Category  Diglipur  Mayabunder  Ferrargunj  
+High vulnerability  Moderate vulnerability  Low vulnerability  
+Demography Population  Diglipur accounts for 
+nearly 10% of the total 
+population of ANI. The 
+population of Diglipur 
+stands at 40,873 
+persons (21,308 males 
+and 19,565 females).  Mayabunder accounts 
+for 7% of the total 
+population of ANI. The 
+population of the sub-
+district stands at 27,206 
+persons (14,094 males 
+and 13,112 females).  Ferrargunj accounts for 
+nearly 14% of the total 
+population of ANI. The 
+sub-district’s population 
+stands at 53,565 
+persons (27,908 males 
+and 25,657 females).  
+Illiteracy  23.52% of the Illiteracy in the sub - Illiteracy stands at 
+population is illiterate, district was slightly 21.81%, below the 
+with illiteracy in females higher at 27.92%, with average of ANI. 
+being close to 30% illiteracy being Illiteracy is more 
+(compared with 18% in marginally higher in prevalent in females 
+males).  females than in males.  (close to 25%) than in males (19%).  
+Scheduled 
+castes (SC)/  
+scheduled 
+tribes (ST) 
+population  The sub- district has a 
+low SC/ST population, 
+with less than 1% of the 
+households (HH) being 
+SC/ST HHs.  The sub- district has a 
+low SC/ST population, 
+with less than 1% of the 
+HHs being SC/ST HHs.  The sub- district has a 
+low SC/ST population, 
+with less than 1% of the 
+HHs being SC/ST HHs.  
+Socio- Work The working population The working population The working population 
+economic  participation stands at 40.09%, of stands at 33.95%, of stands at 38.38%, of 
+rate which nearly 20% are which nearly 20% are which nearly 20% are 
+marginal workers.  marginal workers.  marginal workers.  
+Income Nearly 65% of the HHs 
+fall in the lower- income 
+bracket, which is higher 
+than the district average 
+of 57%. The majority of 
+the households derive 
+their income from 
+cultivation or manual 
+casual labour.  Nearly 57% of the 
+households in the tehsil 
+fall in the lower- income 
+category, with a little 
+over 25% of the 
+households earning 
+higher incomes. 41% of 
+the households derive 
+their income from 
+cultivation or manual 
+casual labour.  4.69% of the population 
+is engaged in cultivation 
+as their primary source 
+of income, whereas 
+21.49% are engaged in 
+manual casual labour.  
+Household More than 4% of the Close to 13% of the Only 0.86% of the 
+conditions  HHs are single -room households are households are single-
+HHs, whereas 14% are landless and derive a room households, and 
+landless deriving a major part of their 11.9% of the 
+major part of their income from manual households are 
+income from manual casual labour.  landless households 
+casual labour.  deriving a major part of their income from manual casual labour.  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    35 Category  Diglipur  Mayabunder  Ferrargunj  
+High vulnerability  Moderate vulnerability  Low vulnerability  
+Access to 
+basic 
+amenities Kitchen 
+facility Most households have 
+a kitchen and cook 
+inside the house. 
+Fuelwood is most 
+widely used for cooking.  Most households cook 
+inside the house and 
+have kitchens. A small 
+number of households 
+(including those who 
+cook inside and 
+outside) do not have 
+kitchens. Fuelwood is 
+most widely used for 
+cooking.  The vast majority of the 
+households have a 
+kitchen and cook inside 
+the house. LPG and 
+fuelwood are most 
+widely used for cooking.  
+Source of the Most HHs do not have a Most households have Most households have 
+drinking drinking water source a source of drinking a source of drinking 
+water  within the premises; water either within or water either within or 
+most have a source near the premises, near the premises, 
+near the premises, and whereas some have to whereas some have to 
+some have to travel travel long distances for travel long distances for 
+long distances.  the nearest source of the nearest source of water.  water.   
+Sanitation 
+facilities Most HHs do not have 
+toilet facilities within the 
+premises.  Most HHs do not have 
+toilet facilities within the 
+premises.  Most households have 
+toilet facilities within the 
+premises.   
+Electricity  Most HHs have access Most HHs have access A vast majority of 
+to electricity as their to electricity as their households have 
+primary source of primary source of access to electricity as lighting. Power lighting. Power their primary source of 
+generation is largely generation is largely lighting. Power 
+diesel -based. Some diesel -based. Some generation is largely 
+households are reliant households are reliant diesel -based. Some 
+on kerosene, and a very on kerosene, and a very households are reliant small number do not small number of on kerosene, and a very 
+have access to lighting.  households do not have small number of 
+access to lighting.  households do not have access to lighting.  
+Fuelwood  70.10% of the HHs rely 
+on firewood to meet 
+cooking needs. 10% 
+use kerosene, and only 
+18.18% of households 
+use LPG/piped natural 
+gas (PNG).  60.40% of the HHs use 
+firewood for cooking. 
+Kerosene is used for 
+cooking by 16.30%, and 
+LPG/PNG is used 
+among 22.26% . 35.72% of the 
+households use 
+firewood for cooking, 
+23.51% use kerosene 
+and 39.11% use 
+LPG/PNG.  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    36 Category  Diglipur  Mayabunder  Ferrargunj  
+High vulnerability  Moderate vulnerability  Low vulnerability  
+Public Road Diglipur’s road network Mayabunder’s road Ferrargunj’s road 
+infrastructure infrastructure is approximately 395 network is network is 
+km long, with a road approximately 199 km approximately 341 km 
+density much higher long, exceeding the long, with high road 
+than the national national average road density relative to the 
+average in terms of density in terms of area national average in 
+area and population.  and population.  terms of area and 
+population.  
+Schools  Most villages have 
+public primary schools, 
+although a few villages 
+have schools located 5 –
+10 km or 10 km+ away. 
+Pre-primary schools are 
+generally unavailable, 
+whereas secondary and 
+high schools are 
+located 5 –10 km or 
+more away.  Most villages have 
+public primary schools, 
+although a few villages 
+have schools located 5 –
+10 km or 10 km+ away. 
+Pre-primary schools are 
+generally unavailable, 
+whereas secondary and 
+high schools are 
+located 5 –10 km or 
+more away.  Most villages have 
+public primary schools, 
+although a few villages 
+have schools located 5 –
+10 km away. Pre-
+primary schools are 
+generally unavailable, 
+whereas secondary and 
+high schools are 
+located 5 –10 km away.  
+Healthcare  Public primary health Public primary health Public primary health 
+centres are mostly centres are mostly centres are mostly 
+unavailable at the unavailable at the unavailable at the 
+village level, being village level, being village level, being available mostly 5– 10 available mostly 5– 10 available mostly 5– 10 
+km away from villages km away from villages km away from the 
+and 10 km+ away in and 10 km+ away in village and 10 km+ 
+some cases. Public some cases. Public away in some cases. 
+primary health sub - primary health sub - Public primary health 
+centres are relatively centres are relatively sub -centres are 
+more available.  more available.  relatively more 
+available.  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    37 Category  Diglipur  Mayabunder  Ferrargunj  
+High vulnerability  Moderate vulnerability  Low vulnerability  
+Environment  The annual average 
+temperature is 26.9°C, 
+with April as the 
+warmest month and 
+January the coldest. 
+The average annual 
+rainfall is 2,953 mm, 
+with the highest 
+precipitation (565 mm) 
+occurring in June. This 
+sub-district  has 
+undergone significant 
+LULC changes due to 
+agriculture and tourism, 
+which have been 
+accompanied by  high 
+levels of biodiversity 
+loss and mangrove 
+degradation. It is also 
+frequently affected by 
+climate variability and 
+extreme events. The annual average 
+temperature is 26.9°C, 
+with an average annual 
+rainfall of 2,953 mm. 
+The highest 
+precipitation of 565 mm 
+occurs in June. 
+Regarding bio -physical 
+factors, the sub -district  
+has experienced 
+moderate LULC 
+changes, moderate 
+biodiversity loss and 
+less severe mangrove 
+damage compared with 
+the southern islands. It 
+also faces moderate 
+exposure to climate 
+variability and extreme 
+events . South Andaman 
+(Ferrargunj) has a 
+tropical climate, with 
+significant rainfall 
+through most of the 
+year. The annual 
+average temperature is 
+26.4°C, and the 
+average annual rainfall 
+is 3,068 mm per year. 
+The sub-district  has 
+undergone significant 
+LULC changes due to 
+agriculture, along with 
+moderate biodiversity 
+loss and mangrove 
+degradation. It faces 
+moderate -to-high 
+exposure to climate 
+variability and cyclones . 
+Based on the analysis, several adaptation and mitigation measures have been identified in the next part of the 
+report to address specific vulnerabilities in Diglipur, Mayabunder and Ferrargunj.  
+ 
+  
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    38 3.3. Proposed measures to address vulnerabilities  
+Diglipur, Mayabunder and Ferrargunj face varying degrees of vulnerability, exacerbated by socio -economic, 
+environmental and climate change factors, as reflected in their CVI scores. To effectively address these 
+challenges and enhance resilience within thes e communities, implementing targeted adaptation and mitigation 
+measures is necessary. Based on a literature review and existing government policies and programmes, 
+specific measures have been identified to address key challenges in each sub -district. These include 
+agroforestry, clean cookstoves, decentralised renewable energy and mangrove conservation and restoration.  
+The selected measures have been implemented in similar contexts, demonstrating their feasibility and effectiveness. Additionally, their alignment with government policies and programmes ensures they support broader strategic goals and national priorities. These measures aim to reduce vulnerabilities, enhance 
+livelihoods and promote sustainable development in the three sub -districts.  
+Table 8: Proposed measures and their justification for selection  
+Summary of key 
+challenges in Diglipur, 
+Mayabunder and 
+Ferrargunj  The proposed measures identified and their justification  
+Low household income  Agroforestry37,38,39 
+High climate Agroforestry plays a vital role in addressing LULC changes due to agriculture. 
+vulnerability and Integrating trees into farming systems enhances biodiversity, improves soil health 
+exposure to extreme and increases carbon sequestration, reducing climate vulnerability and exposure 
+climate events to extreme climate events. It also provides benefits that enhance livelihoods such 
+as timber, fruits and other non -timber forest products. Additionally, the presence of 
+LULC changes due to trees acts as windbreaks, mitigating the impacts of extreme weather events.  
+agriculture  
+Significant biodiversity loss and mangrove 
+degradation due to 
+agriculture  
+High illiteracy rates, 
+particularly among 
+females  
+Diesel -powered 
+electricity 
+High percentage of 
+households relying on fuelwood for cooking  Clean cookstoves40 
+Clean cookstoves can address the high percentage of households relying on 
+fuelwood for cooking, reducing deforestation and biodiversity loss. They also 
+improve indoor air quality, lowering health risks associated with smoke inhalation, 
+particularly for women and children. This measure supports gender equality by 
+reducing the time and effort women need to spend collecting fuelwood, providing 
+more opportunities for education and other activities.  
+Decentralised renewable energy (DRE)41 
+DRE- based solutions can help supplement household energy needs, reducing 
+dependence on diesel -generated grid electricity and kerosene. DRE solutions 
+have been shown to improve quality of life and support local economic activities. This measure also contrib utes to reducing GHG emissions and aligns with 
+national priorities for sustainable energy access.  
+ 
+37 Indian Council of Agricultural Research, 2011. A Modified Alley Cropping System of Agroforestry in South Andaman Islands: An 
+Analysis of Production Potential and Economic Benefit, https://epubs.icar.org.in/index.php/IJAgS/article/view/7394  
+38 ICAR, Agroforestry Systems and prospects, 2014, 
+https://krishi.icar.gov.in/jspui/bitstream/123456789/34941/1/Book%20Chapter_IFS_Agroforestry%20Systems%20and%20Prospects 
+2014.pdf  
+39 ICAR, Agroforestry Systems for Coastal and Island Regions, 2020, https://epubs.icar.org.in/index.php/IJA/article/view/102724  
+40 Venkataraman, C., Sagar, A. D., Habib, G., Lam, N., and Smith, K. R., 2010. The Indian National Initiative for Advanced Bioma ss 
+Cookstoves: The Benefits of Clean Combustion, Energy for Sustainable Development, Vol. 14, No. 2, pp. 63 -72, 
+https://hero.epa.gov/hero/index.cfm/reference/details/reference_id/1006571   
+41 Ministry of Power, Power for all Andaman and Nicobar, 
+https://powermin.gov.in/sites/default/files/uploads/joint_initiative_of_govt_of_india_and_andman_nicobar.pdf  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    39 Summary of key 
+challenges in Diglipur, 
+Mayabunder and 
+Ferrargunj  The proposed measures identified and their justification  
+Mangrove conservation and restoration42 
+The conservation and restoration of mangroves is crucial for coastal protection, 
+biodiversity conservation and carbon sequestration. Conserving and restoring 
+mangroves can mitigate the impacts of extreme climate events such as storms 
+and tsunamis, reducing climate vulnerability. Mangroves also support fisheries 
+and other livelihoods, enhancing food security and economic stability. This 
+measure aligns with efforts to combat biodiversity loss and promote sustainable 
+development in coastal areas.  
+Coconut husk biochar43 
+Coconut husk biochar projects offer socio -economic and environmental benefits, 
+including job creation in rural areas, from the collection and processing of coconut 
+husks to the distribution and sale of biochar. This initiative can transform agricultural wa ste into a value -added product that generates additional income for 
+farmers and producers. Biochar also serves as an alternative to firewood while 
+sequestering carbon, contributing to climate change mitigation.  
+ 
+ 
+ 
+42 Kumar, R., Conservation and management of mangroves in India, with special reference to the State of Goa and the Middle Andaman 
+Islands, https://www.fao.org/4/x8080e/x8080e07.htm   
+43 Ajien, A., Idris, J., Md Sofwan, N., Husen, R., and Seli, H., 2023. Coconut Shell and Husk Biochar: A Review of Production an d 
+Activation Technology, Economic, Financial Aspect, and Application, Waste Management & Research, 2023, 
+https://pmc.ncbi.nlm.nih.g ov/articles/PMC9925910/   
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    40 A summary of the key challenges and expected outcomes from implementing these measures is elaborated in the table below . 
+Table 9: Description of benefits from the proposed measure  
+Benefits from the 
+measures  Description of the measure -wise benefits  
+Agroforestry Clean cookstoves  DRE Mangrove conservation 
+and restoration  Coconut husk biochar  
+Economic  • Diversified and • Savings on fuel and • Lowered energy costs • Provision of livelihood • Potential for job 
+additional income health expenses  as dependence on opportunities such as creation from the 
+sources kerosene, diesel and fishing and tourism  collection and 
+other fuel reduce  processing of coconut 
+• Improved productivity husks to the distribution 
+• Support for local and sale of biochar  
+economic development 
+and improvements in • Value -added products 
+quality of life  from agricultural waste, 
+potentially generating 
+additional income for 
+farmers and producers  
+Social  • Improved livelihoods  • Improvements in indoor 
+air quality and health, 
+especially for women 
+and children 
+• Reduced cooking -
+related time for women  • Energy security by 
+provisioning reliable 
+electricity access and 
+reduced dependence 
+on kerosene/diesel  
+• Potential 
+educational  outcomes • Disaster resilience  
+• Improved livelihoods  • Reduced indoor air 
+pollution compared 
+with traditional 
+biomass fuels  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    41 Benefits from the 
+measures  Description of the measure -wise benefits  
+Agroforestry Clean cookstoves  DRE Mangrove conservation 
+and restoration  Coconut husk biochar  
+Biodiversity  • Mitigation of LULC • Reduction in reliance  • Carbon sequestration  • Enhance soil health  
+changes and on fuelwood, helping to 
+biodiversity loss forest preservation  • Habitat protection  • Alternative to fuelwood  
+• Provisioning of • Biochar production 
+ecosystem services  sequesters carbon, 
+helping mitigate climate change  
+Environment  • Improvements in soil 
+health 
+• Protection against 
+extreme climate events • Lowered GHG 
+emissions 
+• Improved air quality  • Reduced GHG 
+emissions 
+• Reduced pollution  • Protection against 
+coastal erosion, rising 
+sea levels and natural 
+disasters • Biochar production 
+sequesters carbon, 
+helping mitigate climate 
+change  
+ 
+ 
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    42  
+4. Green finance options  
+Green finance has emerged as a crucial mechanism for mobilising financial resources for climate action. It 
+encompasses a range of financial instruments and strategies designed to support projects that deliver 
+environmental benefits. These instruments facilitate the transition to a low -carbon ec onomy while attracting 
+investments aligned with the SDGs. Green financing can enhance access to environmentally friendly goods 
+and services, particularly for vulnerable communities, promoting socially equitable growth. Consequently, increased investments i n businesses through green finance helps them adopt more sustainable practices, 
+leading to job creation and economic growth as well as reduced carbon emissions.  
+Projects funded through green finance typically include renewable energy and energy efficiency, pollution prevention and control, biodiversity conservation, circular economy initiatives, and the sustainable use of 
+natural resources and land.
+44 
+4.1. Assessment of the feasible financing option s 
+Green finance options are diverse, with each offering distinct mechanisms to support environmentally beneficial 
+projects. These instruments, which include green bonds and loans and investment and climate funds, 
+collectively drive the transition towards sus tainability. While each option presents unique advantages and 
+challenges, all of them play vital roles in mobilising financial resources to combat climate change and promote 
+sustainable development.  
+  
+ 
+44 United Nations Environment Programme, n.d. Green Financi ng. https://www.unep.org/regions/asia -and-pacific/regional -
+initiatives/supporting -resource -efficiency/green -financing  
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    43 A comprehensive evaluation was conducted to assess the feasibility of available green financing measures. 
+The results are presented below:  
+Table 10: Evaluation of the green finance options  
+Parameter  Green finance instrument  
+Impact 
+investment  Green bonds  Green loans  Climate finance  Carbon markets  
+Ease of Access  Medium 
+accessibility Medium 
+accessibility Medium 
+accessibility Low accessibility  Medium 
+accessibility 
+Degree of flexibility due 
+to regulations  High flexibility 
+due to minimal 
+regulations  Low flexibility due 
+to extensive 
+regulations  Low flexibility due 
+to extensive 
+regulations  Low flexibility due 
+to extensive 
+regulations  Medium flexibility 
+due to medium 
+regulations  
+Volatility High stability  High stability  High stability  High stability  Medium stability  
+Returns/Value  Potential for 
+medium returns  Potential for 
+medium returns  Potential for 
+medium returns  Potential for 
+medium returns  Potential for high 
+returns 
+Scalability  Moderate 
+capacity to 
+expand in size 
+and impact  Moderate 
+capacity to 
+expand in size 
+and impact  Moderate 
+capacity to 
+expand in size 
+and impact  Moderate 
+capacity to 
+expand in size 
+and impact  Significant 
+capacity to expand 
+in size and impact  
+Among the green finance mechanisms analysed, carbon markets stand out as a dynamic and scalable 
+solution, offering direct financial incentives for emission reduction while fostering innovation across 
+industries.  Carbon markets mobilise larger volumes of capital compared with the other finance instruments. As 
+the global focus on sustainability intensifies, strategically deploying green finance mechanisms will be critical in 
+achieving long- term environmental and ec onomic goals. The next chapter explores the feasibility of using 
+carbon markets to finance the five measures identified for the three most vulnerable sub -districts in the ANI.  
+ 
+  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    44  
+5. Feasibility of carbon markets 
+for pilot interventions  
+Building on the potential of carbon markets, as discussed in the previous chapter, this chapter examines their 
+practical application in the ANI. It assesses the feasibility of leveraging carbon markets to finance proposed 
+measures in Diglipur, Mayabunder and Ferrargunj. T he analysis aims to identify the most suitable measures for 
+carbon market financing and their implementation as pilot projects.  
+5.1. Assessing the applicability of carbon markets  
+To determine the suitability of the proposed measures for carbon markets, project activities were evaluated 
+against the eligibility criteria of relevant methodologies, additionality and baseline conditions. The key findings  
+from this assessment are summarised below.  
+5.1.1.  Agroforestry  
+The proposed project activity was assessed against  Verra’s VM0047 Afforestation, Reforestation and 
+Revegetation45 as well as Gold Standard’s Methodology for Afforestation/Reforestation (A/R) GHG Emission 
+Reduction and Sequestration,46 as these methodologies are the most relevant for agroforestry/ afforestation, 
+reforestation and revegetation ( ARR)  activities. The assessment indicates that most applicability conditions are 
+expected to be met or can be ensured during the project design stage. However, as Diglipur, Mayabunder and Ferrargunj are coastal regions, project activities must carefully accoun t for tidal wetlands (including 
+mangroves)  and organic soils in wetlands. If these conditions apply, the activities may not be eligible 
+under  these methodologies.  
+ 
+45 Verra, 2023, VM0047: Afforestation, Reforestation and Revegetation, 
+https://verra.org/wpcontent/uploads/2023/09/VM0047_ARR_v1.0 -1.pdf   
+46 Gold Standard for the Global Goals, 2024, Methodology for Afforestation/Reforestation  
+(A/R) GHGs Emission Reduction & Sequestration, https://globalgoals.goldstandard.org/403 -luf-ar-methodology -ghgs -emission -
+reduction -and-sequestration -methodology/   
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    45 5.1.2.  Clean cookstoves  
+The proposed project activity was assessed against Verra’s VM0050 Energy Efficiency and Fuel -Switch 
+Measures in Cookstoves,47 as well as Gold Standard’s Methodology on Reduced Emissions from Cooking and 
+Heating: Technologies and Practices to Displace Decentralized Thermal Energy Consumption (TPDDTEC)48 as 
+these methodologies are the most relevant for activities involving the distribution of improved cookstoves in 
+communities. The assessment indicates that applicability conditions are expected to be fulfilled or can be 
+ensured during project design. No sp ecific barriers have been identified for the three shortlisted sites at 
+this stage. 
+5.1.3.  DRE 
+The proposed project activity was assessed against the Verra -approved CDM AMS -I.L. Electrification of rural 
+communities using renewable energy.49 This small -scale methodology is well -suited to activities that may 
+involve the implementation of renewable energy projects such as rooftop solar photovoltaic systems in rural 
+communities to reduce fossil fuel use. An assessment of the proposed measure aga inst this methodology 
+indicates that the applicability conditions are expected to be fulfilled or can be ensured during the project 
+design stage.  
+However, the grid -connected status of households in the baseline scenario must be carefully considered, as 
+this methodology applies to cases where consumers were previously unconnected to the national or regional grids and are now supplied with electricity  from the project activity. It also covers situations where a fraction of 
+consumers previously powered by a fossil fuel mini -grid are now supplied with  electricity from the project.  
+5.1.4.  Mangrove restoration  
+The proposed project activity was assessed against Verra’s VM0033 Methodology for Tidal Wetland and 
+Seagrass Restoration  as well as Gold Standard’s Methodology on Sustainable Management of Mangroves  as 
+these methodologies50 are typically used for mangrove restoration projects. The former replaced the CDM 
+methodologies AR -AM0014 (Afforestation and reforestation of degraded mangrove habitats) and AR -AMS0003 
+(Afforestation and reforestation project activities implemented on wet lands) in 2022. An assessment against 
+these methodologies indicated that that the applicability conditions are expected to be fulfilled or can be ensured during the project design stage. No specific barriers are expected for the three shortlisted sites.  
+5.1.5.  Coconut husk biochar  
+The proposed project activity was assessed against Verra’s VM0044 Methodology for Biochar Utilization in Soil and Non- Soil Applications
+51 as well as Puro Earth’s Biochar Methodology52 as these are typically used for 
+biochar projects. An assessment against the aforementioned methodologies indicated that that the applicability 
+conditions are expected to be fulfilled or can be ensured during the project design stage.  
+  
+ 
+47 Verra, 2024, VM0050: Energy Efficiency and Fuel -Switch Measures in Cookstoves, https://verra.org/wp -
+content/uploads/2024/10/VM0050 -EE-and-Fuel-Switch -Measures -in-Cookstoves- v1.0.pdf  
+48 Gold Standard for the Global Goals, 2021, Reduced Emissions from Cooking and Heating: Technologies and Practices to Displace 
+Decentralized Thermal Energy Consumption (TPDDTEC), https://globalgoals.goldstandard.org/407 -ee-ics-technologies -and-practices -
+to-displace- decentrilized -thermal- energy -tpddtec -consumption/  
+49 Gold Standard for the Global Goals, 2021, Reduced Emissions from Cooking and Heating: Technologies and Practices to Displace Decentralized Thermal Energy Consumption (TP  DDTEC), https://globalgoals.goldstandard.org/407 -ee-ics-technologies -and-
+practices -to-displace- decentrilized -thermal- energy -tpddtec -consumption/  
+50 Gold Standard for the Global Goals, 2024, Sustainable Management of Mangroves, https://globalgoals.goldstandard.org/standards/443_V1.0_BCFW_Sustainable -Management -of-Mangroves.pdf   
+51 Verra, 2023, VM0044: Methodology for Biochar Utilization in Soil and Non -Soil Applications, https://verra.org/wp -
+content/uploads/2023/07/VM0044 -Methodology -for-Biochar -Utilization -in-Soil-and-Non-Soil-Applications -v1.1.pdf  
+52 Puro Earth, 2022, Biochar Methodology V3, https://7518557.fs1.hubspotusercontent -
+na1.net/hubfs/7518557/Supplier%20Documents/Puro.earth%20Biochar%20Methodology.pdf  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    46 However, local use of biochar for agricultural productivity may be limited, as croplands and plantations cover 
+only 3% of the ANI’s total area. Additionally, the transportation of biochar over long distances may not comply 
+with the applicability conditions  of the two methodologies.  
+5.2. Estimated carbon credits for the proposed solutions in the 
+pilot site(s) 
+This section presents the estimated ERs and indicative carbon credit revenue expected from each proposed 
+measure. Where sub -district -level data are available, ERs and revenue calculations have been conducted for 
+the shortlisted sites.  
+5.2.1.  Agroforestry  
+An assessment of Indian agroforestry/ARR projects registered on Verra was conducted to provide an indicative range of ERs per hectare per year. Table 11 presents the list of projects along with their associated ERs:  
+Table 11: VCS -registered ARR projects with estimated ERs/ha/annum
+53 
+Country Project ID Estimated annual 
+ERs (tCO2e)  Project area (ha)  Estimated ERs/ 
+ha/annum  
+2552 22,051 4,255 5.2  ia d In2555 24,074 4,073 5.9 
+2404 146,998 14,969 9.8 
+994 11,047 672 16.4 
+689 5,007 282 17.8 
+2833 10,673 502 21.3 
+3892 222,923 8,860 25.2 
+This analysis yielded an average value of 16 ERs per ha per annum . Given that Verified Carbon Standard 
+(VCS) ARR projects are priced at approximately USD 10.85 per credit ,54 this translates to an indicative 
+revenue of USD 173 per ha per annum.  
+The specific area (in ha) for the project activity at the three shortlisted sites is yet to be determined using primary data on land and satellite imagery. Therefore, the total expected credits per site have not been calculated at this stage.  
+  
+ 
+53 Verra, 2024, VCS Registry, https://registry.verra.org/app/search/VCS  
+54 Based on consultations with stakeholders/advisory committee  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    47 5.2.2.  Clean cookstoves  
+An assessment of clean cookstove projects listed on Verra was conducted to estimate an indicative range of 
+ERs per ICS per year. The table below presents a list of VCS -registered clean cookstove projects along with 
+their estimated ERs:  
+Table 12: VCS -registered clean cookstove projects with estimated ERs/IC/annum55 
+Country Project ID Estimated annual 
+ERs (tCO2e)  Proposed number 
+of ICS Estimated 
+ERs/IC/annum  
+2942 1,350,340 1,000,000 1.4  ia d In3109 13,806 5,839 2.4 
+2908 44,163 18,299 2.4 
+4980 53,191 20,000 2.7 
+4457 1,310,160 400,000 3.3 
+3007 333,938 75,000 4.5 
+2922 449,956 100,000 4.5 
+2944 714,973 151,154 4.7 
+4250 94,759 20,000 4.7 
+This analysis yielded an average value of 3.6 ERs per ICS per annum . Given that cookstove projects are 
+priced at approximately USD 3.45 per credit,56 this translates to an indicative revenue of USD 12 per ICS 
+per annum . 
+Based on 2011 Census data,57 firewood remains a significant source of fuel for cooking across Diglipur, 
+Mayabunder and Ferrargunj. Assuming the project activity involves deploying ICS across 5% of the households 
+dependent on firewood, Table 13 presents the expected ERs per annum and indicative revenue may be 
+expected from the shortlisted sites.  
+  
+ 
+55 Verra, 2024, VCS Registry, https://registry.verra.org/app/search/VCS  
+56 Based on consultations with stakeholders/advisory committee  
+57 Office of the Registrar General & Census Commissioner, India, n.d., Census Tables: HH -10 Households (excluding institutional 
+households) by availability of separate kitchen and type of fuel used for cooking, 2011 
+https://censusindia.gov.in/census.website/data/census -tables   
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    48 Table 13: Indicative carbon credit revenue (USD/annum) through implementing clean cookstoves58 
+Site Use of firewood as the 
+cooking fuel  Target ICS 
+deployment (~5% 
+of total HHs)  Estimated 
+ERs/annum  Indicative 
+revenue 
+(USD/annum)  
+% of HHs  Number of 
+HHs 
+Diglipur  70% 7,520 380 1,368 4,720 
+Mayabunder  60% 3,817 200 720 2,484 
+Ferrargunj  36% 4,550 230 828 2,857 
+5.2.3.  DRE 
+Based on the 2011 Census, grid -connected electricity and kerosene are significant energy sources for lighting 
+needs across the three shortlisted sites (Table 14). While these households may be connected to the grid, 
+continuity of electricity access remains a likely issue. Additionally, most grid -connected power generation in 
+these areas relies on diesel, which is not a sustainable source of electricity. Therefore, DRE presents a viable 
+alternative, offering a more reliable and sustainable power source.  
+Table 14: Percentage and number of HHs at the shortlisted sites by main source of lighting59 
+Site Electricity  Kerosene  
+% of HH  Number of HH  % of HH  Number of HH  
+Diglipur  60% 6,426 38% 4,121 
+Mayabunder  71% 4,492 28% 1,761 
+Ferrargunj  85% 10,783 15% 1,868 
+Due to the lack of baseline data on fuel consumption, the below ER calculations were performed after replacing 
+1,000 L of diesel and kerosene with DRE solutions.  
+  
+ 
+58 Office of the Registrar General & Census Commissioner, India, n.d., Census Tables: HH -10 Households (excluding institutional 
+households) by availability of separate kitchen and type of fuel used for cooking, 2011 
+https://censusindia.gov.in/census.website/data/census -tables  
+59 Office of the Registrar General & Census Commissioner, India, n.d., Census Tables: HH -07: Households (excluding institutional 
+households) by main source of lighting, 2011. https://censusindia.gov.in/census.website/data/census -tables  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    49 Table 15: Indicative carbon credits for DRE  
+Fuel type Volume replaced 
+by DRE (L) Emission factor 
+(kg CO 2/L) Emissions avoided 
+(kg CO 2) Carbon credits 
+(mtCO 2) 
+Diesel  1,000 2.68 60 2,680 2.68 
+Kerosene  1,000 2.5061 2,500 2.50 
+5.2.4.  Mangrove restoration  
+Mangroves are widely known for their high carbon stocks per hectare, with these coastal ecosystems 
+sequestering carbon at a rate 10 times greater than mature tropical forests.62 Mangroves globally store around 
+8.5 Gt of carbon, highlighting their significance as key carbon sinks or potential sources of emissions if not 
+properly conserved.63  
+An assessment of mangrove restoration projects listed on Verra was conducted to estimate ERs per hectare per year. Given the limited number of projects registered in India, the scope was expanded to include global 
+projects. Table 16 presents the list of pr ojects along with their estimated ERs. 
+Table 16: VCS -registered mangrove restoration projects with estimated ERs/ha/annum  
+Project ID Country Estimated annual 
+ERs (tCO2e)  Project area (ha)  Estimated 
+ERs/ha/annum  
+1318 Senegal  48,598 10,415 4.7 
+2343 China  2,554 380 6.7 
+1463 India  51,249 4,403 11.6 
+1493 Indonesia  124,706 5,000 24.9 
+3155 Nigeria  23,851 600 39.8 
+2088 Myanmar  353,871 5,174 68.4 
+2792 Myanmar  70,285 1,003 70.1 
+1764 Myanmar  184,006 2,146 85.7 
+ 
+60 Ministry of New Zealand, 2024. Measuring Emissions: A Guide for Organizations   
+61 United for Efficiency Initiatives, 2017. Establishing the Foundations of a Partnership to Accelerate the Global Market Transf ormation 
+for Efficient Appliances and Equipment. Reducing Black Carbon Emissions by Transitioning to Clean and Sustainable Lightnin g 
+(Nigeria). 
+https://www.ccacoalition.org/sites/default/files/resources//2017_Country%2C%20Risk%20and%20Regulatory%20Framework%20Asse
+sment%20Summary.pdf  
+62 National Ocean Service, National Oceanic and Atmospheric Administration. n.d. What is Blue Carbon. 
+https://oceanservice.noaa.gov/facts/bluecarbon.html   
+63 World Bank, 2024. The Changing Wealth of Nations - Estimating Global Carbon Storage of Mangrove Ecosystems. Washington, D.C.: 
+World Bank Group. https://thedocs.worldbank.org/en/doc/6ddb5b7d3adb1684b84a388a2784bcd9 -0320052024/original/WorldBank -
+CWON- MangroveCarbonStocks- 14Nov2024- Final.pdf  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    50 This yielded an average value of 39 ERs per ha per annum. Given that mangrove restoration projects are 
+priced at an average of USD 24 per credit ,64 this translates to an indicative revenue of USD 936 per ha per 
+annum. Notably, the specific project area (in ha) at the three shortlisted sites is currently unavailable through 
+secondary research; therefore, the total expected credits per site have not been calculated. The variation in 
+estimates between the projects may be due to differences in species and geographic conditions. Based on the above- registered projects in India, mangrove restoration activities may generate an indicative revenue of USD 
+278 per ha per annum.  
+5.2.5.  Coconut husk biochar  
+The use of biochar can generate carbon credits in the range of 1.5–3 tCO2e per tonne  of biochar depending 
+on feedstock type.65 Other influencing factors include biochar composition (carbon percentage, bulk density and 
+dry weight) and fossil fuel consumption during biomass processing or biochar production.66 Based on this 
+range, indicative revenues fall between USD 245 –495 per tonne , according to Puro Earth’s Biochar Price 
+Index, which estimated a result of EUR 158 per tonne as of November 2024 (approximately USD 165).67 
+ 
+ 
+ 
+64 Based on consultations with stakeholders/advisory committee  
+65 Based on consultations with stakeholders/advisory committee  
+66 Based on consultations with stakeholders/advisory committee  
+67 Puro Earth, n.d. CORC Carbon Removal Price Indexes. https://puro.earth/corc -carbon- removal- indexes   
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    51 5.3. Final measures for implementation as a pilot  
+The assessment of the proposed activities, namely, agroforestry, clean cookstoves, DRE, mangrove restoration and coconut husk  biochar, against relevant 
+methodologies, indicated that applicability conditions are expected to be fulfilled or can be ensured du ring the project design stage. Therefore, from a methodological 
+point of view , no major feasibility challenges are anticipated across these five measures .  
+An indicative carbon credit assessment was conducted for each proposed measure; however, site -specific data were only available for the clean cookstove project. As 
+part of the pilot projects, the collection of primary data is necessary to accurately determ ine the carbon market potential of the proposed activities.  
+As summarised in Table 17,  mangrove restoration, clean cookstoves and DRE emerge as particularly promising options among the five proposed measures, 
+considering credit price and SDG alignment.  Mangroves in India have declined by almost 15% between  1989 and 2021.68 Carbon financing can play a key role in 
+reversing this trend by providing funding and incentives for large -scale mangrove restoration projects, supporting carbon sequestration, coastal resilience and biodiversity. 
+Additionally, the ANI’s dependence on the mainland for energy security, along with its reliance on diesel -based power, highlights the need for sustainable energy 
+solutions. DRE systems could reduce this dependence, providing more stable, sustainable and secure energy for the shortlisted  sites. Fin ally, the reliance on firewood for 
+cooking means that clean cookstoves can be a viable solution in the shortlisted sites, and their inclusion in India’s Article  6.2 whitelist of 14 technologies offers an 
+additional advantage in attracting international fin ance to enhance climate mitigation efforts in India. 
+Table 17: Carbon market feasibility: Summary of the findings for the proposed measures  
+Proposed 
+measure  Methodology 
+alignment  Estimated ERs  Indicative price/credit  Additionality (SDG alignment)  Additional observations 
+Agroforestry • Generally aligned 16 tCO2e/ha/annum  USD 10.85  • SDG 1:  No poverty:  By Pros:  
+with applicability enhancing agricultural 
+conditions.  productivity and income • Tested methodology  
+through integrated tree and 
+• However, the crop farming  • High credit -generation 
+presence of tidal capacity  
+wetland and • SDG 2:  Zero hunger: By 
+organic soils must improving food security and  
+be checked in the nutrition through diversified  project area.  farming systems  
+ 
+ 
+68 Forest Survey of India, State of Forest Report - Chapter 3: Mangrove Cover, 2021, https://fsi.nic.in/isfr -2021/chapter -3.pdf   
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    52 Proposed 
+measure  Methodology 
+alignment  Estimated ERs  Indicative price/credit  Additionality (SDG alignment)  Additional observations 
+• SDG 13: Climate action: By Cons:  
+sequestering carbon and 
+mitigating climate change  • Agroforestry may not be 
+applicable in the ANI due to 
+• SDG 15:  Life on land: By the predominance of 
+promoting sustainable use of monocropping compared with 
+terrestrial ecosystems and mixed farming practices.69 
+preventing deforestation 
+Clean cookstoves  • Generally aligned 
+with applicability 
+conditions.  3.6 tCO2e/ICS/annum  
+• Estimated 
+ERs/annum for the 
+project sites:  
+Diglipur: 1,368  
+Mayabunder: 720  
+Ferrargunj: 828 USD 3.45  • SDG 3:  Good health and 
+wellbeing : By reducing indoor 
+air pollution and associated 
+health risks 
+• SDG 7: Affordable and clean 
+energy:  By providing access 
+to clean and efficient energy 
+for cooking  
+• SDG 13:  Climate action:  By 
+reducing emissions from 
+traditional cooking methods 
+• SDG 5: Gender equality:  By 
+decreasing the time women 
+and girls spend collecting 
+firewood, empowering them 
+with more time for education 
+and other activities Pros:  
+• Tested methodology  
+• Inclusion in India’s A6.2 
+whitelist  
+Cons:  
+• Elements like baselining and 
+additionality would have to be 
+carefully considered.  
+ 
+69 Ministry of Statistics and Programme Implementation, n.d. Methods of Estimating Area under Mixed Crops   
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    53 Proposed 
+measure  Methodology 
+alignment  Estimated ERs  Indicative price/credit  Additionality (SDG alignment)  Additional observations 
+DRE • Generally aligned • Diesel: 2.68 tCO 2 Prices for RE projects • SDG 7:  Affordable and clean Pros:  
+with applicability per 1,000 L range from USD energy: By increasing access 
+conditions  1.8/credit to to renewable and sustainable High potential to address the 
+• Kerosene: 2.50 2.8/credit.70 However, energy sources  ANI’s fossil fuel dependency and 
+• However, the grid - tCO 2 per 1,000 L community- based RE energy security issues  
+connectedness of projects may fetch • SDG 1:  No poverty: By 
+the HHs must be higher prices, reducing energy costs and Cons:  
+confirmed to check averaging around USD fostering economic 
+if the baseline 5/credit . development  The level of grid -connectedness 
+scenario is suitable. of HHs in the shortlisted sites 
+• SDG 13:  Climate action: By must be confirmed before 
+reducing reliance on fossil determining alignment with the 
+fuels and lowering GHG methodology.  
+emissions 
+• SDG 9:  Industry, Innovation 
+and Infrastructure: By 
+promoting resilient 
+infrastructure and fostering 
+innovation  
+ 
+70 Based on consultations with stakeholders and advisory committee  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    54 Proposed 
+measure  Methodology 
+alignment  Estimated ERs  Indicative price/credit  Additionality (SDG alignment)  Additional observations 
+Mangrove 
+restoration  • Generally aligned 
+with applicability 
+conditions  39 tCO2e/ha/annum  USD 24  • SDG 13:  Climate action: By 
+sequestering carbon and 
+protecting coastal areas from 
+storm surges  
+• SDG 14: Life below water: By 
+preserving marine 
+ecosystems and biodiversity  
+• SDG 15: Life on land: By 
+promoting the conservation 
+and restoration of terrestrial 
+ecosystems  
+• SDG 6: Clean water and 
+sanitation: By improving 
+water quality and preventing 
+soil erosion Pros:  
+• Potential to fetch premium 
+prices in the VCM  
+• Strong linkage with 
+economic, social and 
+biodiversity- related benefits  
+Cons:  
+• Potential challenges with 
+community engagement due 
+to trade -offs with higher 
+market -value activities such 
+as aquaculture 
+Coconut husk • Generally aligned 1.5–3 tCO 2e per tonne USD 245 –495 per • SDG 13:  Climate action: By Pros:  
+biochar  with applicability tonne  sequestering carbon and 
+conditions  enhancing soil resilience to • Coconuts are the 
+climate impacts predominant plantation crops 
+in the ANI, with coconut 
+• SDG 12: Responsible husks having high potential 
+consumption and production:  for use as biochar 
+By utilising agricultural waste feedstock.71 
+efficiently, reducing waste 
+and promoting sustainable • Potential to fetch premium 
+practices prices in the VCM  
+ 
+71 Coconut Development Board, 2022. ICJ Report on Coconut -Based Products. https://coconutboard.gov.in/docs/icj/icj -2022- 01.pdf   
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    55 Proposed 
+measure  Methodology 
+alignment  Estimated ERs  Indicative price/credit  Additionality (SDG alignment)  Additional observations 
+• SDG 15: Life on land: By • Strong linkages with 
+enhancing soil health and economic, social and 
+promoting sustainable land environmental benefits  
+use, contributing to 
+ecosystem conservation Cons:  
+and restoration 
+• The local use of biochar to 
+boost agricultural productivity 
+may be restricted because croplands and plantations 
+occupy approximately 3% of 
+the ANI’s total area.  
+• There is a risk that the transportation of biochar over 
+long distances may not 
+comply with the applicability conditions of Verra and 
+Puro  Earth.  
+• Some businesses in the ANI 
+currently purchase and 
+supply coconut husk to the 
+coir industry. Consequently, project developers may need to offer farmers higher prices 
+to compensate for their 
+income from selling the coconut husk to these 
+enterprises to allocate the 
+husk for biochar production instead. 
+ 
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    56  
+6. The way forward  
+This study presents a climate -resilient development model for the ANI, integrating adaptation and mitigation 
+actions. The broad aim is to foster socio- economic development while addressing the pressing challenges 
+posed by climate change. Based on the regions that faced the most significant socio -economic, climatic and 
+biodiversity- related challenges, we identified the most vulnerable locations in the ANI and finalised three 
+measures – mangrove restoration, clean cookstoves and DRE  – for pilot project develo pment. Finally, we 
+narrowed down on carbon markets as a key financing mechanism for implementing the proposed measures. 
+Among these solutions, mangrove restoration stands out due to its high carbon sequestration potential and 
+additional co- benefits. As one of the three main blue carbon ecosystems in the ANI, mangroves offer largely 
+unexplored opportunities in the region. In this regard, carbon markets can serve as a key financing tool, 
+leveraging the high sequestration potential of mangroves while addressin g the high costs associated with such 
+a restoration project.  
+Our interactions with experts led to the emergence of several key points, clarifying the criticality of financing 
+measures for implementing carbon market projects. Indian corporates have shown interest in investing in 
+carbon market -related projects, particularly in mangrove conservation and restoration due to their niche credit 
+nature. However, concerns about credit quality have made them hesitant to invest heavily. While CSR funding 
+is a potential avenue for funding, it is often lim ited and insufficient fo r high -cost initiatives such as mangrove 
+restoration and agroforestry. Additionally, companies in India prefer directing CSR funds towards geographies 
+where they have an operational presence or footprint, unlike international companies, which are investing  
+significantly in carbon - and nature- based solutions.  
+  
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    57 To attract investors, it is essential to develop a strong business case that clearly defines the project scope, 
+funding schemes and revenue projections to provide a clear understanding of the project and the timeline for 
+returns on investment. Baseline con dition assessments are crucial for determining the projects’ economic 
+viability. Clear implementation structures, such as involving non -governmental and farmer producer 
+organisations in addressing on- ground challenges, along with digital monitoring systems  to maintain carbon 
+credit quality and value, are necessary. Large -scale implementation is critical for maximising carbon credits and 
+ensuring the projects’ viability. Challenges such as land ownership, particularly in mangrove restoration and 
+agroforestry, require site -based, micro- level assessments as a key next step.  
+In the next phase, this study’s findings will guide the implementation of pilot initiatives in vulnerable locations in 
+the ANI and the development of a carbon market project covering mitigation and adaptation. It will also explore 
+private and public fundin g sources. It will involve two strategic components: Implementing measures through 
+pilot projects and developing the carbon market project. Key activities in the implementation phase of the pilot projects will include identifying implementation partners, s electing sites, engaging with communities and other 
+stakeholders, conducting site -specific assessments and exploring the feasibility of technical and financial 
+assistance from development agencies. Likewise, for the carbon market project, the next steps wi ll include 
+developing a comprehensive PDD, securing third -party validation of the PDD to ensure compliance with carbon 
+standards, registering the project and issuing carbon credits.  
+ 
+ 
+
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    58 7. Annexures 
+Annexure A: Scale used for evaluating green financing options  
+Parameter and description  Scoring and interpretation  
+Low Medium  High 
+Ease of access  
+How easily investors and stakeholders can access each type 
+of green finance instrument. It considers factors such as 
+market availability, entry barriers and the complexity of the investment process. Limited accessibility with 
+significant entry barriers and/or 
+specialised expertise needed.  Accessible with some entry 
+barriers or specialised knowledge 
+required.  Widely accessible with low entry 
+barriers and established market 
+presence.  
+Degree of flexibility due to regulations  
+The extent to which entities face policies and institutional 
+frameworks regulating each type of green finance instrument. 
+This parameter considers level of oversight and compliance 
+requirements.  Low flexibility due to extensive 
+regulations with detailed 
+compliance obligations and 
+stringent regulatory 
+requirements.  Medium flexibility due to 
+moderate regulations allowing 
+entities some freedom to operate 
+while adhering to necessary 
+regulatory requirements.  High flexibility due to minimal 
+regulation, allowing entities to 
+enjoy significant degree of 
+freedom in their operations and 
+decision- making processes.  
+Volatility 
+The stability and predictability of returns associated with each 
+type of green finance instrument. This parameter considers 
+potential price fluctuations and market instability. Low stability with significant 
+potential for price fluctuations 
+and market volatility.  Moderate stability with some 
+potential for price fluctuations 
+and market variability.  High stability with predictable 
+returns and minimal price 
+fluctuations.  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    59 Parameter and description  Scoring and interpretation  
+Low Medium  High 
+Returns/value  
+The financial returns and overall value generated by each 
+type of green finance instrument. This parameter considers 
+monetary returns and nonfinancial benefits such as social and 
+environmental impact.  Limited potential for financial 
+returns and/or minimal social or 
+environmental impact.  Potential for moderate financial 
+returns with notable social or 
+environmental impact.  Potential for significant financial 
+returns along with substantial 
+social or environmental impact. 
+Scalability  
+The financial instrument’s ability to grow and expand in scope, 
+size and impact without compromising on performance or 
+efficiency.  Investments are limited in their 
+capacity to grow in size and 
+impact, and expansion may lead 
+to decreased performance or efficiency.  Investments can moderately 
+expand in size and impact but 
+may encounter limitations or 
+diminishing returns.  Investments can significantly 
+increase in size and impact, 
+accommodating large volumes or 
+an extensive geographic spread.  
+  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    60 Annexure B : Indicative costs associated with carbon markets  
+Verra  
+Table B1: Costs applicable during the VCS project cycle 
+Fee Rate  
+Validation fee ( one-time fee levied by validation and verification bodies  or 
+designated operational entity)  USD 17,000 –40,000 (depending on project type and size)  
+Verification fee (recurring cost during each verification) USD 14,000 –30,000 (depending on project type)  
+Consultancy fee (for PDD preparation, other documentation and advisory services 
+during the project cycle)  USD 11,000 –35,000 (depending on services provided)  
+Table B2: Fees payable as per VCS schedule  
+Fee Rate  
+Account opening fee  USD 500 for each account opened with the Verra Registry, payable in full at 
+account approval  
+Account maintenance fee  USD 500 per year for each account, payable in full at account approval and 
+subsequently in January of each year  
+Pipeline listing request fee  USD 1,000 for each pipeline listing request, payable at the time of the request  
+Project registration request review fee  USD 2,500 for each project registration request, payable at the time of the request  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    61 Fee Rate  
+VCU issuance levy, including conversion of GHG credits from approved 
+GHG programmes  USD 0.20 per VCU, payable at the time of the issuance request.  
+Gold Standard  
+Table B3: Fees payable as per the Gold Standard schedule  
+Certification 
+stage Preliminary 
+review fee  Project 
+design 
+review  Performance 
+review  Issuance (first year, 
+i.e. 365 days)  Subsequent 
+issuance  (second 
+year onwards)  Crediting 
+period 
+renewal  Issuance (first year 
+after CP renewal, i.e. 
+365 days)  Subsequent issuance 
+(sixth year onwards)  
+CASH SOP*  CASH SOP CASH SOP*  CASH SOP*  
+GS voluntary 
+emission 
+reduction  Charged by 
+third-party 
+certification body (currently, SustainCERT)  USD 0.15 
+per credit 
+(ex-ante 
+estimation 
+for the first year) minus 
+USD 900 
+credited from the 
+preliminary 
+review fee  Charged by 
+third-party 
+certification body (currently, SustainCERT)
+ USD 0.15 per 
+credit (ex- post 
+requested) minus USD 1,000 credited from the 
+performance 
+review fee  USD 0.30 per 
+credit (ex- post 
+requested) minus USD 1,000 credited from the 
+performance 
+review fee  USD 0.10 per 
+credit + 2% 
+credits (ex-
+post requested) minus USD 
+1,000 credited 
+from the performance 
+review fee  USD 0.15 
+per credit 
+(ex-ante 
+estimation 
+for the first year of the 
+subsequent 
+crediting period)  USD 0.15 per 
+credit (ex- post 
+requested) minus USD 1,000 credited from the 
+performance 
+review fee  USD 0.30 per 
+credit (ex- post 
+requested) minus USD 1,000 credited from the 
+performance 
+review fee  USD 0.10 per 
+credit + 2% 
+credits (ex-
+post requested) minus USD 
+1,000 credited 
+from the performance 
+review fee  
+Land use 
+and forestry 
+carbon USD 0.30 per 
+credit  USD 0.30 per 
+credit  N/A Charged by 
+third-party 
+certification 
+body USD 0.30 per 
+credit  USD 0.30 per 
+credit  N/A 
+*SOP - Share of Proceed  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    62 Acknowledgements  
+This white paper was jointly developed by PwC India and the PwC India Foundation, drawing upon inputs 
+from a diverse range of stakeholders including businesses, government entities, multilateral agencies and 
+INGOs/NGOs. We thank our stakeholders for participating in the consultations and sharing their valuable  insights. 
+Advisory committee  
+• Ankit Todi, CSO, Mahindra Group  
+• Dr Nilanjan Ghosh, Vice President – Development Studies and Senior Director - Kolkata Centre, ORF  
+• Sandeep Roy Choudhury, Director, Value Network Ventures Advisory Services Pvt. Ltd.  
+• Somya Bhatt, Project Specialist, UNDP India  
+  
+ 
+Towards a climate -resilient future: Strategies for the Andaman and Nicobar Islands  March 2025  
+PwC    63 About PwC 
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in 151 
+countries with over 360,000 people who are committed to delivering quality in assurance, advisory and tax 
+services. Find out more and tell us wha t matters to you by visiting us at www.pwc.com.  
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal 
+entity. Please see www.pwc.com/structure for further details. 
+© 2025 PwC. All rights reserved.  
+ 
+Contributors  
+PwC India  PwC India Foundation  
+Madhura Mitra, Managing Director,  
+One Consulting  – Climate and Energy  
+Syed A A Farhan,  Associate Director,  
+One Consulting – Climate and Energy  
+Dr Anjan Katna,  Associate Director,  
+One Consulting  – Climate and Energy  
+Dr Shouvik Das, Manager,  
+One Consulting – Climate  and Energy 
+Kaveri Gogoi, Senior Associate,  
+One Consulting – Climate and Energy  
+Ritika Sowda, Associate,  
+One Consulting – Climate  and Energy 
+Shiv Bhatia, Specialist,  
+One Consulting – Climate  and Energy Jaivir Singh,  Vice Chairman,  
+PwC India Foundation, and Leader of the Global 
+Office for Humanitarian Affairs 
+Punyasil Yonzon,  Senior Associate,  
+PwC India Foundation 
+Abhiir Bhalla, Specialist,  
+PwC India Foundation 
+Editorial s upport  Design support  
+Rashi Gupta  G Gnanaraj  
+ 
+Download the report using the QR code below:  
+ 
+
+  
+ 
+ 
+Data Classification: DC0 (Public)  
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate Identity 
+Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each 
+member firm of which is a separate legal entity.  
+This document does not constitute professional advice. The information in this document has been obtained or derived from sou rces 
+believed by PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPLdoes not represent that this information i s accurate 
+or complete. Any opinions or estimates contained in this document represent the judgment of PwCPLat this time and are subject  to change 
+without notice. Readers of this publication are advised to seek their own professional advice before takingany  course of action or decision, 
+for which they are entirely responsible, based on the contents of this publication. PwCPLneither accepts or assumes any respo nsibility or 
+liability to any reader of this publication in respect of the information contained wit hin it or for any decisions readers may take or decide not 
+to or fail to take.  
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved.  
+GG/March 2025   – M&C 44207  

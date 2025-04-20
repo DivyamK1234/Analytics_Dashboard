@@ -1,0 +1,310 @@
+Title: India Budget 2025 | Key proposals for the Financial Services Sector
+Date Published: 2025-02-02 22:53:15+05:30
+Source: pdfs/pwc_india-budget-2025-key-proposals-financial-services-sector.pdf
+
+--- CONTENT ---
+
+Union Budget 2025
+Pioneering economic growth 
+and resilience for India’s future
+Financial Services | Key Proposals
+PwC
+Agenda
+February 2025 Union Budget 2025
+201Foreword 03Economic indicators
+05Direct tax proposals02Deal impact – 
+key points
+04Key policy proposals 06Indirect tax proposals
+07Glossary
+Foreword01
+PwC
+ 4February 2025 Union Budget 2025Foreword
+Continuing with the momentum initiated in July 2024, the current set of proposals aims to streamline business 
+operations and enhance predictability. It's refreshing to see the government addressing the challenges of the middle class amidst the economic slowdown. This budget is strategically designed to stimulate spending and drive economic growth, as reflected in the revised individual tax rates.
+For professionals in the fund industry, reduced complexity and certainty are extremely important. Simplified tax rules, 
+such as clearer guidelines on capital gains and the removal of the 0.1% securities purchase tax, mark a step in the 
+right direction.
+On a broader policy level, there are multiple forward-looking initiatives, such as the GCC framework for Tier 2 cities, 100% foreign investment in insurance, and reinvigorating urban infrastructure, among others.
+Finally, on the much -awaited new tax law, the Hon'ble Finance Minister has wisely opted for refinement rather than 
+upheaval, prioritizing simplification over radical changes. This thoughtful approach is designed to facilitate smoother 
+transitions and foster a more favorable business environment.
+I invite you to explore the contents and trust that this publication will enhance your understanding of the budget  proposals .Bhavin Shah
+India Deals LeaderPwC India
+Deal impact – key points02
+PwC
+ 6February 2025 Union Budget 2025Deal impact –key points
+Income from sale of securities by 
+Category I and II AIFs –
+capital gains
+TCS abolished on sale of 
+securities; TCS compliance burden eased on:
+•Grandfathered shares 
+•Treaty  protected 
+debentures
+•Buy / Sell by Category 
+I and II AIFsHigher TDS/TCS rate on transactions with 
+specified person* to be  deleted – Improves  
+ease of doing transactionsExtension of sunset clauses by five years 
+(SWF / PF investment period & IFSC provisions) – Instilling investor confidence
+Widening and simplification of fast -track 
+mergers – Impetus to 
+internalisation  structures
+* Person who has not filed tax return for earlier year within the due date
+Economic indicators03
+PwC
+ 8February 2025 Union Budget 2025Economic indicators
+•The IMF projects a growth of 3.2% in 2024 and 3.3% in 2025 for the 
+global economy.
+•Geopolitical risks remain elevated due to ongoing conflicts, which pose significant risks to the global economic outlook.
+•Since 2020, over 24,000 new trade and investment restrictions have been 
+implemented worldwide, contributing to a slowdown in global trade.Global economy GROWTH (%)
+•India’s GDP growth for FY25 is projected at 6.4%. Agriculture growth is 
+estimated at 3.8%, industrial at 6.2% and service sector at 7.2%.  
+•Despite facing challenges from slowing global demand and supply chain disruptions, India continues to register the fastest growth in manufacturing PMI .
+•India's current account deficit remains manageable at 1.2% of GDP in Q2 FY25.Indian economy  and outlook
+3.3
+1.7
+4.4
+8.23.2
+1.7
+4.2
+6.53.3
+1.9
+4.2
+6.5
+WORLD AES EMDES INDIA 
+2023 2024
+Source: IMF WEO  (January 2025) 
+(https://www.imf.org/en/Publications/WEO/Issues/2025/01/17/world-
+economic -outlook -update- january -2025)
+AES – Advanced economies
+EMDES – Emerging markets and developing economies
+PwC
+ 9February 2025 Union Budget 2025Economic indicators
+•Primary markets continue to witness increased listing activity, with NSE 
+surpassing unique investor base of ten crores.  
+•Corporate debt market remains under -capitalised at about 18% of India’s GDP.
+•As of December 2024, net AUM of all mutual funds grew by 25.3% as compared 
+to March 2024 .
+•Net FPI inflows decreased to USD 10.6bn in FY25 (April –Dec) from USD 31.7bn 
+in FY24 (April– Dec); Net FDI inflows in FY25 (April– Dec) decreased to USD 
+0.48bn as compared to USD 8.5bn in FY24 (April –Dec).Capital markets
+•Gross NPAs in the banking system have declined to a 12 -year low of 2.6% of 
+gross loans and advances .
+•At the end of November 2024, growth in overall bank credit moderated to 11.8% (YoY) from 15.2% a year ago over the same period .Banking sector•India’s insurance sector is projected to grow at a rate of 11.1 % and is expected to become the 
+fastest- growing market among the G20 nations over 
+the next five years (2024–2028).
+•In FY25 (April –Sept), insurance services received 
+the highest FDI inflows of over 62 %.Insurance sector
+•GIFT IFSC has advanced in global rankings to 
+become 52nd  in the GFCI -36 and 45 th in the 
+FinTech rankings .
+•Over 720 entities  have registered in GIFT IFSC  
+across various categories.GIFT
+Key policy proposals04
+PwC
+ 11February 2025 Union Budget 2025Key policy proposals
+•Introduction of a new income -tax bill  – simplification for taxpayers and tax administration.
+•Current model of BITs to be revamped and made more investor -friendly.
+•Requirements and procedures for speedy approval of company mergers to be rationalised including widening the scope of 
+fast-track mergers. 
+•Regularity reforms to be announced with the theme of ‘Ease -of-doing business’ . 
+•Proposal to enhance credit guarantee cover for start -ups from INR 100mn to INR 200mn. Moreover, guarantee fee is also proposed t o be 
+moderated to 1% for loans in 27 focus sectors. 
+•New Fund of Funds of INR 100bn to further channelise  investments in start -ups. 
+•Setting up of a Deep Tech Fund of Funds to be explored to invest and support the next generation of start -ups.
+•The investment and turnover limits for classification of all MSMEs will be enhanced to 2.5 and 2 times respectively, with a v iew to help them 
+achieve higher efficiencies of scale, technological upgradation and better access to capital.Private equity , start -ups and VCs Direct Tax
+PwC
+ 12February 2025 Union Budget 2025Key policy proposals
+•The government to come up with  a three -year  pipeline of projects to be implemented in PPP mode. India Infrastructure Project Development 
+Fund scheme to support states in preparation of PPP proposals.
+•Second Asset Monetisation  Plan to be launched for 2025-30 to plough back capital of INR 10,000bn  in new projects. Regulatory and fiscal 
+measures to be fine -tuned to support the plan.
+•New additions proposed to the harmonised  list of infrastructure sub-sectors:
+-Hotels in the top 50 tourist destination sites.
+-Large ships above a specified size.
+•Commitment of INR 1,500bn as 50 -year interest free loans to states for capex and incentives to boost development in the 
+infrastructure sector.
+•The government to upgrade infrastructure and warehousing for air cargo, including high -value perishable horticulture produce. Cargo 
+screening and Customs protocols to be streamlined.
+•Urban challenge fund of INR 1,000bn to be set up to implement proposals for ‘Cities as Growth Hubs’, ‘Creative Redevelopment of Cities’ 
+and ‘Water and Sanitation’ announced in the 2024 July budget.
+•SWAMIH Fund 2 proposed to be set up and to raise approximately INR 150bn from the government, banks and private investors. The fund 
+aims to complete an additional 0.1mn units of stressed housing projects.Real estate and infra
+PwC
+ 13February 2025 Union Budget 2025Key policy proposals
+•FDI limit for the insurance sector to be increased from 74% to 100%, where the entire premium is invested in India.
+•A National Framework for Global Capability Centres  to be developed to transform emerging Tier 2 cities. Measures to be announced to 
+enhance talent, infrastructure and enable mechanisms for collaboration with industry.
+•NaBFID to set up ‘Partial Credit Enhancement Facility’ for corporate bonds for infrastructure.
+•In line with the earlier announcement on simplifying the KYC process, the revamped central KYC registry is to be rolled out in 2025.
+•A light -touch regulatory framework based on principles and trust to be formulated .
+•Financial Stability and Development Council to be set up for evaluating the impact of current financial regulations and subsidiary instructions. 
+It will also formulate a framework to enhance the responsiveness of the regulations and development of the financial sector.Other regulatory  proposals
+Banking, NBFCs, capital  markets and insurance
+Direct tax proposals05
+PwC
+ 15February 2025 Union Budget 2025Direct tax proposals
+•Securities held by Category I and II AIFs included in the definition of capital asset.
+•Rationalisation  of TDS and TCS  provisions:
+-TCS on sale of goods (including securities) at 0.1% of consideration to be removed from 1 April 2025 –  TDS on purchase of goods 
+(exceeding INR 5mn) to continue.
+-Higher TDS or TCS rate in case of non -filers of income -tax returns to be removed. 
+-TDS rate to be reduced  to 10% (previously 25%/  30%) for income payable by securitisation  trusts to residents.
+•Sunset period for start- ups eligible for tax holiday to be extended to start-ups incorporated before 1 April 2030.Private equity , start -ups and VCs
+•Exemption for proceeds received from insurance policies issued by Insurance Intermediary Office in IFSC (keyman and >10% premium -
+related conditions continues).
+•For mergers which are effective from 1 April 2025, losses transferred to the merged entity can only be carried forward for eight years from the 
+year in which the original loss was incurred.
+•Threshold for TCS on remittance under LRS increased from INR 0.7mn to INR 1mn; no TCS on remittance from educational loan obtained 
+from specified financial institutions.  Banking and insurance
+PwC
+ 16February 2025 Union Budget 2025Direct tax proposals
+•Uniform tax rate of 12.5% to be extended to LTCG arising to FPIs or specified funds on all securities:Public markets
+•Safe harbour  for offshore funds managed by Indian managers (including IFSC manager):
+-Currently available if participation by Indian residents capped at 5% of the corpus of the fund on a continuing basis.
+-Amendment provides relaxation to test investment threshold by Indian residents on a bi -annual basis , i.e., on 1 April and 1 October ; four  
+months of remedial period available from review dates.
+-The Central Government’s power to relax safe harbour  conditions for offshore funds or non -resident entities managed by a fund manager 
+based in the IFSC extended to IFSC units which commence operations on or before 31 March 2030 (earlier, the date was 
+31 March 2024 ).Security Type Existing rate Proposed rate
+Listed Equity 12.5% No change
+Derivatives 10% 12.5%
+Listed Debt 10% 12.5%
+Units of REITs/ InvITs 12.5% No change
+PwC
+ 17February 2025 Union Budget 2025Direct tax proposals
+•SWF/PF tax exemption:
+-Sunset date for making eligible infrastructure investments by SWFs and PFs to be extended to 31 March 2030.
+-Provisions of section 50AA which deem gains as short -term not to impair SWFs’ or PFs’ exemption eligibility.
+•Business trust
+-LTCG on sale of listed shares and units of equity oriented mutual funds to be taxed at 12.5% (currently chargeable at MMR).
+•House Property-Annual value of up to two self -occupied properties to be considered as nil, irrespective of the reason of non-occupancy of such property 
+(erstwhile conditions removed).Real estate and infra
+PwC
+ 18February 2025 Union Budget 2025Direct tax proposals
+•The sunset clauses for commencing operations for various businesses in the IFSC to claim tax concessions or deductions is proposed to be 
+extended to 31 March 2030 for the following:IFSC
+Section Description Current cut -off date
+47(viiad ) Tax neutral relocation of offshore funds 31 March 2025
+10(4D) Benefits extended to certain incomes of an investment division of an offshore banking unit 31 March 2025
+10(4F) Exemption on income of a non -resident by way of royalty or interest, on account of lease of a ship or 
+aircraft paid by an IFSC unit31 March 2025
+10(4H) Exemption from capital gains income of a non -resident or an IFSC unit (engaged in aircraft or ship 
+leasing) arising from the transfer of equity shares of an IFSC unit (engaged in aircraft or ship leasing)31 March 2026
+80LA(2) Tax holiday on income of an IFSC unit from transfer of aircraft or ship 31 March 2025
+
+PwC
+ 19February 2025 Union Budget 2025Direct tax proposals
+•Tax neutrality to also extend to relocation of offshore funds to ETFs and retail 
+funds set up in the IFSC.
+•Tax exemption for non -residents in below cases has been extended to all IFSC 
+based FPIs as counterparties:
+-Transfers/ distributions of ODI contracts.
+-Transfer of non -deliverable forwards or over the counter derivatives.
+•Deemed dividend provisions to be relaxed for global treasury centres  in the IFSC 
+where the principal or parent entity is listed outside India.
+•Exemptions on capital gains and dividend income earned by aircraft -leasing 
+entities in the IFSC to extend to ship-leasing entities in the IFSC.IFSC
+
+PwC
+ 20February 2025 Union Budget 2025Direct tax proposals
+•Time limit to file updated return extended from 24 to 48 months from the end of the relevant AY. Graded slabs of additional tax and interest 
+payable below:Litigation
+•Option provided to opt for a three -year block assessment in case of transfer pricing, subject to fulfilling of certain condition s.
+•No prosecution for delay in deposit of TCS if payment is made by the due date of filing TCS return of the relevant quarter; this is in line with 
+similar TDS relaxation introduced in the previous budget.  
+•Period for processing application seeking immunity from penalty and prosecution to be extended from one month to three months .   
+•Time  limit to impose penalties streamlined – No penalty order to be passed after six months from the end of the quarter in which the 
+concerned proceedings are completed or appeal order is received by the tax authorities .Sl No. Updated return filed in months from the end of the AY Additional % of tax and interest payable
+1 12 months 25%
+2 24 months 50%
+3 36 months 60%
+4 48 months 70%
+PwC
+ 21February 2025 Union Budget 2025Direct tax proposals
+•No change in tax rates for companies.
+•Amendments to the new tax regime for individuals and HUFs effective from FY 2025 -26: 
+-Slab rates revised.
+-No tax payable if income is up to INR 1.2mn (except special income).
+•The threshold for applicability of TDS provisions on various payments to residents 
+to be increased.  
+•‘Crypto asset’ to be included in the definition of Virtual Digital Asset. Reporting obligations to be introduced with respect to transactions in crypto assets .Other direct  tax updates
+
+Indirect tax proposals06
+PwC
+ 23February 2025 Union Budget 2025Indirect tax proposals
+GST-related amendments:
+•The term 'plant or machinery’ to be replaced with 'plant and machinery', retrospectively w.e.f. 
+1 July 2017, in section 17(5)(d). The said amendment overrules the recent decision of Safari 
+Retreat issued by the Supreme Court.
+•Reduction in liability on account of credit note to arise only when the recipient has reduced the resultant ITC.
+•Pre-deposit (10%) at both the Appellate Authority and Appellate Tribunal stage to be paid before 
+filing of appeal in cases where the demand order is only for penalty.
+Customs -related amendments:
+•Provisional assessments to be completed within a period of two years, extendable for a further period of one year.
+•Customs rate tariff rationalisation , along with relief provided to certain sectors like pharma, electronic 
+goods and EV, among others.  
+Service Tax:
+•Retrospective exemption from payment of service tax on reinsurance services to be provided where the reinsurance was provided under the Weather Based Crop Insurance Scheme and the Modified National Agricultural Insurance Scheme during the period from 1 April 2011 to 30 June 2017.
+Glossary07
+PwC
+ 25February 2025 Union Budget 2025Glossary
+Abbreviation Particulars
+AIF Alternative Investment Fund
+AUM Asset Under Management
+BIT Bilateral International Treaties
+DTC Direct Tax Code
+ETF Exchange Traded Funds
+EV Electronic Vehicle
+FDI Foreign Direct Investment
+FPI Foreign Portfolio Investor
+FY Financial Year
+GCC Global Capability Centre
+GDP Gross Domestic Product
+GFCI - 36Global Financial Centres  
+Index 36Abbreviation Particulars
+HUF Hindu Undivided Family
+GIFT IFSC/ 
+IFSCGIFT International Financial 
+Services Centre
+IMF International Monetary Fund
+InvIT Infrastructure Investment Trust
+ITC Input Tax Credit
+KYC Know  Your Customer
+LRS Liberalised  Remittance Scheme
+LTCG Long -term Capital Gains
+MMR Maximum Marginal Rate
+NaBFIDNational Bank for Financing Infrastructure and Development
+NPA Non-Performing AssetsAbbreviation Particulars
+NSE National Stock Exchange
+OBU Offshore Banking Unit
+ODI Overseas Direct Investment
+PF Pension Fund
+PMI Purchasing Managers Index
+PPP Public Private Partnership
+REIT Real Estate Investment Trust
+SWF Sovereign Wealth Fund
+TCS Tax Collected at Source
+TDS Tax Deducted at Source
+VC Venture Capital
+YoY Year on Year
+pwc.in
+Data Classification: DC0 (Public)
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate Identity Number or CIN : U74140WB1983PTC036093), 
+which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal  entity.
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved. PR – February 2025Data Classification: DC0 (Public)
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having 
+Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited ( PwCIL ), each member firm of which is a separate legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources believed by PricewaterhouseCoopers Private Limited ( PwCPL ) to be reliable but PwCPL  does not 
+represent that this information is accurate or complete. Any opinions or estimates contained in this document represent the judgment of PwCPL  at this time and are subject to change without notice. Readers of this publication are advised to 
+seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL  neither accepts or assumes any responsibility or liability 
+to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved.PR - February 2025 At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in 151 countries with over 360,000 people who are 
+committed to delivering quality in assurance, advisory and tax services. Find out more and tell us what matters to you by vis iting us at www.pwc.com.
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. Please see ww w.pwc.com/structure for 
+further details.
+© 2025 PwC. All rights reserved.About PwC
+pwc.in
+

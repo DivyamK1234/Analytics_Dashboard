@@ -1,0 +1,546 @@
+Title: pwc_domestic-transfer-pricing-navigating-new-challenges-booklet
+Date Published: 2013-08-27 13:12:20+05:30
+Source: pdfs/pwc_domestic-transfer-pricing-navigating-new-challenges-booklet.pdf
+
+--- CONTENT ---
+
+Domestic 
+transfer pricing
+Navigating new 
+challenges
+September 2013
+The Finance Act, 2012 ushered in a number of transfer pricing amendments, most significant among them being 
+the extension of transfer pricing provisions to specified domestic transactions (SDTs).  
+Prior to this, transfer pricing provisions were applicable only to crossborder transactions (ITP).
+The genesis of the above amendment lies in the Supreme Court case of Glaxo Smithkline1 wherein the apex court 
+stated the need to extend existing transfer pricing provisions to domestic transactions.Consequent to the above amendment, the following transactions are covered within the ambit of domestic 
+transfer pricing (DTP) regulations:
+• Expenditure under section 40A(2)
+• Transfer of goods and services between the tax holiday undertaking and other undertakings of the taxpayer
+• Business transacted between the tax holiday undertaking and other ‘closely connected entities’
+• Any other notified transactionForeword
+1CIT v. Glaxo Smithkline Asia (P.) Ltd. [2010] 195 Taxmann 35
+The Act prescribes a safe harbour i.e. minimum threshold of 5 crore INR (i.e. 50 million INR) on an aggregate 
+basis in order to apply the provisions. 
+DTP provisions have created unique challenges for taxpayers, given onerous documentation requirements and 
+challenges in applying the provisions to tax holiday undertakings. Further, benchmarking of payments to directors goes beyond the ‘arm’s length principle’ (ALP).
+Taxpayers expected the Finance Act, 2013 to address some of these challenges and rationalise compliance 
+requirements. However, this expectation is unmet. Taxpayers now need to focus on preparing for the first year of compliance due by 30 November 2013. 
+This publication aims to provide an overview of the provisions, compliance and documentation requirements 
+and shares insights on underlying issues and challenges. 
+We hope you find the publication useful.
+
+Index
+Expenditure under section 40A(2)
+• Coverage
+• Direct v indirect ownership
+• Capital expenditure
+• Payment to directors
+Tax holiday undertakings
+• Coverage
+• Close connection
+• Loss making undertakings
+• Cost allocations
+• Ordinary profits v arm’s length
+Compliance and assessments
+Interplay with Companies Bill, 2012
+Case study
+6       PwCExpenditure under 
+section 40A(2)
+Coverage
+In the case of a corporate taxpayer, (say Company B), 
+payments to the following persons are covered:
+Type of person When covered 
+Investor company •	Any	company	(say	Company	A)	which	
+has	substantial	interest*	in	Company	B
+Sister company •	Any	company	in	which	Company	A	has	substantial	interest	(i.e.	Company	C)
+Investee company •	Any	company	in	which	Company	B	has	substantial	interest	(i.e.	Company	D)
+Group company •	Any	company	of	which	a	director	has	substantial	interest	in	Company	B
+•	Any	company	in	which	a	director	of	Company	B	has	substantial	interest
+•	Any	relative	of	such	directors
+Certain individuals •	Any	director	of	Company	B	
+•	Any	director	of	Company	A
+•	Any	individual	who	has	substantial	interest	in	Company	B	
+•	Any	relative	of	the	above	individuals
+* Substantial interest is defined to include a ‘beneficial owner of shares’ 
+carrying not less than 20% of voting power. 
+B
+DA
+C
+EParties covered ?  
+A	&	B 	Yes
+A	&	C 	Yes
+B	&	C 	Yes
+A	&	D 	No
+A	&	E 	No
+D	&	E 	No
+	 			Represents	100%	shareholding
+Domestic	transfer	pricing	-	Navigating	new	challenges				7Direct v indirect ownership
+Whether ‘beneficial ownership’ includes direct as  
+well as indirect shareholdings is debatable. Judicial 
+precedents2 have held that the beneficial owner is  
+the immediate shareholder. 
+The taxpayer needs to undertake a detailed analysis of its beneficial ownership to determine coverage.Further, the revised ICAI Guidance Note (August 2013)on transfer pricing suggests that it may be appropriate to consider only direct shareholding and not indirect or 
+derivative shareholding, and emphasises the real owner 
+of the shares rather than the nominal owner.
+While a reasonable view is that beneficial 
+ownership only relates to the immediate shareholder, the conclusion depends on the specific facts and ‘substance’ surrounding intermediate holding companies.
+2 Natwest Bank of U.K. (220 ITR 377), CIT v. V.R.V. Breweries & Bottling Industries Ltd. [ITA Nos. 594/2005, 646/2005 & 559/2006 
+dated 19.08.2011 (Delhi HC)], M/s Tainwala Trading and Investments Co. Ltd. [TS-385-ITAT-2012 (Mum)], Amco Power Systems 
+Ltd [(2008) 123 TTJ 238], DCIT V. Select Holiday Resorts (P) Ltd. [2011-TIOL-216 ITAT-DEL]
+8       PwC
+Capital expenditure
+DTP provisions cover payments for expenditure. 
+Expenditure means capital as well as revenue expenditure. Further, the revised ICAI Guidance Note (August 2013) 
+suggests that the provisions are applicable to expenditures 
+which are capital in nature and ranking for 100% deduction under provisions such as section 35(2AB), 35 or 35AD of the Income-tax Act, 1961 (the Act).
+Alternatively, section 92(2A) read with section 92BA of the Act covers ‘allowance for expenditure’ which could be interpreted to include ‘depreciation’ for capital 
+expenditure. As mentioned earlier, capital expenditures 
+ranking for 100% deduction would anyways, be covered under DTP provisions.Judicial precedents3 suggest that capital expenditure 
+payments eligible for depreciation are not covered under  section 40A(2) of the Act. Further, depreciation is not a 
+deduction but an allowance. Relying on the intent to  
+apply DTP provisions to expenditure covered under 
+section 40A(2), capital expenditures eligible for depreciation may be excluded by taxpayers.
+3 CIT v. Plasmac Machine Mfg. Co. Ltd. [1993] 201 ITR 650 (Bombay HC), Sumilon Industries Ltd v. Income tax Officer (ITA Nos 3296 &3297/
+Ahd/2008), Challapalli Sugars Ltd. v. CIT [1974] 98 ITR 167 (SC), CIT v. Mahendra Mills [2000] 243 ITR 56 (SC), Epicenter Technologies (P) 
+Ltd. vs. ACIT (ITA 8335/Mum/2004) [2009-TIOL-07- ITAT -MUM], SMS Demag (P) Ltd. vs. DCIT [2010] 38 SOT 496 (Delhi), M/s. Crescent Chemsol Pvt. Ltd. v. ACIT [ITA No. 1497/Mum/2010 dt. March 9, 2011], Calcutta Insurance Ltd. v. Commissioner of Income-tax [1952] 21 ITR 404, V Kay Translines (P) Ltd. v. Income-tax Officer [2011-TIOL-318-ITAT-Mum]Based on judicial precedents, it would be 
+reasonable to argue that capital expenditure eligible for depreciation is excluded from DTP coverage. However, it would be advisable for taxpayers to disclose the position in the annual certification and maintain documentation, bearing in mind penal consequences.
+Domestic	transfer	pricing	-	Navigating	new	challenges				9Payment to directors 
+Payment to directors including inter alia, 
+remuneration, sitting fees, commission, perquisites, etc. are covered under DTP provisions. To clarify, a 
+director includes any director of a company, regardless 
+of the nature of directorship. 
+The following alternatives could accordingly, be considered to benchmark payment to directors:
+S no Comparable Analysis
+1Limits	prescribed 	
+under	the 	
+Companies 	Act,	
+1956	and/or 	
+central	
+government 	
+approval•	Taxpayers	could	rely	on	judicial	
+precedents4	which	have	held	the	
+following:
+	–Quantum	of	remuneration		is	a	business	decision,	influenced	by	business	considerations	and	differs	across	companies.
+	–Remuneration	paid	in	accordance	with	the	Companies	Act,	1956	should	not	attract	disallowance.	
+•	The	above	should	be	supported	by	the	remuneration	policy	of	the	company.
+2Benchmarking 	
+from	external 	
+agency•	Determining	the	cost	involved	in	recruitment	of	another	personnel	with	similar	qualifications,	experience	levels,	skill	sets	and	operational	capabilities.
+The above approach could be adopted equally for public as well 
+as private companies. 
+4 ITA No.350/2011 CIT Vs. India Thermit Corporation (Delhi)Applying any of the transfer pricing 
+methods to director payments poses a challenge since payments vary across companies and depend on a combination of factors. These factors include role, functions and qualification of a particular director, each company’s ability and capacity to pay, specific business needs of each company and cannot be compared or benchmarked. Furthermore, the payments by any company to its directors cannot be compared to payments made by any other company to its directors, since payments  to directors by any company are always controlled related party transactions  and DTP provisions pre-suppose the  use of uncontrolled transactions to establish comparability.
+10       PwCCoverage
+Particulars Taxpayers covered
+Undertakings 	
+claiming	
+industry-	based 	
+tax	holidays•	Undertakings	engaged	in	generation,		
+transmission,	distribution	of	power	or	developing,	operating	or	maintaining	infrastructure 	facilities
+•	Undertakings	engaged	in	refining	oil,	developing	and	building	housing	projects, 	etc
+Undertakings 	
+claiming	
+geographical 	
+location	based	
+tax	holidays•	Undertakings	in	special		economic 	zones
+•	Undertakings	located	in	backward	industrial	areas	(Rajasthan,	Bihar,	etc.)
+•	Undertakings	located	in	Himachal	Pradesh,	Uttaranchal	or	notified	areas	in	the	north	eastern	states,	Jammu	and	Kashmir,	etc
+•	Undertakings	engaged	in	the	business	of	hotels,	hospitals,	convention	centres	in	specified	areas	and	districts
+DTP provisions have been extended to the following 
+transactions of tax holiday undertakings:
+Section 80-IA(8): ‘Transfer	of	goods	and 	
+services’	with	other	undertakings	of	the	same 	
+taxpayer	need	to	be	undertaken	at		arm’s 	
+length,	computed	with	reference	to	prescribed 	
+transfer	pricing	methods.
+Section 80-IA(10): 	Tax	holiday	benefit	is 	
+disallowed	in	cases	where	the	assessing 	
+officer	believes	that	the	profits	are	more	than 	
+‘ordinary	‘	due	to	close	connection	with	any 	
+other	person	or	due	to	any	other	reason. 	
+‘Ordinary	profits’	need	to	be	determined	with 	
+reference	to	ALP.Tax holiday 
+undertakings
+
+Domestic	transfer	pricing	-	Navigating	new	challenges				11The term ‘business transacted’ has a wider connotation 
+than ‘transfer of goods and services’. Specific facts of any transaction which could have an impact on a tax holiday 
+need to be examined. With respect to tax holiday 
+undertakings, the following transactions are likely to  
+be covered:
+Section 80-IA(8)
+Purchase	or	sale	of	
+goods	or	capital	assets
+Receipt	or	provision		of	servicesSection 80-IA(10)
+Transactions 	listed
+u/s	80-IA(8)
+Interest-free 	loans		
+and	guarantees
+Any	business	transacted	which	impacts	the	tax	holiday	profits	
+Scope 
+AZ
+X Y
+Tax	holiday	
+undertakingDTA	
+undertakingTransactions covered ?  
+X	&	Y	Yes,	section	80-IA(8)
+Y	&	Z 	No
+X	&	Z	Yes,	if	Z	is	‘closely 	
+connected’	to	A	i.e. 	
+section	80-IA(10)Close connection
+The term ‘close connection’ has not been expressly defined 
+in the Act. Accordingly, reference could be drawn from a conjoint reading of the other provisions of the Act as well as 
+Accounting Standards to define ‘close connection’ as under : 
+Particulars Substantial 
+interest - section 40A(2)(b)Associated enterprise - section 92A(2)Related party as per AS – 18 as issued by ICAI
+Voting power >=	20% >=	26% >50%
+Direct or indirect holding coveredNo* Both Both
+Directors coveredCovered CoveredKey	managerial	personnel 	
+covered
+Key suppliers coveredNot	coveredSupplying 	
+more	than	90%	Specifically 	
+excluded
+* Refer discussion under ‘coverage’ on page 7.
+Section 80-IA(10) applies where the assessing 
+officer (AO) believes profits are more than ordinary due to a close connection or any other reason.  Given the intended coverage of section  80-IA(10), it seems appropriate for taxpayers to draw conjoint reference to the provisions of the Act and Accounting Standards to identify parties with a close connection. 
+12       PwC Loss-making undertakings
+A tax holiday undertaking may incur a loss during the current 
+year and have transactions covered under section 80-IA(8)  
+or 80-IA(10). Applicability of DTP provisions to such transactions 
+will depend upon whether such loss is required to be set off 
+against the tax holiday profits in future years, as depicted below:
+Whether current year losses required to be set off against 
+future tax holiday profits?
+Yes No
+DTP	provisions	should	apply	in	current	year DTP	provisions	should	not	apply	in	current	yearTaxpayers may argue that in the event of 
+loss, the ‘motive’ of shifting tax holiday profits is absent and the DTP provisions should not apply. However, the treatment of the losses in future years needs to be considered in determining the approach. 
+
+Domestic	transfer	pricing	-	Navigating	new	challenges				13Cost allocations 
+Allocation of common expenditures to tax holiday 
+undertakings has been a highly litigated issue. 
+Under the Act, tax holiday undertakings are required to 
+maintain separate accounts. The costs directly relatable to the undertakings are charged to such undertakings. However, common expenses benefit all the undertakings of the taxpayer. These expenses could be in the nature of 
+general administrative expenses or research, marketing 
+and finance expenses.In this regard, the following approach may be considered:
+Issue Approach
+Whether allocation of 
+costs is a SDT•	Relying	on	judicial	precedent5,	
+taxpayers	may	argue	that	pure	cost	allocations	to	determine	appropriate	profits	of	the	undertaking	do	not	entail	a	service	and	accordingly,	are	not	covered	under	DTP	provisions.
+Determination of allocable costs•	An	ideal	cost	allocation	policy	would	entail	allocation	of	‘all’	common	costs	based	on	rational	allocation	keys.
+Determining reasonable allocation keys•	Expenses	ought	to	be	allocated	on	a	reasonable	and	scientific	basis	(say,	on	the	basis	of	ratio	of	turnover,	head-count,	cost	of	sales,	etc.).	
+Allocation of costs – whether at actual or at mark-up•	Where	the	services	are	of	a	marketable	nature,	the	relevant	costs	could	be	charged	at	a	mark-up	and	reported	in	Form	3CEB.
+5 Nahar Spinning Mills Vs. JCIT [TS-622-ITAT-2012 (Chandi)]
+14       PwCOrdinary profits v arm’s length
+Under section 80-IA(10), ordinary profits for tax holiday 
+undertakings will need to be determined by using prescribed transfer pricing methods. The challenges 
+likely to be faced by taxpayers in this regard have been 
+illustrated below: 
+Transactions with closely connected person    
+Particulars Profit level indicator
+Total	income 	 130
+Cost	(TC)	 100
+Profits	(OP) 30
+OP/TC 30%
+Comparables
+Particulars  OP/TC
+Company	A 	 35%
+Company	B 10%
+Company	C 25%
+Company	D 14%
+Company	E -8%
+Arithmetic mean 15%
+ Scenario 1
+The	TNMM	method	is	
+selected	as	the	most	appropriate	method.Any	price	based	method	(say	CUP	method)	is	selected	as	the	most	appropriate	method.
+The	transfer	pricing	officer	(TPO)	may	argue	that	profits	in	excess	of	ALP	are	not	ordinary	profits	and	may	deny	tax	holiday	on	the	excessive	profits	of	15%	(i.e.	30%-15%).The	‘derived’	profits	(using	the	CUP)	should	ordinarily,	be	accepted	as	‘ordinary’	profits.Scenario 2
+ 
+6 M/s Visual Graphics Computing Services (India) Pvt. Limited vs ACIT [ITA No. 2073/(Mds)/2011] ;
+ M/s Weston Knowledge Systems & Solutions India Private Limited vs ITO [ITA NO. 914 & 915/ HYD/ 2006 and 1797/ HYD/ 2008]Taxpayers may seek to rely on Tribunal 
+rulings 6 (pronounced before the 
+introduction of DTP provisions) in the context of section 80-IA(10), which have held that the onus lies on the AO to demonstrate that the profits of the tax holiday undertakings are not ‘ordinary’.
+Whether the ratio of the above rulings will 
+continue to be applicable in the future given that transfer pricing provisions now apply to section 80-IA(10), is debatable, especially in view of the shift of onus from the AO to the taxpayers. 
+Taxpayers ought to focus on the ‘range’ of 
+comparables to establish the ways in which profits of the tax holiday undertaking are not ‘more than ordinary profits’ , in order to support their case before the tax authorities.
+Domestic	transfer	pricing	-	Navigating	new	challenges				15Taxpayers need to identify, analyse and report the 
+transactions which qualify as SDTs. Further, taxpayers need to ensure that such identified SDTs are aligned 
+with ALP, based on the selection and application of the 
+most appropriate transfer pricing method
+7. Taxpayers 
+need to obtain the chartered accountant’s certificate (Form 3CEB) providing the following details:
+• List of related parties
+• Nature and value of SDTs
+• Method used to determine the ALP for SDTs
+• Positions taken with regard to certain transactions 
+not considered as SDTsCompliance and 
+assessments
+The CBDT has revised Form 3CEB to incorporate 
+DTP provisions via notification 41/2013 dated 11 June 2013. The CBDT has also notified that online submission (e-filing) of Form 3CEB is mandatory for FY 2012-13.
+7 Taxpayers can choose the most appropriate method from any of the six prescribed methods i.e. comparable uncontrolled price 
+method, resale price method, cost plus method, profit split method, transactional net margin method and the ‘other method’ speci -
+fied under Rule 10AB of the Income-tax Rules, 1962.Entity related Maintain documentation covering the following aspects
+•	Profile	of	industry
+•	Profile	of	group	
+•	Profile	of	Indian	entity
+•	Profile	of	associated	enterprises•	Transaction 	terms
+•	FAR	analysis
+•	Economic	analysis	(method	
+selection, 	comparable 	
+benchmarking)
+•	Forecasts, 	budgets, 	estimates•	Pricing	policies
+•	Agreements
+•	Invoices
+•	Pricing	related	correspondence		(letters,	emails,	etc)Price related Transaction related
+16       PwCDue dates for compliance
+Activity Due date
+Maintenance	of	detailed 	
+transfer	pricing	documentation•	Maintain	by	30	November	2013	
+•	Submitted	during	the	course	of	
+assessment 	proceedings
+Prescribed 	accountant’s 	
+report	for	ITP	as	well	as	DTP 	
+compliance	(Form	3CEB)By	30	November	2013
+DTP assessments
+The Indian revenue authorities have not issued any clarification 
+on the selection of cases for DTP assessments. Assessment of DTP compliances would fall within the jurisdiction of the same TPOs 
+who presently review ITP compliances. The first DTP audit cycle 
+can be depicted as follows:
+File	tax	return	and	
+accountant’s	report	
+(30	November	2013)TP	order	
+(31	January	2017)Draft	AO	order		
+(31	March	2017)
+AO	passes	
+final	order		
+(31	January	2018)DRP	order		
+(31	December	2017)
+ITAT	–	final	fact	finding	
+authority
+High	Court	–	on	questions		
+of	law	
+Supreme	Court
+Domestic	transfer	pricing	-	Navigating	new	challenges				17A relative comparison for ITP and DTP 
+is provided below
+Particulars ITP DTP
+Time	limit	for	completion 		
+of	assessments	for	FY 	
+2012-1331	March	2017
+Dispute	resolution	alternativesAppellate 	Commissioner 	/	
+Dispute	Resolution	Panel
+Whether	advance	pricing
+agreements 	available								Yes																	No
+Whether	safe	harbours8
+available								Yes																	No
+Co-relative adjustment
+Once a taxpayer suffers a DTP adjustment, a co-relative 
+adjustment is not available in the hands of the other party.   
+Particulars Co A Co B
+Rent	paid	(10	lakh	INR)	by 	
+Co	A	to	Co	B	is	treated	as 	
+excessive	and	disallowed	in 	
+the	hands	of	Co	A	under 	
+section	40A(2)(b).Income	
+enhanced	by 	
+10	lakh	INRNo	reduction	in 	
+Income
+In addition to the above, tax holiday benefits may not be permitted by authorities on any enhanced income arising out of a DTP adjustment. 
+ 8 As per the Draft Safe Harbour Rules, 2013 released in August 2013.
+18       PwCPenalties
+Non compliance or improper compliance of DTP 
+provisions may result in the following  onerous penalties:
+Default Nature of penalty
+•	Failure	to	maintain	documents;	or
+•	Failure	to	report	a	transaction	in	
+the	accountant’s	report;	or
+•	Maintaining 	or	furnishing 	
+incorrect	information	or	documents2%	of	the	value	of 	
+transaction
+•	Failure	to	furnish	documents2%	of	the	value	of 	
+transaction
+•	Failure	to	furnish	Form	3CEB	by	the	due	date100,000	INR
+•	In	case	of	a	transfer	pricing	adjustment,	in	absence	of	good	faith	and	due	diligence	by	the	taxpayer	in	applying	the	provisions	and	maintaining	adequate 	documentation100%-300%	of	tax 	
+on	the	adjusted 	
+amount
+Given the above, where taxpayers adopt 
+positions that a certain transaction may not qualify as SDT, it is advisable to disclose the position sought to be adopted in Form 3CEB. 
+Domestic	transfer	pricing	-	Navigating	new	challenges				19The amended provisions of the Companies Bill, 20129 
+(Clause 188) prescribe that a consent of the board is 
+required to be given at the meeting of the board for 
+entering into prescribed transactions with the related 
+parties. If the paid-up capital of the company exceeds the prescribed limits, prior approval of the shareholders is also required by a special resolution. 
+Every related party transaction which is not at arm’s length 
+is required to be reported in the board’s report to the shareholders, along with a justification for entering into 
+such a transaction. 
+In the event of a non-compliance of the aforementioned 
+requirements, the following consequences shall follow:Interplay with the 
+Companies Bill, 2012In order to mitigate the stringent consequences 
+detailed above, boards need to be more vigilant, and exercise the following steps:
+Undertake	ALP	
+evaluation	of	
+all	related	party	
+transactions	
+based	on	the	
+applicable	Pricing	
+Policy	Framework.Capture	
+exceptions	
+with	respect	
+to	pricing	and	
+documentation	
+for	reporting	to	
+shareholders.	
+Rationale	for	exceptions	
+need	to	link	back	to	pricing	
+policy	and	business	
+considerations.
+The	company	can	recover	 	
+its	loss	from	the	director		
+or	employee	involved	in	the	transaction.Where	transaction	is	with	the	director’s	related	party	or	authorised	by	the	director,	then	the	director	shall	indemnify	the	company	against	any	loss.
+Any	director	or	employee	involved	can	be	imprisoned	(in	the	case	of	a	listed	company)	or	fined	(in	the	case	of	a	listed	as	well	as	unlisted	company).The	contract	or	arrangement	can	be	rendered	void	by	the	board	or	shareholders.
+1
+2 3
+4
+9 The Companies Bill, 2012 has received the assent of the Rajya Sabha in August 2013, and is currently awaiting Presidential assent.
+20       PwCFacts
+A group business development company (D Co) sets up a  
+100% owned special purpose vehicle (SPV) to bid for each 
+infrastructure project, eligible for tax holidays. The construction 
+activity is outsourced to a construction company (C Co).  
+D Co, SPV and C Co are related parties. Their respective 
+functions are as under.
+• D Co is responsible for engaging with government agencies, 
+developing and placing bids apart from undertaking routine administrative functions. 
+• SPV enters into contract directly with the relevant government agency awarding the project.
+• C Co undertakes the construction work.
+The transactions subject to domestic transfer pricing  
+are as follows:
+• Payment of construction charges by SPV to C Co
+• Debt funding of SPV by D Co
+• Performance guarantees provided by D Co, on behalf of SPV
+• Administrative costs incurred by D CoCase studyQ&A
+01
+02
+03Are construction charges (typically 
+treated as ‘capital work in progress’)  covered under SDT?
+Does depreciation in future years 
+constitute SDT?
+If the answer to #1 is yes, once it’s 
+reported in the year of construction, is there any reporting requirement in the years when depreciation is claimed?Yes. Construction charges are ‘business transacted’ 
+between closely connected entities (i.e. C Co and SPV, a tax holiday undertaking) under section  
+80-IA(10). Accordingly, these must be reported in Form 3CEB applying the arm’s length test.
+No. Since construction charges are considered as SDT 
+in earlier years, the depreciation claim in future years should not constitute SDT.
+Ideally, no. However, one may consider disclosing as 
+a note in Form 3CEB to that effect.Payment of construction charges by SPV to C Co
+Construction 
+company (C Co)
+SPV (tax holiday undertaking)Development company (D Co)
+Functions performed:
+•	Undertakes 	construction 	work
+Functions performed:•	Conclusion	of	bids	
+•	Legal	contractingFunctions performed:•	Developing	and	placing	bids
+•	Engaging	with	government	agencies
+•	Routine	administrative 	functions
+*	The	construction	charges	are 	
+capitalised	in	books	of	SPV.1.	Payment	of	construction	charges*
+2.	Debt	funding
+3.	Performance	guarantees4.	Administrative	functions
+Domestic	transfer	pricing	-	Navigating	new	challenges				21Q&A
+04
+05
+06
+07Does depreciation relating to construction 
+completed prior to FY 2012-13 (the first year of SDT applicability) constitute SDT?
+If FY 2012-13 is the second or third year of 
+construction that begun prior to FY 2012-13, are construction charges incurred during FY 2012-13 covered under SDT?
+Debt funding and performance guarantees 
+by D Co
+Administrative costs incurred by D CoNo. If the construction was completed before 1 April 2012, there 
+should not be any other implications of SDT. However, one may consider disclosing a note in Form 3CEB to that effect.
+Yes. However, the part of construction charges incurred prior 
+to FY 2012-13 for the same project would not be covered 
+under SDT requirements. That said, for arm’s length testing, 
+one may need to take into consideration the entire transaction, which will depend on the facts of the case.
+The scope of section 80-IA(10) is wide enough to cover 
+transactions such as debt funding and performance guarantees provided by D Co. These would need to be transacted at arm’s length to ensure that the profits of the SPV are arrived at after considering an arm’s length charge for 
+these transactions.
+Various costs incurred by D Co for the benefit of SPV will need 
+to be appropriately allocated to the SPV to ensure reasonableness of the profits of the SPV eligible for tax 
+holiday. Whether the allocation of costs should be with or 
+without an appropriate mark-up is not free from doubt. While the tax authorities may seek to treat the same as a service being provided by D Co, taxpayers may argue that D Co is incurring these costs on behalf of the SPV supported by 
+cost-sharing agreements.
+
+22       PwCContacts
+Shyamal Mukherjee
+Joint Leader - Tax and Regulatory Services
+Phone: +91 124 3306000
+Email:  shyamal.mukherjee@in.pwc.com
+Ketan Dalal
+Joint Leader - Tax and Regulatory Services
+Phone:  +91 22 66891000
+Email: ketan.dalal@in.pwc.com
+Rahul K.Mitra
+Country Leader - Transfer Pricing
+Phone:  +91 124 3306000
+Email:  rahul.k.mitra@in.pwc.comTransfer pricing contacts
+Ahmedabad 
+Sanjay Tolia  
+Phone:  +91 79 30917000
+Email: sanjay.tolia@in.pwc.com
+Bangalore/ Hyderabad 
+Indraneel R Chaudhury  
+Rakesh Mishra
+Phone:  +91 80 40796000
+Email:  indraneel.r.chaudhury@in.pwc.com
+                rakesh.mishra@in.pwc.com
+Chennai
+Kunj Vaidya  
+Phone:  +91 44 42285000
+Email:  kunj.vaidya@in.pwc.com
+Delhi 
+Sandeep Puri  
+Phone:  +91 124 3306000  
+Email:   sandeep.puri@in.pwc.com
+Kolkata 
+Rahul K. Mitra  
+Phone:  +91 124 3306000  
+Email:  rahul.k.mitra@in.pwc.com 
+Mumbai  
+Sanjay Tolia  
+Bipin Pawar
+Dhaivat Anjaria  
+Phone:  +91 22 66891000
+Email:  sanjay.tolia@in.pwc.com
+                bipin.pawar@in.pwc.com  
+                dhaivat.anjaria@in.pwc.com
+Pune 
+Dinesh Supekar  
+Phone: +91 20 41004444
+Email: dinesh.supekar@in.pwc.com
+PwC* helps organisations and individuals create the value they’re looking for.  We’re a network of firms in 158 countries 
+with more than 180,000 people who are committed to delivering quality in assurance, tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices in: Ahmedabad, Bangalore, Chennai, Delhi NCR, 
+Hyderabad, Kolkata, Mumbai and Pune.  For more information about PwC India’s service offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC network. Each member firm is a separate legal entity. Please 
+see www.pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwcAbout PwCContributors
+Darpan Mehta
+Phone: +91 22 66891000
+Email: darpan.mehta@in.pwc.comJay Mankad
+Phone: +91 22 66891000
+Email: jay.mankad@in.pwc.comSujay Thakkar
+Phone: +91 22 66891000
+Email: sujay.thakkar@in.pwc.com
+pwc.in
+Data	Classification:	DC0	-	External		
+This	publication	does	not	constitute	professional	advice.	The	information	in	this	publication	has	been	obtained	or	derived	from	sources	believed	by	
+PricewaterhouseCoopers	Private	Limited	(PwCPL)	to	be	reliable	but	PwCPL	does	not	represent	that	this	information	is	accurate	or	complete.	Any	opinions	or	estimates	contained	in	this	publication	represent	the	judgment	of	PwCPL	at	this	time	and	are	subject	to	change	without	notice.	Readers	of	this	publication	are	advised	to	seek	their	own	professional	advice	before	taking	any	course	of	action	or	decision,	for	which	they	are	entirely	responsible,	
+based	on	the	contents	of	this	publication.	PwCPL	neither	accepts	or	assumes	any	responsibility	or	liability	to	any	reader	of	this	publication	in	respect	of	
+the	information	contained	within	it	or	for	any	decisions	readers	may	take	or	decide	not	to	or	fail	to	take.©	2013	PricewaterhouseCoopers	Private	Limited.	All	rights	reserved.	In	this	document,	“PwC”	refers	to	PricewaterhouseCoopers	Private	
+Limited	(a	limited	liability	company	in	India	having	Corporate	Identity	Number	or	CIN	:	U74140WB1983PTC036093),	which	is	a	member	firm	of	
+PricewaterhouseCoopers	International	Limited	(PwCIL),	each	member	firm	of	which	is	a	separate	legal	entity.
+PD	25	-	September	2013	DTP	booklet.indd
+Designed	by:	PwC	Brand	and	Communications,	India

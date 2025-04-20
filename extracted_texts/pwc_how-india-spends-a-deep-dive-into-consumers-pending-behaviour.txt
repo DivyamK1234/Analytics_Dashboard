@@ -1,0 +1,1853 @@
+Title: How India spends: A deep dive into consumer spending behaviour
+Date Published: 2024-12-13 13:37:03+05:30
+Source: pdfs/pwc_how-india-spends-a-deep-dive-into-consumers-pending-behaviour.pdf
+
+--- CONTENT ---
+
+How India spends: 
+A deep dive into consumerspending behaviour
+
+2   PwC   |   How India spends: A deep dive into consumer spending behaviourForeword from Perfios
+Powered by the robust growth of the Indian economy, coupled with a burgeoning middle and high-income class and 
+proven digital infrastructure, India has emerged as a global hotspot for investment and consumer activity. This surge in interest is underscored by the massive influx of capital into Indian markets, a testament to the nation’s immense potential.
+As consumer aspirations soar, translating into significant growth and a vast consumer market, the timely publication of this 
+report is particularly significant. This comprehensive analysis delves into consumer spending and investment behaviours, extracting valuable insights from a vast trove of transactional data. The granular nature of this data, spanning a multitude of transactions, significantly enhances the credibility and reliability of the report’s findings.
+Across the spectrum of spending and investments, the report offers invaluable insights for both end consumers and 
+financial institutions, as well as other service providers catering to these consumers. End consumers can use the report to benchmark their own spending and investment patterns, identify any outliers and make necessary adjustments. For 
+financial institutions, service providers and other stakeholders, the report provides a roadmap for tailoring products, 
+solutions and offerings to align with consumer preferences and behaviours, ultimately delivering enhanced customer experiences.
+By fostering a more informed and empowered consumer market, this report benefits all stakeholders. As the consumer 
+market expands, end consumers stand to gain significantly from increased choice and better-tailored offerings.
+We extend our sincere gratitude to PwC for their invaluable contributions as the knowledge partner for the first edition of 
+this report. We hope that this comprehensive analysis provides readers with a deep understanding of India’s consumer 
+spending landscape and look forward to incorporating your feedback into future editions. 
+2   PwC   |   How India spends: A deep dive into consumer spending behaviourV.R. Govindarajan
+Co-Founder and Executive ChairmanPerfios
+
+3   PwC   |   How India spends: A deep dive into consumer spending behaviourForeword from Perfios
+3   PwC   |   How India spends: A deep dive into consumer spending behaviourToday, India is undergoing a financial revolution in which innovation and inclusion are reshaping the aspirations, growth and 
+prosperity of the country’s population. As the world’s fifth largest economy, the increasing digitalisation of financial services has made an undeniably profound impact across the length and breadth of our nation as we continue to grow with the 
+support of technology. At Perfios, we are proud to be at the heart of this evolution and are helping in shaping the future of 
+finance through the power of data.
+India’s consumer market is on the brink of a transformation which is fuelled by the rising middle class, expanding 
+rural markets and a digitally connected, aspirational population. As we witness rapid shifts in consumer behaviour, 
+understanding how India spends becomes essential for financial institutions, policymakers and businesses which looking 
+to engage effectively with this dynamic market. 
+This report, ‘How India Spends: A deep dive into consumer spending behaviour’, offers a deep dive into the spending 
+patterns of 30 lakh tech-first Indian consumers, by analysing their transactional data. This study provides insights into 
+the spending habits of individuals across different income levels and geographical locations. The data highlights a shift in Indian consumption patterns, where demand for goods and services continues to grow alongside a change in payment preferences with UPI becoming the preferred method for transactions.
+From the growing adoption of digital payment methods to the increasing prevalence of credit products, the report uncovers 
+the key drivers influencing Indian consumption today. The findings highlight both opportunities and challenges for financial institutions, offering actionable recommendations to cater to the evolving needs of consumers. The report aims to present a holistic view of the Indian spending landscape which can empower stakeholders to align their strategies and offerings 
+according to the recent trends in the spending habits of the country’s population.
+We would like to express our heartfelt gratitude and appreciation to PwC India for joining us as the knowledge partners for 
+this report. We hope that this report, which is aligned to our core belief at Perfios that ‘data has the power to empower’, will be a valuable resource for decision-makers across industries, helping them make informed choices that can drive growth 
+and create lasting value for Indian consumers.
+Sabyasachi Goswami
+Chief Executive OfficerPerfios
+
+4   PwC   |   How India spends: A deep dive into consumer spending behaviourForeword from PwC
+This report explores consumer spending behaviour in India and its potential impact on various stakeholders while providing 
+insights into the consumption patterns and financial management practices of tech-savvy Indian customers who have utilised banks, NBFCs, and FinTechs to procure loans and other credit products. 
+Driven by rising middle- and high-income households, expanding rural markets, enhanced physical and digital 
+infrastructure and growing consumer aspirations, India’s consumer market is expected to become the world’s third-largest by 2027.
+1 It can also be noted that as the consumption market in India grows, there is a decline in the financial assets and 
+savings held by Indians.2 This report takes a close look at Indian consumption spending by analysing the transaction-level 
+data of consumers based on their income brackets and geographic location. 
+The report focuses on providing tailored insights for different consumer segments by examining their spending habits 
+and offering recommendations to financial institutions for different expense categories. Using these insights and recommendations, stakeholders such as financial institutions and policymakers can tailor their offerings, and consumers can make informed decisions regarding their spending and investments. These changes can help contribute to the growth and development of the Indian consumer market.
+We would like to express our gratitude to Perfios for inviting PwC India to be the knowledge partner for the first edition of 
+this report. We hope that this report gives the reader a comprehensive overview of how India spends, and look forward to hearing your feedback on what we can cover in future editions.
+Vivek Belgavi 
+Leader – FinTech and Alliances and Ecosystems
+PwC India
+Mihir Gandhi
+Leader – Payments TransformationPwC India
+1  https://www.cnbc.com/2023/09/07/india-consumer-market-to-be-the-worlds-third-largest-by-2027-report-.html
+2   https://bfsi.economictimes.indiatimes.com/news/industry/indian-household-savings-hit-half-a-century-low-as-debt-rises/103925645?utm_sour ce=copy&utm_
+medium=pshare
+4   PwC   |   How India spends: A deep dive into consumer spending behaviour
+5   PwC   |   How India spends: A deep dive into consumer spending behaviourTable of contents
+01
+Executive summary...................................................06
+03
+Introduction...............................................................1102
+Glossary....................................................................10
+04
+Why Indians are spending money.............................14
+06
+How Indians are spending money.............................5205
+Where Indians are spending money..........................16
+07
+Key takeaways..........................................................78
+
+6   PwC   |   How India spends: A deep dive into consumer spending behaviourEconomic factors
+• Income level – improving income levels in the country 
+positively impacting consumption
+• Inflation and prices – growth in inflation can have an inverse effect on consumption
+• Employment and job security – employment rate in India has shown an uptick, leading to increased consumptionTechnology factors
+• Access to technology, growth of e-commerce and rise 
+of FinTech solutions have positively influenced Indian consumption
+Psychological factors
+• Satisfying basic needs – based on Maslow’s hierarchy of 
+needs
+• Emotional spending – consumer’s state of mind can impact consumption patternsGovernment policies and regulations
+• Regulations and policies can streamline tax structures and 
+impact pricing of products consumed
+Social factors
+• Family and peer influence, social status, lifestyle and cultural 
+trends influence Indian consumersMarketing and advertising
+• Advertising campaigns can impact consumption patterns of 
+individualsFigure 1: Demand and supply drivers for Indian consumer’s spending behaviour
+Source: PwC AnalysisDemand Supply01
+Executive summary
+This report attempts to provide an in-depth analysis of 
+the consumption patterns of Indians by examining the spending behaviour of 30 lakh tech-savvy consumers. For the analysis, these customers were segmented based on available demographic information on income levels and geographic locations. The report delves into the underlying reasons behind the consumption patterns of users by analysing their expenditures across different spending categories, and the payment modes used for various transactions. The insights into the consumption behaviour of consumers are used to provide strategic recommendations for FIs which are designed to help them develop curated value propositions and better partnerships to meet the evolving needs of consumers by capitalising on market trends. The highlights from the key sections of this report are outlined below.
+The chart below highlights some of the key demand- and supply-side factors influencing consumer spending.
+Why Indians spend: Demand and supply drivers
+7   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Analysing where consumers spend money can aid in c.  expenses related to dining out or ordering food
+understanding their priorities and lifestyle choices, thereby d.  entertainment
+providing insights for FIs to curate their offerings based on e.  liquor and spirits
+evolving customer needs. The report analyses the spending 
+f.  travel.by consumers across three key categories – obligatory, discretionary and necessity expenses, which contribute 3.  Necessity expenses:  This includes expenditure on the 
+39%, 29% and 32% of all consumer expenses.following categories:
+1.  Obligatory expenses:  This category comprises EMI a.  expenses on utilities
+payments towards different forms of loans taken. The b.  expenses related to everyday essentials
+analysis indicates that an individual’s credit needs 
+c.  rental expensesincrease with their income levels, while the penetration of loans across different city tiers remains consistent. d.  medical expenses
+e.  fuel expenses.
+2.  Discr  etionary expenses: These expenses are non-
+In addition, the report explores the key investment avenues essential in nature and mainly include:
+for consumers with specific insights into jewellery and 
+a.   lifestyle purchases related to general purchases, fashion general investments like mutual funds, shares and fixed 
+and personal care deposits.
+b.  spending on online gaming Where Indians spend: Analysis of different expense categories – insights and 
+recommendations
+8   PwC   |   How India spends: A deep dive into consumer spending behaviour1.   Transaction sources: This section analyses the spending categories in terms of both value and volume 
+trends observed for different sources of transactions. It of transactions. Everyday essentials, food (dining out/
+highlights that the penetration rate and average amount ordering in) and credit card payments are some of the 
+spent using credit cards increase as we move from a highest contributing categories for expenditures via 
+lower salary bucket to a higher one. This section also these digital payment modes.
+shows that both cash deposits and cash withdrawals 
+3.   Mode of payment: This section focuses on the different increase with an increase in salary.
+modes of payment used for different types of spending 
+2.   Key mode of transactions: This part of the report and investment purposes. It shows that UPI is the 
+examines the preference for digital payment methods most popular mode of payment for both discretionary 
+such as UPI, POS and PGs by comparing the spending and necessity spending as well as for investments in 
+levels of customers on each of these transaction modes. jewellery, whereas for obligatory expenditures both UPI 
+It shows the split of expenditures across different and ECS are quite popular.
+Based on the analysis of the total expenditure by individuals in the report, we can make the following key observations:How Indians spend: Analysis of transaction modes and sources
+Figure 2: Key Observations from the analysis conducted
+Source: PwC and Perfios AnalysisPeople spend the highest amount of money 
+on their obligatory expenditures, which accounts for 39% of their total spending, followed by 32% for necessity expenditures and 29% for discretionary expenditures. 
+The percentage of people performing 
+transactions for online gaming is the highest for entry-level earners at 22%. This gradually decreases to 12% as we move from entry-level earners to high-income earners. 
+Average total amount spent on house rent 
+is 4.5% higher in Tier-2 cities than it is in Tier-1 cities.Individuals across all city tiers allocate more than 33% of their income towards paying loan EMIs.
+Key observations
+People living in Tier-2 cities spend the highest amount of money on average on medical expenses, with INR 2,450 being spent by a person per month. On the other hand, metros have the lowest expenditure on medicals, with an average of INR 2,048 being spent per person on a monthly basis.More than 62% of discretionary expenditures are allocated towards expenditures related to lifestyle purchases, which include shopping for fashion and personal care items. 
+As the salary increases from entry-level 
+earners to high-income earners, both the amount of money spent on food expenditure (ordering or eating out) and the frequency at which it is spent increase.
+The most popular mode of payment used 
+for obligatory spending is Electronic Clearing Service. However, for both discretionary and necessary expenditures, UPI is the most preferred method.
+9   PwC   |   How India spends: A deep dive into consumer spending behaviour
+9   PwC   |   How India spends: A deep dive into consumer spending behaviourBy consolidating the insights from the various sections of this report, individuals can get a balanced view of India’s 
+consumption landscape. Based on these insights, BFSI stakeholders can aim at enhancing their value proposition in the following areas to encourage and improve the consumption of FS products.
+The above recommendations can help BFSI players to better manage the evolving needs of customers across various 
+geographies and income levels, thereby driving meaningful engagement and improved consumption.Figure 3: Key Takeaways for BFSI players
+Source: PwC and Perfios AnalysisImproving access to credit Inclusive financial planning Partnerships and value-added 
+services for better customer engagement
+Tailored loan products: Banks and other 
+loan providers can continue to customise their loan offerings for different customer segments. For entry-level earners and emerging professionals, flexible EMIs and lower interest rates could attract borrowers who might otherwise opt for informal sources. For upper mid-level and high-income earners, FIs can offer elevated credit limits and flexible payment options by partnering with employers to help finance larger expenditures such as real estate and automobiles.
+BNPL: To finance the various expenditure 
+needs of people and help them transition from the informal credit sector to the formal sector, BNPL options can be offered by FIs. This can be specifically targeted at entry-level earners and those in lower-tier cities.
+EV financing: To leverage the growing EV 
+sector in Tier-2 and Tier-3 cities, FIs can offer competitive interest rates, reduced down payments and flexible payment options.PFM apps: These apps can aid users to track income, expenses, loans and savings. Through data-driven insights for budgeting, debt consolidation and other financial advice, they can improve customer engagement and support in expense management.
+Bill payment systems: Consolidating utility 
+bill payments into a single platform with features like automatic payment reminders can enhance convenience and reduce late fees.
+Wealth management platforms: FIs can 
+capitalise on the increasing investment trends, especially seen among upper-mid-level earners, by offering them alternative investment options such as private debt, startup equity, corporate bonds, and other fixed-income alternatives. This will enable Fis to engage better with customers.Loyalty and reward programmes: FIs can focus on high transaction categories like online gaming, lifestyle purchases, groceries and dining to offer discounts, cashback benefits and reward points. Focused business partnerships with entities in these sectors and tiered cashback programmes can help improve customer engagement. 
+Payment gateways and POS solutions: FIs 
+can improve transaction volumes through strategic partnerships with game developers, food aggregators and retail chains. They can also focus on offering customised POS solutions with value-added services which can enhance merchant and customer experiences.
+Healthcare ecosystem partnerships: 
+Through partnerships in the healthcare sector, Fis can offer credit products for medical expenses, integrating payments through digital wallets and health cards, and providing low-cost insurance-related services in integrated healthcare models.
+10   PwC   |   How India spends: A deep dive into consumer spending behaviourSr. no. Acronym Description
+1 BFSI Banking, financial services, and insurance
+2 BNPL Buy now, pay later
+3 CAGR Compound annual growth rate
+4 CMIE-CPHS Centre for Monitoring Indian Economy’s Consumer Pyramids Household Survey
+5 Demat Dematerialised accounts
+6 EMI Equated monthly instalment
+7 EV Electric vehicle
+8 FI Financial institutions
+9 FS Financial services
+10 FY Financial year
+11 GDP Gross domestic product
+12 GST Goods and services tax
+13 IMPS Immediate Payment Service
+14 INR Indian rupee
+15 LPG Liquefied petroleum gas
+16 MF Mutual funds
+17 MoSPI Ministry of Statistics and Programme Implementation 
+18 MoX Mode of transaction
+19 NBFC Non-banking financial companies
+20 NEFT National Electronic Fund Transfer
+21 NSE National Stock Exchange
+22 OTT Over the top
+23 PF Provident funds
+24 PFM Personal financial management
+25 PG Payment gateway
+26 POS Point of sale
+27 RBI Reserve Bank of India
+28 RPA Robotic Process Automation
+29 SaaS Software-as-a-service
+30 SI Standing instructions
+31 SME Small and medium enterprises
+32 UPI Unified Payment Interface
+Note: The following conversion has been applied to convert any USD-denominated data from sources referenced in the report to 
+INR: USD 1 = INR 82.02
+Glossary
+11   PwC   |   How India spends: A deep dive into consumer spending behaviour03
+Introduction
+By 2027, India’s consumer market is poised to become last 50 years, according to RBI data.8 While average salaries 
+the world’s third largest owing to factors such as growth in vary depending on factors such as job type, function, 
+income of middle- and high-income households, expanding industry and city, it is crucial to consider the parallel rise rural markets, improved reach bolstered by both digital and in debt and borrowings among Indian households. As of physical infrastructure, and growing consumer aspirations.
+3 September 2024, the total outstanding amount for personal 
+India stands out as a burgeoning consumption environment, loans is INR 55.3 lakh crore with a year-on-year growth which is demonstrated by the 60% contribution of private rate of 13.7%. Home loans observed a slower year-on-year consumption to GDP in 2023
+4 (comparable to the global growth rate of 12.8% and have a total outstanding amount 
+average of around 63%).5 Projections indicate that by of 28.1 lakh crore.9 
+2031, India is expected to have an INR 426.4 lakh crore 
+Additionally, the widespread availability of affordable consumption economy, growing at a CAGR of 13.4% 
+smartphones and accessible telecom services has enabled from 2023 to 2031.6 This growth could be propelled by 
+over 82 crore Indians to access the internet, with the incremental consumption by the Indian middle class, 
+percentage of smartphones in actual use exceeding 72% increased urbanisation, and a growing percentage of the 
+of the total population.10,11 This growth is occurring amidst young populace with rising aspirations.
+a digital literacy rate of 38% in India, with urban literacy 
+In India, the salaries of individuals over the past six years rates being relatively high at 61%.12 FS has capitalised on 
+(between 2019 and 2024) have been increasing year-on- this trend by providing services through web and mobile year at a rate of over 9.1%.
+7 This consistent growth in applications, thus fuelling a personal credit boom.
+income levels among Indians has been a key driver of 
+This report attempts to answer the following crucial increased household consumption and could have also 
+question: As salaries rise and debt accumulates, what contributed to driving demand for various goods and 
+do Indians spend their money on? Apart from this, the services. 
+report delves into the opportunities for FIs and FinTechs 
+However, this trend occurs amidst a backdrop of Indian to leverage growing consumption and further enable households experiencing a decline in their financial assets, products, go-to-market strategies and customer experience which now stand at 5.1% of the country’s GDP in 2023. This enhancement.is down from 7.2% in 2022 – the lowest levels seen in the 
+3    https://www.cnbc.com/2023/09/07/india-consumer-market-to-be-the-worlds-third-largest-by-2027-report-.html
+4    https://www.bloomberg.com/news/newsletters/2024-02-29/india-consumption-data-is-a-wake-up-call-for-companies5    https://ourworldindata.or g/grapher/shar 
+e-of-household-consumption-in-gdp-vs-gdp-per-capita?tab=table | PwC analysis on available data
+6    https://thesecretariat.in/article/dateline-2031-india-s-middle-class-will-make-it-much-richer
+7     https://economictimes.indiatimes.com/jobs/hr-policies-trends/india-leads-in-salary-gr owth-projections-in-apac-these-sectors-will-give-higher-hikes-this-year/
+articleshow/107880129.cms
+8     https://bfsi.economictimes.indiatimes.com/news/industry/indian-household-savings-hit-half-a-century-low-as-debt-rises/103925645?utm_source=copy&utm_
+medium=pshar
+e
+9      https://economictimes.indiatimes.com/industry/banking/finance/banking/personal-loan-sees-14-growth-car ds-gold-major-factors-behind-surge/
+articleshow/112991638.cms?from=mdr
+10   https://telecom.economictimes.indiatimes.com/news/internet/45-of-indians-still-do-not-access-internet-iamai-kantar -study/108035843?utm_source=copy&utm_
+medium=pshare
+11  https://www .pwc.in/assets/pdfs/industries/financial-services/fintech/b-ank%E2
+%80%93fintech-collaborations-for-promoting-financial-inclusion.pdf
+12  https://dtnbwed.cbwe.gov.in/images/upload/Digital-Literacy_3ZNK.pdf
+11   PwC   |   How India spends: A deep dive into consumer spending behaviour
+12   PwC   |   How India spends: A deep dive into consumer spending behaviour
+3.1  Methodology3.2  Sampling
+Transaction data can offer valuable insights into an 
+individual’s financial habits, which in turn can be used to determine their spending profile and consumption behaviour. For instance, monitoring changes in financial assets and debt levels can highlight the shift in spending habits and financial management practices, thereby helping gain comprehensive insight into consumer behaviour. This could include an understanding of spending categories, transaction channels and modes, and customers’ preferences towards the same.
+Additionally, this report segments consumer data based 
+on income levels and geographic locations, thus providing tailored insights reflecting the diverse financial landscapes within the country. This approach aims to offer findings that are relevant and actionable for various stakeholders, including FIs, policymakers and consumers themselves.
+The objectives of this report are threefold:
+1.   Highlight the amount of money spent on different 
+categories (obligatory, necessity and discretionary).
+2.   Examine the spending of consumers across various 
+income segments and geographical locations for each 
+type of merchant category.
+3.   Explore the payment instrument or mode used for 
+transactions across different categories.The dataset analysed in this report comprises tech-savvy borrowers who primarily apply for loans through FinTech and NBFCs using digital platforms. These borrowers were distributed across different geographies (from Tier-3 to metro cities) and income levels (from less than INR 20,000 to more than INR 1,00,000). Additionally, the data considered for this analysis pertains to the year 2023 (January to December). To extract and analyse insights while maintaining the confidentiality and privacy of the concerned individuals, we have aggregated and anonymised the data of the individual customer, so that the inferences and insights are drawn from an aggregate of the sample and not on individual data points. Apart from that, Perfios and PwC have also ensured that no personally identifiable information was used during the analysis.
+The analysis of the bank statements of 30 lakh users helped 
+identify the following for each transaction in the statements:
+1.   Category:  Defines the purpose of the transaction, such 
+as shopping, groceries, gaming and travel.
+2.   Form factors of payments:  Defines the mode of the 
+transaction, such as cash, credit card, debit card and bank transfer.
+3.   Counterparty:  Identifies the party involved in the 
+transaction while also aiding in differentiating between individuals and merchants, and providing additional information regarding the same (e.g. retail, service, utility merchants). 
+4.   Transaction channel preference:  Provides information 
+regarding the user’s preference in terms of mode of transaction, whether online (e-commerce, website, mobile apps, etc.) or offline (in-store shopping).
+5.   Payment app: Identifies the specific app or online 
+platform used by the customer to facilitate the transaction. 
+13   PwC   |   How India spends: A deep dive into consumer spending behaviour3.2  Sampling
+The report analyses the consumer data based on 
+segmentation and other key parameters mentioned 
+above to present a comprehensive understanding of the consumption and spending behaviour of tech-savvy Indians who have borrowed money or have applied for loans through FinTechs and NBFCs. The report will delve into the intricacies of these consumption patterns through three fundamental queries on the spending habits of the consumers:
+Transactions done via credit cards and cash have not 
+been analysed in the section ‘Where Indians are spending money’. These transactions have been separately explained in the sub-section ‘Transaction sources’ of the section ‘How Indians are spending money’. This approach has been considered since bank statements do not provide visibility into where the withdrawn cash has been used to make transactions. Additionally, for credit cards, bank statements show only the lumpsum credit card bill that has been paid. Hence, it does not provide us with any details of where the money was spent.Additionally, other key demographic attributes of the customer, including their geographic location and salary, were considered to augment the comprehensiveness of the analysis. Segmenting the sample population according to city tier types and salary buckets can provide more nuanced insights.
+The geographic locations of the consumers were 
+categorised based on the population density as follows:
+•   Metropolitan cities (Delhi, Kolkata, Mumbai, Chennai, 
+Bengaluru, Hyderabad, Ahmedabad and Pune)13
+•  Tier 1 (cities with a population of 10,00,000 and above)
+•  Tier 2 (cities with a population of 5,00,000-9,99,999)•  Tier 3 (cities with a population of 4,99,999 and below).
+Since the city tier for 29.64% of individuals could not be 
+identified, all analyses specific to geographic location have been done for the remaining 70.36% of individuals, i.e. for 21.11 lakh users. 
+To facilitate the segmentation of consumers, monthly salary 
+buckets were identified. These salary buckets aided in categorising individuals based on their earnings, providing a more comprehensible picture of their financial behaviours and needs. The salary buckets considered were:
+1.   Entry-level earners (earnings up to INR 20,000 per 
+month): This group mainly comprises blue-collar professionals and college students with part-time jobs.
+2.   Emerging professionals (earnings between INR 20,001 
+and 40,000 per month): This group mostly comprises first-time or young employees, as well as grey-collar workers.Figure 4: Distribution of data across city tiers
+18.29%
+6.22%12.31%33.54%
+29.64%
+Metro Tier 1 Tier 2 Tier 3 Unknown
+Note: This graph is based on the analysis of available dataFigure 5: Distribution of data across income levels
+36.27% 36.41%
+17.72%
+4.15%5.45%
+Entry-level Emerging Established Mid-level High-income 
+Note: This graph is based on the analysis of available data.3.   Mid-level earners (earnings between INR 40,001 and INR 
+75,000 per month): These are individuals who have been in the workforce for a couple of years.
+4.   Upper mid-level earners (earnings between INR 75,001 
+and 1,00,000 per month): This group includes those with considerable experience in the workforce.
+5.   High-income earners (earnings above INR 1,00,000 per 
+month): This segment consists of high-income earners such as senior professionals.
+01 02 03 why where howearners professionals earners professionals earners
+13  https://pib.gov.in/newsite/PrintRelease.aspx?relid=175403
+14   PwC   |   How India spends: A deep dive into consumer spending behaviour04
+Why Indians are spending money
+A variety of demand- and supply-related factors influence people to spend money on various things. Understanding these 
+factors could help in analysing consumption patterns and market trends. Listed below are some of the key supply- and demand-side factors that motivate spending among Indian consumers.
+4.1.1.1  Income levels:  Over the past six years (2019–24), 
+the salary of individuals in India has been increasing year-on-year at a rate of over 9.1 %.
+14 This steady growth in 
+the income of individuals is one of the key determinants of consumer spending behaviour. Additionally, India’s per capita disposable income for the year 2023–24 has surged to INR 2.14 lakh, showing a robust growth rate of 13.3% for the year FY23. Simultaneously, India’s gross savings have declined by 30% for 2023–24.
+15 This decline in savings 
+indicates a shifting trend in consumer spending patterns in terms of increased expenditure, with more spending being directed to both essential and discretionary items. 
+4.1.1.2  Inflation and prices: According to the RBI, 
+retail inflation stood at 5.6% for the year 2023–24.16 This 
+increased inflation level can potentially have an adverse impact on the growth of discretionary spending, as consumers may cut back on non-essential items when prices rise. However, according to the RBI, the inflation level is expected to decrease to 4.6% for 2024–25.
+17 
+This anticipated reduction in inflation levels could boost consumption patterns and thereby foster further economic growth.4.1  Demand side
+4.1.1  Economic factors
+4.1.1.3  Employment and job security: Between the years 
+2017–19 and 2022–23, the employment rate has grown from 46.8% to 56%, while the unemployment rate declined from 6% to 3.2%.
+18 This increased employment rate can 
+lead to increased consumer spending among individuals, driven by factors such as increased disposable income, financial stability, and increased demand for education, healthcare, and other discretionary products and services.4.1.2.1  Satisfying basic needs: As illustrated by Maslow’s 
+hierarchy of needs,19 basic needs such as necessity 
+spending on food and shelter are prioritised by consumers over discretionary spending on luxury items.
+4.1.2.2  Emotional spending: Consumers, in general, are 
+influenced by the state of their mind (happiness, stress, anxiety, etc.) which can influence their spending behaviour. For instance, many consumers may engage in retail therapy where they buy products from their favourite brands to lift their mood.4.1.2  Psychological factors
+14   https://economictimes.indiatimes.com/jobs/hr-policies-trends/india-leads-in-
+salary-gr
+owth-projections-in-apac-these-sectors-will-give-higher-hikes-this-
+year/articleshow/107880129.cms
+15   https://economictimes.indiatimes.com/news/economy/indicators/data-correction-indias-per-capita-disposable-income-put-at-2-14-l/articleshow/108147382.cms?fr om=mdr16   https://economictimes.indiatimes.com/news/economy/indicators/inflation-is-
+hurting-consumption-strong-likelihood-that-it-may-hold-back-indias-growth-rbi/articleshow/106155259.cms?from=mdr
+17   https://economictimes.indiatimes.com/news/economy/indicators/inflation-is-
+hurting-consumption-strong-likelihood-that-it-may-hold-back-indias-growth-rbi/articleshow/106155259.cms?from=mdr
+18   https://timesofindia.indiatimes.com/india/india-witnesses-significant-
+growth-in-jobs-and-decline-in-unemployment-rate-government-stats-show/articleshow/109566617.cms
+19   https://edition.cnn.com/world/maslows-hierarchy-of-needs-explained-
+wellness-cec/index.html
+
+15   PwC   |   How India spends: A deep dive into consumer spending behaviourIn India, there are a variety of social factors such as 
+family and peer influence, social status, lifestyle and cultural trends that can shape the spending behaviour of customers. For instance, the way parents spend and save money can have a direct influence on the spending behaviour of their children. Similarly, peer pressure can influence younger consumers to increase their spending to maintain or enhance their social status. Additionally, India’s cultural norms can impact consumer spending patterns. For instance, the Indian retail market recorded trades worth INR 3.75 lakh crore during the 2023 Diwali season.
+20 
+Access to technology and innovation in products and services, such as the rise of FinTech solutions, are influencing how people spend their money. Additionally, the role of digital public infrastructures (DPI) like Open Network for Digital Commerce (ONDC), which is democratising digital commerce by enabling small retailers to access digital marketplaces, is also enhancing the distribution and reach, fuelling consumption. The growth of e-commerce, which is being fuelled by growing access to the internet and smartphones, has revolutionised the consumer shopping experience. For instance, e-commerce sales in India which is currently (2024) at INR 4,41.7 thousand crore are expected to grow at a potential CAGR of 11.45% in the period between 2024 and 2029, to reach a value of INR 7,59.2 thousand crore.
+21 
+Government policies and regulations have the potential to impact consumer spending, borrowing and investment decisions. Streamlining tax structures such as GST can impact the pricing of products being bought by consumers, thereby impacting their purchasing decisions. Regulations related to the quality and safety of products can also influence consumer spending as consumers would spend more on products that comply with specific regulatory and quality standards.4.1.3  Social factors
+4.2  Supply side
+4.2.1  Technology factors
+4.2.2  Government policies and regulations
+Consumer spending can also be influenced through 
+advertisement and marketing campaigns, which can improve consumer awareness, help drive sales and manage brand loyalty. Advertisement expenses in India are expected to grow by 10.2% in 2024 to reach a value of INR 1,55,386 crore.
+22 This indicates the effort by companies to 
+capture market share and influence consumer behaviour, thereby stimulating increased consumer demand and contributing to the growth of the economy.
+While there are multiple factors that influence why 
+consumers are spending, it is equally important to understand and analyse where consumers are spending their money. The next section explores the various categories across which Indian consumers are spending their money.4.2.3  Marketing and advertising
+20   https://www.cnbctv18.com/business/diwali-2023-season-r etail-online-stores-sales-all-time-high-18319201.htm
+21  https://www.forbes.com/advisor/in/business/ecommerce-statistics/
+22   https://www.livemint.com/industry/ad-spending-in-india-to-gr ow-at-a-slower-pace-in-2024-says-groupm-11707829330565.html
+
+16   PwC   |   How India spends: A deep dive into consumer spending behaviour
+05
+Where Indians are spending money
+Indian consumers spend money on a wide variety of merchant categories such as lifestyle purchases, groceries, rent, 
+travel, entertainment, mobile gaming and medical expenses. It can also be noted that Indians actively invest a portion of their savings into multiple asset classes, including mutual funds, gold, equity and real estate. This section of the report analyses the different categories where Indians are allocating their expenses and investments across cities and income levels.
+The expenses made by individuals for various purposes can be grouped under three major heads:
+Obligatory: This header encompasses repayment of loans, payment of premiums for insurance policies taken and other expenses that an individual would legally be obliged to pay.
+Discretionary: This header comprises the various expenses made by individuals to satisfy needs that go beyond basic 
+survival, such as expenses related to online gaming, dining out or ordering in food, entertainment, travel and lifestyle purchases. 
+Necessity: This header includes expenses made by individuals to meet their basic needs such as utilities (water, electricity, 
+gas, etc.), fuel, medicine and groceries.
+Indians invest in a variety of physical assets 
+like land and jewellery, and capital assets like mutual funds, stocks, fixed deposits and cryptocurrency. The increased interest among people in investing in these assets can be attributed to several factors such as increased financial literacy, a rise in disposable income and the growth of digital platforms that provide individuals with diverse investment options that cater to their distinct needs.Spending: Where do Indians spend their money? 
+Investing: Beyond spending
+17   PwC   |   How India spends: A deep dive into consumer spending behaviour
+The graph below illustrates the distribution of spending across various categories as a percentage of total 
+expenditure. 5.1  Spending: Where do Indians spend their money?
+Traditionally, necessity and obligatory expenses are considered to be more important expenditures than discretionary expenses, reflecting the importance of prioritising obligations and fulfilling necessary requirements. However, the lines between discretionary spending and future obligations have been blurred by the rise of personal lending through form factors such as embedded finance, peer-to-peer loans and credit cards, and other traditional loan categories like home loans, education loans and auto loans. This is because some of the loans and credit that would have initially been availed for discretionary purposes can evolve into obligations with time.
+Based on the analysis of the main dataset, on an average, 
+salaried individuals allocated between 34% and 45% of their income to obligatory expenses, between 22% and 44% to necessities, and between 22% to 33% to discretionary expenses. However, this distribution pattern varies across different salary brackets.
+The above chart shows that individuals in lower salary brackets are primarily channelling most of their earnings toward meeting essential needs or servicing debt. Conversely, those in higher salary bands are allocating a significant portion of their income toward obligatory and discretionary spending.
+The percentage of money spent on discretionary expenses 
+increases progressively from the entry-level earners to the high-income earners, from 22% to 33%. A similar trend is observed for obligatory expenses, where the percentage of spending goes from 34% for entry-level earners to 45% for high-income earners. However, a converse trend is observed for necessity expenses, where the percentage of money spent decreases with an increase in salary – declining from 44% for entry-level earners to 22% for high-income earners.Figure 6: Split of total expenditure across categories
+Note: This graph is based on the analysis of available data.39.00%
+29.00%32.00%
+Obligatory Discretionary Necessity
+Figure 7: Split of expenditure across salary brackets
+Note: This graph is based on the analysis of available data.Obligatory
+DiscretionaryNecessity
+22%29% 31% 33% 33%44%36%28% 23% 22%34% 35%41%44% 45%
+0%20%40%60%80%100%120%
+Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners
+18   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Overview: A large part of the obligatory expenditure 
+in India is driven by EMIs paid towards various loans, including housing loans, vehicle loans and personal loans. The growing access to credit has fuelled an increase in loan uptake. For instance, as per data from the RBI, the share of personal loans in total credit increased to 32.6% in February 2024 from 30.6% in 2023.
+23 Additionally, as of 
+2023, home loans account for a significant percentage of total retail loans in India at 47.2%.
+24 Based on a survey on 
+EMI payments conducted in 2023, EMIs have increased for 42% of respondents.
+25 This growth in personal loans and increasing interest rates indicates that a large portion of Indian household income gets allocated towards payment of EMIs.
+Analysis: The analysis of consumers’ obligatory expenses 
+– specifically focusing on loan repayments through EMI – reveals an upward trend in terms of total spending on EMI as salary increases from the lowest (entry-level earners) to the highest (high-income earners) salary bucket. Hence, a positive correlation can be observed between income level and EMI expenditure.
+The analysis of loan EMI payments across different city tiers shows that there is minimal variation in terms of spending percentage. For all city tiers, the percentage of income allocated to EMI payments ranges between 33% and 38%. This indicates that irrespective of the type of city individuals live in, loan EMIs account for a substantial and relatively uniform percentage of their total expenditure.5.1.1  Obligatory
+Figure 8: Distribution of loan EMI payments as a percentage of total spending across income levels
+Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners34% 35%40%44%46%
+0%5%10%15%20%25%30%35%40%45%50%Percentage of total spending
+Note: This graph is based on the analysis of available data.
+23   https://timesofindia.indiatimes.com/city/mumbai/personal-loans-make-up-third-of-bank-cr edit/articleshow/108925985.cms#:~:text=According%20to%20
+monthly%20data%20released,from%2030.6%25%20a%20year%20earlier.
+24  https://www.business-standard.com/industry/banking/home-loan-share-in-retail-decline-to-47-2-in-november-shows-data-124010400933_1.html
+25  https://www.business-standard.com/finance/personal-finance/inflation-and-interest-rate-burden-74-see-loans-become-more-expensive-123090600496_1.html
+19   PwC   |   How India spends: A deep dive into consumer spending behaviourFigure 9: Distribution of loan EMI payments as a 
+percentage of total spending across city tiers
+Note: This graph is based on the analysis of available data.34.80%
+33.55%36.20%37.88%
+31%32%33%34%35%36%37%38%39%
+Tier 3 Tier 2 Tier 1 MetroPercentage of money spent
+Figure 10: Percentage of people paying existing loan EMIs across income levels
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners69%72%77%80%79%
+62%64%66%68%70%72%74%76%78%80%82%Percentage of peopleThe percentage of individuals paying loan EMIs is highest 
+among upper mid-level earners and lowest among entry-
+level earners, indicating higher engagement among individuals in higher income brackets for loan repayment through EMIs. It could also indicate that people in the lower salary brackets are more likely to take loans from informal sources, such as friends, family, or local shadow lenders, which is not accounted for in this analysis since transactions related to their repayment generally do not get captured in bank statements and even if they do, the purpose of such payments cannot be linked to loan repayments.
+Similar to the trend observed in the total expenditure on loan repayments through EMIs across different city tiers, the percentage of individuals paying for loans across different salary buckets are in comparable bands. The percentage of people making loan payments reveals a slight upward trend from 72.11% in Tier-3 cities to 74.17% in metro cities, indicating relatively uniform engagement in loan repayments among residents of various city types in India.
+Figure 11: Percentage of people paying existing loan 
+EMIs across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro72.11%72.71%73.05%74.17%
+69%70%71%72%73%74%75%76%77%78%Percentage of peopleInsights
+From the analysis above, it can be observed that high-
+income earners have the highest spending on loan EMIs. This indicates that with growth in income, the demand for credit support also increases. This trend could be attributed to the rising aspirations of individuals leading to increased spending on both discretionary and necessity expenditures, which eventually translates into obligatory spending. In addition to rising aspirations, another reason for the higher penetration of loans in higher-income segments could be their higher living expenses. These expenses can be related to their premium lifestyle choices, such as expensive travel budgets, premium education, and a preference for niche and higher-quality products and services. These factors result in increased expenditures and potentially higher debt.
+Lower penetration of loans amongst people with lower 
+salaries and people living in smaller-tiered cities could indicate that these individuals rely on alternative options due to challenges in the availability and accessibility of loan options. The penetration of formal loans in lower-tiered cities is low; hence, these individuals may depend on informal credit options, such as loans from friends, family and shadow lenders. For individuals in a lower salary band, a probable lack of collateral could hinder their ability to obtain formal loans, compelling them to choose informal credit sources. Consequently, this spending is not accounted for in this analysis. This presents an opportunity for lenders to explore financial products tailored to people in these segments, who may be underserved currently. 
+Additionally, the observation that loan EMIs are higher 
+for people living in metros could be attributed to factors such as higher property costs leading to larger home loans, increased educational expenses, costlier medical and healthcare facilities, and higher maintenance costs associated with living in these cities.
+20   PwC   |   How India spends: A deep dive into consumer spending behaviour
+21   PwC   |   How India spends: A deep dive into consumer spending behaviourFigure 12: Breakup of total discretionary spending
+Note: This graph is based on the analysis of available data.Lifestyle purchases
+62.82%Food: Dining out/ordering in,13.07%Online gaming13.73%Others3.38%Travel1.20%Liquor and spirits2.73%
+Entertainment3.07%Lifestyle purchases
+Food: Dining out/ ordering in
+Online gamingEntertainmentLiquor and spiritsTravel
+OthersThis report analyses discretionary spending by splitting 
+it into different discretionary expense categories such as lifestyle purchases, online gaming, dining out or ordering in, entertainment, liquor and spirits, and travel. A major part of discretionary expenses can be attributed to lifestyle purchases related to general purchases, fashion and personal care items, which together account for 62.82% of the total discretionary expenses. It is followed by online gaming with 13.73% of the total expenses. The upcoming sections provide a breakdown of each of these categories, offering insights into how individuals allocate their funds for various discretionary spends.
+5.1.2  Discretionary
+5.1.2.1  Lifestyle purchases  
+Overview: Analysis shows a direct correlation between an increase in salary and spending on lifestyle purchases. It shows that higher-income earners spend nearly three times as much on lifestyle purchases as entry-level earners. These expenses can also be tied to the type of city people live in. The average amount spent on lifestyle purchases is higher for people living in metro and Tier-1 cities as compared to that for people living in Tier-2 and Tier-3 cities.
+Figure 13: Average amount spent per month on lifestyle purchases across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners9581,2701,9172,3843,207
+05001,0001,5002,0002,5003,0003,500Amount spent in INR
+22   PwC   |   How India spends: A deep dive into consumer spending behaviourFigure 14: Average amount spent per month on lifestyle 
+purchases across city tiers
+Note: This graph is based on the analysis of available data.1,8821,9171,9882,022
+1,8201,8701,9201,9702,0202,070Amount spent in INR
+Tier 3 Tier 2 Tier 1 Metro
+Figure 15: Split of total expenditure across different lifestyle purchase categories
+Note: This graph is based on the analysis of available data.Personal care
+2%Others2%
+Electronics8%
+General68%Fashion20%General
+Fashion
+ElectronicsPersonal careOthersFrom the data, it can be inferred that there is a 6.4% 
+increase in the average amount spent on lifestyle 
+purchases by a person living in a metro, which is 
+INR 2,022, compared to that spent by a person 
+residing in a Tier-3 city, where this figure is INR 1,882 
+monthly. Some of the factors that influence the 
+lifestyle-related shopping behaviour of people include 
+consumer preference, brand consciousness, access to products and online shopping. The number of 
+online shoppers is growing in India. In rural India, it is 
+expected to reach 8.8 crore people by 2026, growing 
+at a CAGR of 22% from 2019 to 2026. In urban India, 
+this number is expected to reach 26.3 crore people by 2026, growing at a CAGR of 15% from 2019 to 
+2026.
+26 This shows that the e-commerce market is 
+expanding, but the rate of growth is higher for metro and higher-tier cities (urban areas) as compared to 
+that for lower-tier cities (rural areas). Higher-tier cities 
+often benefit from greater convenience and a wider 
+product range through online platforms, whereas 
+lower-tier cities mostly rely on traditional brick-and-
+mortar stores.
+Next, the spending patterns for the three categories that account for a major part of lifestyle purchases – general spending, 
+fashion and personal care – are explored in greater depth.Trends
+The graph below provides a breakdown of the subcategories under lifestyle purchases and shows how individuals allocate 
+funds to these expenses.
+26  https://www.business-standard.com/industry/news/e-commerce-market-to-hit-325-billion-by-2030-rural-india-to-lead-growth-124042900284_1.html
+23   PwC   |   How India spends: A deep dive into consumer spending behaviour5.1.2.1.1  General
+General shopping includes transactions done at supermarkets and on e-commerce websites. While these transactions are 
+tracked, the specific intent and purpose behind the purchase of an individual product could not be captured. Hence, they 
+have been categorised as general shopping expenses.
+The percentage of spending on general shopping out of the overall shopping expenses decreases as we move from the 
+lower salary buckets towards the higher salary buckets. This trend might indicate that high-income earners tend to spend 
+less, proportionally, on general expenses on broad e-commerce platforms and may prefer to go for more specialised 
+products through applications that offer differentiation and customisation. In contrast, individuals in lower salary buckets 
+allocate a higher percentage of their income to general shopping done through supermarkets and e-commerce platforms that offer a wider range of mass-produced products. Consequently, specialised platforms for clothing, groceries and fast 
+e-commerce could see more prevalence among higher-income earners compared to those in lower-income brackets.Figure 16: Percentage of overall shopping expenses spent on general lifestyle purchases 
+Note: This graph is based on the analysis of available data.54.69%52.34%
+45.23%
+38.21%
+29.96%
+0.00%10.00%20.00%30.00%40.00%50.00%60.00%Percentage of money spent
+Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners
+
+24   PwC   |   How India spends: A deep dive into consumer spending behaviour5.1.2.1.2  Fashion 
+Of all the lifestyle purchases by consumers, 20% is allocated towards fashion. This subcategory includes transactions for 
+purchasing apparel and accessories from designated merchants.
+An interesting observation is that the frequency of consumer spending on fashion shopping remains relatively consistent at 
+about twice a month across different salary buckets. However, the actual amount spent increases threefold from entry-level earners to high-income earners.
+For instance, the average amount spent on fashion-related expenses increased from INR 956 for entry-level earners to  
+INR 3,321 for high-income earners.Figure 17: Average number of transactions by a person per month for fashion purchases across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners1.71.731.811.891.96
+1.51.551.61.651.71.751.81.851.91.952Average number of transactions
+Figure 18: Average amount spent by a person per month on fashion purchases across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners9561,3351,9662,5453,321
+0500100015002000250030003500Amount spent in INR
+25   PwC   |   How India spends: A deep dive into consumer spending behaviourWhen examining city tiers, spending on fashion demonstrates an upward trend, with the lowest spending observed in Tier-
+3 cities and the highest in metro cities. Fashion spending, driven by brand consciousness and product availability, exhibits noticeable variation from Tier-2 cities to Tier-1 cities.
+Figure 19: Average amount spent by a person per month on fashion purchases across city tiers
+Note: This graph is based on the analysis of available data.1,3281,3881,532 1,539
+1,2001,2501,3001,3501,4001,4501,5001,5501,600
+Tier 3 Tier 2 Tier 1 MetroAmount spent in INR
+Figure 21: Average amount spent by a person per month on personal care purchases across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners208344548802968
+020040060080010001200Amount spent in INRFigure 20: Average number of transactions by a person 
+per month for fashion purchases across city tiers
+Note: This graph is based on the analysis of available data.1.781.771.82 1.82
+1.741.751.761.771.781.791.81.811.821.83
+Tier 3 Tier 2 Tier 1 MetroAverage number of transactions
+5.1.2.2.3  Personal care
+Personal care includes not only spending on products but also indulging in experiences such as salon and spa services, 
+which can extend to maintaining basic looks and hygiene. As we move up the salary brackets, both the average amount spent and the average transaction count per individual increase, indicating a trend of frequent high-value transactions. The average number of transactions goes from 1.36 per month to 1.50 per month as we go from entry-level earners to high-income earners. Similarly, the average of the total amount spent per month goes from INR 208 to INR 968 as we move from the lowest (entry-level earners) to the highest salary band (high-income earners).
+26   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Figure 22: Average number of transactions by a person per month for personal care purchases across salary 
+brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners1.36
+1.341.381.431.5
+1.21.251.31.351.41.451.51.55Average number of transactions
+Considering its aspirational nature, spending on personal care typically grows with increase in income. However, while people’s engagement with the category remains relatively consistent across income levels, the amount spent varies noticeably. This suggests that while personal care is a staple across different income groups, individuals select their personal care products and services based on their income level.Insights
+The above analysis suggests that people with higher incomes spend more on fashion and personal care as compared to people with lower income levels. This indicates that individuals in the higher salary brackets make up the largest market for retailers and e-commerce platforms, in terms of total value spent. Fashion-related expenses account for a higher total spend by both volume and value compared to personal care-related shopping, across all salary brackets. This suggests that people shop more often for fashion as compared to personal care products, regardless of their salary brackets. It can also indicate that fashion products are generally more expensive than personal care products.
+Additionally, the average total money spent by a person 
+per month on lifestyle purchases, especially for fashion purposes, increases as we move from Tier-3 cities to metro cities. This indicates a preference for people to buy more expensive fashion products in metro cities. It could also suggest that metro cities offer more expensive fashion products in general compared to other geographies.
+27   PwC   |   How India spends: A deep dive into consumer spending behaviour
+5.1.2.2  Online gaming
+Overview: In the past few years, the increasing penetration 
+of smartphones, along with the growing availability of internet at affordable rates and improved download speeds, have largely contributed to the increased trend of online gaming in India.
+27 This increasing trend is further fuelled by 
+the tech-savvy new generation. From simple mobile games to complex multi-player computer games, online games are available in a broad variety of internet-based games. The online gaming industry in India has seen fast-paced growth at a CAGR of 28% from FY20 to FY23, and it reached a market value of INR 16,428 crore by revenue in FY23. It is further expected to grow to INR 33,243 crore by FY28 with a CAGR of 15%.
+28 
+27   https://telecom.economictimes.indiatimes.com/news/industry/indias-ranking-in-download-speed-impr oves-by-72-spots-as-jio-airtel-ramp-up-5g-rollouts-
+ookla/104104882#:~:text=NEW%20DELHI%3A%20India’s%20global%20ranking,latest%20research%20released%20by%20Ookla.
+28  https://www.thehindu.com/opinion/op-ed/getting-to-a-new-level-in-indias-online-gaming-sector/article68146583.ece
+29  https://inc42.com/buzz/over-99-mobile-phones-used-in-india-are-locally-made-ashwini-vaishnaw/Figure 23: Percentage of people performing transactions for online gaming-related expenses across salary 
+brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners22%
+18%
+16%
+14%
+12%
+0%5%10%15%20%25%% of people transactingEven though there is a wide variety of sources available to 
+play video games on, the online gaming industry in India is dominated by mobile games. One possible reason for this could be that mobile phones are easily accessible. Smartphone penetration in India reached approximately 71% in 2023.
+29 Expenditures related to online games are 
+generally related to in-app purchases, subscription costs associated with app usage or sometimes the cost of the game itself.
+Analysis: The total number of individuals performing 
+transactions for online gaming-related expenses is the highest amongst the group of entry-level earners and emerging professionals. It can be observed that this number decreases as the income level rises. It is the highest for entry-level earners at 22% and the lowest for high-income earners at 12%.
+28   PwC   |   How India spends: A deep dive into consumer spending behaviour
+The graphs below show people living in Tier-1 cities have the highest average amount of monthly expenditure towards 
+online gaming purchases compared to people living in any other city tier. However, the average number of transactions 
+done by a person per month is the highest among people residing in metro cities.
+Figure 24: Average number of transactions by a person per month for online gaming-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro8.5710.249.4410.51
+024681012Average number of transactionsFigure 25: Average amount spent by a person per month 
+on online gaming-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro4,6294,7635,081
+4,482
+4,1004,2004,3004,4004,5004,6004,7004,8004,9005,0005,1005,200Amount spent in INR
+Insights
+Penetration in the online gaming industry, measured using the 
+percentage of people performing transactions, is observed to be highest for individuals in the lower salary brackets. This suggests that online games are a popular source of recreational activity among these individuals. It also suggests that these individuals constitute a significant potential market for companies that provide such online gaming applications and platforms.
+Furthermore, the average number of monthly transactions by a 
+person is lower for individuals living in Tier-1 cities compared to individuals residing in either Tier-2 or metro cities. On the other hand, a completely opposite trend is observed for the average total money spent monthly by a person on online gaming, with people in Tier-1 cities spending more than their counterparts in Tier-2 and metro cities. This indicates that, on average, the transactions made by a person in a Tier-1 city are of higher monetary value as compared to a person in Tier-2 or metro city. This suggests that individuals in Tier-1 cities may engage in higher-value transactions related to online gaming as compared to those in Tier-2 and metro cities. 
+One of the reasons for this could be the increasing popularity of 
+fantasy games that provide an opportunity to earn money among young people in Tier-1 cities, who generally have better internet connections and easier smartphone access. These individuals are often the target consumers of gaming companies who aim to attract the youth to download and subscribe to services within the games. These games are not only a form of recreation for the youth but also offer cash prizes, which further motivates them to spend on such games. The market for e-sports in India is expanding in these areas, potentially contributing to increased spending on in-game purchases.
+29   PwC   |   How India spends: A deep dive into consumer spending behaviour
+5.1.2.3  Food: Dining out/ordering in
+Overview: The rapid urbanisation of India has led to busier lifestyles, leaving people with less time for personal chores 
+like cooking at home. According to data from the Ministry of Statistics and Programme Implementation (MoSPI), in FY23, households classified as urban elite segments (those with higher levels of income in metro cities) of the population spent nearly 50% of their monthly food budget on packaged goods, eating out and food delivery services. This percentage was only 41.2% ten years earlier,
+30 indicating an increasing trend of people preferring to dine out or order in. The increase in the 
+number of food orders can be attributed to arrangements like working from home and a boom in food delivery apps and the discounts provided by them. On the other hand, dining out has become a popular form of social activity. 
+Analysis: The chart below shows that as salary increases from entry-level earners to high-income earners, both the amount 
+of money spent towards food expenditure (ordering or eating out) and the frequency at which it is spent increases. This shows that individuals in higher salary brackets tend to not only allocate more towards food expenditures overall but also demonstrate a higher spend value per transaction, along with a greater frequency of dining out or ordering in.
+30  https://www.business-standard.com/economy/news/indians-spending-more-on-packaged-food-eating-out-as-home-cooking-declines-124041000308_1.htmlFigure 26: Average amount spent by a person per month on food-related expenses across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners4927441,2231,4972,170
+05001000150020002500Amount spent in INR
+Figure 27: Average number of transactions by a person per month for food-related expenses across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners2.463.033.69 3.744.2
+00.511.522.533.544.5Average number of transactions
+30   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Insights
+Food expenditures related to dining out or ordering in 
+increase directly in proportion to people’s income levels. Individuals with higher salaries tend not only to spend more money overall, but also spend more per transaction. This suggests that as the income level for individuals rises, they have more disposable income to spend on discretionary expenses like dining out or ordering in. This also indicates that high-income earners might assign a greater value to convenience and time-saving options. The increasing trend of hybrid work and work from home has blurred lines between work and personal life, thereby contributing to increased food orders as these individuals would prefer to save time by ordering food when they work from home and by eating out when they work from office.
+5.1.2.4  Entertainment
+Overview: According to a PwC report, the entertainment and media industry in India is expected to grow at a CAGR of 9.7% from 2023 to 2027, reaching an estimated value of INR 603.5 thousand crore by 2027.
+31 While mobile phones are 
+rapidly gaining popularity as an important source of entertainment for people, spending on entertainment collectively includes transactions conducted for the purpose of enjoyment or amusement, including subscribing to music services and participating in outdoor activities. In addition to this, the rise of social media culture has led to increased spending on experiences and activities for the purpose of entertainment.
+Analysis: The graph below shows the percentage of individuals in the various salary groups who engage in transactions 
+under this category. Entertainment typically falls under the category of premiumisation, in which the customer’s experience is enhanced by offering them more than what is available, affordable or necessary to others. This trend is evident from the graph below, where the propensity for expenditure is lowest at 22% for entry-level earners, while it almost doubles to 43% for high-income earners.
+Figure 28: Percentage of people performing transactions for entertainment-related expenses across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners22%28%36%41%43%
+0%5%10%15%20%25%30%35%40%45%50%% of people transacting
+31  https://www.pwc.in/industries/entertainment-and-media/india-edition-GEMO23.html
+31   PwC   |   How India spends: A deep dive into consumer spending behaviourThe graph below shows the major heads under the entertainment category.
+The majority of the spending in the entertainment category person per month almost remains comparable across all 
+is on in-app purchases on app stores, followed by spending city tiers. It can also be observed that average expenditure on OTT platforms, movies and cable TV. These contribute towards entertainment-related shopping is slightly lower to more than 75% of all the spending in the entertainment for Tier-1 cities compared to that in Tier-2 and metro cities. category. The general category contributes to 22% of Metro cities offer a plethora of entertainment options from the total amount spent on entertainment. This consists theatres, concerts, luxury shopping malls, and exclusive of expenses on amusement parks, live shows and other clubs and lounges, which can lead to higher spending on a smaller entertainment segments. range of activities. Tier-1 cities could have fewer premium entertainment options when compared to metro cities, 
+The widespread availability of the internet and mobile leading to a lower average spending. The expansion of new 
+devices in India has contributed to the increased adoption entertainment sources such as malls, multiplexes and other 
+of OTT platforms and apps across various city tiers. The local events in Tier-2 cities could attract more spending 
+data also reveals that consumers in metro cities spend from their residents who might be eager to explore these 
+more on entertainment compared to all other tiered cities. new opportunities, leading to increased spending compared 
+However, the average number of transactions done by a to Tier-1 cities.Figure 29: Split of total expenditure across different entertainment subcategories
+Note: This graph is based on the analysis of available data.General
+22%App stores31%Audio1%
+Cable TV12%
+OTT21%Movies13%App stores
+General
+OTT
+Movies
+Cable TV
+Audio
+
+32   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Figure 30: Average number of transactions by a person 
+per month for entertainment-related expenses across 
+city tiersFigure 31: Average amount spent by a person per month on entertainment-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro1.41.44
+1.41
+1.4
+1.371.381.391.41.411.421.431.441.45Average number of transactions
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro531584559597
+400450500550600650Amount spent in INR
+Insights
+High-income earners have the highest percentage of individuals performing transactions 
+related to entertainment-related expenses. This might indicate that expenditure in the entertainment category could be more of a matter of affordability.
+One of the reasons for this could be because people in the lower income groups typically 
+share one subscription or one device for entertainment sources like video streaming platforms, music streaming services, audio books as well as magazine subscriptions, including sports and news. These are generally shared amongst friends and family members to save money.
+The major spending in this category is observed in the app store expenses category, which 
+can be attributed to the rise in the popularity of streaming services, audiobooks, creative apps and podcasts. It can also be observed that both the volume and value of transactions remain in fairly the same range across different city tiers. One possible explanation for this could be that most of the subcategories under entertainment expenses are digital media which are accessible to people across all city tiers owing to the increased penetration of the internet and smartphones. Additionally, it can be noted that the availability of content in regional languages on these entertainment platforms is attracting a wider audience, thus contributing to higher spending. 
+33   PwC   |   How India spends: A deep dive into consumer spending behaviour5.1.2.5 Liquor and spirits revenue in 2021. It is expected to grow at a CAGR of 6.54% 
+between 2023–27 and reach INR 524.8 thousand crore in 
+Overview: In India, consumption of liquor and spirits five years.33 The rise in consumption of liquor and spirits can 
+represents a significant segment within discretionary be attributed to factors such as higher disposable income, 
+spending, making it the fifth largest contributor to the increased access to a wider selection of liquor and spirits 
+worldwide spirits market revenues.32 According to a report and the growth of the urban population.
+by the International Spirits and Wines Association of India (ISWAI), the liquor and spirits consumption sector had Analysis: The graph below indicates that the percentage 
+a market size of INR 429.6 thousand crore in terms of of people buying liquor and spirits rises with an increase in income level. 
+Figure 32: Percentage of people performing transactions for liquor and spirits-related expenses across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners11.81%12.47%12.93%13.63% 13.79%
+0.00%2.00%4.00%6.00%8.00%10.00%12.00%14.00%% of people transacting
+Figure 33: Average amount spent by a person per month on liquor and spirits-related expenses across salary 
+brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners8671,0931,7232,1812,717
+050010001500200025003000Amount spent in INR
+32  https://www.iswai.in/wp-content/uploads/2024/06/jan-2024.pdf
+33   https://retail.economictimes.indiatimes.com/news/food-entertainment/gr ocery/indian-alcoholic-beverage-industry-may-reach-64-billion-over-the-next-5-
+years/104893049
+34   PwC   |   How India spends: A deep dive into consumer spending behaviourFigure 34: Average number of transactions by a person per month for liquor and spirits-related expenses across 
+salary brackets
+Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners2.63
+2.452.75 2.74
+2.67
+2.22.32.42.52.62.72.8Average number of transactions
+Note: This graph is based on the analysis of available data.
+While the average amount spent on the consumption of Also, for high-income earners, the number of transactions 
+liquor and spirits reveals an increasing trend with growth is lower as compared to that for mid-level and upper-in salary, the average number of transactions across salary mid-level earners, showing that high-income earners buy buckets reveals an interesting contrast. Entry-level earners comparatively expensive liquor and spirits as the total have a comparatively higher number of transactions than money spent is greater when compared to that for people in emerging professionals, indicating that they buy a more other salary bands.economical range of liquor and spirits but more frequently. 
+Figure 35: Percentage of people performing transactions for liquor and spirits-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro11.88%
+10.44%11.24%15.25%
+0%2%4%6%8%10%12%14%16%18%% of people transactingFigure 36: Average amount spent by a person per month 
+on liquor and spirits-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro9021,1611,350
+1,108
+02004006008001000120014001600Amount spent in INR
+35   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Figure 37: Average number of transactions by a person 
+per month for liquor and spirits-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro2.232.53 2.562.86
+00.511.522.533.5Average number of transactionsInsights
+Based on the above analysis, it can be observed that the average number of transactions for buying liquor and spirits is the highest among mid-level earners and people living in metro cities. Additionally, the highest expenditure is by high-income earners and individuals living in Tier-1 cities. This suggests that individuals residing in metros generally perform more transactions for buying liquor and spirits but opt for more economical varieties of these beverages. The increasing awareness of health-related risks associated with consuming alcohol may lead to more moderate consumption habits or a preference for lower-alcohol options which can be more economical. This possibly accounts for the reduced expenses, especially in metro cities.
+Furthermore, the analysis shows that penetration of 
+liquor and spirits across different city tiers lies between 10.44% to 15.25%. This indicates that these beverages are bought and consumed by individuals across all city tiers, suggesting that variety and quality of beverages could be other factors that vary with respect to liquor and spirits bought. This could account for the high variation in spending on their consumption.
+Penetration of liquor and spirits as per city tier follows an unusual trend. Metros have a higher average number of transactions per person for consumption of liquor and spirits as compared to other cities. Further, the average number of transactions decreases as we go from metros to Tier I to Tier II and beyond. However, the average amount spent on these beverages is highest in Tier-1 cities, followed by Tier-2 cities. This variation in spending trends could be due to a variety of reasons, including the availability and accessibility of liquor and spirits, their price and regulations, and individual preferences for liquor type and quality.
+36   PwC   |   How India spends: A deep dive into consumer spending behaviour5.1.2.6 Travel salary brackets does not vary significantly. Additionally, 
+the total expenditure increases progressively as we move 
+Overview: Even though travel is associated with leisure from the lowest salary band to the highest salary band. This 
+activities, it is also undertaken for non-leisure purposes trend can be attributed to travel preferences and the costs 
+such as work. Transactions related to cab, train, flight and associated with them. For example, high-income earners 
+bus fares are included in the analysis for this segment. The may opt for more expensive cab services and ride-sharing 
+Indian travel market was worth INR 615 thousand crore in options, while those with lower income group are more 
+FY20, and it is projected to reach INR 1025 thousand crore likely to use public transport services such as buses and 
+by FY27.34 The revenue of the Indian airline travel market trains. Additionally, high-income earners, often prefer to 
+alone was estimated at approximately INR 164 thousand travel by air if there is airway connectivity as opposed to 
+crore in FY20 and is projected to double in size by FY27.35 taking a train or bus, which can be more time consuming. 
+This can be attributed to the growing popularity of travel These individuals may also opt for more premium services 
+over the years, improving airport infrastructure, increasing like business or first class for additional comfort and 
+disposable income and easier access to passports.convenience. In contrast, individuals in lower salary bands 
+Analysis: The graph below shows that upper mid-level might prioritise measures like travelling via economy class 
+earners have the highest number of transactions in this to save money.
+category. However, the number of transactions across 
+Figure 38: Average number of transactions by a person per month for travel-related expenses across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners1.99
+1.95
+1.912.08
+2
+1.81.851.91.9522.052.1Average number of transactions
+Figure 39: Average amount spent by a person per month on travel-related expenses across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners7761,2001,7442,3123,066
+0500100015002000250030003500Amount spent in INR
+34  https://www.ibef.org/industry/tourism-hospitality-india
+35  Ibid.
+37   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Under modes of travel, train commands the highest share whereas air travel remains relatively niche, as train travel is 
+of travel expenses, accounting for 48% of all transactions, relatively more economical. Nevertheless, the total amount while the lowest amount is spent on flight tickets which of money spent on train travel is higher than that spent on constitute only 13% of expenditures. This can indicate that air travel.a significant portion of the population opts to travel by train, 
+Figure 40: Split of total expenditure across different travel subcategories
+Note: This graph is based on the analysis of available data.Train
+48%Air13%
+Stay17%
+Road22%Train
+Road
+Stay
+Air
+Insights
+It can be observed that the biggest contributor to the travel 
+category is train travel, even though air travel is generally considered to be more expensive. This indicates that the number of individuals who travel by train is much higher than that of those who prefer air travel, due to the former’s price and accessibility for the Indian populace. Also, the number of cities with a railway line or roadway connectivity is much larger than those with airports, especially in Tier-2 and smaller cities. Hence, it is more convenient for travellers to opt for either trains or road transport for point-to-point travel. This contributes to the difference in the total amount of money spent on these modes of transportation.
+Another reason for lower total spending on air travel by 
+individuals could be that a notable portion of air travel is part of business-related trips which are, typically, financed by corporations directly. Hence, these payments would not have been reflected in the above analysis of travel expenses.
+Additionally, trends similar to those for food and 
+entertainment can be evidenced here. The analysis shows that the average number of transactions per month by entry-level earners and high-income earners is almost equal. However, the average total amount spent by high-income earners is three times that of entry-level earners. This could indicate that high earners opt for more premium travel destinations, travel stays and modes of travel. Additionally, the growth of digital platforms, including travel aggregators, has made travel more accessible and convenient, potentially contributing to the overall growth of travel transactions.
+5.1.2.7  Others
+Apart from the discretionary expenses analysed above, 1.17% of these expenses is allocated to other expenditures. These can include a variety of expenditures that do not necessarily apply to all salaried individuals analysed in this report. For tech enthusiasts, the latest gadgets and/or subscriptions to technology can be a discretionary expense. For pet lovers, owning their pet and buying supplies and pet care products are other discretionary costs. In addition to this, pursuing hobbies and other interests often involves discretionary expenses on equipment and other materials.
+38   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Spending on necessities accounts for 32% of all Indian consumers’ spending, making it one of the primary spending 
+categories for Indian households. This includes expenses related to utilities, house rent, medicals, fuel, and everyday essentials such as grocery and household expenses. The transactions related to necessity expenditures are shown in the chart below:5.1.3  Necessity
+5.1.3.1  Utilities
+Overview: In Indian households, utility expenses largely include costs associated with services such as electricity, water, cooking gas (LPG), household waste disposal and sewage maintenance. Utilities represent the largest expenditure category under necessity spending, comprising 30.10% of the total expenses. There has been a noticeable increase in these expenses. For example, power consumption in India witnessed a year-on-year increase of nearly 8% to 1,221.15 billion units (BU) during the April–December period of 2023. In comparison, power consumption was 1,132.11 BU in April–December 2022.  Apart from electricity consumption, LPG consumption is also on the rise. According to the Industry Consumption Review Report released by the Petroleum Planning & Analysis Cell (PPAC), India’s consumption of LPG in December 2023 increased by 2.3% from that in December 2022 and by 11.6% from pre-pandemic levels in December 2019. Figure 41: Subcategories under necessity expenditures
+Note: This graph is based on the analysis of available data.Utilities
+30.10%
+Everyday essentials17.48%
+House rent16.04%Medicals14.56%Fuel10.20%Others11.72%
+Utilities
+Everyday essentials
+House rent
+Medicals
+Fuel
+Others
+36  https://www.thehindu.com/business/Economy/indias-power-consumption-grows-nearly-8-in-april-december/article67761902.ece
+37   https://energy .economictimes.indiatimes.com/news/oil-and-gas/india-records-2-3-rise-in-lpg-consumption-9-2-growth-in-atf-usage-in-december-2023-
+report/107276278
+39   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Analysis:  An analysis of transactions related to utilities reveals that as the salary bracket increases from lowest to highest, 
+the number of people transacting for utilities decreases. This trend could be attributed to the tendency of individuals in 
+higher-salary brackets to live in societal buildings in higher-tier cities, where utility charges related to water, waste disposal and sewage treatment are typically included in the rent or maintenance fees. As a result, these utility expenses may not be directly reflected in individual transactions.
+Figure 42: Percentage of people performing transactions for utilities-related expenses across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners74%
+73%
+71% 71%
+69%
+65%66%67%68%69%70%71%72%73%74%75%% of people transacting
+Insights
+With utilities being the category under necessity expenditure on which Indians 
+spend the most, it is clear how essential these services are. It can also be seen that across all the salary buckets, the number of people spending on utilities is between 69% and 74%, which indicates that these expenditures are equally important and consistently paid by all salary groups. Increased urbanisation could also be one of the contributors to higher utility consumption, particularly in densely populated areas like metros. The growth of remote work across different city tiers could also have impacted utility consumption, particularly electricity and internet usage.
+40   PwC   |   How India spends: A deep dive into consumer spending behaviour
+5.1.3.2  Everyday essentials
+Expenditure related to everyday essentials primarily comprises purchase of necessities such as groceries and household 
+items, with grocery shopping accounting for 40% of total expenditures and household items making up for the remaining 60% of expenses related to everyday essentials. Groceries include items such as vegetables, fruits, grains, dairy products and other packaged foods. Household items can encompass a wide variety of goods and services including furnitures and fixtures, electronics, domestic supplies and other repair services. This indicates the essential nature of these expenses, as the products considered are fundamentals that would be needed for daily living.
+5.1.3.2.1  Household
+Overview: Expenditure related to the household category encompasses spending on furniture and fixtures, electronics, 
+domestic supplies, and various other essentials and services, including repairs. The markets catering to these household expenditures are experiencing notable growth. According to the Trade Promotion Council of India (TPCI), the Indian furniture market size, calculated by revenue, is expected to grow at a CAGR of 10.9% to reach INR 268.1 thousand crore by 2026, from an estimated INR 189.5 thousand crore in 2022.
+38 A similar trend can be observed for electronic products, as 
+their domestic production in India has increased at a CAGR of 13% from INR 401.8 thousand crore in FY17 to INR 828.2 thousand crore in FY23.
+39 This growth in market size and manufacturing is likely to be driven by a large increase in demand 
+attributable to increasing urbanisation and changing lifestyles. These trends show that expenditure under the household category is increasing. The retail landscape channels for buying these items are quite diverse, catering to the budget and preferences of customers. They range from retail supermarkets and appliance and furniture stores to e-commerce platforms.Figure 43: Split of total expenditure across subcategories under everyday essentials
+Note: This graph is based on the analysis of available data.Household
+60%Grocery40%
+Household
+Grocery
+38  https://www.ibef.org/blogs/the-indian-online-furniture-industry
+39  https://www.investindia.gov.in/sector/electronic-systems
+41   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Analysis:  It is typically assumed that the cost of living in metro and Tier-1 cities exceeds that of Tier-2 or Tier-3 cities, 
+and hence their household expenses would be higher. However, the graph below shows that metros spend the least on 
+household expenses. One possible reason for the average total money spent on household items being lower in metros is that people in metro cities may prefer to pay via credit cards or cash, which this report has not accounted for in its analysis.
+The graph shows that household expenses in Tier-1 cities have the highest average total amount spent by an individual per 
+month, followed by Tier-2, Tier-3 and then metro cities. 
+Analysis of the data reveals that the frequency of household expenses, measured by the number of transactions, is highest 
+in metros. For instance, a consumer in a metro city, on average, conducts about 23 household expense transactions per year, whereas a consumer in a non-metro city performs approximately 20 transactions per year. Nevertheless, the latter pays more for these expenses than metro dwellersFigure 44: Average number of transactions by a person per month for household-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro1.821.8
+1.721.94
+1.551.61.651.71.751.81.851.91.952Average number 
+of transactionsFigure 45: Average amount spent by a person per month on household-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro8859681,142
+859
+020040060080010001200 Amount spent in INR
+Insights
+Individuals in Tier-1 cities spend the highest average amount of money per month on household shopping, 
+followed by those in Tier-2 and Tier-3 cities. People residing in metro cities have the lowest household expenditure. This could be because people in metro cities tend to live in rental homes and have a transient lifestyle due to frequent job changes and relocations. Hence, these individuals can choose to spend on furniture and electronics as per their convenience and only as much as required by them for a comparatively shorter stay, avoiding any heavy investments. Another reason for low household expenses in metro cities could be that for rental properties, furniture repairs and plumbing costs are covered within the house rent in the form of maintenance charges. While individuals would not have to bear these separate costs, this is also potentially contributing to higher house rents in metro cities.
+Further, individuals in metros could have better access to a wide variety of domestic household items of higher 
+quality compared to those living in lower tiered cities, and a comparatively better spending power to buy these higher quality items as well. As a result, individuals in metros may spend less on maintenance and repairs.
+It can also be highlighted that the total number of monthly transactions decreases as we move from lower-
+tiered to higher-tiered cities (Tier 3 to 1) for transactions related to household items. On the flipside, the value of these transactions increases. This could indicate that individuals in higher-tiered cities (Tier 1 specifically) either buy more expensive items or buy their household items in bulk.
+ While individuals in metros spend the least on average on household items, their transactions are the 
+most frequent. Cultural differences such as a transient lifestyle, preference for more convenient and quick purchases, and increased access in terms of avenues for purchases (including local stores and online shopping) through multiple payment modes could contribute to this trend. The wider variety of shops can also lead to more competitive pricing options which can be leveraged by dwellers in metro cities.
+42   PwC   |   How India spends: A deep dive into consumer spending behaviour
+5.1.3.2.2  Grocery Analysis: There is a direct positive correlation between the 
+increased spending on groceries and the salary of specific 
+Overview: The grocery and food retail market in India is individuals. For instance, high-income earners spent 
+estimated to grow at a CAGR of 10% between 2022 and six times more than entry-level earners on their monthly 
+2030.40 It is also expected to reach total revenues of INR groceries. Similarly, high-income earners on average made 
+69.7 lakh crores by 2025.42 This growth in the grocery 4.08 grocery-related transactions, which is almost twice that 
+market is driven by factors such as the growth in overall of entry-level earners, who made 2.38 transactions monthly. 
+population in the country, increased adoption of online This highlights the preference of high-income earners to 
+or e-commerce shopping for grocery items and evolving purchase comparatively expensive grocers (and potentially 
+models like quick commerce.better quality ones) more frequently.
+Figure 46: Average number of transactions by a person per month for grocery-related expenses across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners2.382.543.123.614.08
+00.511.522.533.544.5Average number of transactions
+40  https://www.investindia.gov.in/sector/retail-e-commerce/food-retail
+42   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Figure 47: Average of total money spent by a person per month for grocery-related expenses across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners4607151,4072,1102,991
+05001,0001,5002,0002,5003,0003,500Amount spent in INR
+43   PwC   |   How India spends: A deep dive into consumer spending behaviourInsights
+As the salaries of individuals increase, their related 
+expenses for groceries also increase. This trend can be observed both in terms of the value and frequency of grocery-related purchases. The reason behind this could be that as income increases, people tend to be less price sensitive and prefer premium quality groceries, which they tend to buy in a higher frequency for ensuring the freshness of the items they’ve purchased. On the contrary, individuals in the lower salary bracket tend to buy grocery items in bulk from nearby supermarkets, e-commerce platforms and kirana stores where they can buy them at a cheaper price.
+Grocery-related expenditures witness an increase as 
+we go from a lower salary bracket to a higher one, both, in terms of the average amount of money spent and the average number of transactions done by a person. This may be attributed to people with higher incomes preferring to purchase and consume higher-quality and premium grocery items while also purchasing them in more frequent intervals to get fresher produce and a varied diet from convenient, higher-priced stores or online platforms, compared to people with a lower income who might prefer buying in bulk from supermarkets. Such individuals can become less price-sensitive when buying groceries and are usually also willing to pay delivery fees to online delivery platforms for their groceries, which further increases their costs related to groceries.
+44   PwC   |   How India spends: A deep dive into consumer spending behaviour5.1.3.3  House rent
+Overview: People who relocate to urban cities for employment opportunities or higher education usually reside in rented 
+homes.41 House rents, especially in the top metro cities in India, have increased up to 64% in the period between 2019 and 
+2024, which has led to increased spending on household rents.42 It accounts for 16.04% of the total necessity expenditures 
+of the Indian salaried person. This is a significant percentage since not all salaried employees live in rented homes, hence this percentage represents only a portion of such population, unlike other categories which are generally applicable to everyone.
+Analysis: The average total money spent on house rent by a person is the highest in metro cities, i.e. INR 13,480 per 
+month. It is comparatively lower for the other Tier cities. It can also be noted that the average total money spent by individuals in Tier 2 (INR 9,860) is slightly higher than the expenditure of individuals in Tier 1 (INR 9,429) cities.
+While analysing the total money spent on rent as per the salary buckets of individuals, it can be observed that high-income earners spend almost three times the money that entry-level earners do. This shows that as the salary of the people increases, they prefer to live in larger houses with more amenities which are often located in premium areas. It can also be observed that for the first three salary brackets, there is no substantial increase in the expenditure towards rent. But as we move to the top two bands, a significant leap in house rent expenditures can be observed.
+Figure 48: Average of total money spent by a person per month for house rent-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro7,9609,860 9,42913,480
+02,0004,0006,0008,00010,00012,00014,00016,000Amount spent in INR
+Figure 49: Average of total money spent by a person per month for house rent-related expenses across salary 
+brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners6,757 6,534 9,02514,75619,927
+05,00010,00015,00020,00025,000Amount spent in INR
+Insights
+People living in the highest-tier cities and people with the highest salaries pay the most rent. This can be attributed to 
+choices in living standards as per the income level of the people. People with higher incomes have the financial capacity to opt for accommodations with more amenities, larger house space and other lifestyle preferences. On the other hand, due to financial limitations, individuals with lesser income levels might have to compromise on these factors. There could be various reasons for house rent to be higher in Tier 2 cities as compared to Tier 1 cities including, imbalance between supply and demand, rapid urbanisation and increased investments into these emerging cities which leads to a rapid influx of working professionals in a city.
+41  https://timesofindia.indiatimes.com/city/chennai/house-rents-go-up-by-10-to-15/articleshow/108666046.cms
+42  https://www.business-standard.com/industry/news/rents-in-india-have-increased-by-up-to-64-in-last-five-years-report-124061800368_1.html-related 
+45   PwC   |   How India spends: A deep dive into consumer spending behaviour
+5.1.3.4  Medical expenses
+Overview: The medical category encompasses transactions made towards diagnostic labs, pharmacies, doctor 
+consultations and hospital expenses. Based on the information from the Centre for Monitoring the Indian Economy’s Consumer Pyramids Household Survey (CMIE-CPHS), in November 2022, Indian families spent more than INR 12 thousand crore on healthcare-related expenses. During this period, 42.3% of all healthcare-related spending originated in urban India, with rural India accounting for the remaining 57.7% of spending.
+43
+Analysis: Consumers in Tier 2 cities spend the most and also have the maximum number of transactions for medical expenses. This expenditure decreases as we move up from Tier 2 to metro cities. Metro cities spend the least on medical expenses. One potential reason for this could be that people in these cities are more aware and opt for health insurance or are provided such benefits by their employers, which reduces their out-of-pocket medical expenses. Additionally, the availability of health insurance policies and the capability of people to pay insurance premiums contribute to insurance penetration in metro cities.
+Figure 50: Average number of transactions by a person per month for medicals-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro1.51.56
+1.51.48
+1.421.441.461.481.51.521.541.561.58Average number of transactionsFigure 51: Average of total money spent by a person per 
+month for medicals-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro2,3502,450 2,422
+2,048
+1,8001,9002,0002,1002,2002,3002,4002,500Amount spent in INR
+Insights
+A common trend which can be observed across all city tiers is that the average expenditure on 
+healthcare remains in the range of INR 2,048 to INR 2,450 per person, which indicates that the difference in healthcare expenditure does not vary significantly across cities. This suggests that healthcare is potentially being seen as an essential expenditure by people across India and indicates a growing level of health consciousness among the population. 
+Additionally, people living in Tier 2 cities spend the most amount of money on medical expenses, and 
+with the highest frequency. This trend could potentially be attributed to increasing healthcare costs and lower health insurance penetration in these areas leading to higher out-of-pocket expenses. 
+Additionally, the limited access to quality healthcare facilities in Tier 2 cities and beyond could act as a 
+barrier to implementing preventive healthcare  measures, which can result in higher  medical expenses due to late  diagnosis and treatment.  Furthermore, the nature of  }labour-intensive professions  in these areas, such as construction  and farming, might increase the risk of  illness, which results in higher  healthcare expenses.
+43  https://thewire.in/health/how-much-do-indian-households-spend-on-healthcare-every-month
+45   PwC   |   How India spends: A deep dive into consumer spending behaviour
+46   PwC   |   How India spends: A deep dive into consumer spending behaviour
+5.1.3.5  Fuel
+Overview: According to the data gathered by the Petroleum and Natural Gas Ministry, between 2013-14 and 2023-24, 
+the yearly consumption of petrol has increased by 117%, and that of diesel has increased by 31%.44 This increase can be 
+attributed to the growing number of vehicles on the road, the return to work from office, and increased travel for leisure and domestic purposes. Furthermore, the expansion of the logistics sector and improved infrastructure such as road networks in India’s hinterlands has also led to an increase in fuel consumption.
+Analysis: The total expenditure and frequency of transactions related to fuel expenses are lowest in metro cities followed 
+by Tier 3 cities indicating lesser reliance on private vehicles in these geographies.
+5.1.3.6  Others
+Beyond the expenses covered above, there are 2.4% of necessity expenses which have been categorised as others. This includes various types of necessary expenses like education, telecom and others. Expenses related to tariff charges for using telecommunication services like talk time, messaging and internet services have become a necessary expenditure for people today. Education is another necessary expense. While primary education is necessary and generally salaried people provide it for their children, many families also prioritise additional education expenses such as after-school tutoring or additional classes. The cost of education can also vary greatly depending on the city and the individual preferences of the people. The availability of public transport and travel aggregators in metros and Tier 1 cities makes it more convenient for consumers to rely on these options rather than personal vehicles for their transportation needs, thereby reducing the necessity to spend on fuel. Additionally, corporate cab services provided to employees in metro cities also leads to the reduction in personal fuel costs. Another reason for the lower average spend on fuel in metro cities could be the use of credit cards or cash for fuel payments which has not been accounted for in this analysis. Both the total expenditure and the number of transactions are the highest for people living in Tier 2 cities.Figure 52: Average number of transactions by a person per month for fuel-related expenses across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro1.972.162.1
+1.87
+1.71.751.81.851.91.9522.052.12.152.2Average number of transactionsFigure 53: Average of total money spent by a person per month for fuel-related expenses across city tiers 
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro701824 793
+620
+0100200300400500600700800900Amount spent in INR
+Insights
+Metro cities have the least expenditure on fuel, which 
+indicates that people in these regions rely more on hired vehicles or public transport for travel. The tendency to stay (either in owned or rental places) near their place of work reduces the need for frequent long commutes, thereby reducing the consumption of fuel. The growing penetration of EVs in India can also be one of the reasons for reduced fuel consumption. 
+In addition to the reduced availability of travel aggregators, 
+minimal options for public transport, and increased commutes, compared to metros, owning a vehicle in Tier 1 and Tier 2 cities and beyond can be seen as a prestige symbol, which can potentially contribute to their increased consumption of fuel. Conversely, for Tier 3 cities, the need for private vehicles can be less pronounced due to the proximity of places which results in lower fuel expenditures.
+44   https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-petrol-
+consumption-doubles-in-a-decade/articleshow/109173510.cms?fr
+om=mdr
+47   PwC   |   How India spends: A deep dive into consumer spending behaviour
+A rise in financial investments can be observed among on 31 May 2024.47 In addition to this, total contribution 
+Indians, indicating a growing focus of the people on via systematic investment plans (SIPs) has also touched securing their financial stability. As per the data received an all-time high at INR 21,262 crore, as compared to from the National Stock Exchange (NSE), there are eight INR 20,904 crore in May, according to the data released crore unique investors in India investing their money in by the Association of Mutual Funds in India (AMFI).
+46 
+the stock market, as of 2023. These investors represent Additionally, the growth of digital platforms has made about five crore unique Indian households which accounts investing easier and more accessible. India has seen a rise for roughly 17% of all Indian households combined.
+45 This in the penetration of demat accounts, with a 32% increase 
+trend of increased investments is driven by several factors in total accounts from 11.44 crore in FY23 to 15.14 crore including a rise in disposable incomes, increased financial in FY24.
+47 Additionally, as of 2023, 17% of the total Indian 
+literacy and the availability of diverse investment options. households invested in the Indian stock market.48 People 
+Uncertain economic climate, marked by fluctuating market have been investing in mutual funds and stock markets and conditions and inflation has also increased awareness about are continuing to invest in traditional methods like buying the importance of financial planning. jewellery. The analysis indicates that the first two options are generally more popular in Tier 1 and 2 while the latter is 
+As of 30 June 2024, the total assets under management usually a common form of investment in all cities indicating 
+(AUMs) of equity mutual funds have reached a total value the diverse investment preferences of Indians and their 
+of INR 27.68 lakh crore, which was at INR 25.39 lakh crore increasing focus on financial planning through investments.
+5.2.1  General investments
+Overview: According to the data analysed in this report, at least 90% of consumers choose to invest a percentage of their monthly income in various investment products. These include investing in mutual funds, equities, fixed deposits, chit funds, cryptocurrency, gold investments and other asset classes. There has also been an increase in the penetration of demat accounts in India, with the total number of accounts increasing from 10 crores in August 2022 to 15.14 crores as of March 2024.
+49 
+A change in the investment patterns of Indian citizens can be observed by the fact that the AUM for mutual funds, insurance and retirement savings have grown by a CAGR of 15% over the period of 10 years from 2013 to 2023. Bank deposits have also grown at a CAGR of 9% for the same period.
+50 This shift can be attributed to increasing awareness 
+among people and improved accessibility to platforms and services which facilitate investment in mutual funds and the stock market. These investments have the potential to yield larger returns than bank savings accounts which have relatively low interest rates.5.2  Investing: Beyond spending
+45  https://www.businesstoday.in/markets/stocks/story/17-of-all-indian-households-invest-in-the-indian-stock-markets-says-nse-ceo-403824-2023-10-30
+46  https://www.livemint.com/mutual-fund/inflows-into-equity-mutual-funds-rose-17-percent-to-rs-40-608-crore-in-june-amfi-data-11720513906059.html47  
+ https://www.business-standar d.com/markets/news/india-s-demat-tally-crosses-150-million-mark-for-the-first-time-in-march-124040501034_1.htmlhttps://www.
+business-standard.com/markets/news/india-s-demat-tally-crosses-150-million-mark-for-the-first-time-in-march-124040501034_1.html
+48   https://www.businesstoday .in/markets/stocks/story/17-of-all-indian-households-invest-in-the-indian-stock-markets-says-nse-ceo-403824-2023-10-
+30?onetap=true
+49   https://www.business-standar d.com/markets/news/india-s-demat-tally-crosses-150-million-mark-for-the-first-time-in-march-124040501034_1.htmlhttps://www.
+business-standard.com/markets/news/india-s-demat-tally-crosses-150-million-mark-for-the-first-time-in-march-124040501034_1.html
+50 https://www.business-standard.com/economy/news/financialisation-of-household-savings-can-fund-private-capex-goldman-sachs-124052201203_1.html
+
+48   PwC   |   How India spends: A deep dive into consumer spending behaviourAnalysis: There is an inverse correlation between investment and salary growth as evident from Figure 55. Expenditure 
+towards investment, which is calculated based on the average amount invested to the ratio of their salary, is highest at 23% in the lowest income bracket and reduces to 11% in the highest income bracket.
+In absolute terms, at least 90% of consumers in every salary band invests. However, as stated earlier, as of 2023, there 
+are eight crore stock market investors in India,  which is approximately 5.55% of the Indian population. Additionally, as of March 2024, there are 15.14 crore demat accounts in India,  against the total Indian population of 144 crores.  These numbers show that the total number of investors in India is much lower than 90%. Hence, the above figures are representative of a small segment of the Indian population which comprises tech-savvy borrowers who primarily apply for loans through FinTech and NBFCs using digital platforms.Figure 54: Average of money invested to salary ratio
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners23%
+17%
+13%
+11% 11%
+0%5%10%15%20%25%Average of median ratio
+Figure 55: Percentage of people investing across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners93%94%95% 95%
+91%
+89%90%91%92%93%94%95%96%% of people investing
+51  https://www.businesstoday.in/markets/stocks/story/17-of-all-indian-households-invest-in-the-indian-stock-markets-says-nse-ceo-403824-2023-10-30
+52   https://www.business-standard.com/markets/news/india-s-demat-tally-cr osses-150-million-mark-for-the-first-time-in-march-124040501034_1.htmlhttps://www.
+business-standard.com/markets/news/india-s-demat-tally-crosses-150-million-mark-for-the-first-time-in-march-124040501034_1.html
+53  https://www .businessinsider
+.in/india/news/indias-population-reaches-144-crore-to-double-in-77-years-unfpa-report/articleshow/109365889.cms
+49   PwC   |   How India spends: A deep dive into consumer spending behaviourA majority of this investment, around 64% is allocated towards general investments, which includes investments done 
+on platforms or applications for which the specific type of investment could not be identified precisely. This is followed by mutual funds, where individuals allocate 22% of the total amount invested, after which an additional 11% is directed towards direct equity investment in the capital markets.
+While the absolute value of investments notably increases with higher salary brackets, the investment as a percentage of 
+total salary tends to decrease as salary increases. This trend holds true across various types of investments. For instance, in the case of gold, although the monthly investment in gold increases significantly from INR 600 to INR 1,500 as the salary bracket increases, the investment as a percentage of the total salary decreases.Figure 56: Total amount invested in different subcategory
+Note: This graph is based on the analysis of available data.Shares
+11%Recurring deposit1.30%Fixed deposit0.70%Small saving0.50%Gold0.22%Chit funds0.18%
+Crypto transaction0.1%
+General investments
+Mutual funds
+Shares
+Recurring deposit
+Fixed deposit
+Small savings
+Gold
+Chit funds
+Crypto transaction
+General investments64%Mutual funds22%
+Figure 57: Average number of transactions by a person per month for making investments across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners3.053.63 3.47.68
+3.82
+0123456789Average number of transactions
+50   PwC   |   How India spends: A deep dive into consumer spending behaviour
+Figure 58: Average of total money spent by a person per month for making investments across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners600 6258301,3301,500
+02004006008001000120014001600Amount spent in INR
+Insights
+For each salary band, more than 90% of individuals 
+invest their money in various instruments, which demonstrates a strong interest among individuals in India to invest. Interestingly, it can also be noted that the percentage of salary invested decreases with an increase in salary, indicating that people tend to invest a certain amount rather than incrementally even with higher earnings. However, it is important to note that a lower investment percentage at a higher salary bracket typically exceeds a higher investment percentage at a lower salary bracket.
+For upper-mid-level earners, the average number of 
+investment-related transactions is comparatively more for individuals in other salary brackets. It might indicate that these individuals are investing in certain types of schemes which requires them to make more frequent transactions. It could also mean that they prefer to have a more diversified portfolio for their investments, leading to different transactions for different schemes and increasing the overall frequency. Additionally, the increasing accessibility of asset classes like alternative investments and virtual digital assets to mass affluents further supports this trend.
+51   PwC   |   How India spends: A deep dive into consumer spending behaviour
+5.2.2  Investment in jewellery
+Overview: When it comes to investing in jewellery, investing in gold is the most preferred option for Indians since it is 
+considered to be a prominent form of investment for cultural reasons. It is estimated that Indian households hold up to 27,000 tonnes of gold.
+54 Another popular choice for investment in jewellery in India is silver. This section will focus on the 
+trends in investments related to jewellery in general.
+Analysis: While the frequency of jewellery expenditure remained comparable across geographical locations, Tier 2 cities 
+emerged as the top spenders. On average, individuals in Tier 2 cities spent approximately 10% more on jewellery than those in metros and 50% more than those in Tier 1 cities. This indicates a greater inclination among consumers in Tier 2 cities to invest in jewellery compared to other geographical regions.
+Figure 59: Average number of transactions by a person per month for making jewellery investments across city tiers
+Note: This graph is based on the analysis of available data.Tier 3 Tier 2 Tier 1 Metro1.351.41
+1.311.38
+1.291.311.331.351.371.391.411.43Average number of transactionsFigure 60: Average of total money spent by a person 
+per month for making jewellery investments distributed geographically
+Note: This graph is based on the analysis of available data.3,4544,109
+2,6323,790
+05001,0001,5002,0002,5003,0003,5004,0004,500
+Tier 3 Tier 2 Tier 1 MetroAmount spent in INR
+Insights
+People living in Tier 2 cities spend the maximum 
+amount of money and with the highest frequency towards jewellery shopping. This could indicate that buying jewellery is one of the most popular modes of investment for people living in Tier 2 cities. Additionally, it could also reflect a lack of awareness and accessibility of other asset classes in Tier 2 cities and beyond. As a consequence, gold businesses are likely to be in higher demand in these cities. The findings also indicate that individuals in other city Tiers are likely to have a more diversified investment portfolio than those living in Tier 2 cities.
+54   https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/golds-soaring-prices-of fer-investment-potential-for-indians-with-
+household-reserves-now-a-lu crative-asset/articleshow/109464382.cms?from=mdr
+51   PwC   |   How India spends: A deep dive into consumer spending behaviour
+52   PwC   |   How India spends: A deep dive into consumer spending behaviour06
+How Indians are spending money
+After identifying the where and why of Indian spending behaviour, the next main focus area is how Indians spend money. 
+This section explores the popular modes of transactions used for specific kinds of expenditures. 
+6.1  Transaction sources
+Credit cards are used for both discretionary spending and basic lifestyle necessities. Considering that 83% of discretionary spending was allocated towards paying credit card bills by individuals who own a credit card, it is evident that the preference for using credit cards as one of the primary modes of transaction is common, especially for non-necessary and obligatory transactions.6.1.1  Credit card
+As per the data from the Reserve Bank of India (RBI), credit cards use in India has increased notably over the past year. In April 2024, India had over 10.25 crore credit cards
+55 up 25% from 8.6 crore credit cards in April 2023.56 The data indicates 
+that credit card users increased significantly from 25% in the entry-level earners category to 62% in the high-income earner category. This shows that consumers with higher salaries are more likely to own and use a credit card.
+Figure 61: Penetration of credit card users across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners25%41%51%58%62%
+0%10%20%30%40%50%60%70%Penetration rate
+55  https://www.thehindubusinessline.com/money-and-banking/credit-card-spends-fall-5-in-april-pace-of-new-card-additions-slower/article68218971.ece
+56  https://www.forbes.com/sites/zennonkapron/2023/06/22/why-credit-card-adoption-is-rising-in-india/
+53   PwC   |   How India spends: A deep dive into consumer spending behaviourFigure 62: Average monthly credit card bill payment transactions done by individuals
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners2.32.42.7 2.72.8
+00.511.522.53Average number of transactions
+Figure 63: Average total credit card expenses by individuals across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners17,75822,51727,44042,48858,175
+010,00020,00030,00040,00050,00060,00070,000Amount spent in INR
+Credit cards provide immediate access to cash and can also enable deferral of cash flows. At lower income levels, credit 
+cards could majorly be used for the latter. Surprisingly, for many individuals, expenditures on credit cards significantly surpassed the total salary of the consumers, particularly for entry-level earners and emerging professionals. 
+Also, to understand the various benefits of credit cards like revolving balances and reward programmes, individuals are 
+more likely to possess multiple credit cards. This phenomenon is more prevalent among individuals in higher-income groups, for whom the credit card issuers are typically able to seamlessly issue new cards based on existing ones. 
+54   PwC   |   How India spends: A deep dive into consumer spending behaviourFigure 64: Ratio of average credit card expenditure to salary across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners1.65
+1.12
+0.450.78
+0.67
+00.20.40.60.811.21.41.61.8Ratio
+
+55   PwC   |   How India spends: A deep dive into consumer spending behaviourFigure 65: Average monthly cash deposit transactions done by individuals across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners1.9
+1.8 1.8 1.8 1.8
+1.71.751.81.851.91.95Average number of transactions
+Figure 66: Average of total money deposited by individuals across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners23,17528,01539,65048,71564,115
+010,00020,00030,00040,00050,00060,00070,000Amount deposited in INRThere are two kinds of cash deposits made by the consumers regardless of their salary band. For instance, the entry-level 
+earners exhibited the highest number of cash deposit transactions per month despite having the lowest transaction values. Additionally, there was a 2.3x increase in the deposited amount as the salary bracket moved from the lowest to the highest.6.1.2  Cash deposit
+56   PwC   |   How India spends: A deep dive into consumer spending behaviourFurthermore, the average number of withdrawal transactions by a person per month remains consistent across all salary 
+brackets, highlighting the ongoing need for hard cash to manage day-to-day transactions. 6.1.3  Cash withdrawal
+The number of cash withdrawal transactions is comparable across all salary brackets, however, as the salary increases from the lowest to the highest band, the total amount withdrawn increases by 2.6x from INR 15,062 per month to INR 28,803 per month. . This could indicate a greater need for cash among higher-salary earners to manage their increased expenses. However, many of these expenses could potentially be paid via UPI and other digital payment methods unless cash is the preferred mode of payment or acceptance for certain types of expenses. These expenses may include rent, payment for household help, local transportation, medical expenses, festive social obligations, managing unexpected expenses or emergencies as a precaution and informal lending.
+Figure 67: Average monthly cash withdrawal transactions done by individuals across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners3.8 3.83.9
+3.8
+3.6
+3.33.43.53.63.73.83.94Average number of transactions
+Figure 68: Average of total money withdrawn by individuals across salary brackets
+Note: This graph is based on the analysis of available data.Entry-level 
+earnersEmerging 
+professionalsEstablished 
+earnersMid-level 
+professionalsHigh-income 
+earners15,06218,10522,65024,75028,803
+05,00010,00015,00020,00025,00030,00035,000Amount withdrawn in INR
+57   PwC   |   How India spends: A deep dive into consumer spending behaviour
+6.2  Key mode of transactions
+According to data from the National Payments Corporation 
+of India (NPCI), in FY23, 83.7 hundred crore transactions worth INR 139 lakh crores were conducted through UPI. In FY24, the total number of transactions increased to 131 hundred crores with a total value of INR 200 lakh crores.
+57 In 
+terms of total users, UPI is used by over 30 crore individuals and over 5 crore merchants, as of 2023.
+58 
+Most discretionary and necessity-related transactions across tiers and salary brackets are done via UPI, followed by modes such as cash withdrawals from ATMs, card payments at POS terminals and payments made through payment gateway. This shows that UPI is the most preferred mode of payment for such expenses.
+22% of total transactions done through UPI are for 
+processing payments for shopping related to both lifestyle purchases and everyday essentials combined. This portion decreases as we move from categories such as food – 14%, utilities – 12%, loans – 9%, and gaming-related expenses – 9%, however, there is still a strong preference for using UPI.6.2.1  UPI
+Figure 69: Percentage Split of Total Transaction Volume Processed Through UPI
+Note: This graph is based on the analysis of available data.Everyday essentials and lifestyle purchases
+Food: Dining out/ ordering in
+Utlilities
+Loan
+Online gaming
+Travel
+Medicals
+Fuel
+Credit card payment
+Entertainment22%
+14%
+12%
+9%9%6%6%4%4%3%3%2%2%1%1%2%
+57  https://www.livemint.com/news/india/india-recorded-about-131-billion-upi-transactions-in-fy24-says-finance-minister-11714388161809.html
+58   https://pib.gov.in/Pr essReleaseIframePage.aspx?PRID=1973082&ref=indiatech.com#:~:text=Today%2C%20more%20than%2040%25%20of,vendors%20to%20
+large%20shopping%20malls.
+58   PwC   |   How India spends: A deep dive into consumer spending behaviourWhen it comes to the percentage of the total amount spent, UPI is mainly used to pay loans (30%) and credit card bills 
+(28%). 
+6.2.2  POS
+RBI data from April 2024 reveals that different merchants by the percentage of transactions and the total amount across the nation were using about 8.8 million POS spent for shopping via POS.
+terminals,
+59 indicating the popularity of POS as a mode 
+Transactions conducted for everyday essentials and lifestyle of transaction. POS-based payments primarily comprise 
+purchases are significant categories of payment made by transactions made using debit cards, credit cards and UPI 
+POS in terms of the percentage of total transactions done through QR using smart POS. POS is predominantly being 
+using POS with a 50% contribution to the entire number utilised by Indians for both lifestyle purchases and everyday 
+of transactions via POS. Transactions for fuel and food are essential shopping combined, followed by expenses related 
+next in percentage of total transactions with 15% and 13% to fuel and dining out/ordering in. The prevalence of using 
+contributions, respectively.POS as a payment method for both can be observed both Figure 70: Percentage split of total transaction value processed through UPI
+Note: This graph is based on the analysis of available data.Loan
+Credit card payment
+Everyday essentials and lifestyle purchases
+Investment
+Utilities
+Business expense
+Food: Dining out/ ordering in
+Gaming
+Travel
+Reversed transactions30%
+28%13%11%7%2%2% 2%2%2%1%
+Figure 71: Percentage split of total transaction volume processed through POS devices
+Note: This graph is based on the analysis of available data.Everyday essentials and lifestyle purchases
+Fuel
+Food: Dining out/ ordering in
+Liquor and spirits
+Entertainment
+Travel
+Medical shop
+Vehicle
+Loan
+Utilities
+Others50%
+15%13%4%3%3%3%3%2%1%
+3%
+59  https://rbi.org.in/scripts/ATMView.aspx?atmid=158
+59   PwC   |   How India spends: A deep dive into consumer spending behaviourSimilar to the percentage of total transactions, the percentage of total money spent via POS as a mode of payment is 
+highest combined for lifestyle purchases and everyday essentials spends, which accounts for 60% of the total money spent. This is followed by loan payments at 8% and jewellery at 6%.
+Figure 72: Percentage split of total transaction value processed through POS devices
+Note: This graph is based on the analysis of available data.Everyday essentials and lifestyle purchases
+Loan
+Jewellery
+Fuel
+Food: Dining out/ ordering in
+Travel
+Credit card payment
+Hospital expenses
+Utilities
+Vehicle
+Medical shop
+Business expenses
+Liquor and spirits
+Others60%
+8%6%5%4%3%3%2%2% 2%1%1% 1%2%
+
+60   PwC   |   How India spends: A deep dive into consumer spending behaviourIn India, the payment gateway market size, as measured by total revenue, reached INR 11.9 thousand crores in 2022 and 
+is expected to reach INR 23.7 thousand crores by 2028, growing at a CAGR of 11.6% during the forecast period of 2023 to 2028.
+60 Payment gateways are majorly used for transactions related to dining out or ordering in when analysed as per the 
+percentage of total transactions. However, the total percentage of total spending done via payment gateways is highest for credit card and loan payments.6.2.3  Payment gateway
+Figure 73: Percentage split of total transaction volume processed through payment gateways
+Note: This graph is based on the analysis of available data.Food: Dining out/ordering in
+Utilities
+Loan
+Credit card payment
+Everyday essentials and lifestyle purchases
+Travel
+Entertainment
+Investment
+Online gaming29%
+19%
+13%11%10%8%3%2%2%
+3%
+Figure 74: Percentage of total transaction value processed through payment gateways
+Note: This graph is based on the analysis of available data.Credit card payment
+43%
+Loan29%Investment9%Everyday essentials and lifestyle purchases6%Utilities5%Food: Dining out/ordering in, 3%Travel, 1%
+Others4%
+Credit card payment
+Loan
+Investment
+Everyday essentials and lifestyle purchases
+Utilities
+Food: Dining out/ordering in
+Travel
+Others
+60  https://bfsi.economictimes.indiatimes.com/blog/what-do-businesses-want-from-their-payment-gateway/104965487
+61   PwC   |   How India spends: A deep dive into consumer spending behaviour6.3  Mode of payment
+This section discusses the various modes of payment used for expenditures related to obligatory spending and all sub-
+categories of discretionary and necessity spending. The section does not include transactions done with cash or credit 
+cards since bank statements cannot show where withdrawn cash and credit cards were utilised. As a result, it provides no 
+information about where the money was spent.
+6.3.1  Obligatory spending
+For obligatory expenses, the electronic clearing service handling obligatory payments accounting for 10% and 15% (ECS) mode processes the largest percentage of total of the total value of transactions, respectively. 
+spending at 35% followed by UPI at 25%. Despite ECS 
+Consumer preference can play an important role in the having a higher share in terms of the value of transactions 
+choice of payment modes for obligatory payments. Because processed, UPI transactions happen more frequently 
+of its convenience and security, ECS is the preferred accounting for 38% of all transactions by volume. 
+method for high-value, recurring transactions that can be Additionally, payment gateways and standing instructions 
+automated. Conversely, UPI is preferred for frequent low-can also be observed as popular modes of transaction for 
+value transactions due to its speed and ease of use.
+Figure 75: Percentage of total amount spent through different modes of payments for loan repayments
+Note: This graph is based on the analysis of available data.ECS
+UPI
+PG
+SI
+OthersECS
+35%Others15%
+SI15%
+PG10%
+UPI25%
+Figure 76: Percentage of total transactions through different modes of payments for loan repayments
+Note: This graph is based on the analysis of available data.UPI
+ECS
+PG
+SI
+OthersUPI38%SI13%
+PG9%
+ECS30%Others10%
+62   PwC   |   How India spends: A deep dive into consumer spending behaviour6.3.2  Discretionary spending
+Lifestyle purchases – general
+Figure 77: Percentage of total amount spent through different modes of payments for general lifestyle purchases
+Note: This graph is based on the analysis of available data.UPI
+POS
+PG
+IMPS
+Others
+UPI
+85%Others2%IMPS, 1%
+POS8%PG, 4%
+Figure 78: Percentage of total transactions through different modes of payments for general lifestyle purchases
+Note: This graph is based on the analysis of available data.UPI86%PG, 4%
+UPI
+POS
+PG
+IMPS
+OthersOthers5%IMPS, 1%
+POS4%Lifestyle purchases – general
+63   PwC   |   How India spends: A deep dive into consumer spending behaviourLifestyle purchases – fashion
+Figure 79: Percentage of total amount spent through different modes of payments for fashion lifestyle purchases
+Note: This graph is based on the analysis of available data.UPI
+POS
+Others
+PG
+CGQ
+IMPSUPI
+65%CHQ, 3%
+POS22%PG4%
+Others5%IMPS1%
+Figure 80: Percentage of total transactions through different modes of payments for fashion lifestyle purchases
+Note: This graph is based on the analysis of available data.UPI
+POS
+PG
+UPI78%POS12%PG, 10%
+64   PwC   |   How India spends: A deep dive into consumer spending behaviourLifestyle purchases – personal care
+Figure 81: Percentage of total amount spent through different modes of payments for personal care-related lifestyle 
+purchases
+Note: This graph is based on the analysis of available data.UPI
+PG
+POS
+OthersOthers
+1%
+UPI86%PG7%POS, 6%
+Figure 82: Percentage of total transactions through different modes of payments for personal care-related lifestyle 
+purchases
+Note: This graph is based on the analysis of available data.UPI
+PG
+POS
+OthersOthers
+1%
+UPI91%PG6%POS, 2%
+65   PwC   |   How India spends: A deep dive into consumer spending behaviourOnline gaming
+Figure 83: Percentage of total amount spent through different modes of payments for online gaming-related 
+expenses
+Note: This graph is based on the analysis of available data.UPI
+POS
+PG
+Cheque
+OthersCheque, 1% Others
+2%
+UPI67%PG10%
+POS20%
+Figure 84: Percentage of total transactions through different modes of payments for online gaming-related 
+expenses 
+Note: This graph is based on the analysis of available data.UPI
+POS
+PG
+IMPS
+OthersIMPS, 2%Others
+3%
+UPI
+82%PG, 6%
+POS, 7%
+66   PwC   |   How India spends: A deep dive into consumer spending behaviourFood: dining out/ordering in
+Figure 85: Percentage of total amount spent through different modes of payments for food-related expenses
+Note: This graph is based on the analysis of available data.Others
+1%
+UPI59%PG31%POS9%
+UPI
+PG
+POS
+Others
+Figure 86: Percentage of total transactions through different modes of payments for food-related expenses
+Note: This graph is based on the analysis of available data.UPI
+PG
+POS
+OthersOthers4%
+UPI75%PG14%POS7%
+67   PwC   |   How India spends: A deep dive into consumer spending behaviourEntertainment
+Figure 87: Percentage of total amount spent through different modes of payments for entertainment-related 
+expenses
+Note: This graph is based on the analysis of available data.UPI
+PG
+POS
+SI
+OthersSI, 2% Others
+2%
+UPI76%POS6%
+PG14%
+Figure 88: Percentage of total transactions through different modes of payments for entertainment-related 
+expenses 
+Note: This graph is based on the analysis of available data.UPI
+PG
+POS
+SI
+OthersOthers
+3%
+UPI76%SI, 3%
+POS5%
+PG14%
+68   PwC   |   How India spends: A deep dive into consumer spending behaviourLiquor and spirits
+Figure 89: Percentage of total amount spent through different modes of payments for liquor and spirits-related 
+expenses
+Note: This graph is based on the analysis of available data.UPI
+POS
+OthersOthers
+2%
+UPI81%POS17%
+Figure 90: Percentage of total transactions through different modes of payments for liquor and spirits-related 
+expenses 
+Note: This graph is based on the analysis of available data.UPI
+OthersOthers
+2%
+UPI98%
+69   PwC   |   How India spends: A deep dive into consumer spending behaviourTravel
+Figure 91: Percentage of total ae mount spent through different modes of payments for travel-related expenses
+Note: This graph is based on the analysis of available data.UPI
+PG
+POS
+IMPSIMPS
+1%
+UPI68%POS9%
+PG22%
+Figure 92: Percentage of total transactions through different modes of payments for travel-related expenses 
+Note: This graph is based on the analysis of available data.UPI
+PG
+POS
+IMPSIMPS1%
+UPI68%POS3%
+PG20%
+70   PwC   |   How India spends: A deep dive into consumer spending behaviour
+For all types of discretionary spending, both in terms of the percentage of 
+amount spent and the number of transactions, the most popular payment mode 
+is UPI. The percentage of the total amount spent through UPI lies between 59% 
+(food: dining out/ordering in) and 86% (lifestyle purchases related to personal 
+care) of the total amount spent for discretionary expenditures. The percentage of 
+transactions lies between 75% (food: dining out/ordering in and entertainment) 
+and 98% (liquor and spirits) of all transactions done for discretionary expenses. 
+This shows that the ease of use and cost-effectiveness of UPI has increased 
+its adoption throughout India and made it the first choice for people for such expenditures. However, within discretionary expenditure, UPI is least preferred 
+for transactions related to dining in or ordering out. Instead, it is most popular for 
+expenses related to the consumption of liquor and spirits and lifestyle purchases 
+for general and personal care products or services. This could be due to the 
+fact that dining in or ordering out often has other options for making payments such as payment gateways on online websites and POS devices which might be 
+preferred due to the discounts and reward points offered through these modes. 
+However, for buying liquor and spirits and purchasing general and personal care 
+products or services, offline shopping is more prevalent, making UPI a more 
+convenient mode of payment. This trend can also be attributed to the wider 
+acceptance of UPI by smaller merchants due to minimal merchant discount 
+rates (MDR)
+61 and the hardware costs associated with it. 
+When analysed by the percentage of the total amount spent, POS is the second 
+most popular mode of transaction for expenses related to lifestyle purchases 
+(general and fashion), online gaming, and buying liquor and spirits. Additionally, PGs are preferred for expenses related to personal care lifestyle purchases, 
+food, entertainment and travel. This can be attributed to the general tendency to 
+buy the first set of items more frequently at physical outlets like supermarkets, 
+shops, and liquor and spirits stores which typically have POS machines. For the 
+latter categories, online payments are more common as these transactions are 
+more frequently made on their respective websites.
+When analysed through the percentage of transactions done via different 
+payment modes, the second most popular mode of transaction for expenses 
+related to general lifestyle purchases, dining out or ordering in, travel and 
+entertainment expenses is PG. Additionally, POS is the preferred mode of transaction for expenses related to online gaming and lifestyle purchases for fashion and personal care items.
+61  https://inc42.com/buzz/amazon-pay-india-ceo-bats-for-mdr-regime-for-upi-payments/
+70   PwC   |   How India spends: A deep dive into consumer spending behaviour
+71   PwC   |   How India spends: A deep dive into consumer spending behaviour
+6.3.3  Necessity spending
+Utilities
+Figure 93: Percentage of total amount spent through different modes of payments for utilities-related expenses
+Note: This graph is based on the analysis of available data.UPI
+PG
+POS
+OthersOthers
+7%
+UPI70%POS2%
+PG21%
+Figure 94: Percentage of total transactions through different modes of payments for utilities-related expenses
+Note: This graph is based on the analysis of available data.UPI
+PG
+OthersOthers4%
+UPI70%PG20%
+72   PwC   |   How India spends: A deep dive into consumer spending behaviourEveryday essentials – household
+Figure 95: Percentage of total amount spent through different modes of payments for household-related expenses
+Note: This graph is based on the analysis of available data.UPI
+POS
+PGPG
+1%
+UPI80%POS19%
+Figure 96: Percentage of total transactions through different modes of payments for household-related expenses 
+Note: This graph is based on the analysis of available data.UPI87%UPI
+POS
+PGPG3%
+POS10%
+73   PwC   |   How India spends: A deep dive into consumer spending behaviourEveryday essentials – grocery
+Figure 97: Percentage of total amount spent through different modes of payments for grocery-related expenses
+Note: This graph is based on the analysis of available data.PG
+13%POS, 5%
+UPI81%UPI
+PG
+POS
+IMPSIMPS1%
+Figure 98: Percentage of total transactions through different modes of payments for grocery-related expenses 
+Note: This graph is based on the analysis of available data.PG12%POS, 2%
+UPI85%UPI
+PG
+POS
+IMPSIMPS1%
+This term has been used as the data collected belongs to users who applied for digital loans. Hence, we are referring to 
+them as tech-savvy consumers.
+74   PwC   |   How India spends: A deep dive into consumer spending behaviourHouse rent
+Figure 99: Percentage of total amount spent through different modes of payments for house rent-related expenses
+Note: This graph is based on the analysis of available data.IB, 4%
+PG, 6%
+UPI
+49%IMPS40%
+UPI
+IMPS
+PG
+IB
+NEFTIMPS1%
+Figure 100: Percentage of total transactions through different modes of payments for house rent-related expenses 
+Note: This graph is based on the analysis of available data.PG, 4%
+NEFT, 8%
+UPI49%IMPS26%
+UPI
+IMPS
+NEFT
+PG
+IBIB2%
+75   PwC   |   How India spends: A deep dive into consumer spending behaviourMedical expenses
+Figure 101: Percentage of total amount spent through different modes of payments for medicals-related expenses 
+Note: This graph is based on the analysis of available data.IMPS, 2%
+UPI
+80%POS16%
+UPI
+POS
+IMPS
+OthersOthers2%
+Figure 102: Percentage of total transactions through different modes of payments for medicals-related expenses 
+Note: This graph is based on the analysis of available data.UPI92%POS5%IMPS, 1%
+UPI
+POS
+IMPS
+OthersOthers2%
+76   PwC   |   How India spends: A deep dive into consumer spending behaviourFuel
+Figure 103: Percentage of total amount spent through different modes of payments for fuel-related expenses
+Note: This graph is based on the analysis of available data.UPI
+73%POS26%
+UPI
+POS
+PGPG1%
+Figure 104: Percentage of total transactions through different modes of payments for fuel-related expenses
+Note: This graph is based on the analysis of available data.UPI78%POS17%
+UPI
+POS
+OthersOthers5%
+Similar to discretionary spending, UPI is the most favoured mode of payment for necessity expenditure as well. It accounts 
+for the highest percentage of spending across all categories, ranging from 49% for house rent to 81% for grocery shopping. UPI also leads in the volume of transactions across all categories ranging from 60% for house rent to 92% for medical expenses.
+The second most preferred mode of payment for necessity expenditure by both the total percentage of spending and the 
+total volume of transactions varies for each expense category: POS is commonly used for household expenses, medicals and fuel; PG is more frequently used for utilities and grocery shopping and IMPS is a popular choice for paying house rent. 
+UPI has a greater prevalence amongst all the methods used for necessity spending, except for house rent. Even though 
+UPI is still the most preferred mode of transaction for paying rent with 49% of total spending being done through this mode, IMPS is closely behind at 40%, indicating that electronic fund transfer is a popular mode for paying rent. The number of transactions made for this category follows a similar trend, with UPI accounting for the highest percentage of transactions at 60%, followed by IMPS at 26%.
+77   PwC   |   How India spends: A deep dive into consumer spending behaviour6.3.4  Investment in jewellery
+From a preferred mode of payment perspective, UPI is still the most preferred mode of payment as it is used for 63% 
+of transactions by value and 83% of transactions by volume. Following UPI, POS systems are used for 33% of total payments by value and 13% by volume. Card-based payments, especially for high ticket transactions, are gaining traction across various geographical regions, despite the emergence of UPI and the continued existence of other formats such as cheques, DD and NEFT for jewellery shopping.
+Figure 105: Percentage of total amount spent through different modes of payments for jewellery investments
+Note: This graph is based on the analysis of available data.POS, 1%
+PG
+33%
+UPI63%UPI
+POS
+PG
+OthersOthers3%
+Figure 106: Percentage of total transactions through different modes of payments for jewellery investments
+Note: This graph is based on the analysis of available data.UPI83%PG, 2%
+POS13%UPI
+POS
+PG
+OthersOthers2%
+78   PwC   |   How India spends: A deep dive into consumer spending behaviour
+07
+Key takeaways
+The analysis presented in this report provides a comprehensive understanding of the spending behaviour of tech-savvy 
+Indian consumers, highlighting the multifaceted drivers and patterns of their expenditures. To capitalise on these insights, given below are a few areas where BFSI stakeholders can consider enhancing their value propositions to encourage the consumption of FS products and services.
+7.1  Improving access to credit
+7.2  Inclusive financial planningI.   Tailored loan products:  Banks and loan providers can 
+customise loan offerings to meet customer needs, attract a wider client base and boost financial inclusion. A few considerations for the same are:
+a.   For entry-level earners and emer ging professionals, 
+FIs can offer loans with flexible EMIs, and an option for shorter repayment terms. Salary-advance loans can also attract borrowers who might otherwise turn to informal credit sources.
+b.   Banks, FIs and FinTechs can partner with the 
+employers of upper-mid-level and high-income earners to better assess repayment capacity. This can enable them to offer curated credit options such as elevated credit limits, flexible repayment, top-up loans, financial advisory services, and options for a rate lock. 
+c.   FIs and FinTechs can of fer tenants rent advance loans 
+and incentivise them through cashback and loyalty programmes to make their payments through specific channels. For lower-income groups, including blue-collar workers, FIs can offer options to split rent into smaller but more manageable fortnightly or monthly instalments. 
+II.   BNPL: Banks and FinTechs can provide BNPL options 
+to cater to the needs of entry-level earners, emerging professionals and residents of Tier 2 and lower-tiered cities. BNPL can help transition individuals from the informal to the formal credit market.
+III.   EV financing:  The growth of the EV sector in India is 
+led by Tier 2 and Tier 3 cities,62 where fuel expenditure 
+is notably higher. FIs can provide financing options including competitive interest rates, reduced initial down payments and flexible payment options for buying EVs. I.   PFM apps: PFM apps can help users track their income, 
+expenses, loans and savings. Using aggregated data, these apps can offer insights into spending patterns, set budgeting limits, offer financial advice on investments and asset management, and suggest ways to optimise loan payments and consolidate debts.
+II.   Bill payment systems: FIs can enhance the solutions 
+provided by bill payment systems (e.g. BBPS offers a system for managing recurring expenses like utility bills, and loan EMIs, by consolidating payments into a single platform) by integrating features like automatic payment reminders to help customers avoid late fees. 
+III.   Wealth management platforms: FIs can offer 
+alternative investment options including private debt, startup equity, corporate bonds, asset leasing and other fixed-income alternatives such as invoice discounting, revenue-based financing and asset leasing. 
+62  https://auto.hindustantimes.com/auto/electric-vehicles/electric-vehicles-go-local-tier-2-and-3-cities-fuel-indias-ev-growth-41720021284884.html
+79   PwC   |   How India spends: A deep dive into consumer spending behaviour
+7.2  Inclusive financial planning7.2  Partnerships and value-added services for better customer engagement
+I.   Loyalty and r eward programmes: B anks and 
+credit card companies can leverage the growing 
+trend of providing discounts or cashback benefits to 
+their customers by tailoring their loyalty and reward 
+programmes and aligning them to the customer’s 
+spending habits. Based on the data analysed in the 
+‘Discretionary’ and ‘Necessity’ spending sections, the 
+following strategies can help banks and other FIs to enhance customer engagement and drive transactions:
+a.   Focus on high-transaction categories: FIs can offer 
+discounts, cashback benefits and reward points for 
+purchases in high transaction volume categories using 
+the bank’s products such as credit cards and payment 
+platforms. Additional incentives can also be offered for 
+larger shopping cart sizes or higher order values.
+b.   Business partnerships: Potential business partnerships 
+which banks and other FIs can target include online 
+gaming companies, e-commerce websites and large 
+retail chains.
+c.   Tier ed cashback programmes:  Through tiered 
+cashback programmes for targeted categories, where 
+customers can earn higher cashback or discounts as 
+their spending increases, banks and FIs can encourage 
+customers to further their spending and increase 
+customer loyalty.
+II.   Payment gateways and POS: PGs and POS are used 
+for all processing payments across various categories for 
+both ‘Discretionary’ and ‘Necessity’ expenses. FIs can 
+drive increased transaction volumes through strategic 
+partnerships with different companies. 
+a.   PG for in-app pur chases and food aggregator apps: 
+FIs can focus on partnering with game developers and 
+food aggregators to integrate payment gateways into 
+the apps and provide discounts to customers who 
+pay through them, thereby encouraging users to make 
+in-app purchases, capturing a higher volume of these 
+transactions and increasing their revenue.
+b.   POS solutions for r estaurant and retail chains: FIs 
+can offer customised POS machine solutions tailored to 
+restaurant and retail chains with value-added services including inventory management, invoice management 
+and features to manage loyalty and reward points.
+III.   Partnership with the healthcar e ecosystem: FIs 
+are increasingly positioning themselves within a wider 
+network of partners in various ecosystems to expand 
+their product propositions to new bank customers, 
+increase engagement with customers and cross-sell 
+or up-sell FS products to customers. Through these 
+partnerships banks can help in processing transaction 
+flows between various stakeholders of the healthcare ecosystem.
+a.   Healthcar e financing: FIs can offer credit products 
+to patients to cover costs for expensive medical 
+procedures, long-term treatments, payment of premiums 
+for insurance products and other flexible payment plans 
+to help them manage their medical bills over a period, 
+thereby reducing the immediate financial burden. 
+b.   Managing payments thr ough wallets and health 
+cards: FIs can integrate with insurance providers to facilitate direct payment from digital wallets or health 
+cards to insurance providers, thereby streamlining the 
+overall claims process.
+c.   Integrated car e: Integrated healthcare models which 
+connect patients with a range of specialists, services and 
+preventive measures are gaining traction. FIs can provide 
+low-cost insurance-related services in partnership with 
+healthcare providers which can empower patients to 
+enjoy more healthcare benefits at lower costs. 
+The tables below illustrate the relevance of some of 
+the inputs for the customer segments categorised by 
+geography and income levels.
+Harvey balls legend
+Most  
+relevantLeast  
+relevant
+80   PwC   |   How India spends: A deep dive into consumer spending behaviourCategories for key takeaways Entry-level 
+earnersEmerging professionalsMid-level earners  Upper mid-level earners High-income earners
+Improving access to creditTailored loan products – flexible EMI options with lower interest rates
+Tailored loan 
+products – Employer partnerships for curated credit offerings
+Tailored loan 
+products – splitting rent payments and providing loans for rent advances
+BNPL
+EV financing
+Inclusive 
+financial planningFinancial planning apps and platforms
+Partnerships and value-added services for better customer engagementLoyalty and reward programmes
+Payment gateways 
+and POS
+Partnership 
+with healthcare ecosystem – credit products
+Partnership 
+with healthcare ecosystem – insurance productsFigure 107: Relevance of key takeaways distributed salary-wise 
+Note: PwC analysis
+81   PwC   |   How India spends: A deep dive into consumer spending behaviourAbout PerfiosCategories for key takeaways Tier 3 cities Tier 2 cities Tier 1 cities
+  Metro cities
+Improving 
+access to creditTailored loan products – flexible EMI options with lower interest rates
+Tailored loan 
+products – Employer partnerships for curated credit offerings
+Tailored loan 
+products – splitting rent payments and providing loans for rent advances
+BNPL
+EV financing
+Inclusive 
+financial planningFinancial planning apps and platforms
+Partnerships and value-added services for better customer engagementLoyalty and reward programmes
+Payment gateways 
+and POS
+Partnership 
+with healthcare ecosystem – credit products
+Partnership 
+with healthcare ecosystem – insurance products
+Note: PwC analysisFigure 108: Relevance of key takeaways distributed city-wise  
+The report underscores the evolving nature of Indian consumer behaviour, driven by a complex interplay of economic, 
+psychological, social and technological factors. FIs which remain adaptable and responsive to these evolving trends can leverage data-driven insights to effectively meet the needs of tech-savvy Indian consumers. The insights provided herein can serve as a vital resource for stakeholders in the BFSI space and guide them towards engaging meaningfully with customers. 
+82   PwC   |   How India spends: A deep dive into consumer spending behaviourAbout Perfios
+Founded in 2008, Perfios is a global B2B SaaS FinTech serving the BFSI industry and beyond, in 18 countries, 
+empowering 1000+ financial institutions. Through its pioneering software platforms and products, Perfios helps financial institutions take big leaps by shaping their origination, onboarding, decisioning, underwriting, and monitoring processes at scale and speed. Perfios delivers AI-led data Insights to financial institutions every year to facilitate faster decisioning, significantly accelerating access to credit and financial services for the end customer.
+Headquartered in Bangalore, Perfios operates globally with 75+ products, platforms and over 500 APIs. In Perfios, its 
+clients have a confident and a robust start-to-end tech platform.
+Perfios products for every step of the customer lifecycle
+InsightsDigitise and analyse documents to automate credit underwritingOneClick onboardingOnboard businesses and MSMEs with one click.TrustArmourSophisticated defence against identity fraud using AI and behaviour analysis.PFMIntelligent analysis to get a 360° view of the customer’s financial profile.PCGConnect lenders with marketplaces and digital platforms for an effortless lending experience.TKYCDigital onboarding verification and authentication API Suite
+Contact us
+Amit Gupta Sandesh Jayarama 
+Head of Marketing, Perfios Head of Strategy & New Business, Perfios 
+amit.gupta@perfios.com sandesh.j@perfios.com
+Contributors
+Rachit Mathur
+Abhishek DixitVigil ViswanathanAishwarya SureshShridhar Dave
+About PwC
+At PwC, our purpose is to build trust in society and solve 
+important problems. We’re a network of firms in  151 
+countries with over  360,000  people who are committed to 
+delivering quality in assurance, advisory and tax services. 
+Find out more and tell us what matters to you by visiting us 
+at www.pwc.com.
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. 
+Please see  www.pwc.com/structure  for further details.
+© 2024  PwC. All rights reserved.
+Contact us
+Vivek Belgavi 
+Partner, Financial Services Technology Consulting and India 
+FinTech Leader PwC India Email: vivek.belgavi@pwc.com
+Mihir Gandhi 
+Partner and Leader, Payments Transformation  
+PwC India  Email: mihir.gandhi@pwc.com 
+Raghav Aggarwal 
+Associate Director, FinTech and Innovation Strategy  
+PwC India  Email: raghav.aggarwal@pwc.com
+Contributors
+Nikita Chawda
+Vignesh Venkataraman
+Editor Design
+Dion D’Souza Shipra Gupta
+Rubina Malhotra
+pwc.in
+Data Classification: DC0 (Public)
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate Identity Number or  
+CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a 
+separate legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources believed 
+by PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this document represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2024 PricewaterhouseCoopers Private Limited. All rights reserved.SG/September 2024-M&C 39956

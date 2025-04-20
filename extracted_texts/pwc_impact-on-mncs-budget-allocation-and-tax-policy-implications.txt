@@ -1,0 +1,489 @@
+Title: Impact on MNCs: Budget allocation and tax policy implications
+Date Published: 2025-02-02 23:12:42+05:30
+Source: pdfs/pwc_impact-on-mncs-budget-allocation-and-tax-policy-implications.pdf
+
+--- CONTENT ---
+
+India Budget 2025
+Impact on MNCs in India
+February 2025
+PwC  |  India Budget 2025 - Impact on MNCs in India2
+Preface
+On 1 February, the finance minister presented 
+the first full budget of Modi Government 3.0. 
+Towards its vision of Viksit Bharat (Developed 
+India), the government identifies agriculture, 
+micro, small and medium enterprises, 
+investment, and exports at the macro level 
+as its four powerful ‘engines’, with reforms as 
+its ‘fuel’ and inclusivity as its guiding spirit. 
+The budget focuses on various development 
+measures, including boosting manufacturing, 
+furthering ‘Make in India’, enabling 
+employment-led development, investing in 
+people, the economy and innovation, securing 
+energy supplies, promoting exports, and 
+nurturing innovation. The budget also aims 
+to initiate transformative reforms across six 
+domains, including taxation, the power sector, 
+urban development, mining, the financial 
+sector and regulatory reforms.
+The big news in tax is the proposed 
+introduction of a new and simplified tax 
+law, a draft of which is to be shared in the 
+next few days. The other themes in the tax 
+proposals include supporting domestic manufacturing and value addition, promoting 
+exports, encouraging voluntary compliance 
+and ensuring ease of doing business amongst 
+others. However, there is no mention about the 
+introduction of Pillar-Two rules in response to 
+the global tax reforms. It seems that the Indian 
+Government is adopting a ‘wait and watch 
+approach’ on this front.
+The budget proposals were tabled in the 
+Parliament on 1 February. After due debate and 
+discussions in the Parliament, the budget, with 
+any other amendments that may be required 
+based on the process in the Parliament, is to 
+be legislated and become law with effect from 
+1 April 2025, or from other relevant dates for 
+specific proposals. 
+While the budget includes numerous tax 
+amendments and changes, which of the budget 
+proposals impact you, as a multinational 
+corporation (MNC), in doing business with 
+Indian third-party customers or dealing with 
+your Indian subsidiaries and affiliates? We 
+present a concise summary of these key 
+changes for your reference.
+PwC  |  India Budget 2025 - Impact on MNCs in India3
+Doing business with India
+There is no change in the headline income-tax 
+rate for foreign and Indian companies.No change in the headline tax rate 
+for foreign or Indian companies 
+Customs duty ratesTax rates 
+The proposed changes in Customs duty 
+rates are strategically aligned with the 
+Make in India initiative, aiming to bolster 
+domestic manufacturing and promote local 
+value addition. The overarching theme is to 
+award duty concessions on the import of 
+capital goods and raw materials meant for 
+manufacturing in India, and to introduce duty 
+hikes on the import of finished goods. Certain 
+notable duty rationalisation measures revolve 
+around the following:•	Capital goods for the production  of lithium-
+ion batteries for electric vehicles and mobile 
+phones
+•	Solar modules, other semiconductor devices 
+and photovoltaic cells for use in renewable 
+energy
+•	Formulations used in the production of life-
+saving drugs or medicines 
+Another notable change is proposed in the tariff 
+slabs. The Indian Customs Tariff had as many 
+as 22 duty slabs until last year. The government 
+reduced the duty slabs to 14 in the last Union 
+Budget, which is now further reduced to only 
+eight slabs. 
+Overall, the duty rationalisation measures aim 
+at not only augmenting local value addition in 
+India but also strategically placing India in the 
+emerging global geo-economics.
+PwC  |  India Budget 2025 - Impact on MNCs in India4
+India’s current tax law was introduced way back in 1961, and it was largely modelled on a 1922 law. 
+The current tax legislation is a comprehensive piece of legislation that includes 298 sections across 
+23 chapters. Over the decades, this legislation has been tweaked repeatedly to address the changing 
+business paradigm, within the same overall construct that dates back almost a century. This has 
+resulted in a complex law that creates ambiguity and uncertainty in the tax law, resulting in increased 
+tax litigation. 
+To address this, the government is working towards a new direct tax code (DTC). This effort to 
+overhaul the income-tax law has been ongoing for several years. The journey began in 2009 when the 
+then finance minister proposed the concept of a DTC. A draft of the DTC was unveiled in August 2009 
+for public consultation, but it never saw the light of day. 
+In 2017, the Modi Government revived the DTC and constituted a task force to draft new direct tax 
+legislation. The task force submitted its report on direct tax reforms in 2019. This report was not 
+made public nor was it implemented. However, it is believed that some parts of the proposals were 
+incorporated in the law over the years through the annual budget-making process. 
+This journey now seems close to culmination. The Modi Government 3.0, in its first  budget in July 
+2024, announced that a new law is to be unveiled in six months. Consistent with this announcement, 
+the finance minister again announced in her budget speech yesterday that a draft law is to be 
+introduced in the next few days. 
+The new DTC is expected to be clear and direct. The expanse of the law is also expected to be 
+significantly shorter with only half of the present tax legislation, in terms of both chapters and words. 
+It is proposed to be simple for taxpayers and administration to understand, leading to tax certainty 
+and reduced litigation.
+If the government delivers on these expectations, it would be a bold reform measure to create a 
+simplified tax law with the potential to create a more transparent, efficient and business-friendly 
+environment. 
+We keenly await the draft law. It is also expected to be open for public consultation, and comments 
+may be considered before being legislated. Introduction of the new simplified tax code 
+PwC  |  India Budget 2025 - Impact on MNCs in India5
+Presumptive tax regime for 
+non-residents providing 
+technology or service 
+to India’s electronics 
+manufacturing Sector 
+India has been making significant strides in 
+positioning itself as a global hub for electronics 
+system design and manufacturing. It has 
+been the prime minister’s vision for India 
+to become a global hub for semiconductor 
+design, manufacturing and technology 
+development. In line with this, the government 
+has approved a comprehensive programme 
+aimed at developing a robust ecosystem for 
+semiconductors and display manufacturing. 
+Under the programme, several schemes are 
+introduced, including the production-linked 
+incentive for large-scale electronics, Scheme 
+for Promotion of Manufacturing of Electronic 
+Components and Semiconductors, scheme for 
+setting up semiconductor fabs in India and a 
+design-linked incentive scheme. 
+In furtherance of the same, it is proposed 
+that non-residents providing technology or 
+services to Indian resident companies that 
+are establishing or operating electronics 
+manufacturing or connected facilities for 
+manufacturing or producing electronic goods, 
+articles or things in India, under a government-
+notified scheme, can opt for a presumptive 
+taxation regime. The presumptive tax regime 
+deems 25% of the receipts of the non-resident 
+on account of providing services or technology 
+as profits chargeable to tax. This is to result in 
+effective tax payable at 8.75% (plus surcharge and cess) of the gross receipts. Non-residents 
+opting for the presumptive tax regime cannot 
+set-off any unabsorbed depreciation or brought 
+forward losses for that year. The frequently-
+asked questions further clarify that provision 
+of technical personnel is also eligible for the 
+regime.
+There seem to be a few drafting aspects that 
+may need to be addressed before the law is 
+enacted. The provision suggests that the regime 
+will be available for technology or services 
+provided ‘in’ India. This can give rise to a debate 
+on whether this covers services or technology 
+provided from outside India; hence, this should 
+be clarified. In addition, the amount eligible for 
+the presumptive taxation regime is the amount 
+paid or payable to or payable on behalf of a non-
+resident ‘and’ the amount received or deemed 
+to be received by or on behalf of the non-
+resident. The use of ‘and’ can create confusion, 
+since the same amount can be paid as well as 
+received by a non-resident and hence lead to 
+double counting. We hope that these issues are 
+addressed in the final law.
+In addition, the finance minister in her 
+speech also mentioned that a safe harbor is 
+to be provided for non-residents who store 
+components in India for supply to specified 
+electronics manufacturing units. Details of the 
+same are not provided yet.
+PwC  |  India Budget 2025 - Impact on MNCs in India6International trade facilitation 
+Indian Customs laws provide for provisional 
+assessments of shipments wherever the 
+Revenue authorities intend to seek further 
+information from the importer, such as in 
+the case of trade between related parties. 
+The law does not prescribe any timelines 
+for closure or finalisation of such provisional 
+assessments. This creates ambiguity as the 
+trade lacks certainty for several years until 
+the assessment is finalised. The government 
+has addressed this long-standing ask of 
+the industry in this budget by prescribing 
+a timeline of two years (extendable further 
+by one year) to finalise such assessments, 
+except in certain specified cases. It is 
+also provided that for existing provisional 
+assessments pending finalisation, the 
+timeline of two years (extendable by one year) 
+should start from the date of enactment of 
+the budget proposals. Time-bound closure of provisional 
+assessments
+The government has introduced a facility 
+for voluntary revision of import and export 
+declarations post-clearance (except in certain 
+specified cases such as those involving 
+ongoing investigations, audits and re-
+assessments). This provision allows businesses 
+to either pay additional duty or seek a refund of 
+duty, depending on the circumstances, without 
+facing any punitive actions. This proposal  
+is an example of the trust-based taxation  
+regime the government has promoted. Trade facilitation has been an area of policy focus for the government for the past several 
+years. Continuing with the agenda, the government proposes a few trade-friendly measures in 
+international trade laws. 
+Voluntary disclosure of material facts 
+post-clearance
+Having said so, the law does not clearly 
+provide for the outcome where the Revenue 
+authorities fail to finalise the assessment 
+within the stipulated time period, i.e. whether 
+the provisional assessment by the Revenue 
+authorities is to be deemed to be finalised or the 
+self-assessment made by the importer stands 
+accepted. It is expected that the government will 
+provide clarity on this issue in due course. 
+PwC  |  India Budget 2025 - Impact on MNCs in India7Ease of compliance and 
+provision of certainty in TP
+Currently, transfer-pricing (TP) audits are 
+carried out every year along with the regular 
+tax audit. The audit of each year in isolation 
+puts constraints on the limited resources 
+available with tax authorities, who then must 
+complete many audits annually within a short 
+time frame.
+To streamline the process and provide an 
+alternative to annual TP audits, the concept 
+of block TP audits for a period of three years 
+is proposed to permit multi-year arm’s-length 
+price determination, at the option of the 
+taxpayer. It is proposed that the arm’s-length 
+price determined in relation to an international 
+transaction or specified domestic transaction 
+for a particular year (say Year 1) is to apply to 
+similar transactions for two consecutive years 
+(i.e. Years 2 and 3) immediately following the 
+initial year (i.e. Year 1). 
+While the form, manner and time limit to opt for 
+block TP audits are yet to be prescribed, this 
+rationalisation measure is intended to ease the 
+compliance and administrative burden on both 
+the taxpayers and tax authorities.Block audits
+The primary objective of the existing TP safe 
+harbour rules (SHR) is to reduce TP disputes 
+and provide more certainty to taxpayers. 
+However, in its current form, SHR has not 
+generated much enthusiasm among taxpayers 
+due to various factors, such as limited coverage, 
+perceived high margins and low thresholds for 
+eligibility.
+Similar to the announcement in the last budget, 
+the finance minister in this budget once 
+again reiterated the government’s intention to 
+expand the scope of the current SHR to reduce 
+litigation and provide certainty in international 
+taxation. While finer details on this proposal 
+are still awaited, by rationalising the SHR, the 
+government can usher in a more predictable 
+and less litigious TP environment in India.Expanding the scope of SHR
+
+PwC  |  India Budget 2025 - Impact on MNCs in India8Investing in India
+The current government continues to focus on reinforcing the International Financial Services Centre 
+(IFSC) framework to solidify India’s position as a prominent global financial hub. 
+The budget proposes a range of reforms designed to bolster the financial services sector, with 
+specific attention to areas such as retail funds, insurance, ship leasing and treasury centres. These 
+measures aim to enhance efficiency, attract investments and stimulate economic growth while 
+ensuring a robust regulatory environment.
+With these comprehensive reforms, the finance minister aims to attract a diverse range of businesses 
+to the IFSC, reinforcing India’s emergence as a formidable global financial hub and boosting investor 
+confidence in the evolving financial landscape. A few key proposed incentives for the IFSC that may 
+be relevant from the standpoint of MNCs are outlined below. Incentives to the GIFT IFSC: A game changer
+The budget introduces a significant change for 
+MNCs looking to set up treasury operations 
+in India. Currently, any loans or advances 
+given by a closely held company to its 
+shareholders or group entities are taxed as 
+‘deemed dividend’. The budget now proposes 
+to exempt such advances and loans between 
+global treasury centres (GTCs) in the IFSC and 
+other group entities of listed foreign parents or 
+principal entities from the purview of ‘deemed 
+dividend’. Thus, it has made it much more 
+attractive for MNCs to bring their treasury 
+operations to the IFSC.One key agenda of the government for the 
+past several years is to provide tax incentives 
+to businesses commencing operations in the 
+IFSC. This is subject to certain sunset clauses. 
+It is now proposed to extend these sunset 
+clauses for the commencement of operations 
+of IFSC units to 31 March 2030. 
+In addition, other measures for shipping and 
+insurance are proposed. The proposals are 
+transformative, significantly enhancing GIFT 
+City’s appeal as a global financial hub. Relaxation from deemed dividend 
+provisions for GTCs in IFSCExtension of sunset dates prescribed in 
+various Indian law
+
+PwC  |  India Budget 2025 - Impact on MNCs in India9Unveiling the new ‘India’
+The budget has made a slew of policy announcements to accelerate the steady growth of last few 
+years towards a ‘Viksit Bharat’. 
+The government launched a fund of funds 
+for start-ups in June 2016 with a corpus of 
+INR100m. Under this scheme, the government 
+provides capital to alternative investment 
+funds, who in turn invest money in start-ups 
+through equity and equity-linked instruments. 
+With the support of this scheme, the alternative 
+investment funds for start-ups have received 
+commitments of more than INR910m. 
+Following the success of this scheme, this 
+budget proposes two different initiatives: 
+(a) a new fund of funds for start-ups with an 
+expanded scope and a fresh contribution of 
+another INR100m and (b) a DeepTech fund of 
+funds to encourage next-generation start-ups 
+from technical and non-technical backgrounds. 
+These initiatives are to help provide seed 
+capital to start-ups through domestic 
+funding and also accelerate innovation and 
+technological advancements in India. 
+The budget also proposes to extend the 
+timelines to obtain a tax holiday for start-
+ups by another five years; i.e. the tax benefit 
+is now to be available for eligible start-ups 
+incorporated on or before 1 April 2030. Global capability centres (GCCs) in India 
+are significantly transforming the corporate 
+landscape and influencing global business 
+dynamics. These centres are focusing on 
+next-generation technologies and establishing 
+artificial-intelligence centres of excellence, 
+which are expected to drive innovation and 
+solidify India’s status as a global talent hub. 
+To leverage this opportunity, the budget 
+has announced the creation of a national 
+framework for GCCs. This framework aims to 
+enhance talent availability and infrastructure 
+by suggesting building-byelaw reforms to 
+streamline regulatory processes and create a 
+business-friendly environment. It also proposes 
+collaboration mechanisms between the 
+government and industry to meet the evolving 
+needs of GCCs through coordinated efforts. By 
+addressing these critical areas, the framework 
+seeks to strengthen GCC capabilities; promote 
+regional economic development, particularly 
+in tier-2 cities; and reduce migration pressures 
+on urban areas. This strategic initiative is 
+expected to attract international investments, 
+stimulate innovation and reinforce India’s 
+position as a global talent hub, contributing 
+to the sustainable development of the GCC 
+ecosystem in the country.Start-ups GCCs
+PwC  |  India Budget 2025 - Impact on MNCs in India10
+In a significant move to bolster the country’s 
+manufacturing sector, the government has 
+announced the establishment of a National 
+Manufacturing Mission. This initiative is 
+designed to accelerate the goals of the ‘Make 
+in India’ campaign, aiming to transform 
+India into a global manufacturing hub. The 
+mission encompasses small, medium and 
+large industries and focuses on providing 
+comprehensive support across multiple 
+dimensions, including policy frameworks, 
+execution roadmaps and governance 
+mechanisms. The mission ensures the creation 
+of an enabling environment that facilitates 
+business growth, attracts investment and 
+drives innovation across the manufacturing 
+ecosystem.
+The mission’s mandate focuses on five key 
+areas to improve the ease and cost of doing 
+business; build a future-ready workforce; 
+foster a vibrant and dynamic micro, small 
+and medium enterprises sector; prioritise 
+the availability of cutting-edge technology; 
+and ensure the production of high-quality CleanTech manufacturing is driven by the 
+need to address environmental challenges 
+and the global shift towards sustainable 
+development. The Indian Government has 
+floated various schemes such as the National 
+Solar Mission, National Electric Mobility 
+Mission Plan, National Clean Energy Fund 
+and production-linked incentive schemes. 
+Continuing its path to foster a greener and 
+more sustainable future for the country, the 
+budget prioritises CleanTech manufacturing, 
+targeting the production of solar photovoltaic 
+cells, electric-vehicle batteries, motors and 
+controllers, electrolysers, wind turbines, high-
+voltage transmission equipment and grid-scale 
+batteries. These measures collectively aim 
+to drive economic growth while fostering a 
+sustainable and innovative industrial landscape 
+in India.Make in India
+CleanTech manufacturingproducts. With strong policy support and a 
+clear execution framework, the mission is to 
+play a pivotal role in driving sustainable growth 
+and creating a competitive edge for India in the 
+global marketplace.
+PwC  |  India Budget 2025 - Impact on MNCs in India11
+Mergers and amalgamations historically require a very time-consuming court approval process. With 
+the enactment of the Companies Act, 2013, the concept of fact-track merger was introduced for the 
+merger between a holding company and its wholly owned subsidiaries. In 2021, to promote start-up 
+companies, the ambit of fast-track merger was extended to include the merger between two or more 
+start-up companies and between one or more start-up company with one or more small company. 
+As a next step, the budget proposes widening the scope of fast-track mergers and simplification of 
+the existing company merger process, which is to result in speedy approvals and integration, realise 
+synergies faster, and reduce legal and administrative costs.
+The budget proposes to set up a High-Level 
+Committee for Regulatory Reforms for a 
+review of all non-financial sector regulations, 
+certifications, licences and permissions. The 
+aim is to strengthen trust-based economic 
+governance and take transformational 
+measures to enhance ‘ease of doing business’, 
+especially in matters of inspections and 
+compliances.
+In addition, significant announcements are 
+made to increase foreign-direct investment 
+to 100% in insurance (subject to some 
+conditions) and measures aimed to make India 
+a global hub for toy manufacturing.
+All the above steps are poised to create a 
+more conducive environment for business 
+operations and foreign investments. With the 
+objectives of accelerating growth, securing 
+inclusive development, invigorating private 
+sector investments, uplifting household 
+sentiments and enhancing the spending power 
+of India’s rising middle class at its core, Budget 
+2025 has not just attempted but possibly 
+accelerated the path to ‘Viksit Bharat’. The 
+measures are nearly all-encompassing (from 
+the standpoint of sectors, demographics, etc.) 
+and promise to ensure India’s growth story 
+follows only a skyward progression.Mergers and amalgamations
+Regulatory reforms
+PwC  |  India Budget 2025 - Impact on MNCs in India12In summary
+The budget proposals continue the theme of tax simplification, certainty and clarity, with a focus on 
+encouraging voluntary compliance and reducing tax compliance. These have been the government’s 
+focus to provide the industry with a more tax-friendly environment—which has been the constant 
+ask. Measures are also announced to attract investment and promote several focus sectors, 
+including domestic manufacturing.
+The finance minister has identified taxation as one of the domains of transformational reforms. 
+This is very positive, and we hope that reforms will be implemented in all areas, including policy, 
+compliances, systems, dispute resolution and tax administration, to provide a regime with easy 
+compliance that provides certainty and a taxpayer-friendly approach. Against this backdrop, the DTC 
+is awaited eagerly as it may set the tone for these reforms. 
+
+About PwC
+pwc.in
+Data Classification: DC0 (Public)
+In this document, PwC refers to PricewaterhouseCoopers Private Limited (a limited liability company in India having Corporate Identity Number or CIN 
+: U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a 
+separate legal entity.
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any 
+opinions or estimates contained in this document represent the judgment of PwCPL at this time and are subject to change without notice. Readers of 
+this publication are advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, 
+based on the contents of this publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect 
+of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2025 PricewaterhouseCoopers Private Limited. All rights reserved.
+PS/February 2025 - M&CAt PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in 
+151 countries with over 360,000 people who are committed to delivering quality in assurance, advisory and 
+tax services.  
+Find out more and tell us what matters to you by visiting us at www.pwc.com.
+PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal 
+entity. Please see www.pwc.com/structure for further details.
+© 2025 PwC. All rights reserved.
+Vivek Prasad
+vivek.prasad@pwc.com
+Gautam Mehra
+gautam.mehra@pwc.comContact us

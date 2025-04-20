@@ -1,0 +1,457 @@
+Title: pwc_dissecting-indias-risk-equity-premium
+Date Published: 2013-07-08 10:37:58+05:30
+Source: pdfs/pwc_dissecting-indias-risk-equity-premium.pdf
+
+--- CONTENT ---
+
+Dissecting 
+India’s Equity 
+Risk Premium
+How much to expect on 
+your equity investments  
+Authored by Vishnu Giri, 
+assisted by Sireesha Sivala
+Under the guidance of 
+Rajan Wadhawan and  
+Rohit Bhasin
+2 PwCBrealey Myers in  ‘Principles of Corporate Finance’  defines equity 
+risk premium (ERP) as ‘the difference between the returns 
+expected on the market and the interest rate on treasury bills’. 
+The ERP may be viewed as ‘risk compensation’ for investing in 
+equity markets as against assets that are relatively risk-free.
+ERP has numerous applications: valuation of companies, capital 
+budgeting and even economic policymaking. Several papers 
+have attempted to determine the ERP for developed markets, 
+notably the US. The most widely used method for determining 
+ERP is the historical method, which is based on the fundamental 
+hypothesis that excess returns earned in the past serve as a 
+reasonable parameter for excess returns that can be expected 
+in the future. While the historical method may work reasonably 
+well for developed markets like the US with a fairly long history, 
+the same approach is likely to yield dissatisfactory results for 
+emerging markets like India, with relatively short and volatile 
+equity market histories. This paper attempts to evaluate the ERP 
+for India1 through alternate methods.
+ERP parameters
+By definition, the ERP is the difference between the expected 
+return on the market and the risk free rate. Hence, it is 
+important to first define the following:
+• The market
+• The risk-free rate
+The market
+Selection of an index as a proxy for the equity market can be 
+quite a task – essentially, the chosen index should be reflective of 
+the market as a whole. Hence logic dictates a compelling case for 
+the CMIE Cospi Index (over 2800 stocks) or the BSE 500 rather 
+than the BSE Sensex, which includes only 30 stocks.  
+In this context, it is important to note that the ERP is an integral 
+component of the Capital Asset Pricing Model (CAPM) which 
+states that a company’s cost of equity is equal to the aggregate of 
+the risk-free rate and the ERP multiplied by the said company’s 
+systematic risk (beta). Therefore, for application in the CAPM, 
+there has to be consistency between the beta and the ERP, i.e. 
+the beta should be measured against the same index, based on 
+which the ERP has been determined. Since in India betas are 
+generally measured against the BSE Sensex (or the NSE Nifty, 
+which is highly correlated with the Sensex) it is best to measure 
+ERP using the Sensex or the Nifty. In this paper, we consider the 
+BSE Sensex to be our market portfolio.
+The risk-free rate
+The risk-free rate can be defined as the return on a security or 
+portfolio of securities that has no default risk and is completely 
+uncorrelated with returns on anything else in the economy. 
+While no security may be 100% risk-free, practically there are 
+three alternatives for determining the risk-free rate; treasury 
+bills, 10-year treasury bonds, 30-year treasury bonds. The rate 
+on 10-year treasury bonds is generally considered the superior 
+choice, considering better duration matching compared to 
+short-term treasury bills, and smaller beta and lower liquidity 
+premium compared to longer term (30-year) bonds.However, the risk quotient of bonds issued by the Indian 
+government would need to be analysed further, to assess if 
+these are really risk free. India’s sovereign ratings issued by 
+Moodys (Baa3) or S&P (BBB-) suggest that treasury securities 
+issued by the Indian government do carry an element of default 
+risk, and hence cannot be considered risk-less in the true sense 
+of the term. Therefore, theoretically, the default credit spread 
+should be ideally reduced from the yield on government bonds 
+while arriving at the risk-free rate. Though this argument holds 
+some merit, it is worthwhile to do a cross check whether the 
+yields on the 10-year treasury bonds do indeed incorporate a 
+default risk premium. 
+The 10-year annual inflation (April 2003- March 2012) as 
+measured by WPI, CPI(IW) and GDP deflator are tabulated 
+below:
+In comparison, the average daily yield on 10-year government 
+bonds during the same period is around 7.3%. It is evident that 
+the real returns on 10-year treasury bonds have been as low as 
+0.3 to 1.7%. Therefore it appears that the market considers the 
+probability of sovereign default to be remote. Consequently, it 
+may be inferred that the yield on the 10-year rupee denominated 
+government securities can be considered a suitable choice for a 
+risk-free rate.
+Methods to determine ERP
+Prof Aswath Damodaran2 in his paper ‘Equity Risk Premiums 
+(ERP): Determinants, Estimation and Implications – The 2012 
+Edition’ discusses three methods for determining the ERP:
+• Survey method
+• Historical premium method
+• Implied premium method
+Survey method
+The survey method determines the ERP based on a survey of 
+various market participants and academics. Prof Damodaran  
+has cited several issues with the survey method. Survey 
+responses tend to vary significantly based on various factors 
+such as recent stock price movements, who is surveyed 
+(academics vs CFOs vs investment professionals), how survey 
+questions are framed, etc. Subjectivity of the questionnaire and 
+respondent proves to be a hurdle. Hence, we did not attempt this 
+method in determining the ERP.
+1. Since ERP is a function of time, the ERP has been evaluated as on 31 December 2012.
+2. Prof. Aswath Damodaran is a Professor of Finance at the Stern School of Business at New York University, where he teaches corporate finance and equity valuation. 
+He is best known as author of several widely used academic and practitioner texts on Valuation, Corporate Finance, and Investment Management, and is widely 
+recognised as an authority in the field of valuation.CPI (W) WPI GDP deflator
+ Ten-year inflation 7.0% 6.1% 5.6%Ten-year inflation
+Source: National accounts, Labour bureau
+Dissecting India’s Equity Risk Premium         3Year Change 
+in indexDividend 
+yieldTotal 
+returnAverage risk 
+free rateERP
+2000 34% 1% 35% 11.4% 23.6%
+2001 -28% 1% -27% 10.9% -37.9%
+2002 -3% 1% -2% 8.8% -10.8%
+2003 -13% 1% -12% 6.9% -18.9%
+2004 83% 1% 84% 5.4% 78.7%
+2005 16% 1% 17% 6.2% 10.9%
+2006 74% 1% 75% 7.1% 68.0%
+2007 16% 1% 17% 7.8% 9.3%
+2008 20% 1% 21% 7.9% 13.2%
+2009 -38% 1% -37% 7.6% -44.5%
+2010 81% 1% 82% 7.2% 74.8%
+2011 11% 1% 12% 7.9% 4.2%
+2012 -10% 1% -9% 8.4% -17.3%Annualised daily standard 
+deviation- BSE SensexAnnualised daily standard 
+deviation- S & P 500
+10 Year 25.8% 21.8%
+5 Year 29.5% 26.7%
+2 Year 18.5% 19.7%
+1 Year 19.9% 23.2%
+3. The difference between the return on the market and the returns on the risk-free security during any given year
+4. This FCFE yield has been computed based on the aggregate of the FCFE for all 30 Sensex companies for the financial year ended 31 March 2012 (the latest data 
+available) divided by the Sensex market capitalisation as on 31 December 2012. (While a six-month average market capitalisation would have been ideal, it becomes 
+difficult to account for changes to the Sensex composition.)Historical premium method
+The historical risk premium approach is widely used for 
+determining equity risk premiums. It is based on a geometric 
+or arithmetic average of the annual risk premia3, over a 
+sufficiently long period of time. The key question here is do 
+we have a sufficiently long and stable history to determine a 
+reliable historical risk premium. Some of the important points to 
+consider are as follows:
+• While the base year of the Sensex is 1979, the index was 
+actually formulated in 1986, and the series was back-
+calculated to 1979 with a fixed set of companies. This 
+may have resulted in a bias in favour of companies which 
+generated good returns over the 1979–1986 period.
+• With structural changes in the economy post liberalisation 
+in the early 1990s, the relevance of prior equity returns for 
+predicting future expected returns is questionable.
+• Participation in the T-bill market was highly regulated before 
+2000, and therefore there is no reliable estimate for risk-free 
+rates prior to 1999. While some studies  have computed the 
+risk premium relative to the bank deposit rate, it is essentially 
+a short-term rate and not consistent with our definition of 
+the risk-free rate as the return on 10-year securities.
+This leaves us with just 12 years (2000-2012) for which a 
+representative historical risk premium can be reliably calculated. 
+The risk premium for each of these years is tabulated below:
+Source: BloombergSource: BloombergDrawing any conclusions from the above data is practically 
+impossible.
+An alternative suggested by Prof Damodaran for emerging 
+markets is to adjust the equity risk premium for a developed 
+market, say the US, for relative standard deviations (ratio of the 
+standard deviation of the subject country market portfolio to the 
+standard deviation of the US market portfolio). This method is 
+based on the hypothesis that standard deviation being a measure 
+of risk, the higher the standard deviation of the index, the riskier 
+the index and therefore higher the risk premium.
+Equity risk premium country X = Risk premium US* Relative 
+standard deviation country X
+This approach does not seem to work well for India, as the 
+relative standard deviations vary significantly, depending on the 
+chosen time period. Moreover, the relative standard deviations 
+over a one or two-year period is less than one, implying that ERP 
+for India should be less than that for the US, which is counter-
+intuitive.
+Thus, while the survey method has a number of limitations, the 
+applicability of the historical risk premium method in the Indian 
+context is also limited. This brings to us to the implied premium 
+method. Historical equity risk premiumsAnnualised daily standard deviation 
+4 PwCCorporate earnings/GDP ratioFCFE growth and earnings growth 
+Having arrived at the current FCFE yield, the next step is to 
+project the growth rate in FCFE. There are no reliable estimates 
+for FCFE growth in the short to near-term. However, analyst 
+estimates of Sensex earnings growth are available for calendar 
+year (CY)13 and CY14. For evaluating the relation between 
+FCFE growth and earnings growth, we looked at a simplistic 
+definition of FCFE (ignoring preferred capital and dividends on 
+the same).
+FCFE = net income + depreciation – capital expenditure – 
+increase in working capital + net debt increases. 
+The capital expenditure (capex) can be split into two 
+components (maintenance capex and capex for growth). In the 
+long run, maintenance capital expenditure should approximate 
+depreciation. Thus the formula can be restated as follows:
+FCFE = net income – capex for growth – increase in working 
+capital+ net debt increase
+Or FCFE = net income – reinvestment for growth + net debt 
+increase.
+This can be rewritten as
+FCFE = net income – RR * g *net income + D/C* RR*g* net 
+income = net income *(1- RR*g(1-D/C))
+Where RR = reinvestment ratio
+g = growth rate in net income
+D/C = debt to capital ratio
+In a long-term stable state, RR, g and D/C should become fairly 
+constant, thus implying that FCFE would become proportionate 
+to earnings. In other words, in the long run, growth rates in 
+FCFE should approximate earnings growth rates. However, 
+this may not hold in the short term as all three variables, RR, g 
+and D/C can vary in the short term. Since we are interested in 
+long-term FCFE growth as opposed to the short term, we use 
+earnings growth to determine expected FCFE growth rates. 
+While consensus Sensex earnings growth estimates are available 
+for CY13 and CY14 [CAGR of 11% (source: Bloomberg)], 
+determining growth beyond CY14 is essential. Hence, linking 
+GDP growth and earnings growth becomes important.
+Earnings growth and GDP growth
+A study by Delta Global Partners  has highlighted that over the 
+last few years, corporate earnings growth has outpaced GDP 
+growth. [Now, GDP growth here refers to nominal GDP growth, 
+as opposed to real GDP growth, as earnings (and free cash-
+flows) are always nominal].
+Source: Delta global partnersImplied premium approach
+The implied premium approach is based on the fundamental 
+premise that the expected return on the market portfolio is 
+built into the current market valuations. This is conceptually a 
+superior approach, as it is forward looking, unlike the historical 
+approaches.
+The simplest way to compute the implied premium is by 
+applying the Gordon Growth Dividend Discount model. The 
+Gordon Growth model states:
+V = D0 *(1+g)/(Re-g)
+Where 
+V = Total market capitalisation of the index
+D0 = Dividends for current period
+g = Expected growth rate in dividends
+Re= Expected return on equity
+Or 
+Re - g = D0 *(1+g)/  V
+Or 
+Re = Dividend yield *(1+ g) +  g
+Once the dividend yield and expected growth rate are 
+determined, the expected return on equity and therefore, the 
+ERP, can be estimated.
+In India, the historical dividend yields have been very low, 
+around 1%, and the returns on equity have been primarily 
+through capital appreciation. Thus the classic Gordon Growth 
+model will result in a very low estimate of expected returns, and 
+therefore, the ERP.
+Hence it becomes imperative to analyse dividendable cash flows 
+as opposed to dividends. In other words, free cash flow yield is a 
+more appropriate measure compared to dividend yield.
+The free cash flow to equity (FCFE) yield for the Sensex as of 31 
+December 2012 is around 5.5%4 . 
+Now, do we use the current FCFE yield to project future FCFEs, 
+or use a historical average? The three-year average (FY10-
+FY12) is 6.1% compared to the current yield of 5.5%4. Here, it 
+is important to keep in mind that ERP is very much a function 
+of time. For example, the FCFE yield in FY09 was much higher 
+at 11%, driven by the drastic fall in market capitalisations not 
+accompanied by fall in free cash flows. To state differently, the 
+ERPs were significantly higher at the time, due to heightened 
+risk perception as a result of the then global uncertainties, as 
+reflected in the market crash. Hence, the current FCFE yield has 
+been assumed to reflect the best estimate of future expected free 
+cash flows, as on 31 December 2012.
+4. This FCFE yield has been computed based on the aggregate of the FCFE for all 30 Sensex companies for the financial year ended 31 March 2012 (the latest data 
+available) divided by the Sensex market capitalisation as on 31 December 2012. (While a six-month average market capitalisation would have been ideal, it becomes 
+difficult to account for changes to the Sensex composition.)
+Percentage
+Dissecting India’s Equity Risk Premium         5Term Inflation
+15 Year 5.4%
+10 Year 5.6%
+5 Year 6.6%Annual inflation based on GDP deflator
+Year of 
+estimateForecast period Annual real GDP 
+growth estimate
+CEPII 2006 2006 - 2050 4.5%
+Citigroup 2010 2010 - 2050 6.4%
+Goldman Sachs 2003 2010 - 2050 5.8%
+PwC 2011 2009 - 2050 6.1%
+HSBC 2011 2010 - 2050 5.5%Real GDP forecasts - IndiaSource: National accounts
+Source: Various reportsStructural changes in the economy have resulted in relatively 
+higher growth in earnings compared to GDP growth. 
+Sustainability of such an outperformance needs to be analysed. 
+GDP, as determined by the income approach is defined as 
+follows:
+GDP = compensation of employees + rent + interest + 
+proprietor’s income + corporate profits + indirect business taxes 
++ depreciation + net foreign factor income
+This can be rewritten as:
+GDP = compensation of employees + rent + interest + profits 
++ indirect business taxes + depreciation + net foreign factor 
+income
+Profits are nothing but earnings. Thus, if the relative mix of 
+the various components of GDP does not change, the earnings 
+growth should mirror GDP growth. Therefore, in the long term, 
+earnings growth, and free cash-flow growth, should converge to 
+GDP growth. This conclusion is corroborated by a study by MSCI 
+Barra  in the US. The study examined the US GDP and corporate 
+earnings data from 1929 to 208, and observed that the growth 
+in GDP and aggregate corporate earnings have been remarkably 
+similar throughout the last 80 years, thus leading to the 
+conclusion that over the long run, aggregate corporate earnings 
+tend to grow at the same pace as GDP.
+An estimate of long-term GDP growth will comprise of two 
+components, the long-term expected real GDP growth and the 
+long-term expected inflation.
+Long-term expected GDP growth
+A number of reputed institutions  have come out with their 
+estimates of long-term (till 2050) real GDP growth forecasts  
+for India. A synopsis of these estimates is provided below:
+For the purpose of our analysis, the most conservative of these 
+estimates - 4.5% has been chosen. 
+Inflation 
+Historical inflation figures vary depending on the proxy chosen 
+for the estimation- the WPI, the CPI(IW) or the GDP deflator, 
+to name a few. It is important to understand the objective, 
+which is to arrive at the nominal GDP forecasts from the real 
+GDP forecasts. Therefore, by very definition, the GDP deflator 
+(defined as nominal GDP/real GDP *100), becomes the ideal 
+choice.While analysing the historical inflation trends, it is important to 
+note the structural changes in the economy in the early 1990s. 
+As per Hindu Business Line,  historical inflation in India has 
+been high due to a combination of factors: poor agricultural 
+productivity and high dependence on monsoon; commodity 
+price shocks, mainly oil prices; global business cycles and wars. 
+During the 1970s and the early 1980s, OPEC price hike and 
+inconsistent oil supply was one of the major factors that led 
+to higher inflation in India. In the 1980s and the early 1990s, 
+supply shocks (food shortages and oil price rise due to the 
+US-Iraq war) were accompanied by demand pressures of high 
+fiscal deficit in the 1980s and growing GDP in the 1990s. The 
+declining trend in inflation during 1994-95 to 2004-05 was the 
+result of structural changes in the macroeconomic framework 
+due to liberalisation. The improved supply response, improved 
+financial and real economy, better monetary policy and 
+emphasis on fiscal consolidation were instrumental in bringing 
+down the inflation.
+Keeping this in mind, the inflation rates pre-1995 may be of little 
+relevance in forecasting future inflation. The historical trends in 
+GDP deflator, during the past 15 years, are tabulated below:
+Considering that the last three years (FY10-FY12) have 
+witnessed relatively high inflation, the 10- or 15-year inflation 
+numbers (which capture both high and low inflation periods) 
+may represent a better estimate of expected future long-term 
+inflation. Based on these, the long-term inflation is estimated at 
+5.5%.
+Summing up the expected real GDP growth rate of 4.5% and the 
+expected GDP deflator based inflation rate of 5.5%, the nominal 
+GDP growth per annum is expected to be around 10%.
+Perpetual growth rate5
+Considering the long-term growth rates of developed 
+economies, the long-term sustainable real GDP growth rate 
+has been estimated at 2%. In conjunction with inflation of 
+5.5%, the long-term nominal GDP growth rate (and therefore 
+earnings and free cash flow growth rate) is estimated at 7.5%. 
+It is pertinent to note that the estimate of long-term growth 
+rate is for the economy and index as a whole, and is not likely 
+to be representative of long-term growth rates for individual 
+companies, which would depend on the industry prognosis and 
+company-specific plans.
+5. The perpetual growth rate is the expected annual growth rate to infinity. Implicitly the growth rates are expected to decline to a low growth rate as India cannot be 
+expected to grow at rates higher than those of developed economies beyond a finite period.
+Growth rates and the three-stage FCFE model
+While the Gordon Growth formula assumes a stable growth 
+rate to perpetuity, such an assumption will rarely be in sync 
+with market expectations. We have arrived at estimates of 11% 
+FCFE growth per annum for CY13 and CY14, a subsequent long-
+term growth rate of 10%, and a perpetual growth rate of 7.5%.  
+While the various real GDP growth estimates are for a period 
+till 2050, considering the high degree of uncertainty relating 
+to growth over such a long period (reflected in the differences 
+in the various estimates), it is highly unlikely that the market is 
+factoring in these estimates of real growth for such a long period 
+of time. At the same time, the market will not be anticipating 
+real growth rates as low as 2% over the next 10 to 15 years 
+either. Hence we consider a three stage FCFE growth model as 
+follows:
+• Stage 1: Growth rate of 11% during CY13 and CY14 
+• Stage 2: 10% per annum for a 15-year period from CY15  
+to CY29
+• Stage 3: 7.5% per annum thereafter. References
+• Prof Aswath Damodaran – Equity Risk Premiums 
+(ERP): Determinants, Estimation and Implications – 
+The 2012 Edition
+• Ajay Shah – Returns on equity index portfolios  
+in India
+• Rajnish Mehra – The Equity Premium in India
+• Delta Global Partners Research- Corporate Earnings 
+and GDP: The Siamese Cousins
+• MSCI Barra – Is There a Link Between GDP Growth 
+and Equity Returns?
+• HSBC Global Research – The world in 2050: 
+Quantifying the shift in the global economy ; PwC – 
+The World in 2050: The accelerating shift of global 
+economic power: challenges and opportunities ; 
+CEPII – The Long Term Growth Prospects of the World 
+Economy: Horizon 2050
+• Hindu Business Line:  Inflation over the decades  
+dated 08-06-2011Results and conclusions
+The application of the three-stage FCFE model results in an 
+implied expected market return of approximately 15.2%. It 
+is pertinent to note that the implied market return of 15.2% 
+is reflective of the expected return on the market index and 
+asset/company/sector specific risk adjustments would need to 
+considered for specific investments.
+Considering the implied expected market return of 15.2% 
+in conjunction with the expected  yield of 8.05% on 10-year 
+government securities as on 31 December 2012, the implied 
+ERP for India is around 7.2%. Considering the daily fluctuations 
+in equity market valuations as well as treasury bond yields, the 
+current ERP can be considered to be in the 7 to 7.5% range. 
+However, the golden rule to remember is that equity risk 
+premiums are dynamic and subject to constant change. 
+About PwC  
+PwC* helps organisations and individuals create the value they’re 
+looking for.  We’re a network of firms in 158 countries with more than 
+180,000 people who are committed to delivering quality in assurance, 
+tax and advisory services. 
+PwC India refers to the network of PwC firms in India, having offices 
+in: Ahmedabad, Bangalore, Chennai, Delhi NCR, Hyderabad, Kolkata, 
+Mumbai and Pune. For more information about PwC India’s service 
+offerings, please visit www.pwc.in. 
+*PwC refers to PwC India and may sometimes refer to the PwC 
+network. Each member firm is a separate legal entity. Please see www.
+pwc.com/structure for further details. 
+You can connect with us on: 
+   facebook.com/PwCIndia 
+   twitter.com/PwC_IN
+  linkedin.com/company/pwc-india
+  youtube.com/pwc
+Vishnu Giri
+Senior Manager –Valuations
+Tel: +91 (0) 80 4079 7050
+Mobile: +91 (0) 98 4569 1149
+Email: vishnu.giri@in.pwc.comContact
+www.pwc.in
+This publication does not constitute professional advice. The information in this publication has been obtained or derived from sources believed by 
+PricewaterhouseCoopers Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or 
+estimates contained in this publication represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are 
+advised to seek their own professional advice before taking any course of action or decision, for which they are entirely responsible, based on the contents of this 
+publication. PwCPL neither accepts or assumes any responsibility or liability to any reader of this publication in respect of the information contained within it or for 
+any decisions readers may take or decide not to or fail to take.
+© 2013 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability 
+company in India), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each member firm of which is a separate legal entity.
+AK18 - June 2013 Dissecting India’s Equity Risk Premium.indd
+Designed by: PwC Brand and Communications, India
