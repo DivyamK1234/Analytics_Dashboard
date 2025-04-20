@@ -3,4 +3,4 @@ streamlit
 pandas
 wordcloud
 plotly
-PIL
+Pillow
